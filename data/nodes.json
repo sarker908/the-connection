@@ -134,7 +134,7 @@
   {
     "id": "moon",
     "title": "Moon Landing",
-    "category": "History",
+    "category": "Space",
     "year": "1969",
     "type": "Historic event",
     "icon": "🌙",
@@ -242,7 +242,7 @@
   {
     "id": "climate",
     "title": "Climate Change",
-    "category": "Science",
+    "category": "Environment",
     "year": "1896",
     "type": "Global phenomenon",
     "icon": "🌍",
@@ -266,7 +266,7 @@
   {
     "id": "vaccines",
     "title": "Vaccination",
-    "category": "Science",
+    "category": "Medicine",
     "year": "1796",
     "type": "Medical innovation",
     "icon": "💉",
@@ -290,7 +290,7 @@
   {
     "id": "cervantes",
     "title": "Miguel de Cervantes",
-    "category": "Culture",
+    "category": "Arts & Literature",
     "year": "1605",
     "type": "Writer",
     "icon": "📖",
@@ -314,7 +314,7 @@
   {
     "id": "satellite",
     "title": "Artificial Satellites",
-    "category": "Technology",
+    "category": "Space",
     "year": "1957",
     "type": "Space technology",
     "icon": "🛰️",
@@ -350,7 +350,7 @@
   {
     "id": "globalization",
     "title": "Globalization",
-    "category": "Humanity",
+    "category": "Politics & Society",
     "year": "1980",
     "type": "Global process",
     "icon": "🌏",
@@ -374,7 +374,7 @@
   {
     "id": "writing",
     "title": "Writing",
-    "category": "Culture",
+    "category": "Arts & Literature",
     "year": "c. 3200 BCE",
     "type": "Communication system",
     "description": "Writing preserved laws, records, stories and knowledge beyond spoken memory.",
@@ -410,7 +410,7 @@
   {
     "id": "democracy",
     "title": "Democracy",
-    "category": "Humanity",
+    "category": "Politics & Society",
     "year": "5th century BCE",
     "type": "Political system",
     "description": "Democracy grounds political authority in the people and has roots in several ancient societies and many modern forms.",
@@ -482,7 +482,7 @@
   {
     "id": "copernicus",
     "title": "Nicolaus Copernicus",
-    "category": "Science",
+    "category": "Space",
     "year": "1543",
     "type": "Astronomer",
     "description": "Copernicus proposed a heliocentric model in which Earth and the other planets orbit the Sun.",
@@ -494,7 +494,7 @@
   {
     "id": "galileo",
     "title": "Galileo Galilei",
-    "category": "Science",
+    "category": "Space",
     "year": "1609",
     "type": "Astronomer and physicist",
     "description": "Galileo used telescopic observations and experiments to reshape astronomy and the study of motion.",
@@ -506,7 +506,7 @@
   {
     "id": "telescope",
     "title": "Telescope",
-    "category": "Technology",
+    "category": "Space",
     "year": "1608",
     "type": "Scientific instrument",
     "description": "The telescope made distant celestial objects observable in greater detail and transformed astronomy.",
@@ -518,7 +518,7 @@
   {
     "id": "microscope",
     "title": "Microscope",
-    "category": "Technology",
+    "category": "Medicine",
     "year": "c. 1590",
     "type": "Scientific instrument",
     "description": "The microscope revealed structures too small to see unaided, opening new paths in biology and medicine.",
@@ -602,7 +602,7 @@
   {
     "id": "germtheory",
     "title": "Germ Theory",
-    "category": "Science",
+    "category": "Medicine",
     "year": "19th century",
     "type": "Scientific theory",
     "description": "Germ theory explains that many diseases are caused by microorganisms, transforming hygiene, surgery and public health.",
@@ -614,7 +614,7 @@
   {
     "id": "penicillin",
     "title": "Penicillin",
-    "category": "Science",
+    "category": "Medicine",
     "year": "1928",
     "type": "Medical discovery",
     "description": "Penicillin became the first widely used antibiotic and transformed treatment of bacterial infections.",
@@ -626,7 +626,7 @@
   {
     "id": "smallpox",
     "title": "Smallpox",
-    "category": "Humanity",
+    "category": "Medicine",
     "year": "Ancient disease",
     "type": "Disease",
     "description": "A highly contagious disease that caused immense suffering; vaccination campaigns led to its global eradication in 1980.",
@@ -650,7 +650,7 @@
   {
     "id": "leonardo",
     "title": "Leonardo da Vinci",
-    "category": "Culture",
+    "category": "Arts & Literature",
     "year": "1452",
     "type": "Artist and inventor",
     "description": "Leonardo combined art, engineering and observation, exemplifying the broad curiosity associated with the Renaissance.",
@@ -662,7 +662,7 @@
   {
     "id": "algebra",
     "title": "Algebra",
-    "category": "Science",
+    "category": "Mathematics",
     "year": "9th century",
     "type": "Mathematical field",
     "description": "Algebra expresses relationships and solves problems using symbols and general rules.",
@@ -674,7 +674,7 @@
   {
     "id": "zero",
     "title": "Zero",
-    "category": "Science",
+    "category": "Mathematics",
     "year": "c. 5th century",
     "type": "Number",
     "description": "Zero as a number and positional placeholder was essential to decimal place value and modern mathematics.",
@@ -710,7 +710,7 @@
   {
     "id": "bigbang",
     "title": "Big Bang",
-    "category": "Science",
+    "category": "Space",
     "year": "c. 13.8 billion years ago",
     "type": "Cosmological model",
     "description": "The leading scientific model describes the universe expanding from an extremely hot, dense early state. It is supported by observations including cosmic expansion and the cosmic microwave background.",
@@ -722,7 +722,7 @@
   {
     "id": "hubble",
     "title": "Edwin Hubble",
-    "category": "Science",
+    "category": "Space",
     "year": "1920s",
     "type": "Astronomer",
     "description": "Hubble's observations of distant galaxies showed that the universe is expanding, transforming modern cosmology.",
@@ -770,7 +770,7 @@
   {
     "id": "xray",
     "title": "X-rays",
-    "category": "Science",
+    "category": "Medicine",
     "year": "1895",
     "type": "Scientific discovery",
     "description": "X-rays made it possible to see inside the human body without surgery and became essential to medical diagnosis and material science.",
@@ -782,7 +782,7 @@
   {
     "id": "insulin",
     "title": "Insulin",
-    "category": "Humanity",
+    "category": "Medicine",
     "year": "1921",
     "type": "Medical discovery",
     "description": "The discovery and therapeutic use of insulin transformed type 1 diabetes from a usually fatal condition into a manageable chronic disease.",
@@ -794,7 +794,7 @@
   {
     "id": "genome",
     "title": "Human Genome Project",
-    "category": "Science",
+    "category": "Medicine",
     "year": "1990",
     "type": "Research project",
     "description": "An international research effort produced a reference sequence of the human genome, accelerating genetics, biology and precision medicine.",
@@ -806,7 +806,7 @@
   {
     "id": "crispr",
     "title": "CRISPR",
-    "category": "Science",
+    "category": "Medicine",
     "year": "2012",
     "type": "Gene-editing technology",
     "description": "CRISPR-based tools made targeted genome editing more accessible and opened new possibilities and ethical questions in biology and medicine.",
@@ -842,7 +842,7 @@
   {
     "id": "printingbook",
     "title": "Gutenberg Bible",
-    "category": "Culture",
+    "category": "Arts & Literature",
     "year": "c. 1455",
     "type": "Printed book",
     "description": "Among the earliest major books printed in Europe with movable metal type, the Gutenberg Bible demonstrates the scale and craft of early printing.",
@@ -926,7 +926,7 @@
   {
     "id": "rabindranath",
     "title": "Rabindranath Tagore",
-    "category": "Culture",
+    "category": "Arts & Literature",
     "year": "1861",
     "type": "Writer and composer",
     "description": "Tagore reshaped Bengali literature and music and became the first non-European Nobel laureate in Literature in 1913.",
@@ -1010,7 +1010,7 @@
   {
     "id": "photography",
     "title": "Photography",
-    "category": "Culture",
+    "category": "Arts & Literature",
     "year": "1820s",
     "type": "Visual medium",
     "description": "Photography changed how people record events, represent identity and communicate evidence, art and memory.",
@@ -1022,7 +1022,7 @@
   {
     "id": "film",
     "title": "Cinema",
-    "category": "Culture",
+    "category": "Arts & Literature",
     "year": "1895",
     "type": "Art form",
     "description": "Moving pictures developed into a global art and entertainment medium that shapes shared stories, politics and popular culture.",
@@ -1058,7 +1058,7 @@
   {
     "id": "vaccinia",
     "title": "Edward Jenner",
-    "category": "Science",
+    "category": "Medicine",
     "year": "1796",
     "type": "Physician",
     "description": "Jenner's work using cowpox to protect against smallpox helped establish vaccination and eventually contributed to the eradication of the disease.",
@@ -1082,7 +1082,7 @@
   {
     "id": "begumrokeya",
     "title": "Begum Rokeya",
-    "category": "Culture",
+    "category": "Arts & Literature",
     "year": "1905",
     "type": "Writer and social reformer",
     "icon": "✍️",
