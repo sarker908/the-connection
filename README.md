@@ -6,7 +6,7 @@
 
 - **101 subjects**
 - **161 relationships**
-- **25 sourced historical milestones**
+- **95 sourced historical milestones**
 - **12 concise biographical profiles**
 - **12 collections:** Technology, Science, History, Geography, Culture and Humanity
 
@@ -16,7 +16,7 @@ The dataset includes global history and science alongside a deeper collection on
 
 - Editorial, magazine-inspired interface with a warm paper palette and restrained typography
 - Subject reading panels with photographs, overviews, historical milestones, people, connected subjects and references
-- A dedicated Bengal and Bangladesh chronology with filters for four historical periods
+- A world-history timeline from early human societies to the present, with period filters and a dedicated Bengal and Bangladesh strand
 - Biographical profiles for selected figures connected to the timeline
 - A visual collection browser with 12 illustrated subject collections
 - Search across titles, descriptions, categories and subject types
@@ -28,7 +28,7 @@ The dataset includes global history and science alongside a deeper collection on
 
 ## Sources and editorial approach
 
-The historical chronology and biographies in `data/history.json` are editorial paraphrases based on the linked references. The collection prioritises Banglapedia, the UNESCO World Heritage Centre, the University of Dhaka and institutional historical publications. Wikipedia is used as a discovery and further-reading source where appropriate, not as the sole authority for the curated chronology.
+The historical chronology and biographies in `data/history.json` are editorial paraphrases based on linked references. World-history entries draw on OpenStax World History, the Council on Foreign Relations, UNESCO, the United Nations, NASA, national archives and other institutional publications. Bengal and Bangladesh entries draw on Banglapedia, UNESCO, the University of Dhaka and institutional historical publications. Wikipedia is used as a discovery and further-reading source where appropriate, not as the sole authority for the curated chronology.
 
 Approximate dates are marked with `c.` or a period range. Some dates and periodisations differ across historians; where the evidence does not support a precise date, the interface preserves an approximate range rather than implying false certainty. Every historical event and biographical profile links to its reference.
 
