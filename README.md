@@ -40,7 +40,7 @@ This is a growing, selective collection, not a claim to represent every relation
 
 ## Source register and verification
 
-`data/sources.json` is the central source-link registry. Each record has a stable ID, title, publisher, URL, role and the subject IDs it supports. Repeated URLs are stored once and linked to multiple relevant subjects where applicable. The registry currently contains 317 records, combining encyclopedia entries with academic or educational resources and institutional or official publications. See each record for its source type and linked subjects. These labels describe source type, not a quality score.
+`data/sources.json` is the central source-link registry. Each record has a stable ID, title, publisher, URL, role and the subject IDs it supports. Repeated URLs are stored once and linked to multiple relevant subjects where applicable. The registry currently contains 317 records: 255 encyclopedia entries, 14 academic or educational resources, and 48 institutional or official publications. Some records support timeline or biographical entries rather than a subject page, so their topic ID list is intentionally empty. These labels describe source type, not a quality score.
 
 The registry is a provenance layer, not an automatic credibility score. A link being present does not mean every claim has been independently audited. Wikipedia is labelled as a general reference and discovery starting point. Subject-specific research should progressively add primary documents, peer-reviewed work and specialist institutional publications, especially for technical, disputed or sensitive claims. Historical and biographical links are retained as references to the corresponding archive entries.
 
