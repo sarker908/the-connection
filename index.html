@@ -9,7 +9,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:ital,wght@0,500;0,600;0,700;1,500;1,600&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="assets/css/style.css?v=12">
+  <link rel="stylesheet" href="assets/css/style.css?v=13">
 </head>
 <body>
   <header class="masthead">
@@ -38,6 +38,26 @@
     </section>
 
     <section class="intro-strip"><p>LOOK CLOSER.<br><strong>SEE THE BIGGER PICTURE.</strong></p><p>History, science, culture and technology are not separate stories. They are threads in one much bigger human story.</p></section>
+
+    <section class="daily-section" id="daily">
+      <div class="daily-heading"><div><p class="kicker">A SMALL DOOR INTO A BIGGER STORY</p><h2>Something worth <em>following.</em></h2></div><span class="daily-date" id="dailyDate">TODAY'S FIELD NOTES</span></div>
+      <div class="daily-feature-grid">
+        <button class="daily-topic-card" id="dailyTopicCard" type="button">
+          <span class="daily-card-image" id="dailyTopicImage"></span>
+          <span class="daily-card-copy"><small>01 / TODAY'S DISCOVERY</small><strong id="dailyTopicTitle">A subject to discover</strong><span id="dailyTopicSummary">One idea can open an unexpected door.</span><b>Read the field note ↗</b></span>
+        </button>
+        <div class="daily-connection-card">
+          <p class="daily-connection-label">02 / AN UNEXPECTED CONNECTION</p>
+          <div class="daily-pair">
+            <button class="daily-pair-subject" id="dailyFromButton" type="button"><span class="daily-pair-image" id="dailyFromImage"></span><strong id="dailyFromTitle">One subject</strong></button>
+            <span class="daily-pair-mark">×</span>
+            <button class="daily-pair-subject" id="dailyToButton" type="button"><span class="daily-pair-image" id="dailyToImage"></span><strong id="dailyToTitle">Another subject</strong></button>
+          </div>
+          <p class="daily-relationship" id="dailyRelationship">A connection waiting to be explored.</p>
+          <button class="daily-text-link" id="dailyConnectionExplore" type="button">Follow the connection ↗</button>
+        </div>
+      </div>
+    </section>
 
     <section class="journeys-section" id="journeys"><div class="section-top"><div><p class="kicker">CURATED READING PATHS</p><h2>Follow a <em>thread.</em></h2><p class="section-deck">Start with one idea. Follow the people, inventions and turning points that lead somewhere unexpected.</p></div></div><div class="journey-grid" id="journeyGrid"></div><div class="journey-detail" id="journeyDetail" aria-live="polite"></div></section>
     <section class="editorial-section" id="stories">
@@ -68,6 +88,6 @@
   <div class="search-overlay" id="searchOverlay"><div class="search-dialog"><div class="search-row"><span>⌕</span><input id="globalSearch" placeholder="Search a person, place, idea or invention…" autocomplete="off"><kbd>ESC</kbd><button id="searchClose" aria-label="Close search">×</button></div><div id="searchResults" class="search-results"><p>Try “printing press”, “Buddhism” or “Alan Turing”.</p></div></div></div>
   <aside class="detail-panel" id="detailPanel"><button class="detail-close" id="closeDetail" aria-label="Close details">×</button><div id="detailContent"></div></aside>
   <div class="toast" id="toast"></div>
-  <script src="assets/js/app.js?v=12"></script>
+  <script src="assets/js/app.js?v=13"></script>
 </body>
 </html>
