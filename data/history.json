@@ -1,7 +1,42 @@
 {
   "updated": "2026-11-27",
-  "method": "Editorial summaries compiled from Banglapedia, UNESCO World Heritage Centre, University of Dhaka, and other cited institutional references. Dates marked c. are approximate; broad period labels are not exact event dates.",
+  "method": "A growing, selective world-history chronology with a dedicated Bengal and Bangladesh strand. Editorial summaries are paraphrases linked to OpenStax World History, Council on Foreign Relations, UNESCO, United Nations, NASA, national archives and other institutional references. Dates marked c. or shown as ranges are approximate; this is not an exhaustive record of every historical event.",
   "eras": [
+    {
+      "id": "prehistory",
+      "label": "Human origins & prehistory",
+      "range": "Before c. 3500 BCE"
+    },
+    {
+      "id": "ancient",
+      "label": "Early civilisations",
+      "range": "c. 3500–1000 BCE"
+    },
+    {
+      "id": "classical",
+      "label": "Classical world",
+      "range": "c. 1000 BCE–500 CE"
+    },
+    {
+      "id": "postclassical",
+      "label": "Post-classical world",
+      "range": "500–1450"
+    },
+    {
+      "id": "earlymodern",
+      "label": "Early modern world",
+      "range": "1450–1800"
+    },
+    {
+      "id": "modernworld",
+      "label": "Modern transformations",
+      "range": "1800–1945"
+    },
+    {
+      "id": "contemporary",
+      "label": "Contemporary world",
+      "range": "1945–present"
+    },
     {
       "id": "early",
       "label": "Early Bengal",
@@ -25,6 +60,249 @@
   ],
   "events": [
     {
+      "date": "c. 10,000 BCE",
+      "sort": -10000,
+      "era": "prehistory",
+      "title": "Agriculture begins to transform human societies",
+      "summary": "In several regions, people increasingly cultivated plants and managed animals. These changes supported settled communities, food surpluses and eventually larger societies.",
+      "source": "OpenStax · World History",
+      "url": "https://openstax.org/books/world-history-volume-1/pages/b-world-history-volume-1-to-1500-maps-and-timelines"
+    },
+    {
+      "date": "c. 3500 BCE",
+      "sort": -3500,
+      "era": "ancient",
+      "title": "Sumerian cities grow in Mesopotamia",
+      "summary": "Urban centres such as Uruk expanded in southern Mesopotamia, supported by irrigation, specialised labour, trade and increasingly complex administration.",
+      "source": "OpenStax · World History",
+      "url": "https://openstax.org/books/world-history-volume-1/pages/b-world-history-volume-1-to-1500-maps-and-timelines"
+    },
+    {
+      "date": "c. 3200 BCE",
+      "sort": -3200,
+      "era": "ancient",
+      "title": "Writing develops in Mesopotamia",
+      "summary": "Early cuneiform records helped communities track goods, labour and administration. Writing later became a tool for literature, law and historical memory.",
+      "source": "OpenStax · World History",
+      "url": "https://openstax.org/books/world-history-volume-1/pages/b-world-history-volume-1-to-1500-maps-and-timelines"
+    },
+    {
+      "date": "c. 3100 BCE",
+      "sort": -3100,
+      "era": "ancient",
+      "title": "Political unification of ancient Egypt",
+      "summary": "The unification of Upper and Lower Egypt is traditionally associated with the beginning of the first dynastic period and a long tradition of pharaonic rule.",
+      "source": "OpenStax · World History",
+      "url": "https://openstax.org/books/world-history-volume-1/pages/b-world-history-volume-1-to-1500-maps-and-timelines"
+    },
+    {
+      "date": "c. 2600–1900 BCE",
+      "sort": -2600,
+      "era": "ancient",
+      "title": "Indus Valley cities flourish",
+      "summary": "Harappa and Mohenjo-daro became major urban centres, known for planned streets, drainage systems, craft production and long-distance trade.",
+      "source": "OpenStax · World History",
+      "url": "https://openstax.org/books/world-history-volume-1/pages/b-world-history-volume-1-to-1500-maps-and-timelines"
+    },
+    {
+      "date": "c. 2550 BCE",
+      "sort": -2550,
+      "era": "ancient",
+      "title": "Great Pyramid of Giza is built",
+      "summary": "The pyramid built for Pharaoh Khufu became the largest monument of the Giza pyramid complex and one of the most enduring achievements of ancient engineering.",
+      "source": "UNESCO · Memphis and its Necropolis",
+      "url": "https://whc.unesco.org/en/list/86/"
+    },
+    {
+      "date": "c. 1750 BCE",
+      "sort": -1750,
+      "era": "ancient",
+      "title": "Hammurabi's law code is issued",
+      "summary": "The Babylonian king Hammurabi's law collection records rules and penalties covering social, economic and family life in his kingdom.",
+      "source": "OpenStax · World History",
+      "url": "https://openstax.org/books/world-history-volume-1/pages/b-world-history-volume-1-to-1500-maps-and-timelines"
+    },
+    {
+      "date": "c. 1600 BCE",
+      "sort": -1600,
+      "era": "ancient",
+      "title": "Shang dynasty rules in northern China",
+      "summary": "The Shang period is associated with early Chinese writing on oracle bones, bronze craftsmanship and the growth of organised states.",
+      "source": "OpenStax · World History",
+      "url": "https://openstax.org/books/world-history-volume-1/pages/b-world-history-volume-1-to-1500-maps-and-timelines"
+    },
+    {
+      "date": "c. 1200 BCE",
+      "sort": -1200,
+      "era": "ancient",
+      "title": "Late Bronze Age systems collapse across the eastern Mediterranean",
+      "summary": "Several major palace societies and trade networks experienced disruption. The causes differed by region and remain a subject of historical debate.",
+      "source": "OpenStax · World History",
+      "url": "https://openstax.org/books/world-history-volume-1/pages/b-world-history-volume-1-to-1500-maps-and-timelines"
+    },
+    {
+      "date": "c. 1046 BCE",
+      "sort": -1046,
+      "era": "classical",
+      "title": "Zhou dynasty replaces Shang rule in China",
+      "summary": "The Zhou established a long-lasting political order and developed ideas about legitimate rule, including the Mandate of Heaven.",
+      "source": "OpenStax · World History",
+      "url": "https://openstax.org/books/world-history-volume-1/pages/b-world-history-volume-1-to-1500-maps-and-timelines"
+    },
+    {
+      "date": "776 BCE",
+      "sort": -776,
+      "era": "classical",
+      "title": "First recorded ancient Olympic Games",
+      "summary": "The earliest recorded Olympic festival took place at Olympia in Greece. Athletic contests later became a major shared institution of the Greek world.",
+      "source": "OpenStax · World History",
+      "url": "https://openstax.org/books/world-history-volume-1/pages/b-world-history-volume-1-to-1500-maps-and-timelines"
+    },
+    {
+      "date": "c. 6th–5th century BCE",
+      "sort": -550,
+      "era": "classical",
+      "title": "Confucius teaches in China",
+      "summary": "Confucius' teachings on ethics, learning, social relationships and responsible government became foundational to later Chinese intellectual and political traditions.",
+      "source": "OpenStax · World History",
+      "url": "https://openstax.org/books/world-history-volume-1/pages/b-world-history-volume-1-to-1500-maps-and-timelines"
+    },
+    {
+      "date": "550 BCE",
+      "sort": -550,
+      "era": "classical",
+      "title": "Achaemenid Persian Empire is founded",
+      "summary": "Cyrus the Great established an empire that connected a vast territory from western Asia to parts of Central Asia and the eastern Mediterranean.",
+      "source": "OpenStax · World History",
+      "url": "https://openstax.org/books/world-history-volume-1/pages/b-world-history-volume-1-to-1500-maps-and-timelines"
+    },
+    {
+      "date": "509 BCE",
+      "sort": -509,
+      "era": "classical",
+      "title": "Roman Republic begins",
+      "summary": "According to Roman tradition, the monarchy was replaced by a republic. Roman institutions and expansion would shape the Mediterranean world for centuries.",
+      "source": "OpenStax · World History",
+      "url": "https://openstax.org/books/world-history-volume-1/pages/b-world-history-volume-1-to-1500-maps-and-timelines"
+    },
+    {
+      "date": "508/507 BCE",
+      "sort": -507,
+      "era": "classical",
+      "title": "Athenian democratic reforms",
+      "summary": "Reforms associated with Cleisthenes reorganised political participation among male citizens in Athens, becoming an influential early experiment in democracy.",
+      "source": "OpenStax · World History",
+      "url": "https://openstax.org/books/world-history-volume-1/pages/b-world-history-volume-1-to-1500-maps-and-timelines"
+    },
+    {
+      "date": "c. 5th century BCE",
+      "sort": -450,
+      "era": "classical",
+      "title": "Buddha's teachings take shape in South Asia",
+      "summary": "The teachings associated with Siddhartha Gautama emerged in the religious and philosophical world of ancient northern India and later spread across Asia.",
+      "source": "OpenStax · World History",
+      "url": "https://openstax.org/books/world-history-volume-1/pages/b-world-history-volume-1-to-1500-maps-and-timelines"
+    },
+    {
+      "date": "322 BCE",
+      "sort": -322,
+      "era": "classical",
+      "title": "Mauryan Empire rises in India",
+      "summary": "Chandragupta Maurya established an empire across much of the Indian subcontinent, creating one of ancient South Asia's largest states.",
+      "source": "OpenStax · World History",
+      "url": "https://openstax.org/books/world-history-volume-1/pages/b-world-history-volume-1-to-1500-maps-and-timelines"
+    },
+    {
+      "date": "3rd century BCE",
+      "sort": -250,
+      "era": "classical",
+      "title": "Ashoka promotes Buddhist teachings",
+      "summary": "After the Kalinga war, Mauryan emperor Ashoka supported policies associated with dhamma and helped Buddhism gain wider influence across South Asia.",
+      "source": "OpenStax · World History",
+      "url": "https://openstax.org/books/world-history-volume-1/pages/b-world-history-volume-1-to-1500-maps-and-timelines"
+    },
+    {
+      "date": "221 BCE",
+      "sort": -221,
+      "era": "classical",
+      "title": "Qin unifies China",
+      "summary": "Qin Shi Huang conquered rival states and established the first unified imperial dynasty, standardising important systems of administration, writing and measurement.",
+      "source": "OpenStax · World History",
+      "url": "https://openstax.org/books/world-history-volume-1/pages/b-world-history-volume-1-to-1500-maps-and-timelines"
+    },
+    {
+      "date": "27 BCE",
+      "sort": -27,
+      "era": "classical",
+      "title": "Roman Empire begins",
+      "summary": "Octavian became Augustus, marking the transition from the Roman Republic to imperial rule and a new political order around the Mediterranean.",
+      "source": "OpenStax · World History",
+      "url": "https://openstax.org/books/world-history-volume-1/pages/b-world-history-volume-1-to-1500-maps-and-timelines"
+    },
+    {
+      "date": "1st century CE",
+      "sort": 50,
+      "era": "classical",
+      "title": "Christianity emerges in the Roman world",
+      "summary": "The movement formed around the life and teachings of Jesus spread through communities in the eastern Mediterranean and eventually across the Roman Empire.",
+      "source": "OpenStax · World History",
+      "url": "https://openstax.org/books/world-history-volume-1/pages/b-world-history-volume-1-to-1500-maps-and-timelines"
+    },
+    {
+      "date": "1st–2nd century CE",
+      "sort": 100,
+      "era": "classical",
+      "title": "Silk Roads connect Eurasian regions",
+      "summary": "A network of land and sea routes moved goods, technologies, religions and ideas between East Asia, Central Asia, South Asia, the Middle East and Europe.",
+      "source": "OpenStax · World History",
+      "url": "https://openstax.org/books/world-history-volume-1/pages/b-world-history-volume-1-to-1500-maps-and-timelines"
+    },
+    {
+      "date": "320 CE",
+      "sort": 320,
+      "era": "classical",
+      "title": "Gupta Empire rises in northern India",
+      "summary": "The Gupta rulers established a major North Indian empire associated with developments in mathematics, literature, art and political culture.",
+      "source": "OpenStax · World History",
+      "url": "https://openstax.org/books/world-history-volume-1/pages/b-world-history-volume-1-to-1500-maps-and-timelines"
+    },
+    {
+      "date": "476 CE",
+      "sort": 476,
+      "era": "classical",
+      "title": "Western Roman imperial rule ends",
+      "summary": "The deposition of the last western Roman emperor is conventionally used as a marker for the end of the Western Roman Empire, though Roman institutions continued in the east.",
+      "source": "OpenStax · World History",
+      "url": "https://openstax.org/books/world-history-volume-1/pages/b-world-history-volume-1-to-1500-maps-and-timelines"
+    },
+    {
+      "date": "c. 610 CE",
+      "sort": 610,
+      "era": "postclassical",
+      "title": "Muhammad's first revelations begin in Islam's tradition",
+      "summary": "The beginnings of Islam are traditionally dated to the early seventh century in western Arabia, where a new religious community took shape.",
+      "source": "OpenStax · World History",
+      "url": "https://openstax.org/books/world-history-volume-1/pages/b-world-history-volume-1-to-1500-maps-and-timelines"
+    },
+    {
+      "date": "618 CE",
+      "sort": 618,
+      "era": "postclassical",
+      "title": "Tang dynasty begins in China",
+      "summary": "The Tang era became a major period of Chinese imperial power, urban culture, international exchange and literary achievement.",
+      "source": "OpenStax · World History",
+      "url": "https://openstax.org/books/world-history-volume-1/pages/b-world-history-volume-1-to-1500-maps-and-timelines"
+    },
+    {
+      "date": "622 CE",
+      "sort": 622,
+      "era": "postclassical",
+      "title": "Hijra marks the beginning of the Islamic calendar",
+      "summary": "Muhammad and his followers migrated from Mecca to Medina. The migration became a turning point in the formation of the early Muslim community.",
+      "source": "OpenStax · World History",
+      "url": "https://openstax.org/books/world-history-volume-1/pages/b-world-history-volume-1-to-1500-maps-and-timelines"
+    },
+    {
       "date": "c. 750",
       "sort": 750,
       "era": "early",
@@ -33,6 +311,15 @@
       "topicId": "pala",
       "source": "Banglapedia · Pala Rule",
       "url": "https://en.banglapedia.org/index.php?title=Pala_Rule"
+    },
+    {
+      "date": "c. 750–1258",
+      "sort": 750,
+      "era": "postclassical",
+      "title": "Abbasid Caliphate becomes a major centre of scholarship",
+      "summary": "The Abbasid era supported important intellectual networks in cities including Baghdad, where scholars translated, debated and developed works in mathematics, medicine, astronomy and philosophy.",
+      "source": "OpenStax · World History",
+      "url": "https://openstax.org/books/world-history-volume-1/pages/b-world-history-volume-1-to-1500-maps-and-timelines"
     },
     {
       "date": "c. 781–821",
@@ -55,6 +342,42 @@
       "url": "https://whc.unesco.org/en/list/322"
     },
     {
+      "date": "c. 8th–13th century",
+      "sort": 800,
+      "era": "postclassical",
+      "title": "Ghana and later West African empires flourish",
+      "summary": "Trans-Saharan trade helped support powerful states in West Africa, linking gold-producing regions with North African and wider commercial networks.",
+      "source": "OpenStax · World History",
+      "url": "https://openstax.org/books/world-history-volume-1/pages/b-world-history-volume-1-to-1500-maps-and-timelines"
+    },
+    {
+      "date": "802 CE",
+      "sort": 802,
+      "era": "postclassical",
+      "title": "Khmer Empire is established",
+      "summary": "The political formation associated with Jayavarman II laid foundations for the Khmer Empire, whose rulers built the Angkor complex in present-day Cambodia.",
+      "source": "UNESCO · Angkor",
+      "url": "https://whc.unesco.org/en/list/668/"
+    },
+    {
+      "date": "960 CE",
+      "sort": 960,
+      "era": "postclassical",
+      "title": "Song dynasty reunifies much of China",
+      "summary": "The Song period saw major developments in commerce, printing, urban life, technology and state administration.",
+      "source": "OpenStax · World History",
+      "url": "https://openstax.org/books/world-history-volume-1/pages/b-world-history-volume-1-to-1500-maps-and-timelines"
+    },
+    {
+      "date": "1096 CE",
+      "sort": 1096,
+      "era": "postclassical",
+      "title": "First Crusade begins",
+      "summary": "A western European military expedition set out for the eastern Mediterranean, beginning a series of crusading campaigns with lasting effects across the region.",
+      "source": "OpenStax · World History",
+      "url": "https://openstax.org/books/world-history-volume-1/pages/b-world-history-volume-1-to-1500-maps-and-timelines"
+    },
+    {
       "date": "12th century",
       "sort": 1150,
       "era": "early",
@@ -75,6 +398,33 @@
       "url": "https://duap.du.ac.bd/upload/download/Honours_Syllabus_2010-2011.pdf"
     },
     {
+      "date": "1206 CE",
+      "sort": 1206,
+      "era": "postclassical",
+      "title": "Mongol Empire is proclaimed",
+      "summary": "Temujin was recognised as Chinggis Khan, beginning the expansion of a steppe empire that would connect large parts of Eurasia through conquest and exchange.",
+      "source": "OpenStax · World History",
+      "url": "https://openstax.org/books/world-history-volume-1/pages/b-world-history-volume-1-to-1500-maps-and-timelines"
+    },
+    {
+      "date": "1215 CE",
+      "sort": 1215,
+      "era": "postclassical",
+      "title": "Magna Carta is sealed in England",
+      "summary": "King John agreed to a charter that placed certain limits on royal authority. Its later interpretations influenced constitutional and legal traditions.",
+      "source": "UK National Archives · Magna Carta",
+      "url": "https://www.nationalarchives.gov.uk/education/resources/magna-carta/"
+    },
+    {
+      "date": "1235 CE",
+      "sort": 1235,
+      "era": "postclassical",
+      "title": "Mali Empire rises in West Africa",
+      "summary": "The state associated with Sundiata Keita grew into a major power controlling important gold and trade routes across the western Sahel.",
+      "source": "OpenStax · World History",
+      "url": "https://openstax.org/books/world-history-volume-1/pages/b-world-history-volume-1-to-1500-maps-and-timelines"
+    },
+    {
       "date": "1342",
       "sort": 1342,
       "era": "medieval",
@@ -83,6 +433,60 @@
       "topicId": "bengalregion",
       "source": "Banglapedia · Iliyas Shah",
       "url": "https://en.banglapedia.org/index.php?title=Iliyas_Shah"
+    },
+    {
+      "date": "c. 1347–1351",
+      "sort": 1347,
+      "era": "postclassical",
+      "title": "Black Death devastates parts of Afro-Eurasia",
+      "summary": "The plague spread through trade and travel networks, causing catastrophic mortality and profound economic and social change across many regions.",
+      "source": "OpenStax · World History",
+      "url": "https://openstax.org/books/world-history-volume-1/pages/b-world-history-volume-1-to-1500-maps-and-timelines"
+    },
+    {
+      "date": "c. 1450 CE",
+      "sort": 1450,
+      "era": "earlymodern",
+      "title": "Movable-type printing transforms European book production",
+      "summary": "Johannes Gutenberg's printing innovations helped make books and printed texts easier to reproduce in Europe, accelerating the circulation of ideas.",
+      "source": "CFR · Essential Events Before 1900",
+      "url": "https://www.cfr.org/education/learn/timelines/essential-events-1900"
+    },
+    {
+      "date": "1453 CE",
+      "sort": 1453,
+      "era": "postclassical",
+      "title": "Ottoman conquest of Constantinople",
+      "summary": "The city fell to Ottoman forces under Mehmed II, ending the Byzantine Empire and establishing a new centre of Ottoman power.",
+      "source": "OpenStax · World History",
+      "url": "https://openstax.org/books/world-history-volume-1/pages/b-world-history-volume-1-to-1500-maps-and-timelines"
+    },
+    {
+      "date": "1492 CE",
+      "sort": 1492,
+      "era": "earlymodern",
+      "title": "Columbus reaches the Caribbean",
+      "summary": "The voyage initiated sustained contact between Europe and the Americas, followed by conquest, colonisation, forced migration and major biological and economic exchanges.",
+      "source": "CFR · Essential Events Before 1900",
+      "url": "https://www.cfr.org/education/learn/timelines/essential-events-1900"
+    },
+    {
+      "date": "1517 CE",
+      "sort": 1517,
+      "era": "earlymodern",
+      "title": "Protestant Reformation begins",
+      "summary": "Martin Luther's challenge to church practices helped trigger religious and political changes across Europe, reshaping Christianity and state power.",
+      "source": "CFR · Essential Events Before 1900",
+      "url": "https://www.cfr.org/education/learn/timelines/essential-events-1900"
+    },
+    {
+      "date": "1526 CE",
+      "sort": 1526,
+      "era": "earlymodern",
+      "title": "Mughal Empire is founded in India",
+      "summary": "Babur's victory at Panipat established Mughal rule in northern India, beginning an empire that would profoundly influence South Asian politics, architecture and culture.",
+      "source": "OpenStax · World History",
+      "url": "https://openstax.org/books/world-history-volume-1/pages/b-world-history-volume-1-to-1500-maps-and-timelines"
     },
     {
       "date": "1576",
@@ -95,6 +499,24 @@
       "url": "https://www.marines.mil/Portals/1/Publications/Bangladesh%20Study_1.pdf"
     },
     {
+      "date": "1600 CE",
+      "sort": 1600,
+      "era": "earlymodern",
+      "title": "Scientific Revolution reshapes European inquiry",
+      "summary": "New methods of observation, experiment and mathematical reasoning transformed the study of nature, with developments taking place across a wider global history of knowledge.",
+      "source": "OpenStax · World History",
+      "url": "https://openstax.org/books/world-history-volume-1/pages/b-world-history-volume-1-to-1500-maps-and-timelines"
+    },
+    {
+      "date": "1602 CE",
+      "sort": 1602,
+      "era": "earlymodern",
+      "title": "Dutch East India Company is founded",
+      "summary": "The VOC became a powerful chartered trading company, illustrating the growing role of corporate and state-backed maritime empires in global commerce.",
+      "source": "CFR · Essential Events Before 1900",
+      "url": "https://www.cfr.org/education/learn/timelines/essential-events-1900"
+    },
+    {
       "date": "1610s",
       "sort": 1610,
       "era": "medieval",
@@ -103,6 +525,15 @@
       "topicId": "dhaka",
       "source": "Bangladesh: A Country Study · Federal Research Division",
       "url": "https://www.marines.mil/Portals/1/Publications/Bangladesh%20Study_1.pdf"
+    },
+    {
+      "date": "1687 CE",
+      "sort": 1687,
+      "era": "earlymodern",
+      "title": "Newton publishes Principia",
+      "summary": "Isaac Newton's work set out influential laws of motion and universal gravitation, becoming a landmark in the history of physics and mathematical science.",
+      "source": "OpenStax · World History",
+      "url": "https://openstax.org/books/world-history-volume-1/pages/b-world-history-volume-1-to-1500-maps-and-timelines"
     },
     {
       "date": "23 June 1757",
@@ -115,6 +546,15 @@
       "url": "https://en.banglapedia.org/index.php?title=Palashi%2C_The_Battle_of"
     },
     {
+      "date": "1760s–1840s",
+      "sort": 1760,
+      "era": "modernworld",
+      "title": "Industrial Revolution transforms production",
+      "summary": "Mechanisation, new energy systems, factories and transport reshaped economies and societies, first in Britain and then across many parts of the world.",
+      "source": "OpenStax · World History",
+      "url": "https://openstax.org/books/world-history-volume-1/pages/b-world-history-volume-1-to-1500-maps-and-timelines"
+    },
+    {
       "date": "1765",
       "sort": 1765,
       "era": "colonial",
@@ -125,6 +565,33 @@
       "url": "https://www.marines.mil/Portals/1/Publications/Bangladesh%20Study_1.pdf"
     },
     {
+      "date": "1776 CE",
+      "sort": 1776,
+      "era": "modernworld",
+      "title": "American Declaration of Independence",
+      "summary": "Thirteen British colonies declared themselves independent, launching a revolutionary conflict that led to the creation of the United States.",
+      "source": "CFR · Essential Events Before 1900",
+      "url": "https://www.cfr.org/education/learn/timelines/essential-events-1900"
+    },
+    {
+      "date": "1789 CE",
+      "sort": 1789,
+      "era": "modernworld",
+      "title": "French Revolution begins",
+      "summary": "The revolution challenged the monarchy and old social order in France, spreading new debates about citizenship, rights, sovereignty and political authority.",
+      "source": "CFR · Essential Events Before 1900",
+      "url": "https://www.cfr.org/education/learn/timelines/essential-events-1900"
+    },
+    {
+      "date": "1791–1804",
+      "sort": 1791,
+      "era": "modernworld",
+      "title": "Haitian Revolution creates an independent state",
+      "summary": "Enslaved and free people of colour fought French colonial rule. Haiti became independent in 1804, making the revolution a landmark in the history of slavery and emancipation.",
+      "source": "CFR · Essential Events Before 1900",
+      "url": "https://www.cfr.org/education/learn/timelines/essential-events-1900"
+    },
+    {
       "date": "1793",
       "sort": 1793,
       "era": "colonial",
@@ -133,6 +600,42 @@
       "topicId": "permanentsettlement",
       "source": "Banglapedia · Permanent Settlement",
       "url": "https://en.banglapedia.org/index.php?title=Permanent_Settlement%2C_The"
+    },
+    {
+      "date": "1807 CE",
+      "sort": 1807,
+      "era": "modernworld",
+      "title": "Britain abolishes its transatlantic slave trade",
+      "summary": "The British Parliament outlawed the British slave trade, though slavery itself continued in the empire until later abolition and the wider Atlantic system persisted elsewhere.",
+      "source": "UK Parliament · Slavery and the British Parliament",
+      "url": "https://www.parliament.uk/about/living-heritage/transformingsociety/tradeindustry/imperialism/overview/slavetrade/"
+    },
+    {
+      "date": "1857 CE",
+      "sort": 1857,
+      "era": "modernworld",
+      "title": "Indian Rebellion challenges East India Company rule",
+      "summary": "A major uprising involving soldiers, rulers and civilians challenged Company authority. Its suppression led to the transfer of governance to the British Crown in 1858.",
+      "source": "CFR · Essential Events Before 1900",
+      "url": "https://www.cfr.org/education/learn/timelines/essential-events-1900"
+    },
+    {
+      "date": "1868 CE",
+      "sort": 1868,
+      "era": "modernworld",
+      "title": "Meiji Restoration transforms Japan",
+      "summary": "Political change restored imperial rule and initiated rapid state-led reforms in administration, industry, education and the military.",
+      "source": "OpenStax · World History",
+      "url": "https://openstax.org/books/world-history-volume-1/pages/b-world-history-volume-1-to-1500-maps-and-timelines"
+    },
+    {
+      "date": "1884–1885",
+      "sort": 1884,
+      "era": "modernworld",
+      "title": "Berlin Conference formalises rules for European claims in Africa",
+      "summary": "European powers negotiated rules for colonial claims during the Scramble for Africa without African representation, accelerating imperial partition and occupation.",
+      "source": "CFR · Essential Events Before 1900",
+      "url": "https://www.cfr.org/education/learn/timelines/essential-events-1900"
     },
     {
       "date": "16 October 1905",
@@ -165,6 +668,33 @@
       "url": "https://en.banglapedia.org/index.php?title=Annulment_of_Bengal_Partition"
     },
     {
+      "date": "1914 CE",
+      "sort": 1914,
+      "era": "modernworld",
+      "title": "First World War begins",
+      "summary": "The assassination of Archduke Franz Ferdinand triggered a crisis that escalated into a global war involving European empires and societies across several continents.",
+      "source": "CFR · Essential Events Since 1945",
+      "url": "https://www.cfr.org/education/learn/timelines/essential-events-1945"
+    },
+    {
+      "date": "1917 CE",
+      "sort": 1917,
+      "era": "modernworld",
+      "title": "Russian Revolution brings Bolsheviks to power",
+      "summary": "Revolutionary upheaval ended the Russian monarchy and later brought the Bolsheviks to power, leading to the creation of the Soviet state.",
+      "source": "OpenStax · World History",
+      "url": "https://openstax.org/books/world-history-volume-1/pages/b-world-history-volume-1-to-1500-maps-and-timelines"
+    },
+    {
+      "date": "1918 CE",
+      "sort": 1918,
+      "era": "modernworld",
+      "title": "Armistice ends the fighting in the First World War",
+      "summary": "The armistice of 11 November halted fighting on the Western Front. Peace settlements and political upheavals continued to reshape the post-war world.",
+      "source": "CFR · Essential Events Since 1945",
+      "url": "https://www.cfr.org/education/learn/timelines/essential-events-1945"
+    },
+    {
       "date": "1 July 1921",
       "sort": 1921,
       "era": "colonial",
@@ -173,6 +703,24 @@
       "topicId": "dhakauniversity",
       "source": "University of Dhaka · Historical Outline",
       "url": "https://www.du.ac.bd/index.php/university/HistoricalOutline"
+    },
+    {
+      "date": "1929 CE",
+      "sort": 1929,
+      "era": "modernworld",
+      "title": "Great Depression begins",
+      "summary": "A financial collapse in the United States developed into a worldwide economic crisis, bringing mass unemployment, social hardship and political instability.",
+      "source": "CFR · Essential Events Since 1945",
+      "url": "https://www.cfr.org/education/learn/timelines/essential-events-1945"
+    },
+    {
+      "date": "1939 CE",
+      "sort": 1939,
+      "era": "modernworld",
+      "title": "Second World War begins in Europe",
+      "summary": "Germany's invasion of Poland led Britain and France to declare war. The conflict expanded into a global war that caused unprecedented destruction and genocide.",
+      "source": "CFR · Essential Events Since 1945",
+      "url": "https://www.cfr.org/education/learn/timelines/essential-events-1945"
     },
     {
       "date": "1943",
@@ -185,6 +733,24 @@
       "url": "https://en.banglapedia.org/index.php?title=Famine%2C_1943"
     },
     {
+      "date": "1945 CE",
+      "sort": 1945,
+      "era": "contemporary",
+      "title": "United Nations is founded",
+      "summary": "Representatives of 50 countries signed the UN Charter in San Francisco in June 1945. The organisation formally came into existence in October.",
+      "source": "United Nations · History of the UN",
+      "url": "https://www.un.org/en/about-us/history-of-the-un"
+    },
+    {
+      "date": "1945 CE",
+      "sort": 1945.5,
+      "era": "contemporary",
+      "title": "Second World War ends",
+      "summary": "The war ended in Europe in May and in the Pacific in September 1945, after the defeat of the Axis powers and the atomic bombings of Hiroshima and Nagasaki.",
+      "source": "CFR · Essential Events Since 1945",
+      "url": "https://www.cfr.org/education/learn/timelines/essential-events-1945"
+    },
+    {
       "date": "14–15 August 1947",
       "sort": 1947,
       "era": "modern",
@@ -193,6 +759,24 @@
       "topicId": "bengalregion",
       "source": "Bangladesh: A Country Study · Federal Research Division",
       "url": "https://www.marines.mil/Portals/1/Publications/Bangladesh%20Study_1.pdf"
+    },
+    {
+      "date": "1948 CE",
+      "sort": 1948,
+      "era": "contemporary",
+      "title": "Universal Declaration of Human Rights is adopted",
+      "summary": "The UN General Assembly adopted the declaration, setting out a common statement of fundamental rights and freedoms.",
+      "source": "United Nations · Universal Declaration of Human Rights",
+      "url": "https://www.un.org/en/about-us/universal-declaration-of-human-rights"
+    },
+    {
+      "date": "1949 CE",
+      "sort": 1949,
+      "era": "contemporary",
+      "title": "People's Republic of China is proclaimed",
+      "summary": "The Chinese Communist Party established the People's Republic after the Chinese Civil War, transforming the political landscape of East Asia.",
+      "source": "CFR · Essential Events Since 1945",
+      "url": "https://www.cfr.org/education/learn/timelines/essential-events-1945"
     },
     {
       "date": "21 February 1952",
@@ -205,6 +789,15 @@
       "url": "https://en.banglapedia.org/index.php/Language_Movement"
     },
     {
+      "date": "1955 CE",
+      "sort": 1955,
+      "era": "contemporary",
+      "title": "Bandung Conference brings Asian and African states together",
+      "summary": "Delegates from 29 countries met in Indonesia to discuss anti-colonialism, sovereignty, economic cooperation and international relations during the Cold War.",
+      "source": "CFR · Essential Events Since 1945",
+      "url": "https://www.cfr.org/education/learn/timelines/essential-events-1945"
+    },
+    {
       "date": "16 February 1956",
       "sort": 1956,
       "era": "modern",
@@ -213,6 +806,15 @@
       "topicId": "language",
       "source": "Banglapedia · Language Movement",
       "url": "https://en.banglapedia.org/index.php/Language_Movement"
+    },
+    {
+      "date": "1960 CE",
+      "sort": 1960,
+      "era": "contemporary",
+      "title": "A wave of African independence accelerates",
+      "summary": "Seventeen African countries became independent in 1960, marking a major moment in the wider process of decolonisation across the continent.",
+      "source": "United Nations · Decolonization",
+      "url": "https://www.un.org/dppa/decolonization/en/about"
     },
     {
       "date": "5 February 1966",
@@ -233,6 +835,15 @@
       "topicId": "massuprising1969",
       "source": "Banglapedia · Sheikh Mujibur Rahman",
       "url": "https://en.banglapedia.org/index.php?title=Rahman%2C_Bangabandhu_Sheikh_Mujibur"
+    },
+    {
+      "date": "1969 CE",
+      "sort": 1969,
+      "era": "contemporary",
+      "title": "Apollo 11 lands the first humans on the Moon",
+      "summary": "Neil Armstrong and Buzz Aldrin walked on the lunar surface while Michael Collins remained in lunar orbit, marking a defining moment in space exploration.",
+      "source": "NASA · Apollo 11",
+      "url": "https://www.nasa.gov/mission/apollo-11/"
     },
     {
       "date": "December 1970",
@@ -273,6 +884,60 @@
       "topicId": "liberation",
       "source": "Banglapedia · Ideas and Institutions",
       "url": "https://en.banglapedia.org/index.php?title=Ideas_and_Institutions"
+    },
+    {
+      "date": "1989 CE",
+      "sort": 1989,
+      "era": "contemporary",
+      "title": "Berlin Wall opens",
+      "summary": "The opening of the Berlin Wall followed months of public protest and political change in Eastern Europe, becoming a symbol of the end of the Cold War division of Europe.",
+      "source": "CFR · Essential Events Since 1945",
+      "url": "https://www.cfr.org/education/learn/timelines/essential-events-1945"
+    },
+    {
+      "date": "1991 CE",
+      "sort": 1991,
+      "era": "contemporary",
+      "title": "Soviet Union dissolves",
+      "summary": "The Soviet Union ceased to exist in December, ending a major state structure of the twentieth century and reshaping international politics.",
+      "source": "CFR · Essential Events Since 1945",
+      "url": "https://www.cfr.org/education/learn/timelines/essential-events-1945"
+    },
+    {
+      "date": "1994 CE",
+      "sort": 1994,
+      "era": "contemporary",
+      "title": "South Africa holds its first democratic multiracial election",
+      "summary": "The election brought an end to apartheid rule and led to Nelson Mandela becoming president, marking a decisive transition in South African history.",
+      "source": "South African History Online",
+      "url": "https://www.sahistory.org.za/article/1994-election"
+    },
+    {
+      "date": "2001 CE",
+      "sort": 2001,
+      "era": "contemporary",
+      "title": "September 11 attacks reshape global politics",
+      "summary": "Coordinated terrorist attacks in the United States killed thousands and led to major changes in security policy and international military intervention.",
+      "source": "CFR · Essential Events Since 1945",
+      "url": "https://www.cfr.org/education/learn/timelines/essential-events-1945"
+    },
+    {
+      "date": "2008 CE",
+      "sort": 2008,
+      "era": "contemporary",
+      "title": "Global financial crisis spreads",
+      "summary": "The collapse of major financial institutions and credit markets triggered a worldwide recession and renewed debate about financial regulation and economic risk.",
+      "source": "CFR · Essential Events Since 1945",
+      "url": "https://www.cfr.org/education/learn/timelines/essential-events-1945"
+    },
+    {
+      "date": "2020 CE",
+      "sort": 2020,
+      "era": "contemporary",
+      "title": "COVID-19 becomes a global pandemic",
+      "summary": "The World Health Organization characterised COVID-19 as a pandemic in March 2020. The crisis disrupted health systems, travel, education and economies worldwide.",
+      "source": "WHO · Timeline of WHO's COVID-19 response",
+      "url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/interactive-timeline"
     }
   ],
   "people": [
