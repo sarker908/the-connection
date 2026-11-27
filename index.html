@@ -9,14 +9,13 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:ital,wght@0,500;0,600;0,700;1,500;1,600&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="assets/css/style.css?v=9">
-  <script src="https://unpkg.com/cytoscape@3.30.4/dist/cytoscape.min.js"></script>
+  <link rel="stylesheet" href="assets/css/style.css?v=10">
 </head>
 <body>
   <header class="masthead">
     <a class="wordmark" href="#"><span class="wordmark-symbol">✳</span> THE CONNECTION <small>AN ATLAS OF IDEAS</small></a>
     <nav class="main-nav" aria-label="Main navigation">
-      <a href="#stories">Stories</a><a href="#journeys">Journeys</a><a href="#atlas">The atlas</a>
+      <a href="#stories">Discover</a><a href="#journeys">Journeys</a><a href="#atlas">Collections</a>
     </nav>
     <div class="header-actions"><button id="savedBtn" class="plain-action">Saved <span id="savedCount">0</span></button><button id="searchOpen" class="search-action" aria-label="Search">⌕ <span>Search</span></button></div>
   </header>
@@ -42,16 +41,14 @@
 
     <section class="journeys-section" id="journeys"><div class="section-top"><div><p class="kicker">CURATED READING PATHS</p><h2>Follow a <em>thread.</em></h2><p class="section-deck">Start with one idea. Follow the people, inventions and turning points that lead somewhere unexpected.</p></div></div><div class="journey-grid" id="journeyGrid"></div><div class="journey-detail" id="journeyDetail" aria-live="polite"></div></section>
     <section class="editorial-section" id="stories">
-      <div class="section-top"><div><p class="kicker">THE EDITOR'S PICKS</p><h2>Good places to <em>begin.</em></h2></div><a href="#atlas" class="text-link">Browse the full atlas ↗</a></div>
+      <div class="section-top"><div><p class="kicker">THE EDITOR'S PICKS</p><h2>Good places to <em>begin.</em></h2></div><a href="#atlas" class="text-link">Explore collections ↗</a></div>
       <div class="story-grid" id="featuredTopics"></div>
     </section>
 
-    <section class="atlas-section" id="atlas">
-      <div class="atlas-heading"><div><p class="kicker">EXPLORE THE RELATIONSHIPS</p><h2>The knowledge <em>atlas.</em></h2><p class="section-deck">Every point is a subject. Every line is a relationship. Select a subject, drag the map, and follow the trail.</p></div><div class="atlas-count"><b id="atlasCount">101</b><span>SUBJECTS<br>ON THE MAP</span></div></div>
-      <div class="atlas-filters" id="categoryFilters"><button class="filter-chip active" data-filter="all">Everything</button></div>
-      <div class="graph-frame"><div id="graph"></div><div class="graph-note">DRAG TO EXPLORE · SELECT A DOT TO READ</div><div class="graph-actions"><button id="zoomIn" aria-label="Zoom in">+</button><button id="zoomOut" aria-label="Zoom out">−</button><button id="fitGraph" aria-label="Fit graph">↗</button></div></div>
-      <p class="atlas-footnote">The map is a growing editorial model, not a complete map of human knowledge. Relationships are selected for clarity and backed by source links in each subject.</p>
-    </section>
+    <section class="atlas-section collection-section" id="atlas">
+<div class="atlas-heading collection-heading"><div><p class="kicker">THE COLLECTIONS</p><h2>Choose a path into <em>the world.</em></h2><p class="section-deck">Twelve ways to explore human knowledge. Pick a subject that catches your eye, then follow the stories connected to it.</p></div><div class="atlas-count"><b id="atlasCount">101</b><span>SUBJECTS<br>TO DISCOVER</span></div></div>
+<div class="collection-browser"><div class="collection-grid" id="collectionGrid" aria-label="Knowledge collections"></div><div class="collection-results"><div class="collection-results-head"><div><p class="kicker">BROWSE THE ARCHIVE</p><h3 id="collectionTitle">All subjects</h3><p id="collectionDescription">A little bit of everything, waiting to be explored.</p></div><label class="collection-search"><span>⌕</span><input id="collectionSearch" type="search" placeholder="Find a subject..." aria-label="Find a subject"></label></div><div class="collection-subject-grid" id="collectionSubjects"></div><div class="collection-more" id="collectionMore"></div></div></div>
+</section>
 
     <section class="connection-section">
       <div class="connection-intro"><p class="kicker">A QUESTION WORTH FOLLOWING</p><h2>How did we get<br>from <em>there</em> to here?</h2><p>Choose two subjects. Discover the people, inventions and moments that connect them.</p></div>
@@ -71,6 +68,6 @@
   <div class="search-overlay" id="searchOverlay"><div class="search-dialog"><div class="search-row"><span>⌕</span><input id="globalSearch" placeholder="Search a person, place, idea or invention…" autocomplete="off"><kbd>ESC</kbd><button id="searchClose" aria-label="Close search">×</button></div><div id="searchResults" class="search-results"><p>Try “printing press”, “Buddhism” or “Alan Turing”.</p></div></div></div>
   <aside class="detail-panel" id="detailPanel"><button class="detail-close" id="closeDetail" aria-label="Close details">×</button><div id="detailContent"></div></aside>
   <div class="toast" id="toast"></div>
-  <script src="assets/js/app.js?v=9"></script>
+  <script src="assets/js/app.js?v=10"></script>
 </body>
 </html>
