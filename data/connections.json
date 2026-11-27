@@ -532,5 +532,251 @@
     "from": "radio",
     "to": "worldwar2",
     "label": "Radio communication played a major role in wartime coordination"
+  },
+  {
+    "id": "e90",
+    "from": "bigbang",
+    "to": "hubble",
+    "label": "Observations of galaxy expansion support modern cosmology"
+  },
+  {
+    "id": "e91",
+    "from": "hubble",
+    "to": "einstein",
+    "label": "Cosmological observations tested relativistic predictions"
+  },
+  {
+    "id": "e92",
+    "from": "quantum",
+    "to": "transistor",
+    "label": "Quantum physics explains semiconductor behaviour"
+  },
+  {
+    "id": "e93",
+    "from": "quantum",
+    "to": "computer",
+    "label": "Quantum theory underpins modern electronics"
+  },
+  {
+    "id": "e94",
+    "from": "curie",
+    "to": "radioactivity",
+    "label": "Curie's research advanced the study of radioactivity"
+  },
+  {
+    "id": "e95",
+    "from": "radioactivity",
+    "to": "xray",
+    "label": "Both transformed medical imaging and physics"
+  },
+  {
+    "id": "e96",
+    "from": "curie",
+    "to": "xray",
+    "label": "Radiation research helped shape medical applications"
+  },
+  {
+    "id": "e97",
+    "from": "insulin",
+    "to": "germtheory",
+    "label": "Both reshaped modern medicine and public health"
+  },
+  {
+    "id": "e98",
+    "from": "genome",
+    "to": "dna",
+    "label": "The project built on the discovery of DNA's structure"
+  },
+  {
+    "id": "e99",
+    "from": "crispr",
+    "to": "genome",
+    "label": "Genome sequencing and gene editing are closely linked"
+  },
+  {
+    "id": "e100",
+    "from": "crispr",
+    "to": "dna",
+    "label": "CRISPR targets specific DNA sequences"
+  },
+  {
+    "id": "e101",
+    "from": "frenchrev",
+    "to": "democracy",
+    "label": "Revolutionary politics reshaped modern democratic thought"
+  },
+  {
+    "id": "e102",
+    "from": "americanrev",
+    "to": "democracy",
+    "label": "The revolution established a republic with representative institutions"
+  },
+  {
+    "id": "e103",
+    "from": "frenchrev",
+    "to": "americanrev",
+    "label": "Ideas and events crossed the Atlantic"
+  },
+  {
+    "id": "e104",
+    "from": "printingbook",
+    "to": "printing",
+    "label": "The Gutenberg Bible was produced using movable-type printing"
+  },
+  {
+    "id": "e105",
+    "from": "mughal",
+    "to": "bengal",
+    "label": "Mughal rule shaped Bengal's administration and culture"
+  },
+  {
+    "id": "e106",
+    "from": "bengal",
+    "to": "rabindranath",
+    "label": "Tagore became a major figure in the Bengal Renaissance"
+  },
+  {
+    "id": "e107",
+    "from": "language",
+    "to": "liberation",
+    "label": "Language identity became central to Bengali nationalism"
+  },
+  {
+    "id": "e108",
+    "from": "liberation",
+    "to": "dhaka",
+    "label": "Dhaka became the capital of independent Bangladesh"
+  },
+  {
+    "id": "e109",
+    "from": "pala",
+    "to": "buddhism",
+    "label": "Pala rulers supported Buddhist monasteries and scholarship"
+  },
+  {
+    "id": "e110",
+    "from": "pala",
+    "to": "indus",
+    "label": "Both belong to the long history of South Asian civilizations"
+  },
+  {
+    "id": "e111",
+    "from": "sundarbans",
+    "to": "monsoon",
+    "label": "Seasonal rainfall shapes the delta ecosystem"
+  },
+  {
+    "id": "e112",
+    "from": "monsoon",
+    "to": "agriculture",
+    "label": "Monsoon patterns are vital to South Asian farming"
+  },
+  {
+    "id": "e113",
+    "from": "dhaka",
+    "to": "monsoon",
+    "label": "The city experiences a tropical monsoon climate"
+  },
+  {
+    "id": "e114",
+    "from": "bose",
+    "to": "radio",
+    "label": "Bose conducted pioneering experiments in radio and microwaves"
+  },
+  {
+    "id": "e115",
+    "from": "bose",
+    "to": "electricity",
+    "label": "His experiments drew on electromagnetic theory"
+  },
+  {
+    "id": "e116",
+    "from": "steamrail",
+    "to": "steam",
+    "label": "Steam power drove early railway locomotives"
+  },
+  {
+    "id": "e117",
+    "from": "steamrail",
+    "to": "industrial",
+    "label": "Railways accelerated industrial transport and trade"
+  },
+  {
+    "id": "e118",
+    "from": "telephonecell",
+    "to": "telephone",
+    "label": "Mobile networks evolved from telephone systems"
+  },
+  {
+    "id": "e119",
+    "from": "telephonecell",
+    "to": "internet",
+    "label": "Smartphones combine mobile networks with internet access"
+  },
+  {
+    "id": "e120",
+    "from": "photography",
+    "to": "film",
+    "label": "Photography and moving pictures share optical technologies"
+  },
+  {
+    "id": "e121",
+    "from": "film",
+    "to": "globalization",
+    "label": "Cinema circulates stories across borders"
+  },
+  {
+    "id": "e122",
+    "from": "internetprotocolv6",
+    "to": "internet",
+    "label": "Open collaboration helped build internet infrastructure and software"
+  },
+  {
+    "id": "e123",
+    "from": "renewables",
+    "to": "climate",
+    "label": "Renewable energy can reduce emissions from electricity generation"
+  },
+  {
+    "id": "e124",
+    "from": "renewables",
+    "to": "electricity",
+    "label": "Renewable sources generate electrical power"
+  },
+  {
+    "id": "e125",
+    "from": "vaccinia",
+    "to": "smallpox",
+    "label": "Jenner's work helped launch smallpox vaccination"
+  },
+  {
+    "id": "e126",
+    "from": "vaccinia",
+    "to": "vaccines",
+    "label": "The work helped establish the principle of vaccination"
+  },
+  {
+    "id": "e127",
+    "from": "printingpress",
+    "to": "printing",
+    "label": "Movable type was a major stage in printing history"
+  },
+  {
+    "id": "e128",
+    "from": "writing",
+    "to": "printingpress",
+    "label": "Printing reproduced written characters at scale"
+  },
+  {
+    "id": "e129",
+    "from": "mughal",
+    "to": "silkroad",
+    "label": "The empire participated in wider Eurasian trade networks"
+  },
+  {
+    "id": "e130",
+    "from": "bengal",
+    "to": "dhaka",
+    "label": "Dhaka became a major centre of Bengali intellectual life"
   }
 ]
