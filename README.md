@@ -8,7 +8,7 @@
 - **161 relationships**
 - **25 sourced historical milestones**
 - **12 concise biographical profiles**
-- **6 collections:** Technology, Science, History, Geography, Culture and Humanity
+- **12 collections:** Technology, Science, History, Geography, Culture and Humanity
 
 The dataset includes global history and science alongside a deeper collection on Bengal and Bangladesh, from the Pala period and Somapura Mahavihara through colonial rule, the Language Movement, the autonomy movement and the Liberation War.
 
