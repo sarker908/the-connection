@@ -138,3 +138,8 @@ The personal collection panel now includes a locally stored list of up to 12 rec
 ## Stage 011: guided journey clarity
 
 Reading journey headers now show the number of stops in each path, making the scope of a journey clear before visitors begin. Keyboard focus is more visible on journey actions and step rows. Existing completion tracking and local progress are preserved.
+
+
+## Stage 012: structural data audit
+
+On startup, the application now checks subject-ID uniqueness, connection endpoints and claim references to subjects and source records after merging the research batch. The compact report is available in the browser console as `window.__THE_CONNECTION_AUDIT__`. The audit checks structural integrity only; it does not fact-check historical or scientific claims.

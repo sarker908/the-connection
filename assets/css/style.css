@@ -468,3 +468,6 @@ button,a{-webkit-tap-highlight-color:transparent}
 /* Batch 011: clearer reading-path progress and keyboard focus */
 .journey-step-row:focus-within{outline:2px solid var(--red);outline-offset:4px}
 .journey-resume:focus-visible,.journey-reset:focus-visible,.journey-open-topic:focus-visible,.journey-mark-step:focus-visible{outline:2px solid var(--red);outline-offset:3px}
+
+/* Batch 012: consistent keyboard focus for atlas controls */
+button:focus-visible,a:focus-visible,select:focus-visible,input:focus-visible{outline-color:var(--red);outline-offset:3px}
