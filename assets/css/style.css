@@ -391,3 +391,38 @@ button,a{-webkit-tap-highlight-color:transparent}
 #peopleCount{margin:0 0 0 auto;color:var(--muted);font:9px var(--mono)}
 .history-person-index{line-height:1.6}
 @media(max-width:650px){.people-region-controls{align-items:stretch;flex-direction:column;gap:8px}.people-region-controls select{width:100%}#peopleCount{margin:4px 0}}
+
+
+/* On This Day: full-bleed editorial history cards */
+.on-this-day-section{padding:92px 9% 100px;max-width:1600px;margin:0 auto;background:#e9e5da}
+.on-this-day-heading{display:flex;justify-content:space-between;align-items:end;gap:30px;margin-bottom:32px}
+.on-this-day-heading h2{font:500 clamp(40px,4.5vw,58px)/1.06 var(--serif);letter-spacing:-1.4px;margin:0}
+.on-this-day-heading h2 em{color:var(--red);font-weight:500}
+.on-this-day-heading .kicker{margin-bottom:14px}
+.on-this-day-heading>div:first-child>p:last-child{font:12px/1.7 var(--sans);color:#696b63;max-width:540px;margin:13px 0 0}
+.on-this-day-date{display:flex;flex-direction:column;align-items:flex-end;gap:8px;text-align:right}
+.on-this-day-date strong{font:500 20px var(--serif)}
+.on-this-day-date span,.on-this-day-status{font:8px var(--mono);letter-spacing:1px;color:var(--muted)}
+.on-this-day-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:22px 16px}
+.on-this-day-card{min-width:0;background:var(--paper);border:1px solid #d2ccbf;display:flex;flex-direction:column}
+.on-this-day-image{display:flex;align-items:flex-start;justify-content:flex-start;height:230px;background:#d6d0c4 center/cover no-repeat;text-decoration:none;position:relative;overflow:hidden}
+.on-this-day-image:after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,#1d211c30,transparent 48%);pointer-events:none}
+.on-this-day-image span{position:relative;z-index:1;margin:13px;padding:7px 9px;background:var(--paper);color:var(--ink);font:10px var(--mono)}
+.on-this-day-copy{display:flex;flex-direction:column;align-items:flex-start;padding:18px 18px 20px;flex:1}
+.on-this-day-copy small{font:8px var(--mono);letter-spacing:.8px;color:var(--red)}
+.on-this-day-copy h3{font:500 21px/1.23 var(--serif);margin:12px 0 20px}
+.on-this-day-copy a{margin-top:auto;color:var(--red);font:9px var(--mono);text-decoration:none;border-bottom:1px solid #d5b9ae;padding-bottom:5px}
+.on-this-day-copy a:hover{color:var(--ink)}
+.on-this-day-loading,.on-this-day-empty{grid-column:1/-1;padding:35px 0;color:var(--muted);font:12px/1.8 var(--sans)}
+.on-this-day-credit{margin:20px 0 0;color:var(--muted);font:9px/1.7 var(--mono)}
+/* Larger image windows and consistent edge-to-edge image filling */
+.story-image{height:260px;background-size:cover;background-position:center center}
+.collection-tile-image{height:190px;background-size:cover;background-position:center center}
+.collection-subject-image{height:190px;background-size:cover;background-position:center center}
+.daily-card-image{background-size:cover;background-position:center center}
+.daily-pair-image{background-size:cover;background-position:center center}
+.journey-card-image{height:205px;background-size:cover;background-position:center center}
+.history-person-image{background-size:cover;background-position:center 28%}
+@media(max-width:1000px){.on-this-day-section{padding:78px 6%}.on-this-day-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.on-this-day-image{height:220px}.story-image{height:220px}.collection-tile-image{height:165px}.collection-subject-image{height:170px}}
+@media(max-width:650px){.on-this-day-section{padding:65px 6%}.on-this-day-heading{align-items:flex-start;flex-direction:column;gap:17px}.on-this-day-heading h2{font-size:38px}.on-this-day-date{align-items:flex-start;text-align:left}.on-this-day-grid{grid-template-columns:1fr 1fr;gap:13px 10px}.on-this-day-image{height:165px}.on-this-day-copy{padding:13px}.on-this-day-copy h3{font-size:17px;margin:10px 0 16px}.on-this-day-copy small{font-size:7px}.story-image{height:175px}.collection-tile-image{height:130px}.collection-subject-image{height:145px}.journey-card-image{height:100%}}
+@media(max-width:390px){.on-this-day-image{height:140px}.on-this-day-copy h3{font-size:15px}.story-image{height:150px}.collection-subject-image{height:125px}}
