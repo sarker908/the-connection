@@ -1198,5 +1198,17 @@
     "short": "A devastating famine in wartime Bengal.",
     "description": "The Bengal famine of 1943 caused mass starvation and disease across the region during the Second World War. Historians examine interacting causes including wartime disruption, inflation, food-market failures, policy decisions and unequal access to food. Estimates of deaths vary by source and method.",
     "wiki": "https://en.wikipedia.org/wiki/Bengal_famine_of_1943"
+  },
+  {
+    "id": "bengalregion",
+    "title": "The Bengal Delta",
+    "category": "Geography",
+    "year": "Ancient to present",
+    "type": "Historical and geographic region",
+    "icon": "🌾",
+    "featured": false,
+    "short": "A river-shaped region with a long, connected history.",
+    "description": "The Bengal delta is formed by the Ganges, Brahmaputra and Meghna river systems. Its waterways, fertile floodplains and links to the Bay of Bengal shaped settlement, agriculture, trade and cultural exchange across a region that today spans Bangladesh and parts of eastern India.",
+    "wiki": "https://en.wikipedia.org/wiki/Bengal_delta"
   }
 ]
