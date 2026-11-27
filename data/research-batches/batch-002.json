@@ -130,6 +130,6 @@
     "25 existing subjects enriched in place; no new subjects or relationships created.",
     "Each subject has two distinct linked institutional, academic, university or open-textbook references and two claim-level provenance records.",
     "Reference links support research and further reading; they do not establish independent expert verification of every sentence.",
-    "Claims remain editorial-review-pending. Visible source presentation and live deployment require separate interface checks."
+    "The subject reader now displays claim-level research notes with direct links to the exact source records; live visual verification remains pending."
   ]
 }

@@ -156,6 +156,17 @@ This batch covers mathematics (set theory, prime factorization, group theory, li
 
 All 25 entries were rewritten in original language and linked to two distinct institutional, academic, university or open-textbook references. Two claim-level provenance records were added per subject in `data/claims.json`. Existing subjects and relationships were preserved; the atlas subject and connection totals were not increased.
 
-**Editorial status:** research-enriched, not expert-reviewed. Claims remain editorial-review-pending. References provide traceability and further reading, not proof that every sentence has been independently verified. The website's visible source presentation and live deployment must be checked separately.
+**Editorial status:** research-enriched, not expert-reviewed. Claims remain editorial-review-pending. References provide traceability and further reading, not proof that every sentence has been independently verified. Claim-level evidence is now displayed in the subject reader; the live deployed interface still needs a visual regression check.
 
 **Next milestone:** Batch 003 should select 25 further subjects from the remaining unresearched atlas, prioritising global history, public health, climate and environment, and foundational engineering. After the next data batch, integrate claim/source references into the subject detail interface and run a deployed-site regression check.
+
+
+## Subject-reader evidence integration
+
+**Completed:** 28 November 2026
+
+The subject reader now loads `data/claims.json` alongside the existing subject and source registries. For subjects with claim records, it displays a dedicated research-traceability section containing concise claims and direct links to the exact source records attached to each claim. The existing source list remains available as a broader further-reading section. The page cache versions were incremented for the updated data, script and stylesheet.
+
+The interface labels this material as research traceability and states that claims remain pending independent editorial review. This avoids presenting citations as a guarantee of correctness. The code and data were checked on GitHub after the commit; a live visual/browser regression test could not be completed because the deployed GitHub Pages URL was not accessible to the available page checker.
+
+**Next:** visually verify the live reader on desktop and mobile, then continue with Batch 003. Do not mark research-enriched subjects as reviewed until an actual editorial review is documented.
