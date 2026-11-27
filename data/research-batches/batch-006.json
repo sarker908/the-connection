@@ -541,9 +541,9 @@
     },
     {
       "id": "src-1390",
-      "title": "Western Sudan, 500–1000 A.D.",
-      "publisher": "The Metropolitan Museum of Art",
-      "url": "https://artistproject.metmuseum.org/toah/ht/06/afu.html",
+      "title": "Great Zimbabwe",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/place/Great-Zimbabwe",
       "roles": [
         "Research reference and further reading"
       ],
@@ -793,15 +793,14 @@
     },
     {
       "id": "src-1408",
-      "title": "Encyclopaedia Iranica",
+      "title": "The Safavids",
       "publisher": "Encyclopaedia Iranica",
-      "url": "https://www.iranicaonline.org/",
+      "url": "https://www.iranicaonline.org/articles/safavids",
       "roles": [
         "Research reference and further reading"
       ],
       "topicIds": [
-        "safavid_dynasty",
-        "persian_shahnameh"
+        "safavid_dynasty"
       ],
       "sourceClass": "academic"
     },
@@ -902,9 +901,9 @@
     },
     {
       "id": "src-1416",
-      "title": "Ancient Americas: Empires and Cultural Traditions",
-      "publisher": "The Metropolitan Museum of Art",
-      "url": "https://www.metmuseum.org/de/exhibitions/arts-of-the-ancient-americas/inside-the-exhibition",
+      "title": "Wari Culture",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/topic/Wari-culture",
       "roles": [
         "Research reference and further reading"
       ],
