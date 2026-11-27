@@ -1,0 +1,400 @@
+{
+  "updated": "2026-11-27",
+  "method": "Editorial summaries compiled from Banglapedia, UNESCO World Heritage Centre, University of Dhaka, and other cited institutional references. Dates marked c. are approximate; broad period labels are not exact event dates.",
+  "eras": [
+    {
+      "id": "early",
+      "label": "Early Bengal",
+      "range": "c. 750–1200"
+    },
+    {
+      "id": "medieval",
+      "label": "Sultanate & Mughal Bengal",
+      "range": "1200–1757"
+    },
+    {
+      "id": "colonial",
+      "label": "Colonial Bengal",
+      "range": "1757–1947"
+    },
+    {
+      "id": "modern",
+      "label": "East Pakistan & Bangladesh",
+      "range": "1947–present"
+    }
+  ],
+  "events": [
+    {
+      "date": "c. 750",
+      "sort": 750,
+      "era": "early",
+      "title": "Gopala establishes the Pala dynasty",
+      "summary": "Gopala emerged as ruler in a period of political fragmentation and founded a dynasty that would shape Bengal for roughly four centuries. The exact dates of early Pala reigns remain approximate.",
+      "topicId": "pala",
+      "source": "Banglapedia · Pala Rule",
+      "url": "https://en.banglapedia.org/index.php?title=Pala_Rule"
+    },
+    {
+      "date": "c. 781–821",
+      "sort": 781,
+      "era": "early",
+      "title": "Dharmapala expands Pala influence",
+      "summary": "Under Dharmapala, the Palas became a major power in northern India. His reign is also associated with major Buddhist institutions, including the foundation of Somapura Mahavihara at Paharpur.",
+      "topicId": "somapura",
+      "source": "UNESCO · Somapura Mahavihara",
+      "url": "https://whc.unesco.org/en/list/322"
+    },
+    {
+      "date": "8th–12th century",
+      "sort": 800,
+      "era": "early",
+      "title": "Somapura Mahavihara flourishes",
+      "summary": "Built under Pala patronage, the great monastery at Paharpur became a renowned intellectual centre and an influential example of Buddhist architecture in South Asia.",
+      "topicId": "somapura",
+      "source": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/322"
+    },
+    {
+      "date": "12th century",
+      "sort": 1150,
+      "era": "early",
+      "title": "Sena power rises in Bengal",
+      "summary": "The Sena dynasty rose in the second half of the 12th century, bringing Pala rule in Bengal to an end. Chronologies for this transition vary across historical accounts.",
+      "topicId": "pala",
+      "source": "Banglapedia · Pala Rule",
+      "url": "https://en.banglapedia.org/index.php?title=Pala_Rule"
+    },
+    {
+      "date": "1204–1206",
+      "sort": 1204,
+      "era": "medieval",
+      "title": "Turkish conquest reshapes Bengal's political order",
+      "summary": "The campaigns associated with Muhammad Bakhtiyar Khalji marked the beginning of a new phase of Muslim political rule in parts of Bengal. Control consolidated unevenly across the region.",
+      "topicId": "bengalregion",
+      "source": "University of Dhaka · History syllabus",
+      "url": "https://duap.du.ac.bd/upload/download/Honours_Syllabus_2010-2011.pdf"
+    },
+    {
+      "date": "1342",
+      "sort": 1342,
+      "era": "medieval",
+      "title": "An independent Bengal Sultanate takes shape",
+      "summary": "Shamsuddin Ilyas Shah consolidated an independent sultanate centred on Lakhnauti, helping establish a more unified political identity for Bengal.",
+      "topicId": "bengalregion",
+      "source": "Banglapedia · Iliyas Shah",
+      "url": "https://en.banglapedia.org/index.php?title=Iliyas_Shah"
+    },
+    {
+      "date": "1576",
+      "sort": 1576,
+      "era": "medieval",
+      "title": "Bengal is incorporated into the Mughal Empire",
+      "summary": "Mughal authority expanded across Bengal after the campaigns of Akbar's reign. Local resistance and regional power centres continued to shape the process of consolidation.",
+      "topicId": "dhaka",
+      "source": "Bangladesh: A Country Study · Federal Research Division",
+      "url": "https://www.marines.mil/Portals/1/Publications/Bangladesh%20Study_1.pdf"
+    },
+    {
+      "date": "1610s",
+      "sort": 1610,
+      "era": "medieval",
+      "title": "Dhaka becomes a Mughal provincial capital",
+      "summary": "Dhaka, known as Jahangirnagar during the Mughal period, became an important administrative and commercial centre in Bengal. The exact year of the capital's transfer is described differently in historical accounts.",
+      "topicId": "dhaka",
+      "source": "Bangladesh: A Country Study · Federal Research Division",
+      "url": "https://www.marines.mil/Portals/1/Publications/Bangladesh%20Study_1.pdf"
+    },
+    {
+      "date": "23 June 1757",
+      "sort": 1757.46,
+      "era": "colonial",
+      "title": "Battle of Plassey",
+      "summary": "The East India Company defeated Nawab Siraj ud-Daulah after the defection of key commanders, including Mir Jafar. The outcome opened the way for Company political dominance in Bengal.",
+      "topicId": "battleplassey",
+      "source": "Banglapedia · Palashi, The Battle of",
+      "url": "https://en.banglapedia.org/index.php?title=Palashi%2C_The_Battle_of"
+    },
+    {
+      "date": "1765",
+      "sort": 1765,
+      "era": "colonial",
+      "title": "The East India Company obtains the Diwani",
+      "summary": "The Company secured the right to collect revenue in Bengal, Bihar and Orissa, deepening its control over the region's finances and administration.",
+      "topicId": "battleplassey",
+      "source": "Bangladesh: A Country Study · Federal Research Division",
+      "url": "https://www.marines.mil/Portals/1/Publications/Bangladesh%20Study_1.pdf"
+    },
+    {
+      "date": "1793",
+      "sort": 1793,
+      "era": "colonial",
+      "title": "Permanent Settlement introduced",
+      "summary": "The colonial government fixed land revenue demands and recognised zamindars as revenue-collecting landholders. Its effects on cultivators and agrarian relations remained deeply contested.",
+      "topicId": "permanentsettlement",
+      "source": "Banglapedia · Permanent Settlement",
+      "url": "https://en.banglapedia.org/index.php?title=Permanent_Settlement"
+    },
+    {
+      "date": "16 October 1905",
+      "sort": 1905.78,
+      "era": "colonial",
+      "title": "Partition of Bengal takes effect",
+      "summary": "The province was divided and a new province of Eastern Bengal and Assam was created. The decision triggered powerful, diverse political responses, including Swadeshi mobilisation and support for the new province among sections of the population.",
+      "topicId": "partition1905",
+      "source": "Banglapedia · Partition of Bengal, 1905",
+      "url": "https://en.banglapedia.org/index.php?title=Partition_of_Bengal%2C_1905"
+    },
+    {
+      "date": "1905–1911",
+      "sort": 1906,
+      "era": "colonial",
+      "title": "Swadeshi and boycott movements spread",
+      "summary": "Opposition to the partition helped popularise the use of locally made goods, boycotts of imported British products, public meetings and new forms of political organisation. Participation and opinion differed across communities and regions.",
+      "topicId": "swadeshi",
+      "source": "Banglapedia · Partition of Bengal, 1905",
+      "url": "https://en.banglapedia.org/index.php?title=Partition_of_Bengal%2C_1905"
+    },
+    {
+      "date": "1911",
+      "sort": 1911,
+      "era": "colonial",
+      "title": "Partition of Bengal is annulled",
+      "summary": "The British government reversed the 1905 arrangement amid sustained political agitation. The reorganisation also changed the administrative map of eastern India.",
+      "topicId": "partition1905",
+      "source": "Banglapedia · Annulment of Bengal Partition",
+      "url": "https://en.banglapedia.org/index.php?title=Annulment_of_Bengal_Partition"
+    },
+    {
+      "date": "1 July 1921",
+      "sort": 1921,
+      "era": "colonial",
+      "title": "University of Dhaka opens",
+      "summary": "The university began with three faculties, twelve departments, sixty teachers, 877 students and three residential halls, becoming a major centre of higher education in the region.",
+      "topicId": "dhakauniversity",
+      "source": "University of Dhaka · Historical Outline",
+      "url": "https://www.du.ac.bd/index.php/university/HistoricalOutline"
+    },
+    {
+      "date": "1943",
+      "sort": 1943,
+      "era": "colonial",
+      "title": "Bengal Famine",
+      "summary": "Wartime disruption, inflation, failures in food distribution and policy decisions contributed to a catastrophic famine. Estimates of mortality vary; the event devastated households and livelihoods across Bengal.",
+      "topicId": "bengalfamine1943",
+      "source": "Banglapedia · Famine, 1943",
+      "url": "https://en.banglapedia.org/index.php?title=Famine%2C_1943"
+    },
+    {
+      "date": "14–15 August 1947",
+      "sort": 1947,
+      "era": "modern",
+      "title": "Partition of British India",
+      "summary": "British India was divided into India and Pakistan. East Bengal became Pakistan's eastern wing, separated geographically from West Pakistan by Indian territory.",
+      "topicId": "bengalregion",
+      "source": "Bangladesh: A Country Study · Federal Research Division",
+      "url": "https://www.marines.mil/Portals/1/Publications/Bangladesh%20Study_1.pdf"
+    },
+    {
+      "date": "21 February 1952",
+      "sort": 1952,
+      "era": "modern",
+      "title": "Language Movement reaches a turning point",
+      "summary": "Police fired on demonstrators in Dhaka during protests demanding recognition of Bangla. The movement continued, and Bangla became one of Pakistan's state languages in 1956.",
+      "topicId": "language",
+      "source": "Banglapedia · Language Movement",
+      "url": "https://en.banglapedia.org/index.php/Language_Movement"
+    },
+    {
+      "date": "16 February 1956",
+      "sort": 1956,
+      "era": "modern",
+      "title": "Bangla gains state-language recognition in Pakistan",
+      "summary": "The Pakistan Constituent Assembly adopted Bangla and Urdu as state languages, following years of public mobilisation and political pressure.",
+      "topicId": "language",
+      "source": "Banglapedia · Language Movement",
+      "url": "https://en.banglapedia.org/index.php/Language_Movement"
+    },
+    {
+      "date": "5 February 1966",
+      "sort": 1966,
+      "era": "modern",
+      "title": "Six-Point Programme presented",
+      "summary": "Sheikh Mujibur Rahman presented a programme demanding far-reaching autonomy for East Pakistan, covering federal government, currency, taxation, trade and security arrangements.",
+      "topicId": "sixpoint",
+      "source": "Banglapedia · Sheikh Mujibur Rahman",
+      "url": "https://en.banglapedia.org/index.php?title=Rahman%2C_Bangabandhu_Sheikh_Mujibur"
+    },
+    {
+      "date": "February 1969",
+      "sort": 1969,
+      "era": "modern",
+      "title": "Mass uprising forces a political turning point",
+      "summary": "A broad student-led and popular movement challenged the Ayub regime. Sheikh Mujibur Rahman was released on 22 February, and the title Bangabandhu was conferred on him the following day.",
+      "topicId": "massuprising1969",
+      "source": "Banglapedia · Sheikh Mujibur Rahman",
+      "url": "https://en.banglapedia.org/index.php?title=Rahman%2C_Bangabandhu_Sheikh_Mujibur"
+    },
+    {
+      "date": "December 1970",
+      "sort": 1970,
+      "era": "modern",
+      "title": "Pakistan's general election",
+      "summary": "The Awami League won an overwhelming majority of the seats allocated to East Pakistan, giving it a clear electoral mandate. The transfer of power did not take place as expected.",
+      "topicId": "sixpoint",
+      "source": "Banglapedia · Sheikh Mujibur Rahman",
+      "url": "https://en.banglapedia.org/index.php?title=Rahman%2C_Bangabandhu_Sheikh_Mujibur"
+    },
+    {
+      "date": "7 March 1971",
+      "sort": 1971.18,
+      "era": "modern",
+      "title": "Historic 7 March speech",
+      "summary": "At the Ramna Racecourse in Dhaka, Sheikh Mujibur Rahman delivered an address that became a defining moment in the struggle for self-determination. UNESCO later inscribed the speech in its Memory of the World Register.",
+      "topicId": "liberation",
+      "source": "Banglapedia · Ideas and Institutions",
+      "url": "https://en.banglapedia.org/index.php?title=Ideas_and_Institutions"
+    },
+    {
+      "date": "26 March 1971",
+      "sort": 1971.24,
+      "era": "modern",
+      "title": "Bangladesh's independence struggle begins",
+      "summary": "Following the Pakistan army's crackdown, the declaration of independence and armed resistance marked the beginning of the Bangladesh Liberation War.",
+      "topicId": "liberation",
+      "source": "Banglapedia · Ideas and Institutions",
+      "url": "https://en.banglapedia.org/index.php?title=Ideas_and_Institutions"
+    },
+    {
+      "date": "16 December 1971",
+      "sort": 1971.96,
+      "era": "modern",
+      "title": "Victory in the Liberation War",
+      "summary": "Pakistani forces surrendered in Dhaka, ending the nine-month war and establishing Bangladesh as an independent state.",
+      "topicId": "liberation",
+      "source": "Banglapedia · Ideas and Institutions",
+      "url": "https://en.banglapedia.org/index.php?title=Ideas_and_Institutions"
+    }
+  ],
+  "people": [
+    {
+      "name": "Gopala",
+      "life": "c. 8th century",
+      "role": "Founder of the Pala dynasty",
+      "bio": "Gopala emerged as ruler amid political disorder in Bengal and founded the Pala dynasty, which became one of the region's longest-lasting ruling houses.",
+      "topicId": "pala",
+      "source": "Banglapedia · Pala Rule",
+      "url": "https://en.banglapedia.org/index.php?title=Pala_Rule",
+      "era": "early"
+    },
+    {
+      "name": "Dharmapala",
+      "life": "c. 770–810",
+      "role": "Pala ruler and Buddhist patron",
+      "bio": "A major Pala ruler whose reign expanded the dynasty's influence in northern India. Pala patronage supported important Buddhist institutions, including Somapura Mahavihara.",
+      "topicId": "somapura",
+      "source": "UNESCO · Somapura Mahavihara",
+      "url": "https://whc.unesco.org/en/list/322",
+      "era": "early"
+    },
+    {
+      "name": "Shamsuddin Ilyas Shah",
+      "life": "ruled 1342–1358",
+      "role": "Founder of the Ilyas Shahi dynasty",
+      "bio": "He consolidated an independent Bengal Sultanate and helped establish a political framework that brought several parts of Bengal under one ruler.",
+      "topicId": "bengalregion",
+      "source": "Banglapedia · Iliyas Shah",
+      "url": "https://en.banglapedia.org/index.php?title=Iliyas_Shah",
+      "era": "medieval"
+    },
+    {
+      "name": "Siraj ud-Daulah",
+      "life": "c. 1733–1757",
+      "role": "Last independent Nawab of Bengal",
+      "bio": "The Nawab who faced the East India Company at Plassey in June 1757. His defeat, amid defections within his command, became a turning point in the Company's rise to power in Bengal.",
+      "topicId": "battleplassey",
+      "source": "Banglapedia · Palashi, The Battle of",
+      "url": "https://en.banglapedia.org/index.php?title=Palashi%2C_The_Battle_of",
+      "era": "colonial"
+    },
+    {
+      "name": "Begum Rokeya",
+      "life": "1880–1932",
+      "role": "Writer, educator and social reformer",
+      "bio": "Rokeya advocated women's education and social equality. Her writing, including the 1905 satire Sultana's Dream, challenged restrictions placed on women.",
+      "topicId": "begumrokeya",
+      "source": "Banglapedia · Begum Rokeya",
+      "url": "https://en.banglapedia.org/index.php?title=Begum_Rokeya",
+      "era": "colonial"
+    },
+    {
+      "name": "Rabindranath Tagore",
+      "life": "1861–1941",
+      "role": "Poet, writer and Nobel laureate",
+      "bio": "A central figure in Bengali literature, Tagore reshaped poetry, songs, fiction and educational thought. He received the 1913 Nobel Prize in Literature.",
+      "topicId": "rabindranath",
+      "source": "Banglapedia · Rabindranath Tagore",
+      "url": "https://en.banglapedia.org/index.php?title=Tagore%2C_Rabindranath",
+      "era": "colonial"
+    },
+    {
+      "name": "Jagadish Chandra Bose",
+      "life": "1858–1937",
+      "role": "Physicist and plant physiologist",
+      "bio": "Bose conducted pioneering research in radio and microwave science and later developed sensitive instruments to study plant responses. He founded the Bose Institute in 1917.",
+      "topicId": "bose",
+      "source": "Banglapedia · Sir Jagadish Chandra Bose",
+      "url": "https://en.banglapedia.org/index.php?redirect=no&title=Bose%2C_Sir_Jagadish_Chandra",
+      "era": "colonial"
+    },
+    {
+      "name": "Satyendra Nath Bose",
+      "life": "1894–1974",
+      "role": "Physicist",
+      "bio": "While teaching at the University of Dhaka, Bose developed the work on quantum statistics that he sent to Albert Einstein in 1924. The resulting framework became known as Bose–Einstein statistics.",
+      "topicId": "satyendranathbose",
+      "source": "Banglapedia · Satyendra Nath Bose",
+      "url": "https://en.banglapedia.org/index.php?title=Bose%2C_Satyendra_Nath",
+      "era": "colonial"
+    },
+    {
+      "name": "A. K. Fazlul Huq",
+      "life": "1873–1962",
+      "role": "Politician and statesman",
+      "bio": "A prominent Bengali political leader who served as Prime Minister of Bengal from 1937 to 1943. His career crossed provincial politics, agrarian questions and the politics of late colonial India.",
+      "topicId": "partition1905",
+      "source": "Banglapedia · A. K. Fazlul Huq",
+      "url": "https://en.banglapedia.org/index.php?title=Huq%2C_A_K_Fazlul",
+      "era": "colonial"
+    },
+    {
+      "name": "Sheikh Mujibur Rahman",
+      "life": "1920–1975",
+      "role": "Political leader of the independence movement",
+      "bio": "A central organiser of the autonomy movement in East Pakistan, he presented the Six-Point Programme in 1966 and led the Awami League to victory in the 1970 election. He became the first president of independent Bangladesh.",
+      "topicId": "liberation",
+      "source": "Banglapedia · Sheikh Mujibur Rahman",
+      "url": "https://en.banglapedia.org/index.php?title=Rahman%2C_Bangabandhu_Sheikh_Mujibur",
+      "era": "modern"
+    },
+    {
+      "name": "Dhirendranath Datta",
+      "life": "1886–1971",
+      "role": "Lawyer and legislator",
+      "bio": "In February 1948, Datta moved an amendment in Pakistan's Constituent Assembly arguing that Bangla should be accepted as a language of the Assembly, an early parliamentary intervention in the language question.",
+      "topicId": "language",
+      "source": "Banglapedia · Language Movement",
+      "url": "https://en.banglapedia.org/index.php/Language_Movement",
+      "era": "modern"
+    },
+    {
+      "name": "Abul Kashem",
+      "life": "1898–1974",
+      "role": "Educationist and language activist",
+      "bio": "A professor and organiser associated with Tamaddun Majlish, he helped mobilise early advocacy for Bangla as a state language after the creation of Pakistan.",
+      "topicId": "language",
+      "source": "Banglapedia · Language Movement",
+      "url": "https://en.banglapedia.org/index.php/Language_Movement",
+      "era": "modern"
+    }
+  ]
+}
