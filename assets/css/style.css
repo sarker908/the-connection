@@ -366,3 +366,8 @@ button,a{-webkit-tap-highlight-color:transparent}
 .collection-expand-button:focus-visible{outline:2px solid var(--red);outline-offset:3px}
 .collection-tile-description{max-width:32ch}
 @media(max-width:650px){.collection-more{flex-direction:column;gap:10px}.collection-expand-button{width:100%;padding:14px}}
+
+
+/* World history archive navigation */
+.history-intro{max-width:760px}.history-filters{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin:28px 0 34px}.history-filter{white-space:nowrap}
+@media(max-width:760px){.history-filters{gap:6px}.history-filter{font-size:8px;padding:9px 10px}}
