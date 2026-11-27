@@ -136,14 +136,18 @@ function showJourney(index){
 function fillSelects(){const opts=nodes.slice().sort((a,b)=>a.title.localeCompare(b.title)).map(n=>'<option value="'+esc(n.id)+'">'+esc(n.title)+'</option>').join("");$("#fromTopic").innerHTML=opts;$("#toTopic").innerHTML=opts;$("#toTopic").selectedIndex=Math.min(12,nodes.length-1)}
 function findPath(){const start=$("#fromTopic").value,end=$("#toTopic").value,box=$("#pathResult");if(start===end){box.textContent="Choose two different subjects.";return}const queue=[[start]],seen=new Set([start]);let found=null;while(queue.length){const path=queue.shift(),last=path[path.length-1];if(last===end){found=path;break}for(const e of edges){const next=e.from===last?e.to:e.to===last?e.from:null;if(next&&!seen.has(next)){seen.add(next);queue.push([...path,next])}}}if(!found){box.textContent="No recorded route yet. Try another pair.";return}box.innerHTML="<strong>A route through the atlas</strong>"+found.map((id,i)=>{const n=nodes.find(x=>x.id===id),edge=i?edges.find(e=>(e.from===found[i-1]&&e.to===id)||(e.to===found[i-1]&&e.from===id)):null;return'<div class="path-step">'+(edge?'<small>'+esc(edge.label)+'</small>':"")+'<strong>'+esc(n.title)+'</strong></div>'}).join("");}
 function renderTimeline(){
- const filters=$("#eraFilters");
- filters.innerHTML='<button class="history-filter active" data-era="all">All eras</button>'+historyData.eras.map(e=>'<button class="history-filter" data-era="'+esc(e.id)+'">'+esc(e.label)+'</button>').join("");
- filters.querySelectorAll("button").forEach(btn=>btn.onclick=()=>{activeEra=btn.dataset.era;filters.querySelectorAll("button").forEach(b=>b.classList.toggle("active",b===btn));renderTimelineItems()});
+ const eraSelect=$("#historyEraSelect"),regionSelect=$("#historyRegionSelect");
+ eraSelect.innerHTML='<option value="all">All periods</option>'+historyData.eras.map(e=>'<option value="'+esc(e.id)+'">'+esc(e.label)+' · '+esc(e.range)+'</option>').join("");
+ const regions=[...new Set(historyData.events.map(e=>e.region||"Global"))].sort((a,b)=>a.localeCompare(b));
+ regionSelect.innerHTML='<option value="all">All regions</option>'+regions.map(r=>'<option value="'+esc(r)+'">'+esc(r)+'</option>').join("");
+ eraSelect.onchange=renderTimelineItems;regionSelect.onchange=renderTimelineItems;
  renderTimelineItems();renderPeople();
 }
 function renderTimelineItems(){
- const events=historyData.events.filter(e=>activeEra==="all"||e.era===activeEra).slice().sort((a,b)=>a.sort-b.sort);
- $("#timelineList").innerHTML=events.map(e=>'<article class="history-event"><div class="history-event-date">'+esc(e.date)+'</div><div class="history-event-body"><p class="history-event-era">'+esc((historyData.eras.find(x=>x.id===e.era)||{}).label||"HISTORY")+'</p><h3>'+esc(e.title)+'</h3><p>'+esc(e.summary)+'</p><div class="history-event-links"><a href="'+esc(e.url)+'" target="_blank" rel="noopener noreferrer">'+esc(e.source)+' ↗</a>'+(nodes.some(n=>n.id===e.topicId)?'<button data-topic="'+esc(e.topicId)+'">Explore subject ↗</button>':'')+'</div></div></article>').join("");
+ const era=$("#historyEraSelect").value,region=$("#historyRegionSelect").value;
+ const events=historyData.events.filter(e=>(era==="all"||e.era===era)&&(region==="all"||(e.region||"Global")===region)).slice().sort((a,b)=>a.sort-b.sort);
+ $("#historyResultCount").textContent=events.length+" historical entries";
+ $("#timelineList").innerHTML=events.map(e=>'<article class="history-event"><div class="history-event-date">'+esc(e.date)+'<small>'+esc(e.region||"Global")+'</small></div><div class="history-event-body"><p class="history-event-era">'+esc((historyData.eras.find(x=>x.id===e.era)||{}).label||"HISTORY")+'</p><h3>'+esc(e.title)+'</h3><p>'+esc(e.summary)+'</p><div class="history-event-links"><a href="'+esc(e.url)+'" target="_blank" rel="noopener noreferrer">'+esc(e.source)+' ↗</a>'+(nodes.some(n=>n.id===e.topicId)?'<button data-topic="'+esc(e.topicId)+'">Explore subject ↗</button>':'')+'</div></div></article>').join("")||'<p class="history-empty">No entries in this selection yet. Try another period or region.</p>';
  $("#timelineList").querySelectorAll("[data-topic]").forEach(btn=>btn.onclick=()=>openTopic(btn.dataset.topic));
 }
 function renderPeople(){
