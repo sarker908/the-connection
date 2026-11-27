@@ -778,5 +778,173 @@
     "from": "bengal",
     "to": "dhaka",
     "label": "Dhaka became a major centre of Bengali intellectual life"
+  },
+  {
+    "id": "e131",
+    "from": "satyendranathbose",
+    "to": "quantum",
+    "label": "Developed a quantum-statistical description of particles"
+  },
+  {
+    "id": "e132",
+    "from": "satyendranathbose",
+    "to": "einstein",
+    "label": "Bose's work was extended in collaboration with Einstein"
+  },
+  {
+    "id": "e133",
+    "from": "begumrokeya",
+    "to": "bengal",
+    "label": "A leading voice in the Bengal Renaissance era"
+  },
+  {
+    "id": "e134",
+    "from": "begumrokeya",
+    "to": "writing",
+    "label": "Used fiction and essays to challenge social restrictions"
+  },
+  {
+    "id": "e135",
+    "from": "begumrokeya",
+    "to": "dhaka",
+    "label": "Her legacy is commemorated across Bangladesh"
+  },
+  {
+    "id": "e136",
+    "from": "battleplassey",
+    "to": "mughal",
+    "label": "Marked the East India Company's decisive rise in Bengal"
+  },
+  {
+    "id": "e137",
+    "from": "battleplassey",
+    "to": "permanentsettlement",
+    "label": "Company rule paved the way for later revenue reforms"
+  },
+  {
+    "id": "e138",
+    "from": "battleplassey",
+    "to": "bengal",
+    "label": "A turning point in the political history of Bengal"
+  },
+  {
+    "id": "e139",
+    "from": "permanentsettlement",
+    "to": "bengal",
+    "label": "Reshaped landholding and rural society in Bengal"
+  },
+  {
+    "id": "e140",
+    "from": "partition1905",
+    "to": "swadeshi",
+    "label": "Triggered widespread opposition and boycott campaigns"
+  },
+  {
+    "id": "e141",
+    "from": "partition1905",
+    "to": "dhaka",
+    "label": "Dhaka became the capital of the new eastern province"
+  },
+  {
+    "id": "e142",
+    "from": "partition1905",
+    "to": "bengal",
+    "label": "Redrew the political map of Bengal"
+  },
+  {
+    "id": "e143",
+    "from": "swadeshi",
+    "to": "printing",
+    "label": "Newspapers and pamphlets circulated movement ideas"
+  },
+  {
+    "id": "e144",
+    "from": "swadeshi",
+    "to": "bengal",
+    "label": "Mobilised public opposition to the 1905 partition"
+  },
+  {
+    "id": "e145",
+    "from": "somapura",
+    "to": "pala",
+    "label": "Built under the patronage of the Pala ruler Dharmapala"
+  },
+  {
+    "id": "e146",
+    "from": "somapura",
+    "to": "buddhism",
+    "label": "A major centre of Buddhist learning and practice"
+  },
+  {
+    "id": "e147",
+    "from": "somapura",
+    "to": "sundarbans",
+    "label": "Both are part of Bangladesh's diverse cultural and natural heritage"
+  },
+  {
+    "id": "e148",
+    "from": "dhakauniversity",
+    "to": "dhaka",
+    "label": "Founded in the city in 1921"
+  },
+  {
+    "id": "e149",
+    "from": "dhakauniversity",
+    "to": "language",
+    "label": "Students and teachers were part of the language movement's history"
+  },
+  {
+    "id": "e150",
+    "from": "dhakauniversity",
+    "to": "sixpoint",
+    "label": "Its campus became an important centre of political organising"
+  },
+  {
+    "id": "e151",
+    "from": "sixpoint",
+    "to": "language",
+    "label": "Followed the political mobilisation of the Language Movement"
+  },
+  {
+    "id": "e152",
+    "from": "sixpoint",
+    "to": "liberation",
+    "label": "Helped shape the autonomy movement before the Liberation War"
+  },
+  {
+    "id": "e153",
+    "from": "sixpoint",
+    "to": "massuprising1969",
+    "label": "Its demands became part of the wider protest movement"
+  },
+  {
+    "id": "e154",
+    "from": "massuprising1969",
+    "to": "liberation",
+    "label": "A key stage in the political mobilisation before 1971"
+  },
+  {
+    "id": "e155",
+    "from": "massuprising1969",
+    "to": "language",
+    "label": "Built on earlier demands for political and cultural rights"
+  },
+  {
+    "id": "e156",
+    "from": "bengalfamine1943",
+    "to": "worldwar2",
+    "label": "Occurred during wartime disruption and economic pressure"
+  },
+  {
+    "id": "e157",
+    "from": "bengalfamine1943",
+    "to": "bengal",
+    "label": "Devastated communities across Bengal"
+  },
+  {
+    "id": "e158",
+    "from": "bengalfamine1943",
+    "to": "dhaka",
+    "label": "Affected the wider Bengal region, including areas now in Bangladesh"
   }
 ]
