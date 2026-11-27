@@ -233,10 +233,12 @@
     "type": "Global conflict",
     "icon": "🕊️",
     "featured": false,
-    "short": "A conflict that reshaped the modern world.",
-    "description": "World War II was a global conflict that transformed geopolitics, technology, international institutions and societies.",
+    "short": "The global conflict of 1939–1945, shaped by imperial expansion, alliances, ideology and resistance.",
+    "description": "World War II was a global conflict fought from 1939 to 1945, involving major powers and societies across Europe, Africa, Asia and the Pacific. It grew from aggressive expansion by Nazi Germany, Fascist Italy and Imperial Japan, the failures of the interwar international order, and unresolved conflicts after World War I. The war included occupation, resistance, strategic bombing, mass displacement and genocide, including the Holocaust. It ended with Germany's surrender in May 1945 and Japan's surrender in September 1945, while reshaping borders, international institutions and the balance of global power.",
     "wiki": "https://en.wikipedia.org/wiki/World_War_II",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-005"
   },
   {
     "id": "transistor",
@@ -478,12 +480,14 @@
     "category": "History",
     "year": "c. 800 BCE",
     "type": "Civilization",
-    "description": "The Greek world shaped later traditions in philosophy, mathematics, political thought, drama and scientific inquiry.",
+    "description": "Ancient Greece was not a single unified state but a changing world of independent poleis, regional communities, colonies and kingdoms around the Mediterranean and Black Seas. Its histories include the Archaic and Classical periods, the Persian Wars, the rivalries of Athens and Sparta, Macedonian expansion and the Hellenistic kingdoms after Alexander. Greek-speaking communities developed influential traditions in philosophy, drama, mathematics, historical writing and political debate, while also participating in trade, warfare and cultural exchange with neighbouring societies.",
     "icon": "🏺",
     "featured": false,
-    "short": "The Greek world shaped later traditions in philosophy, mathematics, political thought, drama and scientific inquiry.",
+    "short": "A diverse ancient Mediterranean world whose city-states, kingdoms and networks shaped later histories.",
     "wiki": "https://en.wikipedia.org/wiki/Ancient_Greece",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-005"
   },
   {
     "id": "democracy",
@@ -756,12 +760,14 @@
     "category": "History",
     "year": "1347",
     "type": "Pandemic",
-    "description": "The Black Death devastated populations across Europe, Asia and North Africa and reshaped economies and social life.",
+    "description": "The Black Death was a major wave of plague that spread through parts of Europe, Asia and North Africa in the mid-fourteenth century, with the most severe European outbreaks occurring from 1347 to 1351. The disease was caused by the bacterium Yersinia pestis and spread through complex networks of human movement, trade and animal hosts. Mortality varied greatly by place and the exact totals remain debated. Labour shortages, religious responses, social tensions and changes in land and wages followed, but outcomes differed across regions.",
     "icon": "☠️",
     "featured": false,
-    "short": "The Black Death devastated populations across Europe, Asia and North Africa and reshaped economies and social life.",
+    "short": "A devastating fourteenth-century pandemic that transformed societies across Afro-Eurasia.",
     "wiki": "https://en.wikipedia.org/wiki/Black_Death",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-005"
   },
   {
     "id": "leonardo",
@@ -814,12 +820,14 @@
     "category": "History",
     "year": "c. 3300 BCE",
     "type": "Civilization",
-    "description": "The Indus Valley Civilisation built planned cities with drainage, standardized weights and extensive South Asian trade.",
+    "description": "The Indus or Harappan Civilisation flourished across parts of present-day Pakistan and north-western India, with major urban centres including Harappa and Mohenjo-daro. Its mature urban phase is usually dated to about 2600–1900 BCE. Archaeological evidence shows carefully planned streets, drainage, standardised weights, craft specialisation and trade networks. The Indus script remains undeciphered, so political organisation, language and many religious practices cannot be confidently reconstructed from written records.",
     "icon": "🏙️",
     "featured": false,
-    "short": "The Indus Valley Civilisation built planned cities with drainage, standardized weights and extensive South Asian trade.",
+    "short": "An early South Asian urban civilisation known for planned settlements, craft production and long-distance exchange.",
     "wiki": "https://en.wikipedia.org/wiki/Indus_Valley_Civilisation",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-005"
   },
   {
     "id": "buddhism",
@@ -1013,12 +1021,14 @@
     "category": "History",
     "year": "1526",
     "type": "Empire",
-    "description": "The Mughal Empire governed much of the Indian subcontinent and shaped its architecture, administration, languages, art and foodways.",
-    "short": "The Mughal Empire governed much of the Indian subcontinent and shaped its architecture, administration, languages, art and foodways.",
+    "description": "The Mughal Empire was founded by Babur after his victory at Panipat in 1526 and expanded across much of the Indian subcontinent during the sixteenth and seventeenth centuries. Its rulers combined Central Asian and Persianate court traditions with institutions and alliances developed in South Asia. The empire supported major architectural, literary and artistic projects and managed a vast agrarian economy through layered administrative and revenue systems. Its authority became increasingly contested in the eighteenth century, while the dynasty formally ended after the uprising of 1857.",
+    "short": "An early modern South Asian empire built through conquest, regional alliances and complex administration.",
     "icon": "🏰",
     "featured": false,
     "wiki": "https://en.wikipedia.org/wiki/Mughal_Empire",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-005"
   },
   {
     "id": "bengal",
@@ -1041,12 +1051,14 @@
     "category": "History",
     "year": "1952",
     "type": "Political and cultural movement",
-    "description": "The movement in East Bengal demanded recognition of Bengali as a state language of Pakistan; its legacy is commemorated on International Mother Language Day.",
-    "short": "The movement in East Bengal demanded recognition of Bengali as a state language of Pakistan; its legacy is commemorated on International Mother Language Day.",
+    "description": "The Bengali Language Movement developed in East Pakistan after 1947, when students, intellectuals and political activists opposed the attempt to make Urdu the sole state language of Pakistan. On 21 February 1952, police fired on demonstrators in Dhaka, killing several people. The movement continued through public mobilisation and constitutional debate until Bangla was recognised as one of Pakistan's state languages in 1956. Its history is central to Bangladesh's political development and is commemorated internationally through UNESCO's International Mother Language Day.",
+    "short": "A movement for linguistic recognition that became a foundation of modern Bengali political identity.",
     "icon": "✍️",
     "featured": false,
     "wiki": "https://en.wikipedia.org/wiki/Bengali_language_movement",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-005"
   },
   {
     "id": "liberation",
@@ -1054,12 +1066,14 @@
     "category": "History",
     "year": "1971",
     "type": "War of independence",
-    "description": "The 1971 war led to the independence of Bangladesh after a struggle involving mass displacement, atrocities and a decisive military campaign.",
-    "short": "The 1971 war led to the independence of Bangladesh after a struggle involving mass displacement, atrocities and a decisive military campaign.",
+    "description": "The Bangladesh Liberation War took place from March to December 1971, following a prolonged crisis over political representation, autonomy, economic inequality and state violence in Pakistan. After the 1970 election, the refusal to transfer power to the elected majority deepened the crisis. The Pakistani military crackdown beginning on 25 March 1971 was followed by resistance, mass displacement, atrocities, a refugee crisis and a nine-month war involving Bangladeshi forces and Indian military intervention in its final phase. Pakistan's forces surrendered in Dhaka on 16 December 1971.",
+    "short": "The 1971 war through which Bangladesh emerged as an independent state.",
     "icon": "🇧🇩",
     "featured": false,
     "wiki": "https://en.wikipedia.org/wiki/Bangladesh_Liberation_War",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-005"
   },
   {
     "id": "dhaka",
@@ -1067,12 +1081,14 @@
     "category": "Geography",
     "year": "c. 17th century",
     "type": "City",
-    "description": "Dhaka grew as an important Mughal provincial capital and later became the capital of Bangladesh, shaped by rivers, trade and migration.",
-    "short": "Dhaka grew as an important Mughal provincial capital and later became the capital of Bangladesh, shaped by rivers, trade and migration.",
+    "description": "Dhaka developed along the river networks of the Bengal delta and became a major Mughal provincial capital in the early seventeenth century, when it was known as Jahangirnagar. Its location supported administration, river transport, trade and textile production, including the famous cotton muslins of the region. The city's political status shifted during later Mughal and colonial periods before it became the capital of East Pakistan and then independent Bangladesh in 1971. Modern Dhaka's growth reflects migration, industrialisation, state-building and urban pressure.",
+    "short": "A riverine city whose history includes Mughal provincial rule, colonial change and the making of modern Bangladesh.",
     "icon": "🏙️",
     "featured": false,
     "wiki": "https://en.wikipedia.org/wiki/Dhaka",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-005"
   },
   {
     "id": "sundarbans",
@@ -1123,12 +1139,14 @@
     "category": "History",
     "year": "c. 750",
     "type": "Empire",
-    "description": "The Pala dynasty ruled large parts of Bengal and Bihar and supported Buddhist institutions, scholarship and art across Asia.",
-    "short": "The Pala dynasty ruled large parts of Bengal and Bihar and supported Buddhist institutions, scholarship and art across Asia.",
+    "description": "The Pala dynasty was established by Gopala in the mid-eighth century and ruled large parts of Bengal and Bihar for several centuries, with periods of expansion and decline. Rulers such as Dharmapala and Devapala supported Buddhist monasteries and centres of learning, including institutions linked to the wider Buddhist world. Pala sculpture, bronze casting and architecture developed distinctive styles that influenced artistic exchange across eastern South Asia and beyond.",
+    "short": "A long-lasting Buddhist dynasty that helped shape Bengal, Bihar and trans-Asian intellectual networks.",
     "icon": "🏛️",
     "featured": false,
     "wiki": "https://en.wikipedia.org/wiki/Pala_Empire",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-005"
   },
   {
     "id": "monsoon",
@@ -1136,12 +1154,14 @@
     "category": "Geography",
     "year": "—",
     "type": "Climate system",
-    "description": "Seasonal wind reversals bring concentrated rainfall across South and Southeast Asia, shaping agriculture, settlement and everyday life.",
-    "short": "Seasonal wind reversals bring concentrated rainfall across South and Southeast Asia, shaping agriculture, settlement and everyday life.",
+    "description": "A monsoon is a seasonal reversal in prevailing winds associated with large-scale differences in heating between land and ocean, interacting with atmospheric circulation, topography and ocean conditions. The South Asian summer monsoon brings moisture-laden winds and much of the region's annual rainfall, while the winter circulation is generally drier over much of the subcontinent. The monsoon varies from year to year and within a season, and its rainfall is influenced by phenomena such as the Indian Ocean Dipole and El Niño–Southern Oscillation.",
+    "short": "A seasonal atmospheric circulation system that shapes rainfall, agriculture and water systems across South Asia.",
     "icon": "🌧️",
     "featured": false,
     "wiki": "https://en.wikipedia.org/wiki/Monsoon",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-005"
   },
   {
     "id": "printingpress",
@@ -1257,10 +1277,12 @@
     "type": "Writer and social reformer",
     "icon": "✍️",
     "featured": false,
-    "short": "A Bengali writer and advocate of women's education.",
-    "description": "Begum Rokeya Sakhawat Hossain was a Bengali writer, educator and social reformer. Her 1905 satire Sultana's Dream imagined a society led by women, while her work and educational initiatives challenged restrictions on women's learning and public life.",
+    "short": "A Bengali writer and educator whose work challenged restrictions on women's education and public life.",
+    "description": "Begum Rokeya Sakhawat Hossain (1880–1932) was a Bengali writer, educator and social reformer from Rangpur. Her writing, including the English-language feminist utopian story Sultana's Dream, questioned gender hierarchy and imagined alternative social arrangements. She worked to expand girls' education and established the Sakhawat Memorial Girls' School in Calcutta. Her ideas emerged within the social and intellectual conditions of colonial Bengal and addressed both women's access to learning and their participation in public life.",
     "wiki": "https://en.wikipedia.org/wiki/Begum_Rokeya",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-005"
   },
   {
     "id": "battleplassey",
@@ -1270,10 +1292,12 @@
     "type": "Battle",
     "icon": "⚔️",
     "featured": false,
-    "short": "A turning point in the East India Company's rise in Bengal.",
-    "description": "Fought on 23 June 1757, the Battle of Plassey pitted the forces of Nawab Siraj ud-Daulah against the British East India Company led by Robert Clive. The Nawab's defeat, amid defections among his commanders, opened the way for the Company to expand its political and revenue power in Bengal.",
+    "short": "The 1757 battle that helped the East India Company gain decisive political influence in Bengal.",
+    "description": "The Battle of Plassey was fought on 23 June 1757 between the forces of the Nawab of Bengal, Siraj ud-Daulah, and the English East India Company led by Robert Clive. The outcome depended heavily on defections and political intrigue within the Nawab's camp, especially the role of Mir Jafar, rather than on a simple contest of military strength. The victory enabled the Company to install a new ruler and expand its political and revenue influence, helping transform a trading corporation into a territorial power.",
     "wiki": "https://en.wikipedia.org/wiki/Battle_of_Plassey",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-005"
   },
   {
     "id": "permanentsettlement",
@@ -1283,10 +1307,12 @@
     "type": "Colonial land-revenue policy",
     "icon": "📜",
     "featured": false,
-    "short": "A colonial land system that reshaped rural Bengal.",
-    "description": "Introduced by the East India Company in 1793 under Governor-General Lord Cornwallis, the Permanent Settlement fixed the land revenue owed by zamindars to the colonial state and recognised them as proprietors. Cultivators did not receive equivalent protections, and the system reshaped agrarian power and rent relations in Bengal.",
+    "short": "The 1793 colonial land-revenue system that reshaped agrarian relations in Bengal.",
+    "description": "The Permanent Settlement was introduced by the East India Company in Bengal in 1793 under Governor-General Lord Cornwallis. It fixed the land revenue demanded from zamindars and recognised them as proprietors under the colonial legal order, while cultivators did not receive equivalent security. Zamindars faced strict revenue deadlines and risked losing estates through sale if payments were not made. The system altered landlord-tenant relations and the rural political economy, though its effects varied by locality and over time.",
     "wiki": "https://en.wikipedia.org/wiki/Permanent_Settlement",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-005"
   },
   {
     "id": "partition1905",
@@ -1296,10 +1322,12 @@
     "type": "Colonial administrative change",
     "icon": "🗺️",
     "featured": false,
-    "short": "A controversial division that transformed politics in Bengal.",
-    "description": "The British government partitioned Bengal on 16 October 1905, creating the province of Eastern Bengal and Assam alongside a reorganised western province. Officials presented the change as administrative reorganisation, while opposition to it fuelled the Swadeshi movement. The partition was annulled in 1911.",
+    "short": "The 1905 colonial reorganisation that intensified political mobilisation and competing regional identities.",
+    "description": "The British government partitioned Bengal on 16 October 1905, creating the province of Eastern Bengal and Assam while reorganising the remaining Bengal province. Officials defended the change as an administrative response to a very large province, while critics saw political motives and a threat to Bengali political solidarity. Responses differed across communities, classes and regions: many Hindu-led organisations opposed the partition, while sections of the Muslim population welcomed the new province as an opportunity for greater representation. The partition was annulled in 1911, but its political consequences endured.",
     "wiki": "https://en.wikipedia.org/wiki/Partition_of_Bengal_(1905)",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-005"
   },
   {
     "id": "swadeshi",
@@ -1309,10 +1337,12 @@
     "type": "Anti-colonial movement",
     "icon": "🧵",
     "featured": false,
-    "short": "A campaign for locally made goods and resistance to partition.",
-    "description": "The Swadeshi movement grew in response to the 1905 Partition of Bengal. Supporters promoted locally made goods, boycotted many British imports and built campaigns around education, public meetings and indigenous enterprise. Its social and political character varied across communities and regions.",
+    "short": "A movement for economic self-reliance and anti-colonial mobilisation, especially after Bengal's partition in 1905.",
+    "description": "The Swadeshi Movement grew in Bengal in response to the 1905 partition and promoted the use of locally made goods while boycotting selected imported British products. It connected economic protest with public meetings, songs, education initiatives, local enterprise and political organising. The movement influenced nationalist politics beyond Bengal, but its reach and social composition were uneven. Its rhetoric and practices could also exclude or alienate some communities, making its history more complex than a simple story of universal unity.",
     "wiki": "https://en.wikipedia.org/wiki/Swadeshi_movement",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-005"
   },
   {
     "id": "somapura",
@@ -1322,10 +1352,12 @@
     "type": "Buddhist monastery and archaeological site",
     "icon": "🏛️",
     "featured": false,
-    "short": "A major Buddhist learning centre at Paharpur, Bangladesh.",
-    "description": "Built under the Pala ruler Dharmapala, Somapura Mahavihara at Paharpur became a renowned Buddhist intellectual centre. Its monumental central shrine, quadrangular monastery and terracotta decoration influenced Buddhist architecture beyond Bengal. UNESCO inscribed the ruins as a World Heritage Site in 1985.",
+    "short": "A major Pala-period Buddhist monastery and intellectual centre at Paharpur in present-day Bangladesh.",
+    "description": "Somapura Mahavihara at Paharpur was a major Buddhist monastery established under Pala patronage, commonly associated with King Dharmapala in the late eighth or early ninth century. Its monumental central shrine, quadrangular plan, monastic cells and terracotta decoration make it one of the most important archaeological sites in Bangladesh. The monastery formed part of wider networks of Buddhist learning and artistic exchange across South and Southeast Asia. UNESCO inscribed the ruins as a World Heritage Site in 1985.",
     "wiki": "https://en.wikipedia.org/wiki/Somapura_Mahavihara",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-005"
   },
   {
     "id": "dhakauniversity",
@@ -1348,10 +1380,12 @@
     "type": "Political movement",
     "icon": "✊",
     "featured": false,
-    "short": "A programme demanding far-reaching autonomy for East Pakistan.",
-    "description": "Presented by Sheikh Mujibur Rahman in 1966, the Six-Point Programme called for a federal structure with limited central powers and substantial autonomy for East Pakistan, including control over taxation and economic policy. It became a major organising platform in the political struggle that preceded Bangladesh's independence.",
+    "short": "The 1966 autonomy programme that became a major turning point in East Pakistan's political struggle.",
+    "description": "Sheikh Mujibur Rahman presented the Six-Point Programme in 1966 as a constitutional plan for far-reaching autonomy for East Pakistan within a federal Pakistan. Its proposals focused on a parliamentary federal system, central powers limited mainly to defence and foreign affairs, separate or safeguarded monetary arrangements, provincial control over taxation and revenue, and regional security arrangements. The programme emerged from longstanding grievances about political power and economic disparities and became a rallying point for Bengali nationalism.",
     "wiki": "https://en.wikipedia.org/wiki/Six_point_movement",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-005"
   },
   {
     "id": "massuprising1969",
@@ -1361,10 +1395,12 @@
     "type": "Popular uprising",
     "icon": "📣",
     "featured": false,
-    "short": "A mass movement that challenged military rule in East Pakistan.",
-    "description": "The 1969 mass uprising brought students, workers and wider sections of society into protests against the Ayub Khan regime in Pakistan. The movement helped force the withdrawal of the Agartala Conspiracy Case and the release of Sheikh Mujibur Rahman, weakening the regime's authority in East Pakistan.",
+    "short": "A broad popular movement that challenged Ayub Khan's military regime in East Pakistan.",
+    "description": "The 1969 Mass Uprising in East Pakistan brought together students, workers, political groups and wider sections of society against the military regime of Ayub Khan. It developed from opposition to authoritarian rule, economic inequality and political repression, and drew strength from student demands as well as earlier autonomy movements. The killing of student leader Asaduzzaman on 20 January 1969 became a major turning point. The uprising contributed to Ayub Khan's resignation and transformed the political landscape before the 1970 election.",
     "wiki": "https://en.wikipedia.org/wiki/1969_East_Pakistan_mass_uprising",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-005"
   },
   {
     "id": "bengalfamine1943",
@@ -1374,10 +1410,12 @@
     "type": "Humanitarian disaster",
     "icon": "📰",
     "featured": false,
-    "short": "A devastating famine in wartime Bengal.",
-    "description": "The Bengal famine of 1943 caused mass starvation and disease across the region during the Second World War. Historians examine interacting causes including wartime disruption, inflation, food-market failures, policy decisions and unequal access to food. Estimates of deaths vary by source and method.",
+    "short": "A catastrophic wartime famine shaped by food access, inflation, policy and colonial governance.",
+    "description": "The Bengal Famine of 1943 caused mass death and suffering in British-ruled Bengal during World War II. Historians have examined the interaction of wartime inflation, loss of rice imports from Burma, crop and market disruptions, unequal purchasing power, panic and hoarding, transport and distribution problems, and government policy. Scholarship debates the relative weight of these factors, but the famine cannot be explained as a simple result of a single crop failure. The official Famine Inquiry Commission reported in 1945 and remains an important primary source to read critically alongside later research.",
     "wiki": "https://en.wikipedia.org/wiki/Bengal_famine_of_1943",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-005"
   },
   {
     "id": "bengalregion",
@@ -1387,10 +1425,12 @@
     "type": "Historical and geographic region",
     "icon": "🌾",
     "featured": false,
-    "short": "A river-shaped region with a long, connected history.",
-    "description": "The Bengal delta is formed by the Ganges, Brahmaputra and Meghna river systems. Its waterways, fertile floodplains and links to the Bay of Bengal shaped settlement, agriculture, trade and cultural exchange across a region that today spans Bangladesh and parts of eastern India.",
+    "short": "A vast river delta shaped by the Ganges, Brahmaputra and Meghna systems and human settlement.",
+    "description": "The Bengal Delta is a dynamic river and coastal landscape formed by sediment carried through the Ganges, Brahmaputra and Meghna river systems toward the Bay of Bengal. Its channels, floodplains, wetlands and coastal islands continually change through sediment deposition, erosion, tides and monsoon flows. The delta supports dense settlement and agriculture but is exposed to flooding, cyclones, salinity intrusion and land loss. Human adaptation includes embankments, drainage, crop choices, river transport and changing settlement patterns.",
     "wiki": "https://en.wikipedia.org/wiki/Bengal_delta",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-005"
   },
   {
     "id": "binary",
@@ -1643,12 +1683,14 @@
     "category": "Culture",
     "year": "Ancient China",
     "type": "Material and trade",
-    "description": "A prized textile whose production and trade connected East Asia with distant markets and helped name the Silk Road.",
-    "short": "A prized textile whose production and trade connected East Asia with distant markets and helped name the Silk Road.",
+    "description": "Silk is a natural protein fibre produced by silkworms, especially the domesticated silkworm Bombyx mori. Sericulture and silk weaving developed in China in antiquity, and silk became a high-value textile exchanged across long-distance land and maritime networks. The routes later called the Silk Roads carried not only textiles but also technologies, religious ideas, artistic styles and knowledge. Silk production eventually spread beyond China, while local weaving traditions adapted the material to different markets and cultures.",
+    "short": "A natural protein fibre whose production and trade connected East Asia with wider Eurasian networks.",
     "icon": "🧵",
     "featured": false,
     "wiki": "https://en.wikipedia.org/wiki/Silk",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-005"
   },
   {
     "id": "olympics",
@@ -1669,12 +1711,14 @@
     "category": "Culture",
     "year": "Late 19th century",
     "type": "Musical tradition",
-    "description": "A musical form rooted in African American communities, known for improvisation, syncopation and evolving styles.",
-    "short": "A musical form rooted in African American communities, known for improvisation, syncopation and evolving styles.",
+    "description": "Jazz developed around the turn of the twentieth century in African American communities, especially in New Orleans, through the interaction of blues, ragtime, spirituals, brass-band traditions and other musical practices. Improvisation, syncopation, swing and distinctive approaches to rhythm and ensemble interaction became important features, though styles vary widely. Migration, touring and recording helped jazz spread across the United States and internationally, while Black musicians and communities remained central to its history.",
+    "short": "A musical tradition rooted in African American communities, shaped by improvisation, migration and cultural exchange.",
     "icon": "🎷",
     "featured": false,
     "wiki": "https://en.wikipedia.org/wiki/Jazz",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-005"
   },
   {
     "id": "mona",
@@ -1862,12 +1906,14 @@
     "category": "History",
     "year": "1820",
     "type": "Educator and reformer",
-    "description": "A Bengali educator and reformer who campaigned for education, widow remarriage and social change.",
-    "short": "A Bengali educator and reformer who campaigned for education, widow remarriage and social change.",
+    "description": "Ishwar Chandra Vidyasagar (1820–1891) was a Bengali scholar, educator and social reformer associated with the development of modern Bengali prose and educational institutions. He argued for women's education and campaigned for Hindu widow remarriage, helping build public and legislative support for the Hindu Widows' Remarriage Act of 1856. His work combined scholarship, publishing, institution-building and public advocacy, while also taking place within the contested social and colonial politics of nineteenth-century Bengal.",
+    "short": "A nineteenth-century Bengali educator and reformer who reshaped prose, schooling and debates on widow remarriage.",
     "icon": "📜",
     "featured": false,
     "wiki": "https://en.wikipedia.org/wiki/Ishwar_Chandra_Vidyasagar",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-005"
   },
   {
     "id": "nazrul",
@@ -1875,12 +1921,14 @@
     "category": "Arts & Literature",
     "year": "1899",
     "type": "Poet and musician",
-    "description": "The Bengali poet known as the Rebel Poet, whose writing and music challenged oppression and celebrated human freedom.",
-    "short": "The Bengali poet known as the Rebel Poet, whose writing and music challenged oppression and celebrated human freedom.",
+    "description": "Kazi Nazrul Islam (1899–1976) was a Bengali poet, composer, journalist and activist whose writing earned him the title Rebel Poet. His poems and songs challenged colonial rule, social oppression and communal division, while drawing on a wide range of Bengali, Islamic, Hindu and other cultural references. He wrote across poetry, songs, essays and journalism, and his compositions became a major part of Bengali musical life. Illness later left him unable to continue his earlier literary work.",
+    "short": "A Bengali poet, musician and public voice whose work challenged oppression and crossed cultural boundaries.",
     "icon": "🎼",
     "featured": false,
     "wiki": "https://en.wikipedia.org/wiki/Kazi_Nazrul_Islam",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-005"
   },
   {
     "id": "mujib",
@@ -1914,12 +1962,14 @@
     "category": "Culture",
     "year": "Ancient to 19th century",
     "type": "Textile tradition",
-    "description": "Fine cotton muslin produced in Bengal became renowned in international trade for its lightness and craftsmanship.",
-    "short": "Fine cotton muslin produced in Bengal became renowned in international trade for its lightness and craftsmanship.",
+    "description": "Bengal muslin refers to exceptionally fine handwoven cotton textiles associated especially with the Dhaka region and nearby weaving centres. Their production depended on skilled spinners and weavers, fine cotton fibres, specialised techniques and local environmental and commercial conditions. Mughal patronage and international trade helped make Dhaka muslins renowned in distant markets, including Europe. The history also includes colonial commercial restructuring and the decline and later revival of textile traditions, while Jamdani weaving preserves related skills.",
+    "short": "A celebrated fine cotton textile produced by skilled weavers in the Bengal region and traded across continents.",
     "icon": "🧶",
     "featured": false,
     "wiki": "https://en.wikipedia.org/wiki/Muslin",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-005"
   },
   {
     "id": "languagebangla",

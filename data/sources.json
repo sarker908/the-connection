@@ -18055,7 +18055,8 @@
         "Research and further reading"
       ],
       "topicIds": [
-        "silkroad"
+        "silkroad",
+        "silkprinting"
       ],
       "sourceClass": "institutional"
     },
@@ -18840,6 +18841,279 @@
         "printingreform"
       ],
       "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1990",
+      "title": "The Holocaust and World War II: Key Dates",
+      "publisher": "United States Holocaust Memorial Museum",
+      "url": "https://encyclopedia.ushmm.org/content/en/article/the-holocaust-and-world-war-ii-key-dates",
+      "roles": [
+        "Subject-specific reference used in Research Batch 005; linked for provenance and further reading"
+      ],
+      "topicIds": [
+        "worldwar2"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1991",
+      "title": "Ancient Greece",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/place/ancient-Greece",
+      "roles": [
+        "Subject-specific reference used in Research Batch 005; linked for provenance and further reading"
+      ],
+      "topicIds": [
+        "ancientgreece"
+      ],
+      "sourceClass": "encyclopedia"
+    },
+    {
+      "id": "src-1992",
+      "title": "Black Death",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/event/Black-Death",
+      "roles": [
+        "Subject-specific reference used in Research Batch 005; linked for provenance and further reading"
+      ],
+      "topicIds": [
+        "blackdeath"
+      ],
+      "sourceClass": "encyclopedia"
+    },
+    {
+      "id": "src-1993",
+      "title": "Archaeological Ruins at Moenjodaro",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/138/",
+      "roles": [
+        "Subject-specific reference used in Research Batch 005; linked for provenance and further reading"
+      ],
+      "topicIds": [
+        "indus"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1994",
+      "title": "The Mughal Empire",
+      "publisher": "Oxford Research Encyclopedia of Asian History",
+      "url": "https://academic.oup.com/edited-volume/61799/chapter-abstract/546326958",
+      "roles": [
+        "Subject-specific reference used in Research Batch 005; linked for provenance and further reading"
+      ],
+      "topicIds": [
+        "mughal"
+      ],
+      "sourceClass": "academic"
+    },
+    {
+      "id": "src-1995",
+      "title": "International Mother Language Day",
+      "publisher": "UNESCO",
+      "url": "https://www.unesco.org/en/days/mother-language",
+      "roles": [
+        "Subject-specific reference used in Research Batch 005; linked for provenance and further reading"
+      ],
+      "topicIds": [
+        "language"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1996",
+      "title": "War of Liberation, The",
+      "publisher": "Banglapedia",
+      "url": "https://en.banglapedia.org/index.php?title=War_of_Liberation%2C_The",
+      "roles": [
+        "Subject-specific reference used in Research Batch 005; linked for provenance and further reading"
+      ],
+      "topicIds": [
+        "liberation"
+      ],
+      "sourceClass": "encyclopedia"
+    },
+    {
+      "id": "src-1997",
+      "title": "Paharpur and Bagerhat",
+      "publisher": "UNESCO Archives",
+      "url": "https://www.unesco.org/archives/multimedia/document-3936",
+      "roles": [
+        "Subject-specific reference used in Research Batch 005; linked for provenance and further reading"
+      ],
+      "topicIds": [
+        "pala"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1998",
+      "title": "Unity and Difference in a Divided Homeland: 1905–11",
+      "publisher": "Oxford Academic",
+      "url": "https://academic.oup.com/book/3076/chapter-abstract/143844759",
+      "roles": [
+        "Subject-specific reference used in Research Batch 005; linked for provenance and further reading"
+      ],
+      "topicIds": [
+        "partition1905"
+      ],
+      "sourceClass": "academic"
+    },
+    {
+      "id": "src-1999",
+      "title": "The New Spirit 1900–1909",
+      "publisher": "Oxford Academic",
+      "url": "https://academic.oup.com/book/9049/chapter-abstract/155562589",
+      "roles": [
+        "Subject-specific reference used in Research Batch 005; linked for provenance and further reading"
+      ],
+      "topicIds": [
+        "swadeshi"
+      ],
+      "sourceClass": "academic"
+    },
+    {
+      "id": "src-2000",
+      "title": "Supreme Sacrifice in 1971",
+      "publisher": "Bangladesh Police",
+      "url": "https://www.police.gov.bd/en/supreme_sacrifice_in_1971",
+      "roles": [
+        "Subject-specific reference used in Research Batch 005; linked for provenance and further reading"
+      ],
+      "topicIds": [
+        "sixpoint"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-2001",
+      "title": "Asad, Shaheed",
+      "publisher": "Banglapedia",
+      "url": "https://en.banglapedia.org/index.php?title=Asad%2C_Shaheed",
+      "roles": [
+        "Subject-specific reference used in Research Batch 005; linked for provenance and further reading"
+      ],
+      "topicIds": [
+        "massuprising1969"
+      ],
+      "sourceClass": "encyclopedia"
+    },
+    {
+      "id": "src-2002",
+      "title": "Famine Inquiry Commission: Report on Bengal",
+      "publisher": "University of North Bengal Institutional Repository",
+      "url": "https://ir.nbu.ac.in/handle/123456789/1939",
+      "roles": [
+        "Subject-specific reference used in Research Batch 005; linked for provenance and further reading"
+      ],
+      "topicIds": [
+        "bengalfamine1943"
+      ],
+      "sourceClass": "academic"
+    },
+    {
+      "id": "src-2003",
+      "title": "Rokeya Sakhawat Hossain",
+      "publisher": "Islam Museum",
+      "url": "https://www.islam.museum/en/person/rokeya-sakhawat-hossain/",
+      "roles": [
+        "Subject-specific reference used in Research Batch 005; linked for provenance and further reading"
+      ],
+      "topicIds": [
+        "begumrokeya"
+      ],
+      "sourceClass": "museum"
+    },
+    {
+      "id": "src-2004",
+      "title": "Islam, Kazi Nazrul",
+      "publisher": "Banglapedia",
+      "url": "https://en.banglapedia.org/index.php?lang=en&title=Islam%2C_Kazi_Nazrul",
+      "roles": [
+        "Subject-specific reference used in Research Batch 005; linked for provenance and further reading"
+      ],
+      "topicIds": [
+        "nazrul"
+      ],
+      "sourceClass": "encyclopedia"
+    },
+    {
+      "id": "src-2005",
+      "title": "Women",
+      "publisher": "Banglapedia",
+      "url": "https://en.banglapedia.org/index.php?title=Women",
+      "roles": [
+        "Subject-specific reference used in Research Batch 005; linked for provenance and further reading"
+      ],
+      "topicIds": [
+        "vidyasagar"
+      ],
+      "sourceClass": "encyclopedia"
+    },
+    {
+      "id": "src-2006",
+      "title": "Monsoon",
+      "publisher": "Banglapedia",
+      "url": "https://en.banglapedia.org/index.php/Monsoon",
+      "roles": [
+        "Subject-specific reference used in Research Batch 005; linked for provenance and further reading"
+      ],
+      "topicIds": [
+        "monsoon"
+      ],
+      "sourceClass": "encyclopedia"
+    },
+    {
+      "id": "src-2007",
+      "title": "Investment Plan for Bangladesh Delta Plan 2100",
+      "publisher": "World Bank Documents",
+      "url": "https://documents.worldbank.org/curated/en/890611546628658220/pdf/Investment-Plan-for-BDP-2100.pdf",
+      "roles": [
+        "Subject-specific reference used in Research Batch 005; linked for provenance and further reading"
+      ],
+      "topicIds": [
+        "bengalregion"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-2008",
+      "title": "Mughal Forts on Fluvial Terrains in Dhaka",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/tentativelists/6675/",
+      "roles": [
+        "Subject-specific reference used in Research Batch 005; linked for provenance and further reading"
+      ],
+      "topicIds": [
+        "dhaka"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-2009",
+      "title": "Jazz",
+      "publisher": "Smithsonian Music",
+      "url": "https://music.si.edu/story/jazz/",
+      "roles": [
+        "Subject-specific reference used in Research Batch 005; linked for provenance and further reading"
+      ],
+      "topicIds": [
+        "jazz"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-2010",
+      "title": "Art and Crafts",
+      "publisher": "Banglapedia",
+      "url": "https://en.banglapedia.org/index.php?title=Art_and_Crafts",
+      "roles": [
+        "Subject-specific reference used in Research Batch 005; linked for provenance and further reading"
+      ],
+      "topicIds": [
+        "bengaltextile"
+      ],
+      "sourceClass": "encyclopedia"
     }
   ]
 }

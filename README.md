@@ -40,13 +40,13 @@ This is a growing, selective collection, not a claim to represent every relation
 
 ## Source register and verification
 
-`data/sources.json` is the central source-link registry. Each record has a stable ID, title, publisher, URL, role and the subject IDs it supports. Repeated URLs are consolidated into one record with merged subject IDs and source roles. The registry contains 1365 unique URL records: 1138 encyclopedia, 68 academic or educational, 157 institutional or official, 1 museum and 1 reference record. Some references support timeline or biographical entries rather than a subject page, so their topic ID list is intentionally empty. Source classes describe the type of source, not a quality score. 
+`data/sources.json` is the central source-link registry. Each record has a stable ID, title, publisher, URL, role and the subject IDs it supports. Repeated URLs are consolidated into one record with merged subject IDs and source roles. The registry contains 1386 unique URL records. Source classes describe the type of source, not a quality score. Some references support timeline or biographical entries rather than a subject page, so their topic ID list is intentionally empty. Source classes describe the type of source, not a quality score. 
 
 The registry is a provenance layer, not an automatic credibility score. A link being present does not mean every claim has been independently audited. Wikipedia is labelled as a general reference and discovery starting point. Subject-specific research should progressively add primary documents, peer-reviewed work and specialist institutional publications, especially for technical, disputed or sensitive claims. Historical and biographical links are retained as references to the corresponding archive entries.
 
 ## Research-enriched subjects
 
-Four focused research batches have now enriched foundational subjects and selected entries across global history, public health, climate, engineering, philosophy, literature, culture, politics and economics. Batch 004 adds 25 existing subjects, 50 claim-level records and 19 new specialist references. All remain marked `research-enriched` and `editorial-review-pending` until a separate independent editorial review is documented.
+Five focused research batches have enriched foundational subjects and selected entries across global history, public health, climate, engineering, philosophy, literature, culture, politics, economics and South Asian history. Batch 004 added 25 subjects and 50 claims; Batch 005 adds a further 25 existing subjects, 50 claim-level records and 21 new subject-specific references. All remain marked `research-enriched` and `editorial-review-pending` until a separate independent editorial review is documented.
 
 ## Knowledge quality standard
 
@@ -96,3 +96,15 @@ This batch deepens 25 subjects with existing cross-disciplinary relationships. I
 **Editorial status:** research-enriched, not expert-reviewed. Claim references support traceability and further reading; they do not certify every sentence as independently verified. Historical interpretation, specialist context and source quality still require a separate editorial review.
 
 **Structural audit:** 2280 subjects, 1663 relationships, 1365 source records and 186 claim records. All relationship endpoints, claim subject IDs and claim source IDs resolve. Every Batch 004 subject has at least one existing relationship and two distinct references.
+
+
+## Research Batch 005: Global History, Bengal and Cultural Exchange
+
+**Completed:** 28 November 2026  
+**Subjects enriched:** 25 existing subjects  
+**New claim-level records:** 50  
+**New specialist source records:** 21
+
+This batch strengthens 25 existing subjects spanning World War II, Ancient Greece, the Black Death, the Indus and Mughal civilisations, Bengal's political history, the 1971 Liberation War, the Bengal famine, Bengali writers and reformers, the South Asian monsoon, the Bengal Delta, Dhaka, Somapura Mahavihara, silk networks, jazz and Bengal muslin. Two claim-level statements per subject are linked to distinct references. Existing subject IDs, collections and relationships were preserved.
+
+**Editorial status:** research-enriched, not expert-reviewed. Historical interpretation, contested casualty estimates, colonial policy and political narratives require independent review. References provide traceability and further reading; they do not certify every sentence.

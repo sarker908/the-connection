@@ -2245,6 +2245,606 @@
       "claimType": "historical-or-conceptual",
       "reviewStatus": "editorial-review-pending",
       "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0187",
+      "subjectId": "worldwar2",
+      "claim": "World War II lasted from 1939 to 1945 and became a truly global conflict across multiple continents and oceans.",
+      "sourceIds": [
+        "src-017",
+        "src-1990"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0188",
+      "subjectId": "worldwar2",
+      "claim": "The war's causes and consequences cannot be explained only through European events; the war in Asia began earlier, and colonial subjects, occupied peoples and resistance movements shaped its course.",
+      "sourceIds": [
+        "src-017",
+        "src-1990"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0189",
+      "subjectId": "ancientgreece",
+      "claim": "Ancient Greece consisted of diverse communities and political systems, especially city-states, rather than one continuous unified nation.",
+      "sourceIds": [
+        "src-034",
+        "src-1991"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0190",
+      "subjectId": "ancientgreece",
+      "claim": "Athenian democracy was historically important but limited to a portion of the population; women, enslaved people and resident foreigners were excluded from citizenship.",
+      "sourceIds": [
+        "src-034",
+        "src-1991"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0191",
+      "subjectId": "blackdeath",
+      "claim": "The Black Death was a pandemic of plague caused by Yersinia pestis that devastated many communities across Afro-Eurasia in the fourteenth century.",
+      "sourceIds": [
+        "src-054",
+        "src-1992"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0192",
+      "subjectId": "blackdeath",
+      "claim": "Its demographic and economic consequences varied across regions; it did not produce one uniform or immediate transformation of medieval society.",
+      "sourceIds": [
+        "src-054",
+        "src-1992"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0193",
+      "subjectId": "indus",
+      "claim": "The mature Harappan urban phase flourished around 2600–1900 BCE across a large region of South Asia.",
+      "sourceIds": [
+        "src-058",
+        "src-1993"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0194",
+      "subjectId": "indus",
+      "claim": "Because the Indus script has not been deciphered, claims about its rulers, language and religious beliefs remain uncertain and must be distinguished from archaeological evidence.",
+      "sourceIds": [
+        "src-058",
+        "src-1993"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0195",
+      "subjectId": "mughal",
+      "claim": "The Mughal dynasty began its rule in northern India in 1526 and developed into one of the major early modern empires of South Asia.",
+      "sourceIds": [
+        "src-072",
+        "src-1994"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0196",
+      "subjectId": "mughal",
+      "claim": "Mughal rule was neither culturally uniform nor uncontested; regional elites, diverse communities, local economies and changing political alliances shaped the empire.",
+      "sourceIds": [
+        "src-072",
+        "src-1994"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0197",
+      "subjectId": "language",
+      "claim": "The Language Movement began soon after Pakistan's creation and reached a decisive and tragic turning point on 21 February 1952 in Dhaka.",
+      "sourceIds": [
+        "src-213",
+        "src-1995"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0198",
+      "subjectId": "language",
+      "claim": "The movement was broader than one day's protest: it involved years of organising, debate and demands for linguistic and cultural rights.",
+      "sourceIds": [
+        "src-213",
+        "src-1995"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0199",
+      "subjectId": "liberation",
+      "claim": "The Liberation War culminated in Bangladesh's independence in December 1971 after a nine-month conflict.",
+      "sourceIds": [
+        "src-216",
+        "src-1996"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0200",
+      "subjectId": "liberation",
+      "claim": "The war's history includes civilian suffering, mass displacement, organised resistance and international involvement; casualty estimates and some aspects of the conflict remain subjects of historical research.",
+      "sourceIds": [
+        "src-216",
+        "src-1996"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0201",
+      "subjectId": "pala",
+      "claim": "Gopala established Pala rule in Bengal in the mid-eighth century, beginning a dynasty that endured for several centuries.",
+      "sourceIds": [
+        "src-191",
+        "src-1997"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0202",
+      "subjectId": "pala",
+      "claim": "The Palas were important patrons of Buddhism, but their kingdom was politically and religiously diverse and changed considerably over time.",
+      "sourceIds": [
+        "src-191",
+        "src-1997"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0203",
+      "subjectId": "battleplassey",
+      "claim": "The East India Company's victory at Plassey in 1757 helped it secure political influence over Bengal through alliances and the installation of Mir Jafar.",
+      "sourceIds": [
+        "src-199",
+        "src-200"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0204",
+      "subjectId": "battleplassey",
+      "claim": "Plassey was not by itself the complete conquest of India; it was one stage in a longer process of Company expansion, military conflict and revenue control.",
+      "sourceIds": [
+        "src-199",
+        "src-200"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0205",
+      "subjectId": "permanentsettlement",
+      "claim": "The Permanent Settlement of 1793 fixed the revenue obligation of zamindars to the East India Company in Bengal.",
+      "sourceIds": [
+        "src-092",
+        "src-201"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0206",
+      "subjectId": "permanentsettlement",
+      "claim": "The settlement did not create a simple or uniform landlord system; local tenure, intermediary rights and cultivators' conditions varied across districts.",
+      "sourceIds": [
+        "src-092",
+        "src-201"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0207",
+      "subjectId": "partition1905",
+      "claim": "The 1905 partition created Eastern Bengal and Assam and triggered major political mobilisation across Bengal and British India.",
+      "sourceIds": [
+        "src-203",
+        "src-1998"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0208",
+      "subjectId": "partition1905",
+      "claim": "The response was not uniform: opposition and support reflected differing political, economic, religious and regional interests, which should not be collapsed into a single communal narrative.",
+      "sourceIds": [
+        "src-203",
+        "src-1998"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0209",
+      "subjectId": "swadeshi",
+      "claim": "The Swadeshi Movement expanded in Bengal after the 1905 partition and used boycott and indigenous production as forms of political protest.",
+      "sourceIds": [
+        "src-203",
+        "src-1999"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0210",
+      "subjectId": "swadeshi",
+      "claim": "The movement had varied regional and social constituencies; its economic programme, nationalist aims and religious symbolism could be interpreted differently by different communities.",
+      "sourceIds": [
+        "src-203",
+        "src-1999"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0211",
+      "subjectId": "sixpoint",
+      "claim": "The Six-Point Programme was advanced by Sheikh Mujibur Rahman in 1966 as a framework for provincial autonomy in Pakistan.",
+      "sourceIds": [
+        "src-216",
+        "src-2000"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0212",
+      "subjectId": "sixpoint",
+      "claim": "The programme was presented as an autonomy plan within a federal structure, although the Pakistani ruling establishment treated it as a threat to the existing state order.",
+      "sourceIds": [
+        "src-216",
+        "src-2000"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0213",
+      "subjectId": "massuprising1969",
+      "claim": "The killing of student activist Asaduzzaman on 20 January 1969 helped turn protests into a wider mass uprising against the Ayub regime.",
+      "sourceIds": [
+        "src-216",
+        "src-2001"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0214",
+      "subjectId": "massuprising1969",
+      "claim": "The uprising was a broad coalition of movements and demands, not a single centrally controlled organisation or event.",
+      "sourceIds": [
+        "src-216",
+        "src-2001"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0215",
+      "subjectId": "bengalfamine1943",
+      "claim": "The 1943 Bengal famine unfolded amid wartime disruption, severe inflation and failures of food access and relief.",
+      "sourceIds": [
+        "src-209",
+        "src-2002"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0216",
+      "subjectId": "bengalfamine1943",
+      "claim": "The causes remain debated in historical scholarship; interpretations should distinguish contemporary official findings from later research on entitlement, policy and colonial responsibility.",
+      "sourceIds": [
+        "src-209",
+        "src-2002"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0217",
+      "subjectId": "begumrokeya",
+      "claim": "Rokeya Sakhawat Hossain used fiction, essays and educational work to argue for women's learning and greater social opportunity.",
+      "sourceIds": [
+        "src-223",
+        "src-2003"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0218",
+      "subjectId": "begumrokeya",
+      "claim": "Her work should be understood in its Bengali and South Asian context, including the debates within Muslim communities and wider reform movements of her time.",
+      "sourceIds": [
+        "src-223",
+        "src-2003"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0219",
+      "subjectId": "nazrul",
+      "claim": "Nazrul's poetry, journalism and songs made him a major voice of anti-colonial protest and social critique in twentieth-century Bengal.",
+      "sourceIds": [
+        "src-136",
+        "src-2004"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0220",
+      "subjectId": "nazrul",
+      "claim": "Nazrul's creative work drew from multiple religious and literary traditions and should not be reduced to a single political or cultural identity.",
+      "sourceIds": [
+        "src-136",
+        "src-2004"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0221",
+      "subjectId": "vidyasagar",
+      "claim": "Vidyasagar played a leading role in campaigns for widow remarriage and women's education in nineteenth-century Bengal.",
+      "sourceIds": [
+        "src-135",
+        "src-2005"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0222",
+      "subjectId": "vidyasagar",
+      "claim": "The 1856 law was an important legal change but did not by itself remove social barriers or make widow remarriage widespread.",
+      "sourceIds": [
+        "src-135",
+        "src-2005"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0223",
+      "subjectId": "monsoon",
+      "claim": "The South Asian summer monsoon transports moisture from the Indian Ocean and supplies a large share of annual rainfall to Bangladesh and neighbouring regions.",
+      "sourceIds": [
+        "src-081",
+        "src-2006"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0224",
+      "subjectId": "monsoon",
+      "claim": "Monsoon rainfall is not uniform or perfectly predictable; its timing, intensity and distribution vary with atmospheric and oceanic conditions.",
+      "sourceIds": [
+        "src-081",
+        "src-2006"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0225",
+      "subjectId": "bengalregion",
+      "claim": "The Bengal Delta is formed by the interacting river systems of the Ganges, Brahmaputra and Meghna as they flow toward the Bay of Bengal.",
+      "sourceIds": [
+        "src-194",
+        "src-2007"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0226",
+      "subjectId": "bengalregion",
+      "claim": "The delta is a changing land-and-water system rather than a fixed geographic shape; sediment movement, erosion, flooding and human interventions continually reshape it.",
+      "sourceIds": [
+        "src-194",
+        "src-2007"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0227",
+      "subjectId": "somapura",
+      "claim": "Somapura Mahavihara was a major Buddhist monastic and intellectual centre in Bengal during the Pala period.",
+      "sourceIds": [
+        "src-095",
+        "src-192"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0228",
+      "subjectId": "somapura",
+      "claim": "Its architectural influence extended beyond Bengal, but the exact routes and mechanisms of artistic transmission require careful historical interpretation.",
+      "sourceIds": [
+        "src-095",
+        "src-192"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0229",
+      "subjectId": "dhaka",
+      "claim": "Dhaka rose to major political and commercial importance as a Mughal provincial capital in the early seventeenth century.",
+      "sourceIds": [
+        "src-199",
+        "src-2008"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0230",
+      "subjectId": "dhaka",
+      "claim": "The city's development was shaped by river courses, regional trade and changing political institutions, not by a single uninterrupted rise in importance.",
+      "sourceIds": [
+        "src-199",
+        "src-2008"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0231",
+      "subjectId": "silkprinting",
+      "claim": "Silk became a valuable commodity in long-distance trade linking East Asia with Central Asia, western Asia, Europe and maritime networks.",
+      "sourceIds": [
+        "src-119",
+        "src-1929"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0232",
+      "subjectId": "silkprinting",
+      "claim": "The Silk Roads were not one single road but a changing network of routes, ports and trading communities through which many goods and ideas travelled.",
+      "sourceIds": [
+        "src-119",
+        "src-1929"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0233",
+      "subjectId": "jazz",
+      "claim": "Jazz emerged from African American musical life in New Orleans and drew on blues, ragtime and other musical traditions.",
+      "sourceIds": [
+        "src-309",
+        "src-2009"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0234",
+      "subjectId": "jazz",
+      "claim": "Jazz has never been one fixed sound; its history includes many styles and debates about authorship, commercialisation, race and cultural exchange.",
+      "sourceIds": [
+        "src-309",
+        "src-2009"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0235",
+      "subjectId": "bengaltextile",
+      "claim": "Fine cotton muslins from Bengal, especially the Dhaka region, became prized in regional and international trade.",
+      "sourceIds": [
+        "src-139",
+        "src-2010"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0236",
+      "subjectId": "bengaltextile",
+      "claim": "The history of Bengal textiles includes many different fabrics, techniques and communities; muslin should not be treated as a single unchanging product or craft tradition.",
+      "sourceIds": [
+        "src-139",
+        "src-2010"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
     }
   ]
 }
