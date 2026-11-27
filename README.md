@@ -18,7 +18,7 @@ The atlas includes global history, science, culture and technology alongside a d
 - Subject reading panels with photographs, overviews, historical milestones, people, connected subjects and references
 - A world-history timeline from early human societies to the present, with period filters and a dedicated Bengal and Bangladesh strand
 - Biographical profiles for selected figures connected to the timeline
-- A visual collection browser with 12 illustrated subject collections
+- A visual collection browser with 89 subject collections
 - Search across titles, descriptions, categories and subject types
 - Connection Finder that traces a route between two subjects
 - Curated reading journeys that connect subjects into guided stories
