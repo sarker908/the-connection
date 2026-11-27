@@ -1894,5 +1894,725 @@
     "from": "udhr",
     "to": "ruleoflaw",
     "label": "The declaration helped shape later international rights standards and legal frameworks"
+  },
+  {
+    "id": "e322",
+    "from": "atlas_number_theory_prime_numbers",
+    "to": "atlas_number_theory_modular_arithmetic",
+    "label": "A related subject within number theory"
+  },
+  {
+    "id": "e323",
+    "from": "atlas_geometry_euclidean_geometry",
+    "to": "atlas_geometry_non_euclidean_geometry",
+    "label": "A related subject within geometry"
+  },
+  {
+    "id": "e324",
+    "from": "atlas_statistics_probability_probability",
+    "to": "atlas_statistics_probability_bayesian_statistics",
+    "label": "A related subject within statistics & probability"
+  },
+  {
+    "id": "e325",
+    "from": "atlas_mathematical_logic_propositional_logic",
+    "to": "atlas_mathematical_logic_predicate_logic",
+    "label": "A related subject within mathematical logic"
+  },
+  {
+    "id": "e326",
+    "from": "atlas_quantum_physics_quantum_mechanics",
+    "to": "atlas_quantum_physics_quantum_entanglement",
+    "label": "A related subject within quantum physics"
+  },
+  {
+    "id": "e327",
+    "from": "atlas_particle_physics_standard_model",
+    "to": "atlas_particle_physics_higgs_boson",
+    "label": "A related subject within particle physics"
+  },
+  {
+    "id": "e328",
+    "from": "atlas_thermodynamics_entropy",
+    "to": "atlas_thermodynamics_heat_transfer",
+    "label": "A related subject within thermodynamics"
+  },
+  {
+    "id": "e329",
+    "from": "atlas_optics_photonics_electromagnetism",
+    "to": "atlas_optics_photonics_laser",
+    "label": "A related subject within optics & photonics"
+  },
+  {
+    "id": "e330",
+    "from": "atlas_acoustics_sound_waves",
+    "to": "atlas_acoustics_psychoacoustics",
+    "label": "A related subject within acoustics"
+  },
+  {
+    "id": "e331",
+    "from": "atlas_organic_chemistry_hydrocarbons",
+    "to": "atlas_organic_chemistry_polymers",
+    "label": "A related subject within organic chemistry"
+  },
+  {
+    "id": "e332",
+    "from": "atlas_periodic_table_elements_chemical_elements",
+    "to": "atlas_periodic_table_elements_isotopes",
+    "label": "A related subject within periodic table & elements"
+  },
+  {
+    "id": "e333",
+    "from": "atlas_cell_biology_cell_membrane",
+    "to": "atlas_cell_biology_mitochondria",
+    "label": "A related subject within cell biology"
+  },
+  {
+    "id": "e334",
+    "from": "atlas_microbiology_bacteria",
+    "to": "atlas_microbiology_viruses",
+    "label": "A related subject within microbiology"
+  },
+  {
+    "id": "e335",
+    "from": "atlas_botany_plant_cells",
+    "to": "atlas_botany_pollination",
+    "label": "A related subject within botany"
+  },
+  {
+    "id": "e336",
+    "from": "atlas_zoology_vertebrates",
+    "to": "atlas_zoology_insects",
+    "label": "A related subject within zoology"
+  },
+  {
+    "id": "e337",
+    "from": "atlas_ecology_biodiversity_biodiversity",
+    "to": "atlas_ecology_biodiversity_food_webs",
+    "label": "A related subject within ecology & biodiversity"
+  },
+  {
+    "id": "e338",
+    "from": "atlas_marine_biology_plankton",
+    "to": "atlas_marine_biology_whales",
+    "label": "A related subject within marine biology"
+  },
+  {
+    "id": "e339",
+    "from": "atlas_neuroscience_neurons",
+    "to": "atlas_neuroscience_neuroplasticity",
+    "label": "A related subject within neuroscience"
+  },
+  {
+    "id": "e340",
+    "from": "atlas_geology_minerals",
+    "to": "atlas_geology_plate_tectonics",
+    "label": "A related subject within geology"
+  },
+  {
+    "id": "e341",
+    "from": "atlas_volcanology_volcanic_eruptions",
+    "to": "atlas_volcanology_magma",
+    "label": "A related subject within volcanology"
+  },
+  {
+    "id": "e342",
+    "from": "atlas_earthquakes_seismology_seismic_waves",
+    "to": "atlas_earthquakes_seismology_geological_faults",
+    "label": "A related subject within earthquakes & seismology"
+  },
+  {
+    "id": "e343",
+    "from": "atlas_meteorology_earth_s_atmosphere",
+    "to": "atlas_meteorology_monsoon_systems",
+    "label": "A related subject within meteorology"
+  },
+  {
+    "id": "e344",
+    "from": "atlas_hydrology_the_water_cycle",
+    "to": "atlas_hydrology_groundwater",
+    "label": "A related subject within hydrology"
+  },
+  {
+    "id": "e345",
+    "from": "atlas_glaciology_glaciers",
+    "to": "atlas_glaciology_ice_cores",
+    "label": "A related subject within glaciology"
+  },
+  {
+    "id": "e346",
+    "from": "atlas_anatomy_physiology_human_skeleton",
+    "to": "atlas_anatomy_physiology_circulatory_system",
+    "label": "A related subject within anatomy & physiology"
+  },
+  {
+    "id": "e347",
+    "from": "atlas_immunology_immune_system",
+    "to": "atlas_immunology_antibodies",
+    "label": "A related subject within immunology"
+  },
+  {
+    "id": "e348",
+    "from": "atlas_epidemiology_disease_transmission",
+    "to": "atlas_epidemiology_outbreak_investigation",
+    "label": "A related subject within epidemiology"
+  },
+  {
+    "id": "e349",
+    "from": "atlas_nutrition_science_macronutrients",
+    "to": "atlas_nutrition_science_micronutrients",
+    "label": "A related subject within nutrition science"
+  },
+  {
+    "id": "e350",
+    "from": "atlas_mental_health_stress",
+    "to": "atlas_mental_health_depression",
+    "label": "A related subject within mental health"
+  },
+  {
+    "id": "e351",
+    "from": "atlas_surgery_medical_innovation_anesthesia",
+    "to": "atlas_surgery_medical_innovation_organ_transplantation",
+    "label": "A related subject within surgery & medical innovation"
+  },
+  {
+    "id": "e352",
+    "from": "atlas_algorithms_data_structures_sorting_algorithms",
+    "to": "atlas_algorithms_data_structures_graph_theory",
+    "label": "A related subject within algorithms & data structures"
+  },
+  {
+    "id": "e353",
+    "from": "atlas_programming_languages_compiler",
+    "to": "atlas_programming_languages_programming_paradigms",
+    "label": "A related subject within programming languages"
+  },
+  {
+    "id": "e354",
+    "from": "atlas_cybersecurity_encryption",
+    "to": "atlas_cybersecurity_malware",
+    "label": "A related subject within cybersecurity"
+  },
+  {
+    "id": "e355",
+    "from": "atlas_databases_information_systems_relational_databases",
+    "to": "atlas_databases_information_systems_database_normalization",
+    "label": "A related subject within databases & information systems"
+  },
+  {
+    "id": "e356",
+    "from": "atlas_computer_networks_computer_network_routing",
+    "to": "atlas_computer_networks_wireless_networks",
+    "label": "A related subject within computer networks"
+  },
+  {
+    "id": "e357",
+    "from": "atlas_robotics_automation_industrial_robotics",
+    "to": "atlas_robotics_automation_robot_sensing",
+    "label": "A related subject within robotics & automation"
+  },
+  {
+    "id": "e358",
+    "from": "atlas_cryptography_public_key_cryptography",
+    "to": "atlas_cryptography_digital_signatures",
+    "label": "A related subject within cryptography"
+  },
+  {
+    "id": "e359",
+    "from": "atlas_sociology_social_stratification",
+    "to": "atlas_sociology_urbanization",
+    "label": "A related subject within sociology"
+  },
+  {
+    "id": "e360",
+    "from": "atlas_political_science_constitutions",
+    "to": "atlas_political_science_electoral_systems",
+    "label": "A related subject within political science"
+  },
+  {
+    "id": "e361",
+    "from": "atlas_international_relations_diplomacy",
+    "to": "atlas_international_relations_international_law",
+    "label": "A related subject within international relations"
+  },
+  {
+    "id": "e362",
+    "from": "atlas_demography_population_population_growth",
+    "to": "atlas_demography_population_fertility_and_birth_rates",
+    "label": "A related subject within demography & population"
+  },
+  {
+    "id": "e363",
+    "from": "atlas_education_learning_pedagogy",
+    "to": "atlas_education_learning_literacy",
+    "label": "A related subject within education & learning"
+  },
+  {
+    "id": "e364",
+    "from": "atlas_cartography_gis_cartography",
+    "to": "atlas_cartography_gis_geographic_information_systems",
+    "label": "A related subject within cartography & gis"
+  },
+  {
+    "id": "e365",
+    "from": "atlas_urban_planning_urban_design",
+    "to": "atlas_urban_planning_public_transport",
+    "label": "A related subject within urban planning"
+  },
+  {
+    "id": "e366",
+    "from": "atlas_agronomy_crop_science_crop_rotation",
+    "to": "atlas_agronomy_crop_science_soil_science",
+    "label": "A related subject within agronomy & crop science"
+  },
+  {
+    "id": "e367",
+    "from": "atlas_food_science_food_fermentation",
+    "to": "atlas_food_science_food_preservation",
+    "label": "A related subject within food science"
+  },
+  {
+    "id": "e368",
+    "from": "atlas_forestry_forest_management_deforestation",
+    "to": "atlas_forestry_forest_management_reforestation",
+    "label": "A related subject within forestry & forest management"
+  },
+  {
+    "id": "e369",
+    "from": "atlas_veterinary_science_animal_diseases",
+    "to": "atlas_veterinary_science_zoonotic_diseases",
+    "label": "A related subject within veterinary science"
+  },
+  {
+    "id": "e370",
+    "from": "atlas_painting_visual_arts_oil_painting",
+    "to": "atlas_painting_visual_arts_watercolour_painting",
+    "label": "A related subject within painting & visual arts"
+  },
+  {
+    "id": "e371",
+    "from": "atlas_sculpture_public_art_sculpture",
+    "to": "atlas_sculpture_public_art_monuments_and_memorials",
+    "label": "A related subject within sculpture & public art"
+  },
+  {
+    "id": "e372",
+    "from": "atlas_photography_camera_obscura",
+    "to": "atlas_photography_digital_photography",
+    "label": "A related subject within photography"
+  },
+  {
+    "id": "e373",
+    "from": "atlas_theatre_performance_ancient_greek_theatre",
+    "to": "atlas_theatre_performance_acting",
+    "label": "A related subject within theatre & performance"
+  },
+  {
+    "id": "e374",
+    "from": "atlas_dance_movement_ballet",
+    "to": "atlas_dance_movement_folk_dance",
+    "label": "A related subject within dance & movement"
+  },
+  {
+    "id": "e375",
+    "from": "atlas_poetry_literary_forms_lyric_poetry",
+    "to": "atlas_poetry_literary_forms_epic_poetry",
+    "label": "A related subject within poetry & literary forms"
+  },
+  {
+    "id": "e376",
+    "from": "atlas_ancient_civilizations_mesopotamia",
+    "to": "atlas_ancient_civilizations_ancient_egypt",
+    "label": "A related subject within ancient civilizations"
+  },
+  {
+    "id": "e377",
+    "from": "atlas_medieval_worlds_byzantine_empire",
+    "to": "atlas_medieval_worlds_medieval_trade_networks",
+    "label": "A related subject within medieval worlds"
+  },
+  {
+    "id": "e378",
+    "from": "atlas_modern_world_history_industrial_revolution",
+    "to": "atlas_modern_world_history_french_revolution",
+    "label": "A related subject within modern world history"
+  },
+  {
+    "id": "e379",
+    "from": "atlas_maritime_history_age_of_sail",
+    "to": "atlas_maritime_history_maritime_trade",
+    "label": "A related subject within maritime history"
+  },
+  {
+    "id": "e380",
+    "from": "atlas_south_asian_history_maurya_empire",
+    "to": "atlas_south_asian_history_mughal_empire",
+    "label": "A related subject within south asian history"
+  },
+  {
+    "id": "e381",
+    "from": "atlas_bangladesh_history_bengali_language_movement",
+    "to": "atlas_bangladesh_history_bangladesh_liberation_war",
+    "label": "A related subject within bangladesh history"
+  },
+  {
+    "id": "e382",
+    "from": "atlas_number_theory_prime_numbers",
+    "to": "atlas_geometry_euclidean_geometry",
+    "label": "A cross-disciplinary connection between neighbouring fields of knowledge"
+  },
+  {
+    "id": "e383",
+    "from": "atlas_geometry_euclidean_geometry",
+    "to": "atlas_statistics_probability_probability",
+    "label": "A cross-disciplinary connection between neighbouring fields of knowledge"
+  },
+  {
+    "id": "e384",
+    "from": "atlas_statistics_probability_probability",
+    "to": "atlas_mathematical_logic_propositional_logic",
+    "label": "A cross-disciplinary connection between neighbouring fields of knowledge"
+  },
+  {
+    "id": "e385",
+    "from": "atlas_mathematical_logic_propositional_logic",
+    "to": "atlas_quantum_physics_quantum_mechanics",
+    "label": "A cross-disciplinary connection between neighbouring fields of knowledge"
+  },
+  {
+    "id": "e386",
+    "from": "atlas_quantum_physics_quantum_mechanics",
+    "to": "atlas_particle_physics_standard_model",
+    "label": "A cross-disciplinary connection between neighbouring fields of knowledge"
+  },
+  {
+    "id": "e387",
+    "from": "atlas_particle_physics_standard_model",
+    "to": "atlas_thermodynamics_entropy",
+    "label": "A cross-disciplinary connection between neighbouring fields of knowledge"
+  },
+  {
+    "id": "e388",
+    "from": "atlas_thermodynamics_entropy",
+    "to": "atlas_optics_photonics_electromagnetism",
+    "label": "A cross-disciplinary connection between neighbouring fields of knowledge"
+  },
+  {
+    "id": "e389",
+    "from": "atlas_optics_photonics_electromagnetism",
+    "to": "atlas_acoustics_sound_waves",
+    "label": "A cross-disciplinary connection between neighbouring fields of knowledge"
+  },
+  {
+    "id": "e390",
+    "from": "atlas_acoustics_sound_waves",
+    "to": "atlas_organic_chemistry_hydrocarbons",
+    "label": "A cross-disciplinary connection between neighbouring fields of knowledge"
+  },
+  {
+    "id": "e391",
+    "from": "atlas_organic_chemistry_hydrocarbons",
+    "to": "atlas_periodic_table_elements_chemical_elements",
+    "label": "A cross-disciplinary connection between neighbouring fields of knowledge"
+  },
+  {
+    "id": "e392",
+    "from": "atlas_periodic_table_elements_chemical_elements",
+    "to": "atlas_cell_biology_cell_membrane",
+    "label": "A cross-disciplinary connection between neighbouring fields of knowledge"
+  },
+  {
+    "id": "e393",
+    "from": "atlas_cell_biology_cell_membrane",
+    "to": "atlas_microbiology_bacteria",
+    "label": "A cross-disciplinary connection between neighbouring fields of knowledge"
+  },
+  {
+    "id": "e394",
+    "from": "atlas_microbiology_bacteria",
+    "to": "atlas_botany_plant_cells",
+    "label": "A cross-disciplinary connection between neighbouring fields of knowledge"
+  },
+  {
+    "id": "e395",
+    "from": "atlas_botany_plant_cells",
+    "to": "atlas_zoology_vertebrates",
+    "label": "A cross-disciplinary connection between neighbouring fields of knowledge"
+  },
+  {
+    "id": "e396",
+    "from": "atlas_zoology_vertebrates",
+    "to": "atlas_ecology_biodiversity_biodiversity",
+    "label": "A cross-disciplinary connection between neighbouring fields of knowledge"
+  },
+  {
+    "id": "e397",
+    "from": "atlas_ecology_biodiversity_biodiversity",
+    "to": "atlas_marine_biology_plankton",
+    "label": "A cross-disciplinary connection between neighbouring fields of knowledge"
+  },
+  {
+    "id": "e398",
+    "from": "atlas_marine_biology_plankton",
+    "to": "atlas_neuroscience_neurons",
+    "label": "A cross-disciplinary connection between neighbouring fields of knowledge"
+  },
+  {
+    "id": "e399",
+    "from": "atlas_neuroscience_neurons",
+    "to": "atlas_geology_minerals",
+    "label": "A cross-disciplinary connection between neighbouring fields of knowledge"
+  },
+  {
+    "id": "e400",
+    "from": "atlas_geology_minerals",
+    "to": "atlas_volcanology_volcanic_eruptions",
+    "label": "A cross-disciplinary connection between neighbouring fields of knowledge"
+  },
+  {
+    "id": "e401",
+    "from": "atlas_volcanology_volcanic_eruptions",
+    "to": "atlas_earthquakes_seismology_seismic_waves",
+    "label": "A cross-disciplinary connection between neighbouring fields of knowledge"
+  },
+  {
+    "id": "e402",
+    "from": "atlas_earthquakes_seismology_seismic_waves",
+    "to": "atlas_meteorology_earth_s_atmosphere",
+    "label": "A cross-disciplinary connection between neighbouring fields of knowledge"
+  },
+  {
+    "id": "e403",
+    "from": "atlas_meteorology_earth_s_atmosphere",
+    "to": "atlas_hydrology_the_water_cycle",
+    "label": "A cross-disciplinary connection between neighbouring fields of knowledge"
+  },
+  {
+    "id": "e404",
+    "from": "atlas_hydrology_the_water_cycle",
+    "to": "atlas_glaciology_glaciers",
+    "label": "A cross-disciplinary connection between neighbouring fields of knowledge"
+  },
+  {
+    "id": "e405",
+    "from": "atlas_glaciology_glaciers",
+    "to": "atlas_anatomy_physiology_human_skeleton",
+    "label": "A cross-disciplinary connection between neighbouring fields of knowledge"
+  },
+  {
+    "id": "e406",
+    "from": "atlas_anatomy_physiology_human_skeleton",
+    "to": "atlas_immunology_immune_system",
+    "label": "A cross-disciplinary connection between neighbouring fields of knowledge"
+  },
+  {
+    "id": "e407",
+    "from": "atlas_immunology_immune_system",
+    "to": "atlas_epidemiology_disease_transmission",
+    "label": "A cross-disciplinary connection between neighbouring fields of knowledge"
+  },
+  {
+    "id": "e408",
+    "from": "atlas_epidemiology_disease_transmission",
+    "to": "atlas_nutrition_science_macronutrients",
+    "label": "A cross-disciplinary connection between neighbouring fields of knowledge"
+  },
+  {
+    "id": "e409",
+    "from": "atlas_nutrition_science_macronutrients",
+    "to": "atlas_mental_health_stress",
+    "label": "A cross-disciplinary connection between neighbouring fields of knowledge"
+  },
+  {
+    "id": "e410",
+    "from": "atlas_mental_health_stress",
+    "to": "atlas_surgery_medical_innovation_anesthesia",
+    "label": "A cross-disciplinary connection between neighbouring fields of knowledge"
+  },
+  {
+    "id": "e411",
+    "from": "atlas_surgery_medical_innovation_anesthesia",
+    "to": "atlas_algorithms_data_structures_sorting_algorithms",
+    "label": "A cross-disciplinary connection between neighbouring fields of knowledge"
+  },
+  {
+    "id": "e412",
+    "from": "atlas_algorithms_data_structures_sorting_algorithms",
+    "to": "atlas_programming_languages_compiler",
+    "label": "A cross-disciplinary connection between neighbouring fields of knowledge"
+  },
+  {
+    "id": "e413",
+    "from": "atlas_programming_languages_compiler",
+    "to": "atlas_cybersecurity_encryption",
+    "label": "A cross-disciplinary connection between neighbouring fields of knowledge"
+  },
+  {
+    "id": "e414",
+    "from": "atlas_cybersecurity_encryption",
+    "to": "atlas_databases_information_systems_relational_databases",
+    "label": "A cross-disciplinary connection between neighbouring fields of knowledge"
+  },
+  {
+    "id": "e415",
+    "from": "atlas_databases_information_systems_relational_databases",
+    "to": "atlas_computer_networks_computer_network_routing",
+    "label": "A cross-disciplinary connection between neighbouring fields of knowledge"
+  },
+  {
+    "id": "e416",
+    "from": "atlas_computer_networks_computer_network_routing",
+    "to": "atlas_robotics_automation_industrial_robotics",
+    "label": "A cross-disciplinary connection between neighbouring fields of knowledge"
+  },
+  {
+    "id": "e417",
+    "from": "atlas_robotics_automation_industrial_robotics",
+    "to": "atlas_cryptography_public_key_cryptography",
+    "label": "A cross-disciplinary connection between neighbouring fields of knowledge"
+  },
+  {
+    "id": "e418",
+    "from": "atlas_cryptography_public_key_cryptography",
+    "to": "atlas_sociology_social_stratification",
+    "label": "A cross-disciplinary connection between neighbouring fields of knowledge"
+  },
+  {
+    "id": "e419",
+    "from": "atlas_sociology_social_stratification",
+    "to": "atlas_political_science_constitutions",
+    "label": "A cross-disciplinary connection between neighbouring fields of knowledge"
+  },
+  {
+    "id": "e420",
+    "from": "atlas_political_science_constitutions",
+    "to": "atlas_international_relations_diplomacy",
+    "label": "A cross-disciplinary connection between neighbouring fields of knowledge"
+  },
+  {
+    "id": "e421",
+    "from": "atlas_international_relations_diplomacy",
+    "to": "atlas_demography_population_population_growth",
+    "label": "A cross-disciplinary connection between neighbouring fields of knowledge"
+  },
+  {
+    "id": "e422",
+    "from": "atlas_demography_population_population_growth",
+    "to": "atlas_education_learning_pedagogy",
+    "label": "A cross-disciplinary connection between neighbouring fields of knowledge"
+  },
+  {
+    "id": "e423",
+    "from": "atlas_education_learning_pedagogy",
+    "to": "atlas_cartography_gis_cartography",
+    "label": "A cross-disciplinary connection between neighbouring fields of knowledge"
+  },
+  {
+    "id": "e424",
+    "from": "atlas_cartography_gis_cartography",
+    "to": "atlas_urban_planning_urban_design",
+    "label": "A cross-disciplinary connection between neighbouring fields of knowledge"
+  },
+  {
+    "id": "e425",
+    "from": "atlas_urban_planning_urban_design",
+    "to": "atlas_agronomy_crop_science_crop_rotation",
+    "label": "A cross-disciplinary connection between neighbouring fields of knowledge"
+  },
+  {
+    "id": "e426",
+    "from": "atlas_agronomy_crop_science_crop_rotation",
+    "to": "atlas_food_science_food_fermentation",
+    "label": "A cross-disciplinary connection between neighbouring fields of knowledge"
+  },
+  {
+    "id": "e427",
+    "from": "atlas_food_science_food_fermentation",
+    "to": "atlas_forestry_forest_management_deforestation",
+    "label": "A cross-disciplinary connection between neighbouring fields of knowledge"
+  },
+  {
+    "id": "e428",
+    "from": "atlas_forestry_forest_management_deforestation",
+    "to": "atlas_veterinary_science_animal_diseases",
+    "label": "A cross-disciplinary connection between neighbouring fields of knowledge"
+  },
+  {
+    "id": "e429",
+    "from": "atlas_veterinary_science_animal_diseases",
+    "to": "atlas_painting_visual_arts_oil_painting",
+    "label": "A cross-disciplinary connection between neighbouring fields of knowledge"
+  },
+  {
+    "id": "e430",
+    "from": "atlas_painting_visual_arts_oil_painting",
+    "to": "atlas_sculpture_public_art_sculpture",
+    "label": "A cross-disciplinary connection between neighbouring fields of knowledge"
+  },
+  {
+    "id": "e431",
+    "from": "atlas_sculpture_public_art_sculpture",
+    "to": "atlas_photography_camera_obscura",
+    "label": "A cross-disciplinary connection between neighbouring fields of knowledge"
+  },
+  {
+    "id": "e432",
+    "from": "atlas_photography_camera_obscura",
+    "to": "atlas_theatre_performance_ancient_greek_theatre",
+    "label": "A cross-disciplinary connection between neighbouring fields of knowledge"
+  },
+  {
+    "id": "e433",
+    "from": "atlas_theatre_performance_ancient_greek_theatre",
+    "to": "atlas_dance_movement_ballet",
+    "label": "A cross-disciplinary connection between neighbouring fields of knowledge"
+  },
+  {
+    "id": "e434",
+    "from": "atlas_dance_movement_ballet",
+    "to": "atlas_poetry_literary_forms_lyric_poetry",
+    "label": "A cross-disciplinary connection between neighbouring fields of knowledge"
+  },
+  {
+    "id": "e435",
+    "from": "atlas_poetry_literary_forms_lyric_poetry",
+    "to": "atlas_ancient_civilizations_mesopotamia",
+    "label": "A cross-disciplinary connection between neighbouring fields of knowledge"
+  },
+  {
+    "id": "e436",
+    "from": "atlas_ancient_civilizations_mesopotamia",
+    "to": "atlas_medieval_worlds_byzantine_empire",
+    "label": "A cross-disciplinary connection between neighbouring fields of knowledge"
+  },
+  {
+    "id": "e437",
+    "from": "atlas_medieval_worlds_byzantine_empire",
+    "to": "atlas_modern_world_history_industrial_revolution",
+    "label": "A cross-disciplinary connection between neighbouring fields of knowledge"
+  },
+  {
+    "id": "e438",
+    "from": "atlas_modern_world_history_industrial_revolution",
+    "to": "atlas_maritime_history_age_of_sail",
+    "label": "A cross-disciplinary connection between neighbouring fields of knowledge"
+  },
+  {
+    "id": "e439",
+    "from": "atlas_maritime_history_age_of_sail",
+    "to": "atlas_south_asian_history_maurya_empire",
+    "label": "A cross-disciplinary connection between neighbouring fields of knowledge"
+  },
+  {
+    "id": "e440",
+    "from": "atlas_south_asian_history_maurya_empire",
+    "to": "atlas_bangladesh_history_bengali_language_movement",
+    "label": "A cross-disciplinary connection between neighbouring fields of knowledge"
+  },
+  {
+    "id": "e441",
+    "from": "atlas_bangladesh_history_bengali_language_movement",
+    "to": "atlas_number_theory_prime_numbers",
+    "label": "A cross-disciplinary connection between neighbouring fields of knowledge"
   }
 ]
