@@ -997,6 +997,654 @@
       "claimType": "conceptual-or-technical",
       "reviewStatus": "editorial-review-pending",
       "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0083",
+      "subjectId": "industrial",
+      "claim": "The long, uneven transformation from predominantly agrarian production toward mechanized industry, factory work and fossil-fuel-powered economies.",
+      "sourceIds": [
+        "src-1921",
+        "src-1922"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0084",
+      "subjectId": "industrial",
+      "claim": "The Industrial Revolution describes the transition toward mechanized production, factory systems and new energy and transport networks, beginning in Britain in the eighteenth century before spreading unevenly across the world.",
+      "sourceIds": [
+        "src-1921",
+        "src-1922"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0085",
+      "subjectId": "agriculture",
+      "claim": "The gradual adoption of plant cultivation and animal domestication by human communities in multiple regions of the world.",
+      "sourceIds": [
+        "src-1923",
+        "src-1924"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0086",
+      "subjectId": "agriculture",
+      "claim": "The Neolithic transition to agriculture occurred independently in several regions rather than beginning at one universal point.",
+      "sourceIds": [
+        "src-1923",
+        "src-1924"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0087",
+      "subjectId": "mesopotamia",
+      "claim": "A historical region between and around the Tigris and Euphrates rivers, home to several early urban civilizations.",
+      "sourceIds": [
+        "src-1925",
+        "src-1926"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0088",
+      "subjectId": "mesopotamia",
+      "claim": "Mesopotamia refers to the historical region associated with the Tigris and Euphrates river systems, largely in modern Iraq and extending into neighbouring countries.",
+      "sourceIds": [
+        "src-1925",
+        "src-1926"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0089",
+      "subjectId": "rome",
+      "claim": "An ancient Mediterranean state whose republican and imperial institutions shaped large parts of Europe, North Africa and western Asia.",
+      "sourceIds": [
+        "src-1927",
+        "src-1928"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0090",
+      "subjectId": "rome",
+      "claim": "The Roman state developed from a city in central Italy into a republic and then a Mediterranean empire.",
+      "sourceIds": [
+        "src-1927",
+        "src-1928"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0091",
+      "subjectId": "silkroad",
+      "claim": "A changing network of Eurasian and maritime trade routes that connected societies through commerce, migration and cultural exchange.",
+      "sourceIds": [
+        "src-1929",
+        "src-1930"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0092",
+      "subjectId": "silkroad",
+      "claim": "The Silk Roads were not one road but changing networks of overland and maritime routes linking East Asia, Central Asia, South Asia, the Middle East, Africa and Europe.",
+      "sourceIds": [
+        "src-1929",
+        "src-1930"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0093",
+      "subjectId": "smallpox",
+      "claim": "A devastating infectious disease caused by variola virus that was declared eradicated in 1980.",
+      "sourceIds": [
+        "src-1931",
+        "src-1932"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0094",
+      "subjectId": "smallpox",
+      "claim": "Smallpox was a severe infectious disease caused by variola viruses and spread mainly through close contact and respiratory exposure.",
+      "sourceIds": [
+        "src-1931",
+        "src-1932"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0095",
+      "subjectId": "insulin",
+      "claim": "A pancreatic hormone that helps regulate blood glucose and a life-saving therapy for people who cannot produce or use enough insulin.",
+      "sourceIds": [
+        "src-1933",
+        "src-1934"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0096",
+      "subjectId": "insulin",
+      "claim": "Insulin is a peptide hormone produced by pancreatic beta cells that helps regulate blood glucose by influencing glucose uptake, storage and metabolism.",
+      "sourceIds": [
+        "src-1933",
+        "src-1934"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0097",
+      "subjectId": "xray",
+      "claim": "A form of electromagnetic radiation used in imaging because it can pass through materials and is absorbed differently by different substances.",
+      "sourceIds": [
+        "src-1935",
+        "src-1936"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0098",
+      "subjectId": "xray",
+      "claim": "X-rays are high-energy electromagnetic radiation with wavelengths shorter than ultraviolet light.",
+      "sourceIds": [
+        "src-1935",
+        "src-1936"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0099",
+      "subjectId": "globalhealth",
+      "claim": "A field of research, policy and practice focused on improving health and equity across populations and countries.",
+      "sourceIds": [
+        "src-1937",
+        "src-1938"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0100",
+      "subjectId": "globalhealth",
+      "claim": "Global health addresses health challenges that cross borders and are shaped by social, economic, political and environmental systems.",
+      "sourceIds": [
+        "src-1937",
+        "src-1938"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0101",
+      "subjectId": "clinicaltrials",
+      "claim": "Research studies involving people that assess the safety, effectiveness or other effects of health interventions.",
+      "sourceIds": [
+        "src-1939",
+        "src-1940"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0102",
+      "subjectId": "clinicaltrials",
+      "claim": "Clinical trials are planned studies involving human participants that evaluate health-related interventions, including medicines, vaccines, devices, procedures and behavioural approaches.",
+      "sourceIds": [
+        "src-1939",
+        "src-1940"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0103",
+      "subjectId": "evidencebasedmedicine",
+      "claim": "An approach to clinical decision-making that combines research evidence, professional expertise and patient values.",
+      "sourceIds": [
+        "src-1941",
+        "src-1942"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0104",
+      "subjectId": "evidencebasedmedicine",
+      "claim": "Evidence-based medicine integrates the best available research evidence with clinical expertise and the values and circumstances of individual patients.",
+      "sourceIds": [
+        "src-1941",
+        "src-1942"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0105",
+      "subjectId": "antimicrobialresistance",
+      "claim": "The ability of microorganisms to survive or grow despite medicines designed to kill them or stop their growth.",
+      "sourceIds": [
+        "src-1943",
+        "src-1944"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0106",
+      "subjectId": "antimicrobialresistance",
+      "claim": "Antimicrobial resistance occurs when microorganisms such as bacteria, viruses, fungi or parasites evolve or acquire mechanisms that reduce the effectiveness of medicines used against them.",
+      "sourceIds": [
+        "src-1943",
+        "src-1944"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0107",
+      "subjectId": "vaccineimmunology",
+      "claim": "The study of immune responses generated by vaccination, including antibodies, cellular immunity and immune memory.",
+      "sourceIds": [
+        "src-1945",
+        "src-1832"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0108",
+      "subjectId": "vaccineimmunology",
+      "claim": "Vaccine immunology studies how vaccines activate and shape the immune system.",
+      "sourceIds": [
+        "src-1945",
+        "src-1832"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0109",
+      "subjectId": "atlas_epidemiology_disease_transmission",
+      "claim": "The processes through which infectious agents move between hosts or from environmental sources to people.",
+      "sourceIds": [
+        "src-1946",
+        "src-1947"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0110",
+      "subjectId": "atlas_epidemiology_disease_transmission",
+      "claim": "Disease transmission describes how an infectious agent moves from a reservoir or source to a susceptible host.",
+      "sourceIds": [
+        "src-1946",
+        "src-1947"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0111",
+      "subjectId": "atlas_epidemiology_outbreak_investigation",
+      "claim": "A field epidemiology process used to identify the cause, source and spread of an unusual cluster of health events and guide control.",
+      "sourceIds": [
+        "src-1948",
+        "src-1949"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0112",
+      "subjectId": "atlas_epidemiology_outbreak_investigation",
+      "claim": "Outbreak investigation is a structured public-health response to an unexpected increase in disease or other health events.",
+      "sourceIds": [
+        "src-1948",
+        "src-1949"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0113",
+      "subjectId": "climatescience",
+      "claim": "The scientific study of Earth's climate system, its variability, drivers and long-term changes.",
+      "sourceIds": [
+        "src-1828",
+        "src-1950"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0114",
+      "subjectId": "climatescience",
+      "claim": "Climate science examines the long-term patterns and drivers of Earth's climate system, including the atmosphere, oceans, land, ice and living systems.",
+      "sourceIds": [
+        "src-1828",
+        "src-1950"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0115",
+      "subjectId": "climatemodelling",
+      "claim": "Computer-based representations of the climate system used to understand past change and explore possible future climates.",
+      "sourceIds": [
+        "src-1950",
+        "src-1951"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0116",
+      "subjectId": "climatemodelling",
+      "claim": "Climate models are numerical representations of interactions among the atmosphere, ocean, land, ice and other parts of the climate system.",
+      "sourceIds": [
+        "src-1950",
+        "src-1951"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0117",
+      "subjectId": "ozone",
+      "claim": "A stratospheric region containing ozone that absorbs much of the Sun's harmful ultraviolet radiation.",
+      "sourceIds": [
+        "src-1952",
+        "src-1953"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0118",
+      "subjectId": "ozone",
+      "claim": "The ozone layer is a region of the stratosphere with relatively high concentrations of ozone that absorbs much of the Sun's harmful ultraviolet radiation.",
+      "sourceIds": [
+        "src-1952",
+        "src-1953"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0119",
+      "subjectId": "amazon",
+      "claim": "A vast and diverse tropical forest and river system in South America with major roles in biodiversity, carbon storage and regional water cycles.",
+      "sourceIds": [
+        "src-1954",
+        "src-1955"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0120",
+      "subjectId": "amazon",
+      "claim": "The Amazon rainforest is a vast tropical forest and river basin spanning several South American countries, with most of the forest in Brazil.",
+      "sourceIds": [
+        "src-1954",
+        "src-1955"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0121",
+      "subjectId": "sundarbans",
+      "claim": "A large tidal mangrove ecosystem in the Bengal delta, shared by Bangladesh and India.",
+      "sourceIds": [
+        "src-1956",
+        "src-1957"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0122",
+      "subjectId": "sundarbans",
+      "claim": "The Sundarbans is a transboundary mangrove ecosystem in the Ganges-Brahmaputra-Meghna delta shared by Bangladesh and India.",
+      "sourceIds": [
+        "src-1956",
+        "src-1957"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0123",
+      "subjectId": "coralreefs",
+      "claim": "Highly diverse marine ecosystems built by reef-forming corals and associated organisms.",
+      "sourceIds": [
+        "src-314",
+        "src-1958"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0124",
+      "subjectId": "coralreefs",
+      "claim": "Coral reefs are marine ecosystems built largely by colonies of coral animals that produce calcium-carbonate structures.",
+      "sourceIds": [
+        "src-314",
+        "src-1958"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0125",
+      "subjectId": "atlas_forestry_forest_management_deforestation",
+      "claim": "The permanent or long-term conversion of forest land to non-forest uses.",
+      "sourceIds": [
+        "src-1959",
+        "src-1960"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0126",
+      "subjectId": "atlas_forestry_forest_management_deforestation",
+      "claim": "Deforestation is the conversion of forest to another land use, such as agriculture, pasture, mining or infrastructure.",
+      "sourceIds": [
+        "src-1959",
+        "src-1960"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0127",
+      "subjectId": "civilengineering",
+      "claim": "The engineering discipline concerned with infrastructure and the built environment.",
+      "sourceIds": [
+        "src-1961",
+        "src-1962"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0128",
+      "subjectId": "civilengineering",
+      "claim": "Civil engineering applies scientific and engineering principles to the planning, design, construction, operation and maintenance of infrastructure.",
+      "sourceIds": [
+        "src-1961",
+        "src-1962"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0129",
+      "subjectId": "bridge",
+      "claim": "A structure that spans a physical obstacle to carry people, vehicles, railways or utilities.",
+      "sourceIds": [
+        "src-1963",
+        "src-1964"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0130",
+      "subjectId": "bridge",
+      "claim": "A bridge is a structure that carries a route or utility across an obstacle such as a river, valley, road or railway.",
+      "sourceIds": [
+        "src-1963",
+        "src-1964"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0131",
+      "subjectId": "irrigation",
+      "claim": "The planned supply of water to agricultural land or plants to support growth.",
+      "sourceIds": [
+        "src-1965",
+        "src-1966"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0132",
+      "subjectId": "irrigation",
+      "claim": "Irrigation is the controlled application of water to land or crops to support plant growth when rainfall is insufficient or poorly timed.",
+      "sourceIds": [
+        "src-1965",
+        "src-1966"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0133",
+      "subjectId": "materialsscience",
+      "claim": "The interdisciplinary study of how materials' structure, processing and composition determine their properties and uses.",
+      "sourceIds": [
+        "src-1967",
+        "src-1968"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0134",
+      "subjectId": "materialsscience",
+      "claim": "Materials science and engineering investigates how a material's composition, structure, processing and environment determine its properties and performance.",
+      "sourceIds": [
+        "src-1967",
+        "src-1968"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0135",
+      "subjectId": "battery",
+      "claim": "An electrochemical device that stores energy chemically and delivers it as electrical power.",
+      "sourceIds": [
+        "src-1969",
+        "src-1970"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0136",
+      "subjectId": "battery",
+      "claim": "A battery is an electrochemical device that stores energy in chemical form and converts it into electrical energy when connected to a circuit.",
+      "sourceIds": [
+        "src-1969",
+        "src-1970"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
     }
   ]
 }

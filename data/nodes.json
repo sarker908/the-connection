@@ -201,10 +201,12 @@
     "type": "Historical era",
     "icon": "🏭",
     "featured": true,
-    "short": "Machines transformed work and society.",
-    "description": "The Industrial Revolution began a shift toward mechanized manufacturing, new energy systems, urbanization and modern industrial economies.",
+    "short": "The long, uneven transformation from predominantly agrarian production toward mechanized industry, factory work and fossil-fuel-powered economies.",
+    "description": "The Industrial Revolution describes the transition toward mechanized production, factory systems and new energy and transport networks, beginning in Britain in the eighteenth century before spreading unevenly across the world. It transformed work, urban life, trade and economic organization, while also intensifying pollution, harsh labour conditions, colonial extraction and social disruption. It was not a single event or a uniform process; different regions industrialized at different times and through distinct paths.",
     "wiki": "https://en.wikipedia.org/wiki/Industrial_Revolution",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-003"
   },
   {
     "id": "steam",
@@ -421,12 +423,14 @@
     "category": "History",
     "year": "c. 10,000 BCE",
     "type": "Transformation",
-    "description": "The shift from foraging to farming enabled permanent settlements, food surpluses and larger societies.",
+    "description": "The Neolithic transition to agriculture occurred independently in several regions rather than beginning at one universal point. Communities domesticated different crops and animals in Southwest Asia, East Asia, New Guinea, Africa and the Americas at different times. Farming supported more permanent settlements and, in many places, population growth and new forms of social organization, but it also brought new disease patterns, inequalities and environmental change. The transition was gradual and did not replace hunting and gathering everywhere.",
     "icon": "🌾",
     "featured": false,
-    "short": "The shift from foraging to farming enabled permanent settlements, food surpluses and larger societies.",
+    "short": "The gradual adoption of plant cultivation and animal domestication by human communities in multiple regions of the world.",
     "wiki": "https://en.wikipedia.org/wiki/Neolithic_Revolution",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-003"
   },
   {
     "id": "writing",
@@ -447,12 +451,14 @@
     "category": "History",
     "year": "c. 3500 BCE",
     "type": "Civilization",
-    "description": "Mesopotamian cities developed early systems of administration, writing, trade and monumental architecture.",
+    "description": "Mesopotamia refers to the historical region associated with the Tigris and Euphrates river systems, largely in modern Iraq and extending into neighbouring countries. From the late fourth millennium BCE, communities in southern Mesopotamia developed some of the earliest known cities and writing systems, including cuneiform. Sumerian, Akkadian, Babylonian and Assyrian societies changed over millennia, building complex institutions, trade networks, irrigation works and scholarly traditions. Mesopotamia was diverse and interacted continuously with surrounding regions.",
     "icon": "🏛️",
     "featured": false,
-    "short": "Mesopotamian cities developed early systems of administration, writing, trade and monumental architecture.",
+    "short": "A historical region between and around the Tigris and Euphrates rivers, home to several early urban civilizations.",
     "wiki": "https://en.wikipedia.org/wiki/Mesopotamia",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-003"
   },
   {
     "id": "ancientgreece",
@@ -486,12 +492,14 @@
     "category": "History",
     "year": "27 BCE",
     "type": "Empire",
-    "description": "Roman institutions, engineering, law, roads and language influenced societies across Europe, North Africa and western Asia.",
+    "description": "The Roman state developed from a city in central Italy into a republic and then a Mediterranean empire. The imperial period conventionally begins in 27 BCE, when Octavian received the title Augustus. Roman rule connected diverse provinces through administration, roads, ports, military systems, law, trade and cultural exchange, while relying heavily on conquest, taxation, slavery and unequal power. The western imperial government ended in the fifth century CE, while the eastern Roman, or Byzantine, Empire continued for centuries.",
     "icon": "🏟️",
     "featured": false,
-    "short": "Roman institutions, engineering, law, roads and language influenced societies across Europe, North Africa and western Asia.",
+    "short": "An ancient Mediterranean state whose republican and imperial institutions shaped large parts of Europe, North Africa and western Asia.",
     "wiki": "https://en.wikipedia.org/wiki/Roman_Empire",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-003"
   },
   {
     "id": "silkroad",
@@ -499,12 +507,14 @@
     "category": "Geography",
     "year": "2nd century BCE",
     "type": "Trade network",
-    "description": "A network of land and sea routes that moved goods, technologies, beliefs and diseases across Eurasia.",
+    "description": "The Silk Roads were not one road but changing networks of overland and maritime routes linking East Asia, Central Asia, South Asia, the Middle East, Africa and Europe. They carried goods such as silk, spices, ceramics and metals, as well as technologies, religious traditions, languages, artistic forms and scientific knowledge. These exchanges were shaped by geography, political power, commercial demand and changing security conditions. The networks expanded and shifted across many centuries.",
     "icon": "🐫",
     "featured": false,
-    "short": "A network of land and sea routes that moved goods, technologies, beliefs and diseases across Eurasia.",
+    "short": "A changing network of Eurasian and maritime trade routes that connected societies through commerce, migration and cultural exchange.",
     "wiki": "https://en.wikipedia.org/wiki/Silk_Road",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-003"
   },
   {
     "id": "paper",
@@ -717,12 +727,14 @@
     "category": "Medicine",
     "year": "Ancient disease",
     "type": "Disease",
-    "description": "A highly contagious disease that caused immense suffering; vaccination campaigns led to its global eradication in 1980.",
+    "description": "Smallpox was a severe infectious disease caused by variola viruses and spread mainly through close contact and respiratory exposure. It caused major mortality and lasting disability across many societies. The global eradication campaign combined vaccination, surveillance and containment; the last known naturally occurring case was recorded in 1977, and the World Health Assembly declared smallpox eradicated in 1980. It remains the only human infectious disease eradicated worldwide through deliberate public-health action.",
     "icon": "🩺",
     "featured": false,
-    "short": "A highly contagious disease that caused immense suffering; vaccination campaigns led to its global eradication in 1980.",
+    "short": "A devastating infectious disease caused by variola virus that was declared eradicated in 1980.",
     "wiki": "https://en.wikipedia.org/wiki/Smallpox",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-003"
   },
   {
     "id": "blackdeath",
@@ -878,12 +890,14 @@
     "category": "Medicine",
     "year": "1895",
     "type": "Scientific discovery",
-    "description": "X-rays made it possible to see inside the human body without surgery and became essential to medical diagnosis and material science.",
-    "short": "X-rays made it possible to see inside the human body without surgery and became essential to medical diagnosis and material science.",
+    "description": "X-rays are high-energy electromagnetic radiation with wavelengths shorter than ultraviolet light. Their ability to pass through many materials, with different absorption by different tissues, makes them useful in medical imaging and industrial inspection. Wilhelm Conrad Röntgen identified the rays in 1895 while investigating electrical discharges in vacuum tubes; the discovery quickly transformed physics and medicine. X-rays are ionizing radiation, so medical use balances diagnostic benefit against exposure risk.",
+    "short": "A form of electromagnetic radiation used in imaging because it can pass through materials and is absorbed differently by different substances.",
     "icon": "🩻",
     "featured": false,
     "wiki": "https://en.wikipedia.org/wiki/X-ray",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-003"
   },
   {
     "id": "insulin",
@@ -891,12 +905,14 @@
     "category": "Medicine",
     "year": "1921",
     "type": "Medical discovery",
-    "description": "The discovery and therapeutic use of insulin transformed type 1 diabetes from a usually fatal condition into a manageable chronic disease.",
-    "short": "The discovery and therapeutic use of insulin transformed type 1 diabetes from a usually fatal condition into a manageable chronic disease.",
+    "description": "Insulin is a peptide hormone produced by pancreatic beta cells that helps regulate blood glucose by influencing glucose uptake, storage and metabolism. Research at the University of Toronto in 1921–1922, involving Frederick Banting, Charles Best, John Macleod and James Collip, led to the purification and clinical use of insulin. The discovery transformed diabetes care, but modern insulin treatment has continued to evolve through advances in manufacturing, formulations, delivery and monitoring.",
+    "short": "A pancreatic hormone that helps regulate blood glucose and a life-saving therapy for people who cannot produce or use enough insulin.",
     "icon": "🩺",
     "featured": false,
     "wiki": "https://en.wikipedia.org/wiki/Insulin",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-003"
   },
   {
     "id": "genome",
@@ -1036,12 +1052,14 @@
     "category": "Geography",
     "year": "—",
     "type": "Mangrove ecosystem",
-    "description": "The Sundarbans is a vast tidal mangrove forest shared by Bangladesh and India, known for its biodiversity and importance to coastal protection.",
-    "short": "The Sundarbans is a vast tidal mangrove forest shared by Bangladesh and India, known for its biodiversity and importance to coastal protection.",
+    "description": "The Sundarbans is a transboundary mangrove ecosystem in the Ganges-Brahmaputra-Meghna delta shared by Bangladesh and India. Its tidal channels, mudflats and salt-tolerant forests support diverse terrestrial and aquatic life, including the Bengal tiger. The mangroves help stabilize shorelines, buffer storm impacts and support local livelihoods, while facing pressures from cyclones, salinity change, erosion, pollution and human land use. The Bangladesh and Indian portions have separate UNESCO World Heritage designations.",
+    "short": "A large tidal mangrove ecosystem in the Bengal delta, shared by Bangladesh and India.",
     "icon": "🌳",
     "featured": false,
     "wiki": "https://en.wikipedia.org/wiki/Sundarbans",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-003"
   },
   {
     "id": "rabindranath",
@@ -1765,12 +1783,14 @@
     "category": "Environment",
     "year": "—",
     "type": "Ecosystem",
-    "description": "The world's largest tropical rainforest, vital to biodiversity, regional climate and global carbon cycles.",
-    "short": "The world's largest tropical rainforest, vital to biodiversity, regional climate and global carbon cycles.",
+    "description": "The Amazon rainforest is a vast tropical forest and river basin spanning several South American countries, with most of the forest in Brazil. It stores carbon, influences regional rainfall and supports exceptional biological and cultural diversity. Deforestation, degradation, fire and climate change interact to threaten forest integrity and can alter water and carbon cycles. The Amazon is not a uniform ecosystem: it includes different forest types, wetlands, savannas and seasonally flooded landscapes.",
+    "short": "A vast and diverse tropical forest and river system in South America with major roles in biodiversity, carbon storage and regional water cycles.",
     "icon": "🌳",
     "featured": false,
     "wiki": "https://en.wikipedia.org/wiki/Amazon_rainforest",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-003"
   },
   {
     "id": "ozone",
@@ -1778,12 +1798,14 @@
     "category": "Environment",
     "year": "1980s",
     "type": "Atmospheric system",
-    "description": "A region of the stratosphere that absorbs much of the Sun's harmful ultraviolet radiation and became a focus of global environmental action.",
-    "short": "A region of the stratosphere that absorbs much of the Sun's harmful ultraviolet radiation and became a focus of global environmental action.",
+    "description": "The ozone layer is a region of the stratosphere with relatively high concentrations of ozone that absorbs much of the Sun's harmful ultraviolet radiation. Human-made ozone-depleting substances, especially chlorofluorocarbons, release chlorine and bromine compounds that destroy ozone through catalytic chemical reactions. The Montreal Protocol controls these substances, and assessments show a long-term recovery trend, although recovery varies by region and is influenced by atmospheric conditions and other emissions.",
+    "short": "A stratospheric region containing ozone that absorbs much of the Sun's harmful ultraviolet radiation.",
     "icon": "🌤️",
     "featured": false,
     "wiki": "https://en.wikipedia.org/wiki/Ozone_layer",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-003"
   },
   {
     "id": "biodiversity",
@@ -1936,12 +1958,14 @@
     "category": "Engineering",
     "year": "—",
     "type": "Engineering discipline",
-    "description": "The design and construction of infrastructure such as bridges, roads, water systems and buildings.",
-    "short": "The design and construction of infrastructure such as bridges, roads, water systems and buildings.",
+    "description": "Civil engineering applies scientific and engineering principles to the planning, design, construction, operation and maintenance of infrastructure. Its fields include structural, geotechnical, transportation, water-resources, environmental and construction engineering. Civil engineers must account for loads, materials, soil, water, hazards, accessibility, cost, lifecycle maintenance and environmental impacts. The discipline supports public systems such as buildings, roads, bridges, ports, water supply and wastewater treatment.",
+    "short": "The engineering discipline concerned with infrastructure and the built environment.",
     "icon": "✳",
     "featured": false,
     "wiki": "https://en.wikipedia.org/wiki/Civil_engineering",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-003"
   },
   {
     "id": "robotics",
@@ -1962,12 +1986,14 @@
     "category": "Engineering",
     "year": "—",
     "type": "Structure",
-    "description": "A structure built to span a physical obstacle, linking communities and enabling transport, trade and exchange.",
-    "short": "A structure built to span a physical obstacle, linking communities and enabling transport, trade and exchange.",
+    "description": "A bridge is a structure that carries a route or utility across an obstacle such as a river, valley, road or railway. Common structural forms include beam, arch, truss, cantilever, suspension and cable-stayed bridges. Design depends on span, loads, foundations, materials, wind, seismic conditions, durability, construction method and maintenance. Bridges are engineered for a specific site and service life rather than selected from one universal design.",
+    "short": "A structure that spans a physical obstacle to carry people, vehicles, railways or utilities.",
     "icon": "✳",
     "featured": false,
     "wiki": "https://en.wikipedia.org/wiki/Bridge",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-003"
   },
   {
     "id": "irrigation",
@@ -1975,12 +2001,14 @@
     "category": "Food & Agriculture",
     "year": "—",
     "type": "Agricultural practice",
-    "description": "The controlled supply of water to crops, allowing farming in dry seasons and regions with limited rainfall.",
-    "short": "The controlled supply of water to crops, allowing farming in dry seasons and regions with limited rainfall.",
+    "description": "Irrigation is the controlled application of water to land or crops to support plant growth when rainfall is insufficient or poorly timed. Systems include surface or gravity-fed methods, sprinklers and localized drip irrigation, each with different costs, energy needs, water efficiencies and suitability. Irrigation can increase agricultural productivity, but poor management can contribute to waterlogging, salinity, groundwater depletion and competition for water.",
+    "short": "The planned supply of water to agricultural land or plants to support growth.",
     "icon": "✳",
     "featured": false,
     "wiki": "https://en.wikipedia.org/wiki/Irrigation",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-003"
   },
   {
     "id": "domestication",
@@ -2367,10 +2395,12 @@
     "type": "Invention",
     "icon": "🔋",
     "featured": false,
-    "short": "A device that stores chemical energy and releases it as electrical energy when needed.",
-    "description": "A device that stores chemical energy and releases it as electrical energy when needed.",
+    "short": "An electrochemical device that stores energy chemically and delivers it as electrical power.",
+    "description": "A battery is an electrochemical device that stores energy in chemical form and converts it into electrical energy when connected to a circuit. Cells typically contain two electrodes and an electrolyte; during discharge, electrochemical reactions drive electrons through the external circuit while ions move inside the cell. Rechargeable batteries use reactions that can be driven in reverse, although repeated cycling causes degradation. Different chemistries trade off energy density, power, cost, safety, lifespan and material availability.",
     "wiki": "https://en.wikipedia.org/wiki/Battery_(electricity)",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-003"
   },
   {
     "id": "linguistics",
@@ -2653,10 +2683,12 @@
     "type": "Marine ecosystem",
     "icon": "🪸",
     "featured": false,
-    "short": "Biodiverse marine habitats built largely by reef-forming corals.",
-    "description": "Coral reefs are complex ecosystems built by colonies of coral animals and supported by relationships with microscopic algae in many shallow-water species. Reefs provide habitat, support fisheries and tourism, and help protect coastlines, but face threats including warming, acidification and pollution.",
+    "short": "Highly diverse marine ecosystems built by reef-forming corals and associated organisms.",
+    "description": "Coral reefs are marine ecosystems built largely by colonies of coral animals that produce calcium-carbonate structures. Their complex habitats support high biodiversity, fisheries, tourism and coastal protection. Reefs are sensitive to marine heatwaves, which can cause coral bleaching, as well as ocean acidification, pollution, sedimentation and destructive fishing. Coral bleaching is a stress response and does not always mean a coral has died, but prolonged or repeated stress can cause severe reef decline.",
     "wiki": "https://en.wikipedia.org/wiki/Coral_reef",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-003"
   },
   {
     "id": "deepsea",
@@ -3401,10 +3433,12 @@
     "type": "Subject area",
     "icon": "📘",
     "featured": false,
-    "short": "Disease Transmission explores a key idea, method or development within epidemiology.",
-    "description": "Disease Transmission explores a key idea, method or development within epidemiology. Its history, evidence and applications connect this field to wider scientific, historical and cultural questions.",
+    "short": "The processes through which infectious agents move between hosts or from environmental sources to people.",
+    "description": "Disease transmission describes how an infectious agent moves from a reservoir or source to a susceptible host. Routes include direct contact, indirect contact through contaminated objects, respiratory particles, contaminated food or water, blood exposure and vectors such as mosquitoes. The importance of each route depends on the pathogen and context. Understanding transmission helps guide prevention measures such as ventilation, sanitation, vaccination, protective equipment and vector control.",
     "wiki": "https://en.wikipedia.org/wiki/Disease_Transmission",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-003"
   },
   {
     "id": "atlas_epidemiology_outbreak_investigation",
@@ -3414,10 +3448,12 @@
     "type": "Subject area",
     "icon": "📘",
     "featured": false,
-    "short": "Outbreak Investigation explores a key idea, method or development within epidemiology.",
-    "description": "Outbreak Investigation explores a key idea, method or development within epidemiology. Its history, evidence and applications connect this field to wider scientific, historical and cultural questions.",
+    "short": "A field epidemiology process used to identify the cause, source and spread of an unusual cluster of health events and guide control.",
+    "description": "Outbreak investigation is a structured public-health response to an unexpected increase in disease or other health events. Investigators verify the diagnosis and whether an outbreak exists, define and find cases, describe patterns by time, place and person, develop and test hypotheses, and implement control measures. The sequence is adapted to urgency and available evidence; action to protect health may begin before every uncertainty is resolved. Communication with affected communities is central.",
     "wiki": "https://en.wikipedia.org/wiki/Outbreak_Investigation",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-003"
   },
   {
     "id": "atlas_nutrition_science_macronutrients",
@@ -3931,10 +3967,12 @@
     "type": "Subject area",
     "icon": "📘",
     "featured": false,
-    "short": "Deforestation explores a key idea, method or development within forestry & forest management.",
-    "description": "Deforestation explores a key idea, method or development within forestry & forest management. Its history, evidence and applications connect this field to wider scientific, historical and cultural questions.",
+    "short": "The permanent or long-term conversion of forest land to non-forest uses.",
+    "description": "Deforestation is the conversion of forest to another land use, such as agriculture, pasture, mining or infrastructure. It differs from forest degradation, where ecological quality or carbon stocks decline without necessarily removing the entire forest. Rates and drivers vary by region and period; agricultural expansion is a major driver in many tropical regions. Forest loss affects biodiversity, carbon storage, water cycles, soils and the rights and livelihoods of forest-dependent communities.",
     "wiki": "https://en.wikipedia.org/wiki/Deforestation",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-003"
   },
   {
     "id": "atlas_forestry_forest_management_reforestation",
@@ -5335,10 +5373,12 @@
     "category": "Engineering",
     "type": "Subject",
     "icon": "🧱",
-    "short": "A subject within materials science.",
-    "description": "Materials science is studied within materials science. It connects to wider questions, methods and applications across engineering and related fields. This entry is a concise starting point for further reading; consult the linked reference for a fuller treatment.",
+    "short": "The interdisciplinary study of how materials' structure, processing and composition determine their properties and uses.",
+    "description": "Materials science and engineering investigates how a material's composition, structure, processing and environment determine its properties and performance. It spans metals, ceramics, polymers, semiconductors, composites, biomaterials and many other classes. The field connects atomic-scale structure with practical behaviour such as strength, conductivity, corrosion resistance and thermal stability, helping design materials for energy, medicine, transport, construction and electronics.",
     "wiki": "https://en.wikipedia.org/wiki/Materials_science",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-003"
   },
   {
     "id": "metallurgy",
@@ -6545,10 +6585,12 @@
     "category": "Medicine",
     "type": "Subject",
     "icon": "🦠",
-    "short": "A subject within microbial & immunological science.",
-    "description": "Vaccine immunology is studied within microbial & immunological science. It connects to wider questions, methods and applications across medicine and related fields. This entry is a concise starting point for further reading; consult the linked reference for a fuller treatment.",
+    "short": "The study of immune responses generated by vaccination, including antibodies, cellular immunity and immune memory.",
+    "description": "Vaccine immunology studies how vaccines activate and shape the immune system. Vaccine antigens are recognized by immune cells, leading to responses that can include antibodies, helper T cells, cytotoxic T cells and long-lived memory cells. Different vaccine platforms stimulate these pathways in different ways, and protection varies by pathogen, vaccine, population and outcome. Vaccination can reduce the risk or severity of disease, but no vaccine is universally or perfectly protective.",
     "wiki": "https://en.wikipedia.org/wiki/Vaccine_immunology",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-003"
   },
   {
     "id": "hostpathogeninteractions",
@@ -6567,10 +6609,12 @@
     "category": "Medicine",
     "type": "Subject",
     "icon": "🦠",
-    "short": "A subject within microbial & immunological science.",
-    "description": "Antimicrobial resistance is studied within microbial & immunological science. It connects to wider questions, methods and applications across medicine and related fields. This entry is a concise starting point for further reading; consult the linked reference for a fuller treatment.",
+    "short": "The ability of microorganisms to survive or grow despite medicines designed to kill them or stop their growth.",
+    "description": "Antimicrobial resistance occurs when microorganisms such as bacteria, viruses, fungi or parasites evolve or acquire mechanisms that reduce the effectiveness of medicines used against them. Resistance can emerge naturally, but inappropriate use of antimicrobials and weak infection prevention can accelerate its spread. It threatens routine treatment and modern medical procedures and requires coordinated action across human health, animal health, agriculture and the environment.",
     "wiki": "https://en.wikipedia.org/wiki/Antimicrobial_resistance",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-003"
   },
   {
     "id": "microbiomescience",
@@ -7007,10 +7051,12 @@
     "category": "Medicine",
     "type": "Subject",
     "icon": "🏥",
-    "short": "A subject within clinical & public health.",
-    "description": "Clinical trials is studied within clinical & public health. It connects to wider questions, methods and applications across medicine and related fields. This entry is a concise starting point for further reading; consult the linked reference for a fuller treatment.",
+    "short": "Research studies involving people that assess the safety, effectiveness or other effects of health interventions.",
+    "description": "Clinical trials are planned studies involving human participants that evaluate health-related interventions, including medicines, vaccines, devices, procedures and behavioural approaches. Their design may compare an intervention with placebo, usual care or another treatment. Many drug-development programmes use phases to study safety, dosage and effectiveness, but not every clinical study follows the same phase sequence. Ethical review, informed consent, transparent registration and careful analysis are essential.",
     "wiki": "https://en.wikipedia.org/wiki/Clinical_trials",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-003"
   },
   {
     "id": "evidencebasedmedicine",
@@ -7018,10 +7064,12 @@
     "category": "Medicine",
     "type": "Subject",
     "icon": "🏥",
-    "short": "A subject within clinical & public health.",
-    "description": "Evidence-based medicine is studied within clinical & public health. It connects to wider questions, methods and applications across medicine and related fields. This entry is a concise starting point for further reading; consult the linked reference for a fuller treatment.",
+    "short": "An approach to clinical decision-making that combines research evidence, professional expertise and patient values.",
+    "description": "Evidence-based medicine integrates the best available research evidence with clinical expertise and the values and circumstances of individual patients. It does not mean following a single study or treating guidelines as automatic rules. Systematic reviews can synthesize multiple studies, but their conclusions depend on the quality, relevance and certainty of the underlying evidence. Good decisions also consider harms, benefits, feasibility and patient preferences.",
     "wiki": "https://en.wikipedia.org/wiki/Evidence-based_medicine",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-003"
   },
   {
     "id": "medicalethics",
@@ -7040,10 +7088,12 @@
     "category": "Medicine",
     "type": "Subject",
     "icon": "🏥",
-    "short": "A subject within clinical & public health.",
-    "description": "Global health is studied within clinical & public health. It connects to wider questions, methods and applications across medicine and related fields. This entry is a concise starting point for further reading; consult the linked reference for a fuller treatment.",
+    "short": "A field of research, policy and practice focused on improving health and equity across populations and countries.",
+    "description": "Global health addresses health challenges that cross borders and are shaped by social, economic, political and environmental systems. It combines research, policy and practice, with attention to health equity, prevention, health systems, international cooperation and the conditions that shape population health. It is broader than responding to outbreaks: it includes chronic disease, maternal and child health, environmental risks, access to care and the distribution of resources and power.",
     "wiki": "https://en.wikipedia.org/wiki/Global_health",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-003"
   },
   {
     "id": "cognitiveneuroscience",
@@ -7447,10 +7497,12 @@
     "category": "Environment",
     "type": "Subject",
     "icon": "🌍",
-    "short": "A subject within climate & environment.",
-    "description": "Climate science is studied within climate & environment. It connects to wider questions, methods and applications across environment and related fields. This entry is a concise starting point for further reading; consult the linked reference for a fuller treatment.",
+    "short": "The scientific study of Earth's climate system, its variability, drivers and long-term changes.",
+    "description": "Climate science examines the long-term patterns and drivers of Earth's climate system, including the atmosphere, oceans, land, ice and living systems. Evidence comes from instrumental measurements, satellites, ice cores, tree rings, sediments and physical theory. Climate varies naturally, but multiple independent lines of evidence show that recent global warming is primarily driven by human activities, especially greenhouse-gas emissions. Climate science distinguishes long-term climate trends from short-term weather.",
     "wiki": "https://en.wikipedia.org/wiki/Climate_science",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-003"
   },
   {
     "id": "climatemodelling",
@@ -7458,10 +7510,12 @@
     "category": "Environment",
     "type": "Subject",
     "icon": "🌍",
-    "short": "A subject within climate & environment.",
-    "description": "Climate modelling is studied within climate & environment. It connects to wider questions, methods and applications across environment and related fields. This entry is a concise starting point for further reading; consult the linked reference for a fuller treatment.",
+    "short": "Computer-based representations of the climate system used to understand past change and explore possible future climates.",
+    "description": "Climate models are numerical representations of interactions among the atmosphere, ocean, land, ice and other parts of the climate system. They apply physical laws and parameterizations to simulate climate behaviour under specified conditions and scenarios. Models are evaluated against observations and past climates, and their strengths differ by variable, region and timescale. Projections are conditional estimates, not exact forecasts of the weather on a particular future date.",
     "wiki": "https://en.wikipedia.org/wiki/Climate_modelling",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-003"
   },
   {
     "id": "atmosphericchemistry",

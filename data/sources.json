@@ -16716,7 +16716,8 @@
         "Observed indicators of a warming climate and evidence from multiple measurement systems"
       ],
       "topicIds": [
-        "climate"
+        "climate",
+        "climatescience"
       ],
       "sourceClass": "institutional"
     },
@@ -16768,7 +16769,8 @@
         "WHO explanation of vaccination, immune response and vaccine delivery"
       ],
       "topicIds": [
-        "vaccines"
+        "vaccines",
+        "vaccineimmunology"
       ],
       "sourceClass": "institutional"
     },
@@ -17934,6 +17936,657 @@
       ],
       "topicIds": [
         "atlas_cybersecurity_encryption"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1921",
+      "title": "Industrial Revolution and Technology",
+      "publisher": "National Geographic Society",
+      "url": "https://education.nationalgeographic.org/resource/industrial-revolution-and-technology/",
+      "roles": [
+        "Research and further reading"
+      ],
+      "topicIds": [
+        "industrial"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1922",
+      "title": "Industrial Revolution: Definition, Inventions & Dates",
+      "publisher": "HISTORY",
+      "url": "https://www.history.com/articles/industrial-revolution",
+      "roles": [
+        "Research and further reading"
+      ],
+      "topicIds": [
+        "industrial"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-1923",
+      "title": "The Neolithic Revolution",
+      "publisher": "OpenStax",
+      "url": "https://openstax.org/books/world-history-volume-1/pages/2-3-the-neolithic-revolution",
+      "roles": [
+        "Research and further reading"
+      ],
+      "topicIds": [
+        "agriculture"
+      ],
+      "sourceClass": "academic"
+    },
+    {
+      "id": "src-1924",
+      "title": "The State of the World's Animal Genetic Resources for Food and Agriculture",
+      "publisher": "Food and Agriculture Organization of the United Nations",
+      "url": "https://www.fao.org/4/a1250e/a1250e.pdf",
+      "roles": [
+        "Research and further reading"
+      ],
+      "topicIds": [
+        "agriculture"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1925",
+      "title": "Ancient Mesopotamia: an overview",
+      "publisher": "University of Cambridge, Department of Archaeology",
+      "url": "https://www.arch.cam.ac.uk/about-us/mesopotamia/mesopotamia-history",
+      "roles": [
+        "Research and further reading"
+      ],
+      "topicIds": [
+        "mesopotamia"
+      ],
+      "sourceClass": "academic"
+    },
+    {
+      "id": "src-1926",
+      "title": "The Ahwar of Southern Iraq",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/1481",
+      "roles": [
+        "Research and further reading"
+      ],
+      "topicIds": [
+        "mesopotamia"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1927",
+      "title": "The Roman Empire (27 B.C.–393 A.D.)",
+      "publisher": "The Metropolitan Museum of Art",
+      "url": "https://www.metmuseum.org/it/essays/the-roman-empire-27-b-c-393-a-d",
+      "roles": [
+        "Research and further reading"
+      ],
+      "topicIds": [
+        "rome"
+      ],
+      "sourceClass": "museum"
+    },
+    {
+      "id": "src-1928",
+      "title": "Ancient Rome, an introduction",
+      "publisher": "Smarthistory, with British Museum contribution",
+      "url": "https://smarthistory.org/introduction-to-ancient-rome/",
+      "roles": [
+        "Research and further reading"
+      ],
+      "topicIds": [
+        "rome"
+      ],
+      "sourceClass": "academic"
+    },
+    {
+      "id": "src-1929",
+      "title": "About the Silk Roads",
+      "publisher": "UNESCO",
+      "url": "https://www.unesco.org/en/silk-roads/about-silk-roads",
+      "roles": [
+        "Research and further reading"
+      ],
+      "topicIds": [
+        "silkroad"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1930",
+      "title": "The Paths of Innovation: Technology, Civilization and Empire",
+      "publisher": "UNESCO Silk Roads Programme",
+      "url": "https://en.unesco.org/silkroad/sites/default/files/knowledge-bank-article/the%20paths%20of%20innovation.pdf",
+      "roles": [
+        "Research and further reading"
+      ],
+      "topicIds": [
+        "silkroad"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1931",
+      "title": "Smallpox",
+      "publisher": "World Health Organization",
+      "url": "https://www.who.int/emergencies/situations/smallpox",
+      "roles": [
+        "Research and further reading"
+      ],
+      "topicIds": [
+        "smallpox"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1932",
+      "title": "History of smallpox vaccination",
+      "publisher": "World Health Organization",
+      "url": "https://www.who.int/news-room/spotlight/history-of-vaccination/history-of-smallpox-vaccination",
+      "roles": [
+        "Research and further reading"
+      ],
+      "topicIds": [
+        "smallpox"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1933",
+      "title": "About the Discovery of Insulin",
+      "publisher": "University of Toronto Libraries",
+      "url": "https://collections.library.utoronto.ca/explore/insulin/about",
+      "roles": [
+        "Research and further reading"
+      ],
+      "topicIds": [
+        "insulin"
+      ],
+      "sourceClass": "academic"
+    },
+    {
+      "id": "src-1934",
+      "title": "Banting, Best, Collip and Macleod: insulin discovery",
+      "publisher": "Science History Institute",
+      "url": "https://www.sciencehistory.org/education/scientific-biographies/frederick-banting-charles-best-james-collip-and-john-macleod/",
+      "roles": [
+        "Research and further reading"
+      ],
+      "topicIds": [
+        "insulin"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1935",
+      "title": "The discovery of X-rays",
+      "publisher": "Nobel Prize",
+      "url": "https://educationalgames-staging.nobelprize.org/educational/physics/x-rays/history.php",
+      "roles": [
+        "Research and further reading"
+      ],
+      "topicIds": [
+        "xray"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1936",
+      "title": "Wilhelm Conrad Röntgen – Nobel Prize in Physics 1901",
+      "publisher": "University of Zurich",
+      "url": "https://www.uzh.ch/en/researchinnovation/excellence/nobelprize/roentgen.html",
+      "roles": [
+        "Research and further reading"
+      ],
+      "topicIds": [
+        "xray"
+      ],
+      "sourceClass": "academic"
+    },
+    {
+      "id": "src-1937",
+      "title": "An updated definition of global health",
+      "publisher": "PubMed Central",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12560341/",
+      "roles": [
+        "Research and further reading"
+      ],
+      "topicIds": [
+        "globalhealth"
+      ],
+      "sourceClass": "academic"
+    },
+    {
+      "id": "src-1938",
+      "title": "Global health architecture",
+      "publisher": "World Health Organization",
+      "url": "https://www.who.int/about/governance/global-health-architecture",
+      "roles": [
+        "Research and further reading"
+      ],
+      "topicIds": [
+        "globalhealth"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1939",
+      "title": "The Basics: NIH Clinical Research Trials",
+      "publisher": "National Institutes of Health",
+      "url": "https://www.nih.gov/health-information/nih-clinical-research-trials-you/basics",
+      "roles": [
+        "Research and further reading"
+      ],
+      "topicIds": [
+        "clinicaltrials"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1940",
+      "title": "Clinical trials",
+      "publisher": "World Health Organization",
+      "url": "https://www.who.int/health-topics/clinical-trials/",
+      "roles": [
+        "Research and further reading"
+      ],
+      "topicIds": [
+        "clinicaltrials"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1941",
+      "title": "Our evidence",
+      "publisher": "Cochrane",
+      "url": "https://www.cochrane.org/evidence",
+      "roles": [
+        "Research and further reading"
+      ],
+      "topicIds": [
+        "evidencebasedmedicine"
+      ],
+      "sourceClass": "academic"
+    },
+    {
+      "id": "src-1942",
+      "title": "What are systematic reviews?",
+      "publisher": "Cochrane",
+      "url": "https://www.cochrane.org/evidence/what-are-systematic-reviews",
+      "roles": [
+        "Research and further reading"
+      ],
+      "topicIds": [
+        "evidencebasedmedicine"
+      ],
+      "sourceClass": "academic"
+    },
+    {
+      "id": "src-1943",
+      "title": "Antimicrobial resistance",
+      "publisher": "World Health Organization",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/antimicrobial-resistance",
+      "roles": [
+        "Research and further reading"
+      ],
+      "topicIds": [
+        "antimicrobialresistance"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1944",
+      "title": "Antimicrobial Resistance: Causes and How It Spreads",
+      "publisher": "Centers for Disease Control and Prevention",
+      "url": "https://www.cdc.gov/antimicrobial-resistance/causes/",
+      "roles": [
+        "Research and further reading"
+      ],
+      "topicIds": [
+        "antimicrobialresistance"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1945",
+      "title": "How do vaccines work?",
+      "publisher": "World Health Organization",
+      "url": "https://www.who.int/news-room/feature-stories/detail/how-do-vaccines-work",
+      "roles": [
+        "Research and further reading"
+      ],
+      "topicIds": [
+        "vaccineimmunology"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1946",
+      "title": "Appendix A: How Infections Spread",
+      "publisher": "Centers for Disease Control and Prevention",
+      "url": "https://www.cdc.gov/children-and-school-preparedness/infection-prevention/appendix-a.html",
+      "roles": [
+        "Research and further reading"
+      ],
+      "topicIds": [
+        "atlas_epidemiology_disease_transmission"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1947",
+      "title": "Chain of Infection Components",
+      "publisher": "National Institute for Occupational Safety and Health",
+      "url": "https://www.cdc.gov/niosh/learning/safetyculturehc/module-2/3.html",
+      "roles": [
+        "Research and further reading"
+      ],
+      "topicIds": [
+        "atlas_epidemiology_disease_transmission"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1948",
+      "title": "Conducting a Field Investigation",
+      "publisher": "Centers for Disease Control and Prevention",
+      "url": "https://www.cdc.gov/field-epi-manual/php/chapters/field-investigation.html",
+      "roles": [
+        "Research and further reading"
+      ],
+      "topicIds": [
+        "atlas_epidemiology_outbreak_investigation"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1949",
+      "title": "Defining Field Epidemiology",
+      "publisher": "Centers for Disease Control and Prevention",
+      "url": "https://www.cdc.gov/field-epi-manual/php/chapters/defining-field-epi.html",
+      "roles": [
+        "Research and further reading"
+      ],
+      "topicIds": [
+        "atlas_epidemiology_outbreak_investigation"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1950",
+      "title": "Climate Change 2021: The Physical Science Basis – Summary Volume",
+      "publisher": "Intergovernmental Panel on Climate Change",
+      "url": "https://www.ipcc.ch/report/ar6/wg1/downloads/report/IPCC_AR6_WGI_SummaryVolume.pdf",
+      "roles": [
+        "Research and further reading"
+      ],
+      "topicIds": [
+        "climatescience",
+        "climatemodelling"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1951",
+      "title": "FAQ 8.1: How Reliable Are the Models Used to Make Projections of Future Climate Change?",
+      "publisher": "Intergovernmental Panel on Climate Change",
+      "url": "https://archive.ipcc.ch/publications_and_data/ar4/wg1/en/faq-8-1.html",
+      "roles": [
+        "Research and further reading"
+      ],
+      "topicIds": [
+        "climatemodelling"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1952",
+      "title": "NASA Knows: The Ozone Hole",
+      "publisher": "NASA Science",
+      "url": "https://science.nasa.gov/earth/explore/nasa-knows-the-ozone-hole/",
+      "roles": [
+        "Research and further reading"
+      ],
+      "topicIds": [
+        "ozone"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1953",
+      "title": "Scientific Assessment of Ozone Depletion 2022: Executive Summary",
+      "publisher": "NOAA Chemical Sciences Laboratory",
+      "url": "https://csl.noaa.gov/assessments/ozone/2026/executivesummary/",
+      "roles": [
+        "Research and further reading"
+      ],
+      "topicIds": [
+        "ozone"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1954",
+      "title": "Tracking Losses in the Amazon, Beyond the Rainforest",
+      "publisher": "NASA Science",
+      "url": "https://science.nasa.gov/missions/landsat/tracking-losses-in-the-amazon-beyond-the-rainforest/",
+      "roles": [
+        "Research and further reading"
+      ],
+      "topicIds": [
+        "amazon"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1955",
+      "title": "Technical Summary: Climate Change 2022, Impacts, Adaptation and Vulnerability",
+      "publisher": "Intergovernmental Panel on Climate Change",
+      "url": "https://www.ipcc.ch/report/ar6/wg2/chapter/technical-summary/",
+      "roles": [
+        "Research and further reading"
+      ],
+      "topicIds": [
+        "amazon"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1956",
+      "title": "The Sundarbans",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/798/",
+      "roles": [
+        "Research and further reading"
+      ],
+      "topicIds": [
+        "sundarbans"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1957",
+      "title": "The Sundarbans: World Heritage Datasheet",
+      "publisher": "UNEP World Conservation Monitoring Centre",
+      "url": "https://world-heritage-datasheets.unep-wcmc.org/datasheet/output/site/the-sundarbans/",
+      "roles": [
+        "Research and further reading"
+      ],
+      "topicIds": [
+        "sundarbans"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1958",
+      "title": "Coral reefs",
+      "publisher": "UN Environment Programme",
+      "url": "https://www.unep.org/en/what-we-do/ocean-seas-and-coasts/blue-ecosystems/coral-reefs",
+      "roles": [
+        "Research and further reading"
+      ],
+      "topicIds": [
+        "coralreefs"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1959",
+      "title": "Watching over our forests: Global Forest Resources Assessment 2025",
+      "publisher": "Food and Agriculture Organization of the United Nations",
+      "url": "https://www.fao.org/interactive/2025/forest-resources-assessment/en/",
+      "roles": [
+        "Research and further reading"
+      ],
+      "topicIds": [
+        "atlas_forestry_forest_management_deforestation"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1960",
+      "title": "The State of the World's Forests 2026",
+      "publisher": "Food and Agriculture Organization of the United Nations",
+      "url": "https://www.fao.org/interactive/2026/state-of-the-worlds-forests/en/",
+      "roles": [
+        "Research and further reading"
+      ],
+      "topicIds": [
+        "atlas_forestry_forest_management_deforestation"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1961",
+      "title": "About civil engineering",
+      "publisher": "American Society of Civil Engineers",
+      "url": "https://www.asce.org/about-civil-engineering/",
+      "roles": [
+        "Research and further reading"
+      ],
+      "topicIds": [
+        "civilengineering"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1962",
+      "title": "Civil engineering",
+      "publisher": "IEEE Technology Navigator",
+      "url": "https://technav.ieee.org/area/civil-engineering/",
+      "roles": [
+        "Research and further reading"
+      ],
+      "topicIds": [
+        "civilengineering"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1963",
+      "title": "Structural Design: Bridges",
+      "publisher": "Federal Highway Administration",
+      "url": "https://highways.fhwa.dot.gov/sites/fhwa.dot.gov/files/Chapter_10_2.pdf",
+      "roles": [
+        "Research and further reading"
+      ],
+      "topicIds": [
+        "bridge"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1964",
+      "title": "Bridges & Structures",
+      "publisher": "Federal Highway Administration",
+      "url": "https://www.fhwa.dot.gov/BRIDGE/",
+      "roles": [
+        "Research and further reading"
+      ],
+      "topicIds": [
+        "bridge"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1965",
+      "title": "Irrigation management",
+      "publisher": "Food and Agriculture Organization of the United Nations",
+      "url": "https://www.fao.org/land-water/water/agricultural-water-management/irrigation/2/en",
+      "roles": [
+        "Research and further reading"
+      ],
+      "topicIds": [
+        "irrigation"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1966",
+      "title": "Surface irrigation systems",
+      "publisher": "Food and Agriculture Organization of the United Nations",
+      "url": "https://www.fao.org/4/t0231e/t0231e04.htm",
+      "roles": [
+        "Research and further reading"
+      ],
+      "topicIds": [
+        "irrigation"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1967",
+      "title": "Materials Research",
+      "publisher": "National Science Foundation",
+      "url": "https://www.nsf.gov/focus-areas/materials",
+      "roles": [
+        "Research and further reading"
+      ],
+      "topicIds": [
+        "materialsscience"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1968",
+      "title": "Materials",
+      "publisher": "National Institute of Standards and Technology",
+      "url": "https://www.nist.gov/materials",
+      "roles": [
+        "Research and further reading"
+      ],
+      "topicIds": [
+        "materialsscience"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1969",
+      "title": "DOE Explains... Batteries",
+      "publisher": "U.S. Department of Energy",
+      "url": "https://www.energy.gov/science/doe-explainsbatteries",
+      "roles": [
+        "Research and further reading"
+      ],
+      "topicIds": [
+        "battery"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1970",
+      "title": "Electrical Science: Battery Theory",
+      "publisher": "U.S. Department of Energy",
+      "url": "https://www.energy.gov/sites/default/files/2026-04/DOE-HDBK-1011-92_VOL2.pdf",
+      "roles": [
+        "Research and further reading"
+      ],
+      "topicIds": [
+        "battery"
       ],
       "sourceClass": "institutional"
     }

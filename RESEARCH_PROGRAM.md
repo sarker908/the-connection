@@ -170,3 +170,19 @@ The subject reader now loads `data/claims.json` alongside the existing subject a
 The interface labels this material as research traceability and states that claims remain pending independent editorial review. This avoids presenting citations as a guarantee of correctness. The code and data were checked on GitHub after the commit; a live visual/browser regression test could not be completed because the deployed GitHub Pages URL was not accessible to the available page checker.
 
 **Next:** visually verify the live reader on desktop and mobile, then continue with Batch 003. Do not mark research-enriched subjects as reviewed until an actual editorial review is documented.
+
+
+## Research Batch 003: Global History, Public Health, Climate and Engineering
+
+**Completed:** 28 November 2026  
+**Subjects enriched:** 27 existing subjects  
+**New claim-level records:** 54  
+**Distinct source records linked:** 53
+
+This batch covers five historical subjects (Industrial Revolution, Agricultural Revolution, Mesopotamia, Roman Empire and Silk Roads); ten public-health and medical subjects (smallpox, insulin, X-rays, global health, clinical trials, evidence-based medicine, antimicrobial resistance, vaccine immunology, disease transmission and outbreak investigation); seven climate and environmental subjects (climate science, climate modelling, ozone layer, Amazon rainforest, Sundarbans, coral reef ecosystems and deforestation); and five engineering subjects (civil engineering, bridges, irrigation, materials science and batteries).
+
+Each subject was rewritten in original language and linked to two distinct references from universities, scientific bodies, museums, intergovernmental organizations, public agencies or established research organizations. Two claim-level provenance records were added per subject in `data/claims.json`. Existing subject IDs, collections and connections were preserved; no new subject or relationship records were created.
+
+**Editorial status:** research-enriched, not expert-reviewed. Claims remain editorial-review-pending. References support traceability and further reading, not proof that every sentence has been independently verified. The interface already displays claim-level references in the subject reader; live visual verification remains a separate deployment check.
+
+**Next milestone:** Batch 004 should broaden coverage into world religions and philosophies, literature and arts, political institutions, economic systems, and the history of scientific ideas. Prioritize entries with meaningful existing relationships, not template-like placeholder subjects. Run a structural and editorial audit before adding further volume.
