@@ -111,7 +111,7 @@ async function renderOnThisDay(){
  status.textContent="GATHERING STORIES FROM THIS DATE";
  host.innerHTML='<p class="on-this-day-loading">Looking through the historical record…</p>';
  try{
-  const response=await fetch("https://en.wikipedia.org/api/rest_v1/feed/onthisday/events/"+month+"/"+day,{headers:{"Accept":"application/json"}});
+  const response=await fetch("https://api.wikimedia.org/feed/v1/wikipedia/en/onthisday/events/"+month+"/"+day,{headers:{"Accept":"application/json"}});
   if(!response.ok)throw new Error("The history feed is temporarily unavailable.");
   const payload=await response.json();
   const events=(payload.events||[]).filter(e=>e.text&&e.year).sort((a,b)=>b.year-a.year);
