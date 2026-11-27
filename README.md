@@ -4,13 +4,13 @@
 
 ## Current collection
 
-- **101 subjects**
-- **161 relationships**
-- **95 sourced historical milestones**
-- **12 concise biographical profiles**
-- **12 collections:** Technology, Science, History, Geography, Culture and Humanity
+- **188 subjects** across **23 collections**
+- **286 relationships** connecting subjects across disciplines
+- **132 historical milestones**
+- **81 biographical profiles**
+- **295 source records** in the structured source register
 
-The dataset includes global history and science alongside a deeper collection on Bengal and Bangladesh, from the Pala period and Somapura Mahavihara through colonial rule, the Language Movement, the autonomy movement and the Liberation War.
+The atlas includes global history, science, culture and technology alongside a deeper collection on Bengal and Bangladesh.
 
 ## Experience
 
@@ -23,6 +23,8 @@ The dataset includes global history and science alongside a deeper collection on
 - Connection Finder that traces a route between two subjects
 - Curated reading journeys that connect subjects into guided stories
 - Wikipedia article extracts surfaced in subject panels when available
+- A structured source register linking subjects to general references, historical references and biographical references
+- Publisher and source-role labels shown in subject readers, with a clear note distinguishing linked references from independently verified claims
 - Personal saved collection stored in browser LocalStorage
 - Responsive layout for desktop and mobile
 
@@ -35,6 +37,12 @@ Approximate dates are marked with `c.` or a period range. Some dates and periodi
 Where available, the website retrieves a page thumbnail and short extract from Wikipedia's REST page-summary endpoint at runtime. Images and summaries remain subject to the source article's availability and licensing; consult the linked article and its image-credit information before reusing material elsewhere.
 
 This is a growing, selective collection, not a claim to represent every relationship or a complete account of any subject. The summaries are introductions, not substitutes for specialist research.
+
+## Source register and verification
+
+`data/sources.json` is the central source-link registry. Each record has a stable ID, title, publisher, URL, role and the subject IDs it supports. Repeated URLs are stored once and linked to multiple relevant subjects where applicable. The registry currently contains 295 records.
+
+The registry is a provenance layer, not an automatic credibility score. A link being present does not mean every claim has been independently audited. Wikipedia is labelled as a general reference and discovery starting point. Subject-specific research should progressively add primary documents, peer-reviewed work and specialist institutional publications, especially for technical, disputed or sensitive claims. Historical and biographical links are retained as references to the corresponding archive entries.
 
 ## Selected research references
 
