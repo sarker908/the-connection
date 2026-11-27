@@ -8,7 +8,7 @@
 - **1652 relationships** connecting subjects across disciplines
 - **132 historical milestones**
 - **81 biographical profiles**
-- **2275 source records** in the structured source register
+- **1196 unique source records** in the structured source register
 
 The atlas includes global history, science, culture and technology alongside a deeper collection on Bengal and Bangladesh.
 
@@ -40,9 +40,17 @@ This is a growing, selective collection, not a claim to represent every relation
 
 ## Source register and verification
 
-`data/sources.json` is the central source-link registry. Each record has a stable ID, title, publisher, URL, role and the subject IDs it supports. Repeated URLs are stored once and linked to multiple relevant subjects where applicable. The registry currently contains 317 records: 255 encyclopedia entries, 14 academic or educational resources, and 48 institutional or official publications. Some records support timeline or biographical entries rather than a subject page, so their topic ID list is intentionally empty. These labels describe source type, not a quality score.
+`data/sources.json` is the central source-link registry. Each record has a stable ID, title, publisher, URL, role and the subject IDs it supports. Repeated URLs are stored once and linked to multiple relevant subjects where applicable. The registry currently contains 1196 unique URL records: 1135 encyclopedia, 14 academic or educational, and 47 institutional or official records. These records are linked to 2280 subjects. Duplicate URLs are consolidated into one record with merged subject IDs and source roles. Some historical and biographical references support archive entries rather than subject pages. These labels describe source type, not a quality score. Some records support timeline or biographical entries rather than a subject page, so their topic ID list is intentionally empty. These labels describe source type, not a quality score.
 
 The registry is a provenance layer, not an automatic credibility score. A link being present does not mean every claim has been independently audited. Wikipedia is labelled as a general reference and discovery starting point. Subject-specific research should progressively add primary documents, peer-reviewed work and specialist institutional publications, especially for technical, disputed or sensitive claims. Historical and biographical links are retained as references to the corresponding archive entries.
+
+## Knowledge quality standard
+
+Every subject now carries an explicit editorial status. `starter` identifies a template-based introductory entry that needs substantive research. `review-pending` means the entry has not passed a documented editorial review. Neither status implies verification. Source links are tracked separately from claim-level verification.
+
+The next content workflow is to research a subject, write an original concise explanation, attach at least two independent high-quality references where practical, record dates and uncertainty, and review its cross-disciplinary relationships. Primary sources are preferred for historical claims; peer-reviewed literature and specialist institutions are preferred for scientific and technical claims. Sources must support the specific subject, not merely its broad discipline.
+
+The reusable editorial rules and required subject fields are documented in `data/editorial-standard.json`.
 
 ## Selected research references
 
