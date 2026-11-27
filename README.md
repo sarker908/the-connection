@@ -133,3 +133,8 @@ Subject readers now state the number and recorded review status of linked resear
 ## Stage 010: continue exploring
 
 The personal collection panel now includes a locally stored list of up to 12 recently viewed subjects, in addition to saved subjects. Reading history stays in the visitor's browser and is not sent to a server. Visitors can reopen a recent subject directly from the panel.
+
+
+## Stage 011: guided journey clarity
+
+Reading journey headers now show the number of stops in each path, making the scope of a journey clear before visitors begin. Keyboard focus is more visible on journey actions and step rows. Existing completion tracking and local progress are preserved.
