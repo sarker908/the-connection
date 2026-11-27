@@ -10,13 +10,15 @@
       "category": "Technology",
       "status": "research-enriched",
       "sourceIds": [
+        "src-296",
         "src-1838",
         "src-1839"
       ],
       "claimIds": [
         "clm-0001",
         "clm-0002"
-      ]
+      ],
+      "sourceCount": 3
     },
     {
       "id": "computer",
@@ -30,7 +32,8 @@
       "claimIds": [
         "clm-0003",
         "clm-0004"
-      ]
+      ],
+      "sourceCount": 2
     },
     {
       "id": "printing",
@@ -38,12 +41,14 @@
       "category": "Technology",
       "status": "research-enriched",
       "sourceIds": [
-        "src-1841"
+        "src-1841",
+        "src-1880"
       ],
       "claimIds": [
         "clm-0005",
         "clm-0006"
-      ]
+      ],
+      "sourceCount": 2
     },
     {
       "id": "electricity",
@@ -57,7 +62,8 @@
       "claimIds": [
         "clm-0007",
         "clm-0008"
-      ]
+      ],
+      "sourceCount": 2
     },
     {
       "id": "steam",
@@ -65,11 +71,14 @@
       "category": "Technology",
       "status": "research-enriched",
       "sourceIds": [
-        "src-1846"
+        "src-1846",
+        "src-1881",
+        "src-1882"
       ],
       "claimIds": [
         "clm-0009"
-      ]
+      ],
+      "sourceCount": 3
     },
     {
       "id": "transistor",
@@ -77,12 +86,14 @@
       "category": "Technology",
       "status": "research-enriched",
       "sourceIds": [
+        "src-300",
         "src-1847",
         "src-1848"
       ],
       "claimIds": [
         "clm-0010"
-      ]
+      ],
+      "sourceCount": 3
     },
     {
       "id": "semiconductor",
@@ -90,13 +101,15 @@
       "category": "Technology",
       "status": "research-enriched",
       "sourceIds": [
+        "src-300",
         "src-1847",
         "src-1848",
         "src-1849"
       ],
       "claimIds": [
         "clm-0011"
-      ]
+      ],
+      "sourceCount": 4
     },
     {
       "id": "internetprotocol",
@@ -104,12 +117,14 @@
       "category": "Technology",
       "status": "research-enriched",
       "sourceIds": [
+        "src-297",
         "src-1850",
         "src-1851"
       ],
       "claimIds": [
         "clm-0012"
-      ]
+      ],
+      "sourceCount": 3
     },
     {
       "id": "satellite",
@@ -122,7 +137,8 @@
       ],
       "claimIds": [
         "clm-0013"
-      ]
+      ],
+      "sourceCount": 2
     },
     {
       "id": "navigation",
@@ -136,7 +152,8 @@
       "claimIds": [
         "clm-0014",
         "clm-0015"
-      ]
+      ],
+      "sourceCount": 2
     },
     {
       "id": "paper",
@@ -144,11 +161,14 @@
       "category": "Technology",
       "status": "research-enriched",
       "sourceIds": [
-        "src-1842"
+        "src-1842",
+        "src-1883",
+        "src-1884"
       ],
       "claimIds": [
         "clm-0016"
-      ]
+      ],
+      "sourceCount": 3
     },
     {
       "id": "compass",
@@ -156,11 +176,14 @@
       "category": "Technology",
       "status": "research-enriched",
       "sourceIds": [
-        "src-1843"
+        "src-1843",
+        "src-1885",
+        "src-1886"
       ],
       "claimIds": [
         "clm-0017"
-      ]
+      ],
+      "sourceCount": 3
     },
     {
       "id": "scientificmethod",
@@ -173,7 +196,8 @@
       ],
       "claimIds": [
         "clm-0018"
-      ]
+      ],
+      "sourceCount": 2
     },
     {
       "id": "germtheory",
@@ -186,7 +210,8 @@
       ],
       "claimIds": [
         "clm-0019"
-      ]
+      ],
+      "sourceCount": 2
     },
     {
       "id": "penicillin",
@@ -199,7 +224,8 @@
       ],
       "claimIds": [
         "clm-0020"
-      ]
+      ],
+      "sourceCount": 2
     },
     {
       "id": "algebra",
@@ -208,11 +234,13 @@
       "status": "research-enriched",
       "sourceIds": [
         "src-1862",
-        "src-1863"
+        "src-1863",
+        "src-1887"
       ],
       "claimIds": [
         "clm-0021"
-      ]
+      ],
+      "sourceCount": 3
     },
     {
       "id": "zero",
@@ -226,7 +254,8 @@
       "claimIds": [
         "clm-0022",
         "clm-0023"
-      ]
+      ],
+      "sourceCount": 2
     },
     {
       "id": "genome",
@@ -241,7 +270,8 @@
       "claimIds": [
         "clm-0024",
         "clm-0025"
-      ]
+      ],
+      "sourceCount": 3
     },
     {
       "id": "renewables",
@@ -254,7 +284,8 @@
       ],
       "claimIds": [
         "clm-0026"
-      ]
+      ],
+      "sourceCount": 2
     },
     {
       "id": "binary",
@@ -267,7 +298,8 @@
       ],
       "claimIds": [
         "clm-0027"
-      ]
+      ],
+      "sourceCount": 2
     },
     {
       "id": "algorithm",
@@ -275,11 +307,13 @@
       "category": "Mathematics",
       "status": "research-enriched",
       "sourceIds": [
-        "src-1862"
+        "src-1862",
+        "src-1887"
       ],
       "claimIds": [
         "clm-0028"
-      ]
+      ],
+      "sourceCount": 2
     },
     {
       "id": "calculus",
@@ -292,7 +326,8 @@
       ],
       "claimIds": [
         "clm-0029"
-      ]
+      ],
+      "sourceCount": 2
     },
     {
       "id": "microprocessor",
@@ -305,7 +340,8 @@
       ],
       "claimIds": [
         "clm-0030"
-      ]
+      ],
+      "sourceCount": 2
     },
     {
       "id": "periodictable",
@@ -318,7 +354,8 @@
       ],
       "claimIds": [
         "clm-0031"
-      ]
+      ],
+      "sourceCount": 2
     },
     {
       "id": "biodiversity",
@@ -331,8 +368,9 @@
       ],
       "claimIds": [
         "clm-0032"
-      ]
+      ],
+      "sourceCount": 2
     }
   ],
-  "qualityNote": "Research-enriched means the entry was substantially rewritten against the recorded references. It does not mean an independent subject expert has reviewed it. Claim-level review status remains editorial-review-pending."
+  "qualityNote": "The batch's 25 subject overviews were rewritten against the references listed in the source registry. Claim-level records link to non-encyclopedia sources where available. These entries are research-enriched, not independently expert-reviewed; every claim remains editorial-review-pending."
 }

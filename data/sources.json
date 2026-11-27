@@ -17385,6 +17385,111 @@
         "biodiversity"
       ],
       "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1880",
+      "title": "The Printer: Johannes Gutenberg",
+      "publisher": "Library of Congress",
+      "url": "https://guides.loc.gov/gutenberg/the-printer",
+      "roles": [
+        "Gutenberg was not the inventor of printing; earlier printing traditions existed in Asia."
+      ],
+      "topicIds": [
+        "printing"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1881",
+      "title": "The Newcomen engine and its role in Britain's industrial revolution",
+      "publisher": "National Museums Scotland",
+      "url": "https://www.nms.ac.uk/discover-catalogue/the-newcomen-engine-and-its-role-in-britains-industrial-revolution",
+      "roles": [
+        "Newcomen's 1712 engine and its role in mine drainage and industrialisation."
+      ],
+      "topicIds": [
+        "steam"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1882",
+      "title": "Newcomen Atmospheric Engine",
+      "publisher": "Science Museum Group",
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co50900/newcomen-atmospheric-engine",
+      "roles": [
+        "The operating principle and 1712 installation of a Newcomen atmospheric engine."
+      ],
+      "topicIds": [
+        "steam"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1883",
+      "title": "Origins of Paper",
+      "publisher": "University of Oxford, Cabinet",
+      "url": "https://www.cabinet.ox.ac.uk/origins-paper",
+      "roles": [
+        "Archaeological evidence for paper before Cai Lun and the historical limits of the traditional attribution."
+      ],
+      "topicIds": [
+        "paper"
+      ],
+      "sourceClass": "academic"
+    },
+    {
+      "id": "src-1884",
+      "title": "Paper invented by Cai-Lun and its development",
+      "publisher": "Rijksmuseum",
+      "url": "https://www.rijksmuseum.nl/en/collection/publication/Paper-invented-by-Cai-Lun-and-its-development--6e4486fbb566c036043146717455880f",
+      "roles": [
+        "Museum bibliography and historical scholarship on Cai Lun and paper-making."
+      ],
+      "topicIds": [
+        "paper"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1885",
+      "title": "Song Dynasty China: The Compass",
+      "publisher": "Columbia University, Asia for Educators",
+      "url": "https://afe.easia.columbia.edu/songdynasty-module/tech-compass.html",
+      "roles": [
+        "Compass development and early reports of maritime use in the Song period."
+      ],
+      "topicIds": [
+        "compass"
+      ],
+      "sourceClass": "academic"
+    },
+    {
+      "id": "src-1886",
+      "title": "Compass and Navigation",
+      "publisher": "National Museum of China",
+      "url": "https://en.chnmuseum.cn/Portals/0/web/exhibition/exhibitions/161120Chines-Epic/en.html",
+      "roles": [
+        "Chinese historical accounts of magnetised direction-finding tools and navigation."
+      ],
+      "topicIds": [
+        "compass"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1887",
+      "title": "Arabic Mathematics",
+      "publisher": "MacTutor History of Mathematics, University of St Andrews",
+      "url": "https://mathshistory.st-andrews.ac.uk/HistTopics/Arabic_mathematics/",
+      "roles": [
+        "Development of algebraic methods and the transmission of mathematical ideas."
+      ],
+      "topicIds": [
+        "algorithm",
+        "algebra"
+      ],
+      "sourceClass": "academic"
     }
   ]
 }

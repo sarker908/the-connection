@@ -22,6 +22,7 @@
       "claim": "CERN's 1989 proposal led to the first browser/server prototype in 1990; CERN made the technology freely usable in 1993.",
       "sourceIds": [
         "src-296",
+        "src-1838",
         "src-1839"
       ],
       "claimType": "historical-or-conceptual",
@@ -33,8 +34,8 @@
       "subjectId": "computer",
       "claim": "A computer is not defined by one historical machine; claims about the first computer depend on criteria such as electronic, digital, general-purpose and stored-program operation.",
       "sourceIds": [
-        "src-1840",
-        "src-1841"
+        "src-298",
+        "src-1840"
       ],
       "claimType": "historical-or-conceptual",
       "reviewStatus": "editorial-review-pending",
@@ -57,7 +58,8 @@
       "subjectId": "printing",
       "claim": "Movable-type printing existed in East Asia before Gutenberg's mid-fifteenth-century European press.",
       "sourceIds": [
-        "src-1842"
+        "src-1841",
+        "src-1880"
       ],
       "claimType": "historical-or-conceptual",
       "reviewStatus": "editorial-review-pending",
@@ -68,7 +70,8 @@
       "subjectId": "printing",
       "claim": "The Gutenberg Bible was an early major European book printed with movable metal type, not the first printed book in world history.",
       "sourceIds": [
-        "src-1842"
+        "src-1841",
+        "src-1880"
       ],
       "claimType": "historical-or-conceptual",
       "reviewStatus": "editorial-review-pending",
@@ -79,8 +82,8 @@
       "subjectId": "electricity",
       "claim": "Electricity is associated with electric charge and is a secondary energy carrier rather than a primary energy source.",
       "sourceIds": [
-        "src-1845",
-        "src-1846"
+        "src-1844",
+        "src-1845"
       ],
       "claimType": "historical-or-conceptual",
       "reviewStatus": "editorial-review-pending",
@@ -91,6 +94,7 @@
       "subjectId": "electricity",
       "claim": "Modern generators commonly use electromagnetic induction to convert mechanical energy into electrical energy.",
       "sourceIds": [
+        "src-1844",
         "src-1845"
       ],
       "claimType": "historical-or-conceptual",
@@ -102,7 +106,9 @@
       "subjectId": "steam",
       "claim": "Newcomen's practical atmospheric steam engine was installed in 1712 and was used to pump water from mines.",
       "sourceIds": [
-        "src-1847"
+        "src-1846",
+        "src-1881",
+        "src-1882"
       ],
       "claimType": "historical-or-conceptual",
       "reviewStatus": "editorial-review-pending",
@@ -113,8 +119,9 @@
       "subjectId": "transistor",
       "claim": "Bardeen and Brattain demonstrated point-contact transistor action in December 1947; the device was publicly announced in 1948.",
       "sourceIds": [
-        "src-1848",
-        "src-1849"
+        "src-300",
+        "src-1847",
+        "src-1848"
       ],
       "claimType": "historical-or-conceptual",
       "reviewStatus": "editorial-review-pending",
@@ -125,7 +132,8 @@
       "subjectId": "semiconductor",
       "claim": "Semiconductor technology enabled solid-state devices and the transition from vacuum-tube electronics to compact transistor-based systems.",
       "sourceIds": [
-        "src-1850",
+        "src-300",
+        "src-1847",
         "src-1848"
       ],
       "claimType": "historical-or-conceptual",
@@ -137,9 +145,9 @@
       "subjectId": "internetprotocol",
       "claim": "IP provides addressing and packet forwarding while TCP provides reliable, ordered transport; UDP offers a different connectionless service.",
       "sourceIds": [
-        "src-1851",
-        "src-1852",
-        "src-297"
+        "src-297",
+        "src-1850",
+        "src-1851"
       ],
       "claimType": "historical-or-conceptual",
       "reviewStatus": "editorial-review-pending",
@@ -150,8 +158,8 @@
       "subjectId": "satellite",
       "claim": "Sputnik 1 became the first artificial satellite to orbit Earth when it launched on 4 October 1957.",
       "sourceIds": [
-        "src-1853",
-        "src-1854"
+        "src-1852",
+        "src-1853"
       ],
       "claimType": "historical-or-conceptual",
       "reviewStatus": "editorial-review-pending",
@@ -162,8 +170,8 @@
       "subjectId": "navigation",
       "claim": "GPS uses satellite signals and precise timing to estimate receiver position and time.",
       "sourceIds": [
-        "src-1855",
-        "src-1856"
+        "src-1854",
+        "src-1855"
       ],
       "claimType": "historical-or-conceptual",
       "reviewStatus": "editorial-review-pending",
@@ -174,8 +182,8 @@
       "subjectId": "navigation",
       "claim": "The first NAVSTAR GPS satellite launched in 1978; the system later became a worldwide civil and military utility.",
       "sourceIds": [
-        "src-1855",
-        "src-1856"
+        "src-1854",
+        "src-1855"
       ],
       "claimType": "historical-or-conceptual",
       "reviewStatus": "editorial-review-pending",
@@ -186,7 +194,9 @@
       "subjectId": "paper",
       "claim": "Paper-making developed in China in the early centuries CE; Cai Lun is associated with an important improvement to its production, not necessarily the first invention of paper.",
       "sourceIds": [
-        "src-1857"
+        "src-1842",
+        "src-1883",
+        "src-1884"
       ],
       "claimType": "historical-or-conceptual",
       "reviewStatus": "editorial-review-pending",
@@ -197,7 +207,9 @@
       "subjectId": "compass",
       "claim": "A surviving historical record of compass use in China dates to around 1119, while knowledge of magnetic north is older.",
       "sourceIds": [
-        "src-1858"
+        "src-1843",
+        "src-1885",
+        "src-1886"
       ],
       "claimType": "historical-or-conceptual",
       "reviewStatus": "editorial-review-pending",
@@ -208,8 +220,8 @@
       "subjectId": "scientificmethod",
       "claim": "Scientific inquiry uses observation, testable hypotheses, evidence and revision, but it is not a rigid universal sequence applied identically in every field.",
       "sourceIds": [
-        "src-1859",
-        "src-1860"
+        "src-1856",
+        "src-1857"
       ],
       "claimType": "historical-or-conceptual",
       "reviewStatus": "editorial-review-pending",
@@ -220,8 +232,8 @@
       "subjectId": "germtheory",
       "claim": "Germ theory consolidated in the nineteenth century through research identifying microorganisms as causes of many infectious diseases.",
       "sourceIds": [
-        "src-1861",
-        "src-1862"
+        "src-1858",
+        "src-1859"
       ],
       "claimType": "historical-or-conceptual",
       "reviewStatus": "editorial-review-pending",
@@ -232,8 +244,8 @@
       "subjectId": "penicillin",
       "claim": "Fleming observed penicillin's antibacterial effect in 1928, while the Oxford team later developed it into a therapeutic drug.",
       "sourceIds": [
-        "src-1863",
-        "src-1864"
+        "src-1860",
+        "src-1861"
       ],
       "claimType": "historical-or-conceptual",
       "reviewStatus": "editorial-review-pending",
@@ -244,8 +256,9 @@
       "subjectId": "algebra",
       "claim": "Algebraic problem-solving predates al-Khwarizmi; his ninth-century treatise helped establish algebra as a distinct discipline and supplied its name.",
       "sourceIds": [
-        "src-1865",
-        "src-1866"
+        "src-1862",
+        "src-1863",
+        "src-1887"
       ],
       "claimType": "historical-or-conceptual",
       "reviewStatus": "editorial-review-pending",
@@ -256,8 +269,8 @@
       "subjectId": "zero",
       "claim": "Zero has both a placeholder role in positional notation and a role as a number in arithmetic.",
       "sourceIds": [
-        "src-1867",
-        "src-1868"
+        "src-1864",
+        "src-1865"
       ],
       "claimType": "historical-or-conceptual",
       "reviewStatus": "editorial-review-pending",
@@ -268,8 +281,8 @@
       "subjectId": "zero",
       "claim": "Indian mathematicians developed the decimal place-value system and important arithmetic rules for zero; the historical record is gradual and complex.",
       "sourceIds": [
-        "src-1867",
-        "src-1868"
+        "src-1864",
+        "src-1865"
       ],
       "claimType": "historical-or-conceptual",
       "reviewStatus": "editorial-review-pending",
@@ -280,9 +293,9 @@
       "subjectId": "genome",
       "claim": "The international Human Genome Project ran from 1990 to 2003 and produced a high-quality reference sequence, not the genome of a single individual.",
       "sourceIds": [
-        "src-1869",
-        "src-1870",
-        "src-1871"
+        "src-1866",
+        "src-1867",
+        "src-1868"
       ],
       "claimType": "historical-or-conceptual",
       "reviewStatus": "editorial-review-pending",
@@ -293,7 +306,9 @@
       "subjectId": "genome",
       "claim": "The 2003 sequence left difficult repetitive regions unresolved; later work, including the 2022 T2T project, filled major gaps.",
       "sourceIds": [
-        "src-1871"
+        "src-1866",
+        "src-1867",
+        "src-1868"
       ],
       "claimType": "historical-or-conceptual",
       "reviewStatus": "editorial-review-pending",
@@ -304,8 +319,8 @@
       "subjectId": "renewables",
       "claim": "Renewable energy includes solar, wind, hydropower, geothermal and biomass, each with distinct technical and environmental characteristics.",
       "sourceIds": [
-        "src-1872",
-        "src-1873"
+        "src-1869",
+        "src-1870"
       ],
       "claimType": "historical-or-conceptual",
       "reviewStatus": "editorial-review-pending",
@@ -316,8 +331,8 @@
       "subjectId": "binary",
       "claim": "Binary is a base-two positional system; digital hardware represents binary information through physical states in electronic components.",
       "sourceIds": [
-        "src-1840",
-        "src-1874"
+        "src-298",
+        "src-1871"
       ],
       "claimType": "historical-or-conceptual",
       "reviewStatus": "editorial-review-pending",
@@ -328,7 +343,8 @@
       "subjectId": "algorithm",
       "claim": "The term algorithm is historically connected to the Latinised name of al-Khwarizmi, whose mathematical works helped transmit calculation methods.",
       "sourceIds": [
-        "src-1865"
+        "src-1862",
+        "src-1887"
       ],
       "claimType": "historical-or-conceptual",
       "reviewStatus": "editorial-review-pending",
@@ -339,8 +355,8 @@
       "subjectId": "calculus",
       "claim": "Calculus developed over a long period; Newton and Leibniz independently developed systematic forms in the seventeenth century.",
       "sourceIds": [
-        "src-1875",
-        "src-1876"
+        "src-1872",
+        "src-1873"
       ],
       "claimType": "historical-or-conceptual",
       "reviewStatus": "editorial-review-pending",
@@ -351,8 +367,8 @@
       "subjectId": "microprocessor",
       "claim": "The history of the microprocessor includes multiple antecedents and competing definitions; Intel's 4004 was introduced commercially in 1971.",
       "sourceIds": [
-        "src-1877",
-        "src-1878"
+        "src-1874",
+        "src-1875"
       ],
       "claimType": "historical-or-conceptual",
       "reviewStatus": "editorial-review-pending",
@@ -363,8 +379,8 @@
       "subjectId": "periodictable",
       "claim": "Mendeleev's 1869 periodic system left gaps and predicted properties; the modern table is ordered by atomic number.",
       "sourceIds": [
-        "src-1879",
-        "src-1880"
+        "src-1876",
+        "src-1877"
       ],
       "claimType": "historical-or-conceptual",
       "reviewStatus": "editorial-review-pending",
@@ -375,8 +391,8 @@
       "subjectId": "biodiversity",
       "claim": "Biodiversity includes diversity within species, between species and of ecosystems, and supports many contributions to human well-being.",
       "sourceIds": [
-        "src-1881",
-        "src-1882"
+        "src-1878",
+        "src-1879"
       ],
       "claimType": "historical-or-conceptual",
       "reviewStatus": "editorial-review-pending",
