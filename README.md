@@ -4,11 +4,11 @@
 
 ## Current collection
 
-- **1047 subjects** across **89 collections**
-- **419 relationships** connecting subjects across disciplines
+- **2280 subjects** across **500 collections**
+- **1652 relationships** connecting subjects across disciplines
 - **132 historical milestones**
 - **81 biographical profiles**
-- **1042 source records** in the structured source register
+- **2275 source records** in the structured source register
 
 The atlas includes global history, science, culture and technology alongside a deeper collection on Bengal and Bangladesh.
 
@@ -18,7 +18,7 @@ The atlas includes global history, science, culture and technology alongside a d
 - Subject reading panels with photographs, overviews, historical milestones, people, connected subjects and references
 - A world-history timeline from early human societies to the present, with period filters and a dedicated Bengal and Bangladesh strand
 - Biographical profiles for selected figures connected to the timeline
-- A visual collection browser with 89 subject collections
+- A visual collection browser with 500 subject collections
 - Search across titles, descriptions, categories and subject types
 - Connection Finder that traces a route between two subjects
 - Curated reading journeys that connect subjects into guided stories
