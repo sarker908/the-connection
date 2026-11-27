@@ -8,7 +8,7 @@
 - **1663 relationships** connecting subjects across disciplines
 - **132 historical milestones**
 - **81 biographical profiles**
-- **1365 unique source records** in the structured source register
+- **1386 unique source records** in the structured source register
 
 The atlas includes global history, science, culture and technology alongside a deeper collection on Bengal and Bangladesh.
 
@@ -95,7 +95,7 @@ This batch deepens 25 subjects with existing cross-disciplinary relationships. I
 
 **Editorial status:** research-enriched, not expert-reviewed. Claim references support traceability and further reading; they do not certify every sentence as independently verified. Historical interpretation, specialist context and source quality still require a separate editorial review.
 
-**Structural audit:** 2280 subjects, 1663 relationships, 1365 source records and 186 claim records. All relationship endpoints, claim subject IDs and claim source IDs resolve. Every Batch 004 subject has at least one existing relationship and two distinct references.
+**Structural audit:** 2280 subjects, 1663 relationships, 1386 source records and 236 claim records. All relationship endpoints, claim subject IDs and claim source IDs resolve. Every Batch 004 and Batch 005 subject has at least one existing relationship and two distinct references.
 
 
 ## Research Batch 005: Global History, Bengal and Cultural Exchange
