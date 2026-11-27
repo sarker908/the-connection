@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "title": "The Connection Editorial Standard",
+  "purpose": "A global, interdisciplinary knowledge atlas that explains subjects accurately and makes their relationships discoverable.",
+  "principles": [
+    "Accuracy before volume",
+    "Traceable evidence for factual claims",
+    "Clear distinction between established findings, interpretation and uncertainty",
+    "Original concise explanations rather than copied source text",
+    "Respectful global and multilingual coverage",
+    "Connections must explain a real relationship, not merely share a category"
+  ],
+  "subjectFields": {
+    "required": [
+      "id",
+      "title",
+      "category",
+      "type",
+      "short",
+      "description",
+      "wiki",
+      "contentStatus"
+    ],
+    "recommended": [
+      "year",
+      "icon",
+      "featured",
+      "collectionDescription",
+      "keyTerms",
+      "relatedQuestions",
+      "lastReviewed",
+      "reviewerNotes"
+    ]
+  },
+  "contentStatuses": {
+    "starter": "Template-based introduction. Substantive research and rewriting required.",
+    "review-pending": "Entry exists but has not passed a documented editorial review.",
+    "reviewed": "A named review pass checked factual claims, dates, wording and references.",
+    "needs-update": "Previously reviewed entry needs checking because evidence or context may have changed."
+  },
+  "sourceRequirements": {
+    "baseline": "At least two independent, subject-specific sources for reviewed entries where practical.",
+    "preferred": [
+      "Primary documents and official datasets for original records and statistics",
+      "Peer-reviewed research and academic books for specialist scientific claims",
+      "Universities, national academies, museums, archives and public institutions for specialist explainers and collections",
+      "Established reference works for orientation, not as the sole basis for contested claims"
+    ],
+    "avoid": [
+      "A broad field overview presented as evidence for a narrow specialist topic",
+      "Unverified social posts or anonymous pages",
+      "Treating the presence of a link as proof that every sentence is correct"
+    ]
+  },
+  "connectionRequirements": [
+    "Every connection must have a meaningful, readable explanation.",
+    "Prefer causal, historical, methodological, conceptual or practical relationships.",
+    "Do not add reciprocal duplicates unless direction changes the meaning.",
+    "Avoid connecting topics solely because they share a collection."
+  ],
+  "reviewWorkflow": [
+    "Define the scope and key questions for the subject.",
+    "Consult independent sources and record their specific contribution.",
+    "Write an original explanation in plain language.",
+    "Check names, dates, units, definitions and uncertainty.",
+    "Review links and explain each important relationship.",
+    "Set contentStatus to reviewed only after the checks are documented."
+  ],
+  "editorialBoundaries": [
+    "Do not claim completeness.",
+    "Do not label a source as peer-reviewed unless verified.",
+    "Do not invent dates, citations, quotations or statistics.",
+    "Distinguish consensus from active scientific or historical debate."
+  ]
+}
