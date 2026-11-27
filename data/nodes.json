@@ -7,10 +7,11 @@
     "type": "Global network",
     "icon": "🌐",
     "featured": true,
-    "short": "A network that connected the world.",
-    "description": "The Internet is a global system of interconnected computer networks. It grew from early research networks into the infrastructure behind communication, commerce, science and modern culture.",
+    "short": "A global network of networks that exchange data using shared protocols.",
+    "description": "The Internet is a global network of interconnected networks that communicate using the Internet Protocol suite. Its architecture allows independently operated networks to exchange data, with information commonly divided into packets and routed across multiple links. The Internet emerged from research into packet switching and internetworking, with ARPANET among its important predecessors and TCP/IP becoming central to its expansion. It is distinct from the World Wide Web: the Web is one information system that runs on top of the Internet.",
     "wiki": "https://en.wikipedia.org/wiki/Internet",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28"
   },
   {
     "id": "www",
@@ -59,10 +60,11 @@
     "type": "Field of study",
     "icon": "✧",
     "featured": true,
-    "short": "Building machines that perform intelligent tasks.",
-    "description": "Artificial intelligence studies how machines can perform tasks associated with human intelligence, including learning, reasoning, perception and language.",
+    "short": "A broad field developing computational systems that perform tasks associated with intelligent behaviour.",
+    "description": "Artificial intelligence (AI) is a broad field concerned with building computational systems that perform tasks commonly associated with human intelligence, such as perception, language processing, learning, reasoning and decision-making. Approaches include symbolic methods, statistical machine learning and deep neural networks. Capabilities vary widely by task, and fluent output should not be confused with human understanding or general intelligence. Responsible development also involves evaluating reliability, bias, security, privacy and the effects of deploying AI in real settings.",
     "wiki": "https://en.wikipedia.org/wiki/Artificial_intelligence",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28"
   },
   {
     "id": "printing",
@@ -124,10 +126,11 @@
     "type": "Scientific theory",
     "icon": "🧬",
     "featured": true,
-    "short": "How life changes across generations.",
-    "description": "Evolution by natural selection explains how inherited variation and differential reproductive success shape the diversity of life over generations.",
+    "short": "How inherited variation changes populations over generations and produces life's diversity.",
+    "description": "Biological evolution is change in the heritable characteristics of populations across generations. Mutation introduces genetic variation, while natural selection, genetic drift and gene flow alter how variants are distributed. Evolution explains both adaptation and the shared ancestry of living organisms, supported by evidence from fossils, genetics, comparative anatomy and biogeography. Individuals do not evolve during their lifetimes; populations evolve as inherited variants become more or less common over generations.",
     "wiki": "https://en.wikipedia.org/wiki/Evolution",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28"
   },
   {
     "id": "dna",
@@ -137,10 +140,11 @@
     "type": "Discovery",
     "icon": "🧬",
     "featured": false,
-    "short": "The molecular blueprint of life.",
-    "description": "The double-helix model of DNA revealed a structure capable of storing and copying genetic information, transforming biology and medicine.",
+    "short": "A double-stranded molecular structure that stores hereditary information in living systems.",
+    "description": "Deoxyribonucleic acid (DNA) is a molecule that stores hereditary information in nearly all cellular organisms. It consists of nucleotide units arranged in two antiparallel strands that form a double helix. The bases pair specifically: adenine with thymine, and guanine with cytosine. This complementary structure allows DNA to be copied, while sequences of DNA contribute to the production and regulation of RNA and proteins. Not all DNA directly encodes proteins; substantial regions have regulatory and other functions.",
     "wiki": "https://en.wikipedia.org/wiki/DNA",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28"
   },
   {
     "id": "moon",
@@ -267,10 +271,11 @@
     "type": "Global phenomenon",
     "icon": "🌍",
     "featured": true,
-    "short": "A changing climate with global consequences.",
-    "description": "Human-driven climate change is primarily caused by greenhouse gas emissions from energy use, industry, agriculture and land-use change.",
+    "short": "Long-term shifts in climate, with current global warming driven mainly by human greenhouse-gas emissions.",
+    "description": "Climate change refers to long-term shifts in temperatures and weather patterns. Earth's climate has changed naturally in the past, but the rapid warming observed since the mid-twentieth century is primarily caused by human activities, especially greenhouse-gas emissions from burning fossil fuels, land-use change and industry. Evidence includes rising global temperatures, warming oceans, shrinking glaciers and ice sheets, and rising sea levels. Understanding climate change requires both physical climate science and study of impacts, adaptation and emissions reduction.",
     "wiki": "https://en.wikipedia.org/wiki/Climate_change",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28"
   },
   {
     "id": "darwin",
@@ -293,10 +298,11 @@
     "type": "Medical innovation",
     "icon": "💉",
     "featured": false,
-    "short": "Training the immune system to prevent disease.",
-    "description": "Vaccination uses a biological preparation to stimulate immune protection against infectious diseases, preventing illness and saving lives.",
+    "short": "A way to train immune defenses to recognize specific pathogens before exposure.",
+    "description": "Vaccination is the process of exposing the immune system to an antigen or antigen instructions so it can develop protection against a particular infectious disease. Depending on the vaccine platform, this may involve weakened or inactivated pathogens, selected components, or genetic instructions that let cells produce an antigen. Immune responses can include antibodies and immune memory, reducing the risk of severe disease. Protection is not always complete, and its strength and duration vary by vaccine, pathogen and person.",
     "wiki": "https://en.wikipedia.org/wiki/Vaccination",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28"
   },
   {
     "id": "gutenberg",
@@ -798,12 +804,13 @@
     "category": "Science",
     "year": "1900",
     "type": "Physical theory",
-    "description": "Quantum mechanics describes matter and energy at atomic and subatomic scales, providing the foundation for much of modern physics and electronics.",
-    "short": "Quantum mechanics describes matter and energy at atomic and subatomic scales, providing the foundation for much of modern physics and electronics.",
+    "description": "Quantum mechanics is the framework physicists use to describe matter and energy at atomic and subatomic scales. A system is represented by a quantum state, often expressed as a wave function, from which probabilities for measurement outcomes can be calculated. Superposition, quantized observables and the uncertainty principle distinguish quantum theory from classical descriptions. The framework underlies technologies such as semiconductors, lasers and many forms of modern imaging, while its interpretation remains an active philosophical and scientific discussion.",
+    "short": "The physical framework for matter and energy at atomic and subatomic scales.",
     "icon": "⚛️",
     "featured": false,
     "wiki": "https://en.wikipedia.org/wiki/Quantum_mechanics",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28"
   },
   {
     "id": "curie",
@@ -1344,12 +1351,13 @@
     "category": "Technology",
     "year": "Ancient to present",
     "type": "Information security",
-    "description": "The science of protecting information through codes, ciphers and modern mathematical systems.",
-    "short": "The science of protecting information through codes, ciphers and modern mathematical systems.",
+    "description": "Cryptography is the study and practice of techniques for protecting information against unauthorized access or manipulation. Modern systems use several complementary tools: encryption supports confidentiality, cryptographic hash functions help detect changes, and digital signatures support authenticity and integrity. Symmetric cryptography uses shared secret keys, while public-key methods use mathematically related key pairs. Secure use depends not only on algorithms but also on sound protocols, key generation, storage and management.",
+    "short": "The mathematical and computational methods used to protect information and verify digital communication.",
     "icon": "🔐",
     "featured": false,
     "wiki": "https://en.wikipedia.org/wiki/Cryptography",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28"
   },
   {
     "id": "linux",
@@ -1695,12 +1703,13 @@
     "category": "Geography",
     "year": "20th century",
     "type": "Geological theory",
-    "description": "The theory that Earth's outer shell is divided into moving plates, explaining earthquakes, volcanoes and mountain building.",
-    "short": "The theory that Earth's outer shell is divided into moving plates, explaining earthquakes, volcanoes and mountain building.",
+    "description": "Plate tectonics describes the movement and interaction of large pieces of Earth's lithosphere. Plates move slowly over the deeper, ductile mantle and interact at divergent, convergent and transform boundaries. These processes create and recycle oceanic crust, build mountain belts, and shape the global patterns of earthquakes and volcanoes. The modern theory developed through multiple lines of evidence, including ocean-floor mapping, magnetic patterns, earthquake distributions and seafloor spreading.",
+    "short": "The theory that Earth's outer rigid shell is divided into moving lithospheric plates.",
     "icon": "🌋",
     "featured": false,
     "wiki": "https://en.wikipedia.org/wiki/Plate_tectonics",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28"
   },
   {
     "id": "amazon",
@@ -2633,10 +2642,11 @@
     "type": "Subject area",
     "icon": "📘",
     "featured": false,
-    "short": "Prime Numbers explores a key idea, method or development within number theory.",
-    "description": "Prime Numbers explores a key idea, method or development within number theory. Its history, evidence and applications connect this field to wider scientific, historical and cultural questions.",
+    "short": "The indivisible building blocks of whole-number arithmetic, with deep links to patterns and cryptography.",
+    "description": "A prime number is an integer greater than 1 whose only positive divisors are 1 and itself. Every integer greater than 1 can be expressed uniquely as a product of primes, making primes the basic building blocks of arithmetic. Euclid proved that there are infinitely many primes, yet their detailed distribution remains a rich area of research. Prime numbers also underpin important cryptographic systems, where the difficulty of certain number-theoretic problems helps protect digital communication.",
     "wiki": "https://en.wikipedia.org/wiki/Prime_Numbers",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28"
   },
   {
     "id": "atlas_number_theory_modular_arithmetic",
