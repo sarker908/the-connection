@@ -1714,5 +1714,185 @@
     "from": "film_editing",
     "to": "television",
     "label": "Editing techniques shape both film and television storytelling"
+  },
+  {
+    "id": "e292",
+    "from": "ethics",
+    "to": "metaphysics",
+    "label": "Ethical theories often depend on ideas about human nature and reality"
+  },
+  {
+    "id": "e293",
+    "from": "ethics",
+    "to": "humanrights",
+    "label": "Ethical arguments inform debates about dignity and rights"
+  },
+  {
+    "id": "e294",
+    "from": "epistemology",
+    "to": "metaphysics",
+    "label": "Questions about knowledge intersect with questions about reality"
+  },
+  {
+    "id": "e295",
+    "from": "epistemology",
+    "to": "ai",
+    "label": "Knowledge, evidence and reasoning are central questions in AI"
+  },
+  {
+    "id": "e296",
+    "from": "humanrights",
+    "to": "udhr",
+    "label": "The declaration articulates a shared international framework of rights"
+  },
+  {
+    "id": "e297",
+    "from": "ruleoflaw",
+    "to": "humanrights",
+    "label": "Legal accountability helps protect fundamental rights"
+  },
+  {
+    "id": "e298",
+    "from": "ruleoflaw",
+    "to": "democracy",
+    "label": "Constitutional democracy relies on limits on public power"
+  },
+  {
+    "id": "e299",
+    "from": "udhr",
+    "to": "worldwar2",
+    "label": "The declaration was shaped by the aftermath of the Second World War"
+  },
+  {
+    "id": "e300",
+    "from": "music",
+    "to": "musicalinstruments",
+    "label": "Instruments are among the many ways people create musical sound"
+  },
+  {
+    "id": "e301",
+    "from": "music",
+    "to": "jazz",
+    "label": "Jazz is one influential musical tradition"
+  },
+  {
+    "id": "e302",
+    "from": "jazz",
+    "to": "globalization",
+    "label": "Recordings and touring carried jazz across borders"
+  },
+  {
+    "id": "e303",
+    "from": "musicalinstruments",
+    "to": "sound_recording",
+    "label": "Recording technologies preserve and transform instrument performance"
+  },
+  {
+    "id": "e304",
+    "from": "humanorigins",
+    "to": "evolution",
+    "label": "Human origins research uses evidence from evolutionary biology"
+  },
+  {
+    "id": "e305",
+    "from": "humanorigins",
+    "to": "dna",
+    "label": "Genetic evidence helps reconstruct human ancestry"
+  },
+  {
+    "id": "e306",
+    "from": "humanorigins",
+    "to": "migration",
+    "label": "Fossils and genetics help trace migrations of early humans"
+  },
+  {
+    "id": "e307",
+    "from": "culturalanthropology",
+    "to": "linguistics",
+    "label": "Language is a central part of cultural meaning and social life"
+  },
+  {
+    "id": "e308",
+    "from": "culturalanthropology",
+    "to": "globalization",
+    "label": "Anthropologists study how global connections reshape local life"
+  },
+  {
+    "id": "e309",
+    "from": "migration",
+    "to": "silkroad",
+    "label": "Trade routes facilitated movement and exchange across Eurasia"
+  },
+  {
+    "id": "e310",
+    "from": "oceancurrents",
+    "to": "climate",
+    "label": "Ocean circulation redistributes heat and influences climate"
+  },
+  {
+    "id": "e311",
+    "from": "oceancurrents",
+    "to": "coralreefs",
+    "label": "Currents move nutrients and larvae through marine ecosystems"
+  },
+  {
+    "id": "e312",
+    "from": "coralreefs",
+    "to": "deepsea",
+    "label": "Both are marine ecosystems, though many deep-sea corals live without sunlight"
+  },
+  {
+    "id": "e313",
+    "from": "deepsea",
+    "to": "satellite",
+    "label": "Satellites support mapping and monitoring of remote ocean environments"
+  },
+  {
+    "id": "e314",
+    "from": "blackhole",
+    "to": "gravitationalwaves",
+    "label": "Merging black holes can generate detectable gravitational waves"
+  },
+  {
+    "id": "e315",
+    "from": "exoplanet",
+    "to": "satellite",
+    "label": "Space telescopes and satellites help detect and study exoplanets"
+  },
+  {
+    "id": "e316",
+    "from": "exoplanet",
+    "to": "solarenergy",
+    "label": "Stars provide the light and energy used to characterise planetary systems"
+  },
+  {
+    "id": "e317",
+    "from": "gravitationalwaves",
+    "to": "einstein",
+    "label": "Their existence was predicted by general relativity"
+  },
+  {
+    "id": "e318",
+    "from": "music",
+    "to": "renaissance",
+    "label": "Musical practices and institutions changed during the Renaissance"
+  },
+  {
+    "id": "e319",
+    "from": "humanrights",
+    "to": "democracy",
+    "label": "Rights protections and democratic participation are closely connected"
+  },
+  {
+    "id": "e320",
+    "from": "coralreefs",
+    "to": "climate",
+    "label": "Ocean warming and acidification place pressure on coral reef ecosystems"
+  },
+  {
+    "id": "e321",
+    "from": "udhr",
+    "to": "ruleoflaw",
+    "label": "The declaration helped shape later international rights standards and legal frameworks"
   }
 ]
