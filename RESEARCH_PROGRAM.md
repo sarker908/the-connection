@@ -143,3 +143,19 @@ Never present the total number of links or sources as a quality score.
 ## Immediate next milestone
 
 Complete the next 25-subject research batch using the priority sequence above. Before changing the data, publish its subject list and research scope. After the batch, run structural checks, review the diff and test the deployed website. Preserve all existing sections and the current static architecture.
+
+
+## Research Batch 002: Foundational Sciences and Computing
+
+**Completed:** 28 November 2026  
+**Subjects enriched:** 25 existing subjects  
+**New claim-level records:** 50  
+**Source records linked:** 34
+
+This batch covers mathematics (set theory, prime factorization, group theory, linear algebra, probability and modular arithmetic), physics (quantum mechanics, entanglement, the Standard Model, entropy, electromagnetism and lasers), isotopes, cell biology and microbiology, plate tectonics, the atmosphere, the water cycle, and core computer-science topics (sorting, graph theory, relational databases, compilers and encryption).
+
+All 25 entries were rewritten in original language and linked to two distinct institutional, academic, university or open-textbook references. Two claim-level provenance records were added per subject in `data/claims.json`. Existing subjects and relationships were preserved; the atlas subject and connection totals were not increased.
+
+**Editorial status:** research-enriched, not expert-reviewed. Claims remain editorial-review-pending. References provide traceability and further reading, not proof that every sentence has been independently verified. The website's visible source presentation and live deployment must be checked separately.
+
+**Next milestone:** Batch 003 should select 25 further subjects from the remaining unresearched atlas, prioritising global history, public health, climate and environment, and foundational engineering. After the next data batch, integrate claim/source references into the subject detail interface and run a deployed-site regression check.

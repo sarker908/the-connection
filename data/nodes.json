@@ -2706,10 +2706,12 @@
     "type": "Subject area",
     "icon": "📘",
     "featured": false,
-    "short": "Modular Arithmetic explores a key idea, method or development within number theory.",
-    "description": "Modular Arithmetic explores a key idea, method or development within number theory. Its history, evidence and applications connect this field to wider scientific, historical and cultural questions.",
+    "short": "Arithmetic in which integers are considered equivalent when they leave the same remainder after division by a fixed positive integer.",
+    "description": "Modular arithmetic studies congruences such as a ≡ b (mod n), meaning that a and b differ by a multiple of n. It turns the integers into repeating remainder systems and supports calculations with clocks, cyclic patterns and divisibility. Important results include the Euclidean algorithm, Fermat's little theorem and the Chinese remainder theorem. Modular arithmetic is a foundation of elementary number theory and is used in cryptographic algorithms and error-detecting systems.",
     "wiki": "https://en.wikipedia.org/wiki/Modular_Arithmetic",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-002"
   },
   {
     "id": "atlas_geometry_euclidean_geometry",
@@ -2745,10 +2747,12 @@
     "type": "Subject area",
     "icon": "📘",
     "featured": false,
-    "short": "Probability explores a key idea, method or development within statistics & probability.",
-    "description": "Probability explores a key idea, method or development within statistics & probability. Its history, evidence and applications connect this field to wider scientific, historical and cultural questions.",
+    "short": "A mathematical framework for describing uncertainty and the likelihood of events.",
+    "description": "Probability assigns numerical measures to events in a model of uncertainty. It provides rules for combining events and reasoning about conditional outcomes, independence and long-run frequencies. Probability does not guarantee the result of an individual random event; instead, it supports coherent predictions across repeated trials and uncertain systems. It underlies statistics, scientific inference, risk analysis, communications, finance, epidemiology and many areas of computer science.",
     "wiki": "https://en.wikipedia.org/wiki/Probability",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-002"
   },
   {
     "id": "atlas_statistics_probability_bayesian_statistics",
@@ -2797,10 +2801,12 @@
     "type": "Subject area",
     "icon": "📘",
     "featured": false,
-    "short": "Quantum Mechanics (Quantum Physics) explores a key idea, method or development within quantum physics.",
-    "description": "Quantum Mechanics (Quantum Physics) explores a key idea, method or development within quantum physics. Its history, evidence and applications connect this field to wider scientific, historical and cultural questions.",
+    "short": "The physical theory used to describe matter and radiation at atomic and subatomic scales.",
+    "description": "Quantum mechanics describes physical systems at scales where classical concepts alone do not correctly predict observations. Its mathematical framework uses quantum states, operators and probabilities to calculate possible measurement outcomes. Experiments reveal phenomena such as quantized energy levels, wave-particle behaviour, interference and uncertainty relations. Quantum mechanics is essential to understanding atoms, chemical bonds, semiconductors, lasers, magnetic resonance and modern particle physics.",
     "wiki": "https://en.wikipedia.org/wiki/Quantum_Mechanics_(Quantum_Physics)",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-002"
   },
   {
     "id": "atlas_quantum_physics_quantum_entanglement",
@@ -2810,10 +2816,12 @@
     "type": "Subject area",
     "icon": "📘",
     "featured": false,
-    "short": "Quantum Entanglement explores a key idea, method or development within quantum physics.",
-    "description": "Quantum Entanglement explores a key idea, method or development within quantum physics. Its history, evidence and applications connect this field to wider scientific, historical and cultural questions.",
+    "short": "A quantum relationship in which a combined system cannot be fully described as independent states of its parts.",
+    "description": "Quantum entanglement occurs when the state of a composite quantum system cannot be represented as a product of separate states for its components. Measurements on separated parts can show correlations stronger than any allowed by classical local-hidden-variable models, as tested through Bell inequalities. Entanglement does not provide a way to send controllable information faster than light. It is studied as a resource in quantum communication, sensing and computation.",
     "wiki": "https://en.wikipedia.org/wiki/Quantum_Entanglement",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-002"
   },
   {
     "id": "atlas_particle_physics_standard_model",
@@ -2823,10 +2831,12 @@
     "type": "Subject area",
     "icon": "📘",
     "featured": false,
-    "short": "Standard Model explores a key idea, method or development within particle physics.",
-    "description": "Standard Model explores a key idea, method or development within particle physics. Its history, evidence and applications connect this field to wider scientific, historical and cultural questions.",
+    "short": "The tested theoretical framework describing known elementary particles and three fundamental interactions.",
+    "description": "The Standard Model of particle physics organizes elementary matter particles into quarks and leptons and describes their interactions through the electromagnetic, weak and strong forces. Force-carrying particles include photons, gluons and W and Z bosons; the Higgs field and Higgs boson are part of the model's account of mass generation for elementary particles. The model has passed extensive experimental tests, but it does not include gravity and does not explain every observation, including dark matter.",
     "wiki": "https://en.wikipedia.org/wiki/Standard_Model",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-002"
   },
   {
     "id": "atlas_particle_physics_higgs_boson",
@@ -2849,10 +2859,12 @@
     "type": "Subject area",
     "icon": "📘",
     "featured": false,
-    "short": "Entropy explores a key idea, method or development within thermodynamics.",
-    "description": "Entropy explores a key idea, method or development within thermodynamics. Its history, evidence and applications connect this field to wider scientific, historical and cultural questions.",
+    "short": "A thermodynamic state quantity connected to energy dispersal and the number of microscopic arrangements compatible with a system's macroscopic state.",
+    "description": "Entropy is a central concept in thermodynamics and statistical mechanics. In classical thermodynamics, changes in entropy constrain which processes can occur spontaneously and express the second law: the total entropy of an isolated system does not decrease. In statistical mechanics, entropy is related to the number of microscopic configurations consistent with a macroscopic description. It is not simply a synonym for disorder; its meaning depends on the physical model and the information being considered.",
     "wiki": "https://en.wikipedia.org/wiki/Entropy",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-002"
   },
   {
     "id": "atlas_thermodynamics_heat_transfer",
@@ -2875,10 +2887,12 @@
     "type": "Subject area",
     "icon": "📘",
     "featured": false,
-    "short": "Electromagnetism explores a key idea, method or development within optics & photonics.",
-    "description": "Electromagnetism explores a key idea, method or development within optics & photonics. Its history, evidence and applications connect this field to wider scientific, historical and cultural questions.",
+    "short": "The physical interaction involving electric and magnetic fields and their effects on charged matter and electromagnetic radiation.",
+    "description": "Electromagnetism unifies electricity and magnetism in a framework describing electric charges, currents and fields. Maxwell's equations explain how changing electric and magnetic fields are related and predict electromagnetic waves, including radio waves, visible light, X-rays and other parts of the spectrum. Electromagnetic theory underpins electric motors, generators, antennas, optical technologies and modern communications. It is also one of the fundamental interactions represented in the Standard Model.",
     "wiki": "https://en.wikipedia.org/wiki/Electromagnetism",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-002"
   },
   {
     "id": "atlas_optics_photonics_laser",
@@ -2888,10 +2902,12 @@
     "type": "Subject area",
     "icon": "📘",
     "featured": false,
-    "short": "Laser explores a key idea, method or development within optics & photonics.",
-    "description": "Laser explores a key idea, method or development within optics & photonics. Its history, evidence and applications connect this field to wider scientific, historical and cultural questions.",
+    "short": "A device that produces light through stimulated emission, typically in a narrow and coherent beam.",
+    "description": "A laser amplifies light by stimulated emission of radiation. A gain medium is supplied with energy to create a population inversion, and an optical resonator helps build up selected modes of light. Laser output can be highly directional, coherent and concentrated in wavelength, although real devices vary widely in pulse duration, spectrum and power. Lasers are used in telecommunications, medicine, manufacturing, measurement, scientific instruments and consumer electronics.",
     "wiki": "https://en.wikipedia.org/wiki/Laser",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-002"
   },
   {
     "id": "atlas_acoustics_sound_waves",
@@ -2966,10 +2982,12 @@
     "type": "Subject area",
     "icon": "📘",
     "featured": false,
-    "short": "Isotopes explores a key idea, method or development within periodic table & elements.",
-    "description": "Isotopes explores a key idea, method or development within periodic table & elements. Its history, evidence and applications connect this field to wider scientific, historical and cultural questions.",
+    "short": "Atoms of the same chemical element that have equal proton numbers but different neutron numbers.",
+    "description": "Isotopes are forms of an element whose atoms contain the same number of protons but different numbers of neutrons. They therefore share the same atomic number but have different mass numbers. Isotopes of an element usually have very similar chemical behaviour, while their nuclear stability and radioactive properties can differ. Isotope science is important in nuclear physics, radiometric dating, medicine, environmental tracing and understanding the origin of elements.",
     "wiki": "https://en.wikipedia.org/wiki/Isotopes",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-002"
   },
   {
     "id": "atlas_cell_biology_cell_membrane",
@@ -2979,10 +2997,12 @@
     "type": "Subject area",
     "icon": "📘",
     "featured": false,
-    "short": "Cell Membrane explores a key idea, method or development within cell biology.",
-    "description": "Cell Membrane explores a key idea, method or development within cell biology. Its history, evidence and applications connect this field to wider scientific, historical and cultural questions.",
+    "short": "A selectively permeable boundary that separates a cell from its surroundings and organizes exchange and communication.",
+    "description": "Cell membranes are dynamic boundaries built mainly from a phospholipid bilayer with embedded or associated proteins, cholesterol in many eukaryotic membranes, and surface carbohydrates. Their selective permeability helps regulate the movement of ions and molecules, while membrane proteins support transport, signalling, recognition and adhesion. The fluid-mosaic model describes membranes as flexible structures whose components can move and interact, rather than rigid walls.",
     "wiki": "https://en.wikipedia.org/wiki/Cell_Membrane",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-002"
   },
   {
     "id": "atlas_cell_biology_mitochondria",
@@ -2992,10 +3012,12 @@
     "type": "Subject area",
     "icon": "📘",
     "featured": false,
-    "short": "Mitochondria explores a key idea, method or development within cell biology.",
-    "description": "Mitochondria explores a key idea, method or development within cell biology. Its history, evidence and applications connect this field to wider scientific, historical and cultural questions.",
+    "short": "Membrane-bound organelles that carry out major stages of aerobic energy conversion in most eukaryotic cells.",
+    "description": "Mitochondria are organelles enclosed by outer and inner membranes. The inner membrane folds into cristae and contains components of the electron-transport chain and ATP synthase, which use a proton gradient to support ATP production during oxidative phosphorylation. Mitochondria also participate in metabolism, cell signalling and regulated cell death. They contain their own DNA, but most mitochondrial proteins are encoded by nuclear genes and imported into the organelle.",
     "wiki": "https://en.wikipedia.org/wiki/Mitochondria",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-002"
   },
   {
     "id": "atlas_microbiology_bacteria",
@@ -3005,10 +3027,12 @@
     "type": "Subject area",
     "icon": "📘",
     "featured": false,
-    "short": "Bacteria explores a key idea, method or development within microbiology.",
-    "description": "Bacteria explores a key idea, method or development within microbiology. Its history, evidence and applications connect this field to wider scientific, historical and cultural questions.",
+    "short": "A diverse domain of single-celled prokaryotic organisms with major roles in ecosystems, health and industry.",
+    "description": "Bacteria are prokaryotic microorganisms whose cells lack a membrane-bound nucleus. Most have a cell membrane, cytoplasm, ribosomes and DNA concentrated in a nucleoid; many also have a peptidoglycan cell wall. Bacteria occur in nearly every environment and show enormous metabolic and ecological diversity. Many are harmless or beneficial, contributing to nutrient cycles, digestion and food production, while a smaller subset can cause disease.",
     "wiki": "https://en.wikipedia.org/wiki/Bacteria",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-002"
   },
   {
     "id": "atlas_microbiology_viruses",
@@ -3018,10 +3042,12 @@
     "type": "Subject area",
     "icon": "📘",
     "featured": false,
-    "short": "Viruses explores a key idea, method or development within microbiology.",
-    "description": "Viruses explores a key idea, method or development within microbiology. Its history, evidence and applications connect this field to wider scientific, historical and cultural questions.",
+    "short": "Acellular infectious agents that replicate by using the molecular machinery of host cells.",
+    "description": "Viruses contain genetic material, either DNA or RNA, enclosed in a protein capsid and sometimes surrounded by a lipid envelope. They do not have the cellular machinery needed for independent reproduction or metabolism, so replication depends on infecting a host cell. Viruses infect organisms across all domains of life. Their diversity, evolution and interactions with hosts are central to medicine, ecology and molecular biology; whether viruses count as living remains a question of definition.",
     "wiki": "https://en.wikipedia.org/wiki/Viruses",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-002"
   },
   {
     "id": "atlas_botany_plant_cells",
@@ -3174,10 +3200,12 @@
     "type": "Subject area",
     "icon": "📘",
     "featured": false,
-    "short": "Plate Tectonics (Geology) explores a key idea, method or development within geology.",
-    "description": "Plate Tectonics (Geology) explores a key idea, method or development within geology. Its history, evidence and applications connect this field to wider scientific, historical and cultural questions.",
+    "short": "The scientific theory that Earth's outer rigid shell is divided into moving tectonic plates.",
+    "description": "Plate tectonics explains the large-scale movement of Earth's lithosphere, which is divided into plates that interact at divergent, convergent and transform boundaries. Their motion is associated with seafloor spreading, subduction, mountain building, earthquakes and much volcanic activity. The modern theory developed through evidence including the fit of continents, fossil and rock distributions, seafloor mapping and magnetic patterns in oceanic crust. Plates move over geological time, while the mantle beneath them remains mostly solid and can deform slowly.",
     "wiki": "https://en.wikipedia.org/wiki/Plate_Tectonics_(Geology)",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-002"
   },
   {
     "id": "atlas_volcanology_volcanic_eruptions",
@@ -3239,10 +3267,12 @@
     "type": "Subject area",
     "icon": "📘",
     "featured": false,
-    "short": "Earth's Atmosphere explores a key idea, method or development within meteorology.",
-    "description": "Earth's Atmosphere explores a key idea, method or development within meteorology. Its history, evidence and applications connect this field to wider scientific, historical and cultural questions.",
+    "short": "The envelope of gases surrounding Earth, shaped by gravity and structured into layers with changing temperature and composition.",
+    "description": "Earth's atmosphere is a mixture of gases held by gravity, together with variable water vapour and suspended particles. Dry air near the surface is dominated by nitrogen and oxygen, with argon and trace gases including carbon dioxide. Temperature-based layers include the troposphere, stratosphere, mesosphere and thermosphere. The atmosphere supports life, moderates energy exchange, drives weather and climate, and filters some harmful solar radiation. Its composition and structure vary with altitude, location and time.",
     "wiki": "https://en.wikipedia.org/wiki/Earth's_Atmosphere",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-002"
   },
   {
     "id": "atlas_meteorology_monsoon_systems",
@@ -3265,10 +3295,12 @@
     "type": "Subject area",
     "icon": "📘",
     "featured": false,
-    "short": "The Water Cycle explores a key idea, method or development within hydrology.",
-    "description": "The Water Cycle explores a key idea, method or development within hydrology. Its history, evidence and applications connect this field to wider scientific, historical and cultural questions.",
+    "short": "The continuous movement and storage of water among the atmosphere, oceans, land, ice and underground reservoirs.",
+    "description": "The water cycle describes exchanges of water among the atmosphere, surface waters, living things, ice and groundwater. Solar energy drives evaporation and transpiration, while cooling supports condensation and precipitation; gravity moves water through runoff, rivers and groundwater flow. The cycle is not a simple closed loop with one fixed route: water can be stored for very different lengths of time in oceans, glaciers, soils and aquifers. Human water use, land-use change and climate change alter parts of the cycle.",
     "wiki": "https://en.wikipedia.org/wiki/The_Water_Cycle",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-002"
   },
   {
     "id": "atlas_hydrology_groundwater",
@@ -3473,10 +3505,12 @@
     "type": "Subject area",
     "icon": "📘",
     "featured": false,
-    "short": "Sorting Algorithms explores a key idea, method or development within algorithms & data structures.",
-    "description": "Sorting Algorithms explores a key idea, method or development within algorithms & data structures. Its history, evidence and applications connect this field to wider scientific, historical and cultural questions.",
+    "short": "Algorithms that arrange a collection of items according to a specified ordering rule.",
+    "description": "Sorting algorithms transform an unordered or partially ordered collection into a sequence that follows a chosen comparison or key. Common methods include insertion sort, merge sort, quicksort, heapsort and counting-based approaches. They differ in time and space requirements, stability, memory use and behaviour on particular input patterns. Sorting is a foundational computational task because ordered data can make searching, reporting, deduplication and later processing more efficient.",
     "wiki": "https://en.wikipedia.org/wiki/Sorting_Algorithms",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-002"
   },
   {
     "id": "atlas_algorithms_data_structures_graph_theory",
@@ -3486,10 +3520,12 @@
     "type": "Subject area",
     "icon": "📘",
     "featured": false,
-    "short": "Graph Theory explores a key idea, method or development within algorithms & data structures.",
-    "description": "Graph Theory explores a key idea, method or development within algorithms & data structures. Its history, evidence and applications connect this field to wider scientific, historical and cultural questions.",
+    "short": "The mathematical study of networks represented by vertices and edges.",
+    "description": "Graph theory studies structures made of vertices, also called nodes, connected by edges. Graphs can be directed or undirected, weighted or unweighted, and may represent roads, social relationships, communication networks, dependencies or molecular structures. Core concepts include paths, cycles, connectivity, trees, matchings and graph colouring. Graph algorithms support route planning, network analysis, scheduling, recommendation systems and many other computational tasks.",
     "wiki": "https://en.wikipedia.org/wiki/Graph_Theory",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-002"
   },
   {
     "id": "atlas_programming_languages_compiler",
@@ -3499,10 +3535,12 @@
     "type": "Subject area",
     "icon": "📘",
     "featured": false,
-    "short": "Compiler explores a key idea, method or development within programming languages.",
-    "description": "Compiler explores a key idea, method or development within programming languages. Its history, evidence and applications connect this field to wider scientific, historical and cultural questions.",
+    "short": "A program that translates or transforms source code into another representation while checking and preserving its intended meaning.",
+    "description": "A compiler processes a program through stages that commonly include lexical analysis, parsing, semantic analysis, intermediate representation, optimization and code generation. Some compilers translate to machine code, while others produce bytecode or another intermediate form. Compiler design balances correctness, performance, portability and diagnostics. Modern language implementations may combine compilation with interpretation and just-in-time compilation, so the boundary between a compiler and a runtime system is not always a simple one.",
     "wiki": "https://en.wikipedia.org/wiki/Compiler",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-002"
   },
   {
     "id": "atlas_programming_languages_programming_paradigms",
@@ -3525,10 +3563,12 @@
     "type": "Subject area",
     "icon": "📘",
     "featured": false,
-    "short": "Encryption explores a key idea, method or development within cybersecurity.",
-    "description": "Encryption explores a key idea, method or development within cybersecurity. Its history, evidence and applications connect this field to wider scientific, historical and cultural questions.",
+    "short": "The transformation of readable information into a protected form using a cryptographic method and key.",
+    "description": "Encryption transforms plaintext into ciphertext so that information can be read only by parties with the appropriate decryption capability. Symmetric encryption uses a shared secret key, while public-key cryptography uses mathematically related public and private keys for different functions. Secure systems depend not only on algorithms but also on sound protocols, key management, implementation and operational practices. AES is a widely standardized symmetric block cipher; encryption alone does not guarantee authenticity or protect against every attack.",
     "wiki": "https://en.wikipedia.org/wiki/Encryption",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-002"
   },
   {
     "id": "atlas_cybersecurity_malware",
@@ -3551,10 +3591,12 @@
     "type": "Subject area",
     "icon": "📘",
     "featured": false,
-    "short": "Relational Databases explores a key idea, method or development within databases & information systems.",
-    "description": "Relational Databases explores a key idea, method or development within databases & information systems. Its history, evidence and applications connect this field to wider scientific, historical and cultural questions.",
+    "short": "Database systems that organize data into relations, commonly presented as tables of rows and columns.",
+    "description": "The relational model represents data as relations with attributes and tuples, commonly implemented as tables. Keys and integrity constraints help express identity and relationships, while relational algebra provides a foundation for operations such as selection, projection and joins. SQL is widely used to define, query and manipulate relational databases. Practical database systems add indexing, transactions, concurrency control, recovery and query optimization to support reliable multi-user applications.",
     "wiki": "https://en.wikipedia.org/wiki/Relational_Databases",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-002"
   },
   {
     "id": "atlas_databases_information_systems_database_normalization",
@@ -4251,10 +4293,12 @@
     "category": "Mathematics",
     "type": "Subject",
     "icon": "∑",
-    "short": "A subject within pure mathematics.",
-    "description": "Set theory is studied within pure mathematics. It connects to wider questions, methods and applications across mathematics and related fields. This entry is a concise starting point for further reading; consult the linked reference for a fuller treatment.",
+    "short": "A mathematical framework for studying collections of objects and the relationships between them.",
+    "description": "Set theory provides a language for describing collections, membership, subsets, unions, intersections and complements. It underpins much of modern mathematics because numbers, functions, relations and mathematical structures can be represented using sets. Elementary set operations help formalize logic and probability, while more advanced set theory investigates infinite sets, cardinality and foundations. Different axiomatic systems address questions that cannot be settled by informal intuition alone.",
     "wiki": "https://en.wikipedia.org/wiki/Set_theory",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-002"
   },
   {
     "id": "numbersystems",
@@ -4273,10 +4317,12 @@
     "category": "Mathematics",
     "type": "Subject",
     "icon": "∑",
-    "short": "A subject within pure mathematics.",
-    "description": "Prime factorization is studied within pure mathematics. It connects to wider questions, methods and applications across mathematics and related fields. This entry is a concise starting point for further reading; consult the linked reference for a fuller treatment.",
+    "short": "The expression of a whole number greater than one as a product of prime numbers.",
+    "description": "Prime factorization breaks a composite integer into prime factors, which are numbers greater than one divisible only by one and themselves. The fundamental theorem of arithmetic states that every integer greater than one has a prime factorization that is unique apart from the order of its factors. Factorization supports divisibility tests, greatest common divisors, least common multiples, number theory and parts of modern cryptography. Efficiently finding factors of very large integers is a different computational problem from checking a proposed factorization.",
     "wiki": "https://en.wikipedia.org/wiki/Prime_factorization",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-002"
   },
   {
     "id": "diophantineequations",
@@ -4295,10 +4341,12 @@
     "category": "Mathematics",
     "type": "Subject",
     "icon": "∑",
-    "short": "A subject within pure mathematics.",
-    "description": "Group theory is studied within pure mathematics. It connects to wider questions, methods and applications across mathematics and related fields. This entry is a concise starting point for further reading; consult the linked reference for a fuller treatment.",
+    "short": "The study of mathematical structures that capture symmetry through an operation.",
+    "description": "A group is a set equipped with an operation satisfying closure, associativity, the existence of an identity element and an inverse for every element. Groups provide an abstract way to study symmetry, permutations, rotations and transformations. The same algebraic rules can describe very different systems, allowing results proved for one group to apply to many others. Group theory is used in geometry, number theory, physics, chemistry and cryptography.",
     "wiki": "https://en.wikipedia.org/wiki/Group_theory",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-002"
   },
   {
     "id": "ringtheory",
@@ -4328,10 +4376,12 @@
     "category": "Mathematics",
     "type": "Subject",
     "icon": "∑",
-    "short": "A subject within pure mathematics.",
-    "description": "Linear algebra is studied within pure mathematics. It connects to wider questions, methods and applications across mathematics and related fields. This entry is a concise starting point for further reading; consult the linked reference for a fuller treatment.",
+    "short": "The branch of mathematics concerned with vectors, matrices and linear transformations.",
+    "description": "Linear algebra studies vectors, vector spaces, matrices and linear maps. Systems of linear equations can be represented compactly as matrix equations, while concepts such as rank, basis, dimension, eigenvalues and eigenvectors reveal their structure. The subject is central to physics and engineering and is widely used in computer graphics, optimization, statistics, machine learning, networks and scientific computing. Its ideas connect algebraic calculations with geometric interpretations.",
     "wiki": "https://en.wikipedia.org/wiki/Linear_algebra",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-002"
   },
   {
     "id": "abstractalgebra",

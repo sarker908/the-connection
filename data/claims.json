@@ -397,6 +397,606 @@
       "claimType": "historical-or-conceptual",
       "reviewStatus": "editorial-review-pending",
       "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0033",
+      "subjectId": "settheory",
+      "claim": "A mathematical framework for studying collections of objects and the relationships between them.",
+      "sourceIds": [
+        "src-1888",
+        "src-1889"
+      ],
+      "claimType": "conceptual-or-technical",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0034",
+      "subjectId": "settheory",
+      "claim": "Set theory provides a language for describing collections, membership, subsets, unions, intersections and complements.",
+      "sourceIds": [
+        "src-1888",
+        "src-1889"
+      ],
+      "claimType": "conceptual-or-technical",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0035",
+      "subjectId": "primefactorization",
+      "claim": "The expression of a whole number greater than one as a product of prime numbers.",
+      "sourceIds": [
+        "src-1888",
+        "src-1890"
+      ],
+      "claimType": "conceptual-or-technical",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0036",
+      "subjectId": "primefactorization",
+      "claim": "Prime factorization breaks a composite integer into prime factors, which are numbers greater than one divisible only by one and themselves.",
+      "sourceIds": [
+        "src-1888",
+        "src-1890"
+      ],
+      "claimType": "conceptual-or-technical",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0037",
+      "subjectId": "grouptheory",
+      "claim": "The study of mathematical structures that capture symmetry through an operation.",
+      "sourceIds": [
+        "src-1888",
+        "src-1890"
+      ],
+      "claimType": "conceptual-or-technical",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0038",
+      "subjectId": "grouptheory",
+      "claim": "A group is a set equipped with an operation satisfying closure, associativity, the existence of an identity element and an inverse for every element.",
+      "sourceIds": [
+        "src-1888",
+        "src-1890"
+      ],
+      "claimType": "conceptual-or-technical",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0039",
+      "subjectId": "linearalgebra",
+      "claim": "The branch of mathematics concerned with vectors, matrices and linear transformations.",
+      "sourceIds": [
+        "src-1891",
+        "src-1888"
+      ],
+      "claimType": "conceptual-or-technical",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0040",
+      "subjectId": "linearalgebra",
+      "claim": "Linear algebra studies vectors, vector spaces, matrices and linear maps.",
+      "sourceIds": [
+        "src-1891",
+        "src-1888"
+      ],
+      "claimType": "conceptual-or-technical",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0041",
+      "subjectId": "atlas_statistics_probability_probability",
+      "claim": "A mathematical framework for describing uncertainty and the likelihood of events.",
+      "sourceIds": [
+        "src-1892",
+        "src-1888"
+      ],
+      "claimType": "conceptual-or-technical",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0042",
+      "subjectId": "atlas_statistics_probability_probability",
+      "claim": "Probability assigns numerical measures to events in a model of uncertainty.",
+      "sourceIds": [
+        "src-1892",
+        "src-1888"
+      ],
+      "claimType": "conceptual-or-technical",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0043",
+      "subjectId": "atlas_number_theory_modular_arithmetic",
+      "claim": "Arithmetic in which integers are considered equivalent when they leave the same remainder after division by a fixed positive integer.",
+      "sourceIds": [
+        "src-1890",
+        "src-1888"
+      ],
+      "claimType": "conceptual-or-technical",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0044",
+      "subjectId": "atlas_number_theory_modular_arithmetic",
+      "claim": "Modular arithmetic studies congruences such as a ≡ b (mod n), meaning that a and b differ by a multiple of n.",
+      "sourceIds": [
+        "src-1890",
+        "src-1888"
+      ],
+      "claimType": "conceptual-or-technical",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0045",
+      "subjectId": "atlas_quantum_physics_quantum_mechanics",
+      "claim": "The physical theory used to describe matter and radiation at atomic and subatomic scales.",
+      "sourceIds": [
+        "src-1893",
+        "src-1894"
+      ],
+      "claimType": "conceptual-or-technical",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0046",
+      "subjectId": "atlas_quantum_physics_quantum_mechanics",
+      "claim": "Quantum mechanics describes physical systems at scales where classical concepts alone do not correctly predict observations.",
+      "sourceIds": [
+        "src-1893",
+        "src-1894"
+      ],
+      "claimType": "conceptual-or-technical",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0047",
+      "subjectId": "atlas_quantum_physics_quantum_entanglement",
+      "claim": "A quantum relationship in which a combined system cannot be fully described as independent states of its parts.",
+      "sourceIds": [
+        "src-1895",
+        "src-1896"
+      ],
+      "claimType": "conceptual-or-technical",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0048",
+      "subjectId": "atlas_quantum_physics_quantum_entanglement",
+      "claim": "Quantum entanglement occurs when the state of a composite quantum system cannot be represented as a product of separate states for its components.",
+      "sourceIds": [
+        "src-1895",
+        "src-1896"
+      ],
+      "claimType": "conceptual-or-technical",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0049",
+      "subjectId": "atlas_particle_physics_standard_model",
+      "claim": "The tested theoretical framework describing known elementary particles and three fundamental interactions.",
+      "sourceIds": [
+        "src-1894",
+        "src-1899"
+      ],
+      "claimType": "conceptual-or-technical",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0050",
+      "subjectId": "atlas_particle_physics_standard_model",
+      "claim": "The Standard Model of particle physics organizes elementary matter particles into quarks and leptons and describes their interactions through the electromagnetic, weak and strong forces.",
+      "sourceIds": [
+        "src-1894",
+        "src-1899"
+      ],
+      "claimType": "conceptual-or-technical",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0051",
+      "subjectId": "atlas_thermodynamics_entropy",
+      "claim": "A thermodynamic state quantity connected to energy dispersal and the number of microscopic arrangements compatible with a system's macroscopic state.",
+      "sourceIds": [
+        "src-1897",
+        "src-1899"
+      ],
+      "claimType": "conceptual-or-technical",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0052",
+      "subjectId": "atlas_thermodynamics_entropy",
+      "claim": "Entropy is a central concept in thermodynamics and statistical mechanics.",
+      "sourceIds": [
+        "src-1897",
+        "src-1899"
+      ],
+      "claimType": "conceptual-or-technical",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0053",
+      "subjectId": "atlas_optics_photonics_electromagnetism",
+      "claim": "The physical interaction involving electric and magnetic fields and their effects on charged matter and electromagnetic radiation.",
+      "sourceIds": [
+        "src-1898",
+        "src-1899"
+      ],
+      "claimType": "conceptual-or-technical",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0054",
+      "subjectId": "atlas_optics_photonics_electromagnetism",
+      "claim": "Electromagnetism unifies electricity and magnetism in a framework describing electric charges, currents and fields.",
+      "sourceIds": [
+        "src-1898",
+        "src-1899"
+      ],
+      "claimType": "conceptual-or-technical",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0055",
+      "subjectId": "atlas_optics_photonics_laser",
+      "claim": "A device that produces light through stimulated emission, typically in a narrow and coherent beam.",
+      "sourceIds": [
+        "src-1896",
+        "src-1898"
+      ],
+      "claimType": "conceptual-or-technical",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0056",
+      "subjectId": "atlas_optics_photonics_laser",
+      "claim": "A laser amplifies light by stimulated emission of radiation.",
+      "sourceIds": [
+        "src-1896",
+        "src-1898"
+      ],
+      "claimType": "conceptual-or-technical",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0057",
+      "subjectId": "atlas_periodic_table_elements_isotopes",
+      "claim": "Atoms of the same chemical element that have equal proton numbers but different neutron numbers.",
+      "sourceIds": [
+        "src-1900",
+        "src-1899"
+      ],
+      "claimType": "conceptual-or-technical",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0058",
+      "subjectId": "atlas_periodic_table_elements_isotopes",
+      "claim": "Isotopes are forms of an element whose atoms contain the same number of protons but different numbers of neutrons.",
+      "sourceIds": [
+        "src-1900",
+        "src-1899"
+      ],
+      "claimType": "conceptual-or-technical",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0059",
+      "subjectId": "atlas_cell_biology_cell_membrane",
+      "claim": "A selectively permeable boundary that separates a cell from its surroundings and organizes exchange and communication.",
+      "sourceIds": [
+        "src-1901",
+        "src-1902"
+      ],
+      "claimType": "conceptual-or-technical",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0060",
+      "subjectId": "atlas_cell_biology_cell_membrane",
+      "claim": "Cell membranes are dynamic boundaries built mainly from a phospholipid bilayer with embedded or associated proteins, cholesterol in many eukaryotic membranes, and surface carbohydrates.",
+      "sourceIds": [
+        "src-1901",
+        "src-1902"
+      ],
+      "claimType": "conceptual-or-technical",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0061",
+      "subjectId": "atlas_cell_biology_mitochondria",
+      "claim": "Membrane-bound organelles that carry out major stages of aerobic energy conversion in most eukaryotic cells.",
+      "sourceIds": [
+        "src-1903",
+        "src-1904"
+      ],
+      "claimType": "conceptual-or-technical",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0062",
+      "subjectId": "atlas_cell_biology_mitochondria",
+      "claim": "Mitochondria are organelles enclosed by outer and inner membranes.",
+      "sourceIds": [
+        "src-1903",
+        "src-1904"
+      ],
+      "claimType": "conceptual-or-technical",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0063",
+      "subjectId": "atlas_microbiology_bacteria",
+      "claim": "A diverse domain of single-celled prokaryotic organisms with major roles in ecosystems, health and industry.",
+      "sourceIds": [
+        "src-1905",
+        "src-1906"
+      ],
+      "claimType": "conceptual-or-technical",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0064",
+      "subjectId": "atlas_microbiology_bacteria",
+      "claim": "Bacteria are prokaryotic microorganisms whose cells lack a membrane-bound nucleus.",
+      "sourceIds": [
+        "src-1905",
+        "src-1906"
+      ],
+      "claimType": "conceptual-or-technical",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0065",
+      "subjectId": "atlas_microbiology_viruses",
+      "claim": "Acellular infectious agents that replicate by using the molecular machinery of host cells.",
+      "sourceIds": [
+        "src-1907",
+        "src-1908"
+      ],
+      "claimType": "conceptual-or-technical",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0066",
+      "subjectId": "atlas_microbiology_viruses",
+      "claim": "Viruses contain genetic material, either DNA or RNA, enclosed in a protein capsid and sometimes surrounded by a lipid envelope.",
+      "sourceIds": [
+        "src-1907",
+        "src-1908"
+      ],
+      "claimType": "conceptual-or-technical",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0067",
+      "subjectId": "atlas_geology_plate_tectonics",
+      "claim": "The scientific theory that Earth's outer rigid shell is divided into moving tectonic plates.",
+      "sourceIds": [
+        "src-1909",
+        "src-1910"
+      ],
+      "claimType": "conceptual-or-technical",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0068",
+      "subjectId": "atlas_geology_plate_tectonics",
+      "claim": "Plate tectonics explains the large-scale movement of Earth's lithosphere, which is divided into plates that interact at divergent, convergent and transform boundaries.",
+      "sourceIds": [
+        "src-1909",
+        "src-1910"
+      ],
+      "claimType": "conceptual-or-technical",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0069",
+      "subjectId": "atlas_meteorology_earth_s_atmosphere",
+      "claim": "The envelope of gases surrounding Earth, shaped by gravity and structured into layers with changing temperature and composition.",
+      "sourceIds": [
+        "src-1911",
+        "src-1912"
+      ],
+      "claimType": "conceptual-or-technical",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0070",
+      "subjectId": "atlas_meteorology_earth_s_atmosphere",
+      "claim": "Earth's atmosphere is a mixture of gases held by gravity, together with variable water vapour and suspended particles.",
+      "sourceIds": [
+        "src-1911",
+        "src-1912"
+      ],
+      "claimType": "conceptual-or-technical",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0071",
+      "subjectId": "atlas_hydrology_the_water_cycle",
+      "claim": "The continuous movement and storage of water among the atmosphere, oceans, land, ice and underground reservoirs.",
+      "sourceIds": [
+        "src-1913",
+        "src-1914"
+      ],
+      "claimType": "conceptual-or-technical",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0072",
+      "subjectId": "atlas_hydrology_the_water_cycle",
+      "claim": "The water cycle describes exchanges of water among the atmosphere, surface waters, living things, ice and groundwater.",
+      "sourceIds": [
+        "src-1913",
+        "src-1914"
+      ],
+      "claimType": "conceptual-or-technical",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0073",
+      "subjectId": "atlas_algorithms_data_structures_sorting_algorithms",
+      "claim": "Algorithms that arrange a collection of items according to a specified ordering rule.",
+      "sourceIds": [
+        "src-1915",
+        "src-1916"
+      ],
+      "claimType": "conceptual-or-technical",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0074",
+      "subjectId": "atlas_algorithms_data_structures_sorting_algorithms",
+      "claim": "Sorting algorithms transform an unordered or partially ordered collection into a sequence that follows a chosen comparison or key.",
+      "sourceIds": [
+        "src-1915",
+        "src-1916"
+      ],
+      "claimType": "conceptual-or-technical",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0075",
+      "subjectId": "atlas_algorithms_data_structures_graph_theory",
+      "claim": "The mathematical study of networks represented by vertices and edges.",
+      "sourceIds": [
+        "src-1916",
+        "src-1891"
+      ],
+      "claimType": "conceptual-or-technical",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0076",
+      "subjectId": "atlas_algorithms_data_structures_graph_theory",
+      "claim": "Graph theory studies structures made of vertices, also called nodes, connected by edges.",
+      "sourceIds": [
+        "src-1916",
+        "src-1891"
+      ],
+      "claimType": "conceptual-or-technical",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0077",
+      "subjectId": "atlas_databases_information_systems_relational_databases",
+      "claim": "Database systems that organize data into relations, commonly presented as tables of rows and columns.",
+      "sourceIds": [
+        "src-1917",
+        "src-1916"
+      ],
+      "claimType": "conceptual-or-technical",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0078",
+      "subjectId": "atlas_databases_information_systems_relational_databases",
+      "claim": "The relational model represents data as relations with attributes and tuples, commonly implemented as tables.",
+      "sourceIds": [
+        "src-1917",
+        "src-1916"
+      ],
+      "claimType": "conceptual-or-technical",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0079",
+      "subjectId": "atlas_programming_languages_compiler",
+      "claim": "A program that translates or transforms source code into another representation while checking and preserving its intended meaning.",
+      "sourceIds": [
+        "src-1918",
+        "src-1919"
+      ],
+      "claimType": "conceptual-or-technical",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0080",
+      "subjectId": "atlas_programming_languages_compiler",
+      "claim": "A compiler processes a program through stages that commonly include lexical analysis, parsing, semantic analysis, intermediate representation, optimization and code generation.",
+      "sourceIds": [
+        "src-1918",
+        "src-1919"
+      ],
+      "claimType": "conceptual-or-technical",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0081",
+      "subjectId": "atlas_cybersecurity_encryption",
+      "claim": "The transformation of readable information into a protected form using a cryptographic method and key.",
+      "sourceIds": [
+        "src-1837",
+        "src-1920"
+      ],
+      "claimType": "conceptual-or-technical",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0082",
+      "subjectId": "atlas_cybersecurity_encryption",
+      "claim": "Encryption transforms plaintext into ciphertext so that information can be read only by parties with the appropriate decryption capability.",
+      "sourceIds": [
+        "src-1837",
+        "src-1920"
+      ],
+      "claimType": "conceptual-or-technical",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
     }
   ]
 }
