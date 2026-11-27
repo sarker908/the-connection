@@ -1,0 +1,3676 @@
+{
+  "schemaVersion": 1,
+  "updated": "2026-11-28",
+  "editorialNote": "This registry records links used by the atlas. Inclusion does not mean that a source has been independently audited for every claim. Wikipedia links are general references and discovery starting points; prefer primary, academic and specialist institutional sources when checking contested or technical claims.",
+  "sources": [
+    {
+      "id": "src-001",
+      "title": "Wikipedia: The Internet",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Internet",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "internet"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-002",
+      "title": "Wikipedia: World Wide Web",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/World_Wide_Web",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "www"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-003",
+      "title": "Wikipedia: Modern Computer",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Computer",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "computer"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-004",
+      "title": "Wikipedia: Alan Turing",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Alan_Turing",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "turing"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-005",
+      "title": "Wikipedia: Artificial Intelligence",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "ai"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-006",
+      "title": "Wikipedia: Printing Press",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Printing_press",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "printing"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-007",
+      "title": "Wikipedia: Electricity",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Electricity",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "electricity"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-008",
+      "title": "Wikipedia: Isaac Newton",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Isaac_Newton",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "newton"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-009",
+      "title": "Wikipedia: Albert Einstein",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Albert_Einstein",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "einstein"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-010",
+      "title": "Wikipedia: Evolution",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Evolution",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "evolution"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-011",
+      "title": "Wikipedia: DNA Structure",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/DNA",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "dna"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-012",
+      "title": "Wikipedia: Moon Landing",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Apollo_11",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "moon"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-013",
+      "title": "Wikipedia: Apollo Program",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Apollo_program",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "apollo"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-014",
+      "title": "Wikipedia: Renaissance",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Renaissance",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "renaissance"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-015",
+      "title": "Wikipedia: Industrial Revolution",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Industrial_Revolution",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "industrial"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-016",
+      "title": "Wikipedia: Steam Engine",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Steam_engine",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "steam"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-017",
+      "title": "Wikipedia: World War II",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/World_War_II",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "worldwar2"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-018",
+      "title": "Wikipedia: Transistor",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Transistor",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "transistor"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-019",
+      "title": "Wikipedia: Semiconductors",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Semiconductor",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "semiconductor"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-020",
+      "title": "Wikipedia: Smartphone",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Smartphone",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "smartphone"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-021",
+      "title": "Wikipedia: Climate Change",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Climate_change",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "climate"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-022",
+      "title": "Wikipedia: Charles Darwin",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Charles_Darwin",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "darwin"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-023",
+      "title": "Wikipedia: Vaccination",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Vaccination",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "vaccines"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-024",
+      "title": "Wikipedia: Johannes Gutenberg",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Johannes_Gutenberg",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "gutenberg"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-025",
+      "title": "Wikipedia: Miguel de Cervantes",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Miguel_de_Cervantes",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "cervantes"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-026",
+      "title": "Wikipedia: TCP/IP",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Internet_protocol_suite",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "internetprotocol"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-027",
+      "title": "Wikipedia: Artificial Satellites",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Artificial_satellite",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "satellite"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-028",
+      "title": "Wikipedia: GPS",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Global_Positioning_System",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "navigation"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-029",
+      "title": "Wikipedia: Reformation",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Reformation",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "printingreform"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-030",
+      "title": "Wikipedia: Globalization",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Globalization",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "globalization"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-031",
+      "title": "Wikipedia: Agricultural Revolution",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Neolithic_Revolution",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "agriculture"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-032",
+      "title": "Wikipedia: Writing",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/History_of_writing",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "writing"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-033",
+      "title": "Wikipedia: Mesopotamia",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mesopotamia",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "mesopotamia"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-034",
+      "title": "Wikipedia: Ancient Greece",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ancient_Greece",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "ancientgreece"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-035",
+      "title": "Wikipedia: Democracy",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Democracy",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "democracy"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-036",
+      "title": "Wikipedia: Roman Empire",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Roman_Empire",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "rome"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-037",
+      "title": "Wikipedia: Silk Road",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Silk_Road",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "silkroad"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-038",
+      "title": "Wikipedia: Paper",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/History_of_paper",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "paper"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-039",
+      "title": "Wikipedia: Magnetic Compass",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Compass",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "compass"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-040",
+      "title": "Wikipedia: Gunpowder",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gunpowder",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "gunpowder"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-041",
+      "title": "Wikipedia: Nicolaus Copernicus",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nicolaus_Copernicus",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "copernicus"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-042",
+      "title": "Wikipedia: Galileo Galilei",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Galileo_Galilei",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "galileo"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-043",
+      "title": "Wikipedia: Telescope",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Telescope",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "telescope"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-044",
+      "title": "Wikipedia: Microscope",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Microscope",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "microscope"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-045",
+      "title": "Wikipedia: Scientific Method",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Scientific_method",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "scientificmethod"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-046",
+      "title": "Wikipedia: Michael Faraday",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Michael_Faraday",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "faraday"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-047",
+      "title": "Wikipedia: James Clerk Maxwell",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/James_Clerk_Maxwell",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "maxwell"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-048",
+      "title": "Wikipedia: Telephone",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/History_of_the_telephone",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "telephone"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-049",
+      "title": "Wikipedia: Radio",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Radio",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "radio"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-050",
+      "title": "Wikipedia: Airplane",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Airplane",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "airplane"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-051",
+      "title": "Wikipedia: Germ Theory",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Germ_theory_of_disease",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "germtheory"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-052",
+      "title": "Wikipedia: Penicillin",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Penicillin",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "penicillin"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-053",
+      "title": "Wikipedia: Smallpox",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Smallpox",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "smallpox"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-054",
+      "title": "Wikipedia: Black Death",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Black_Death",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "blackdeath"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-055",
+      "title": "Wikipedia: Leonardo da Vinci",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Leonardo_da_Vinci",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "leonardo"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-056",
+      "title": "Wikipedia: Algebra",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Algebra",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "algebra"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-057",
+      "title": "Wikipedia: Zero",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/0",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "zero"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-058",
+      "title": "Wikipedia: Indus Valley Civilisation",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Indus_Valley_Civilisation",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "indus"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-059",
+      "title": "Wikipedia: Buddhism",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Buddhism",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "buddhism"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-060",
+      "title": "Wikipedia: Big Bang",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Big_Bang",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "bigbang"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-061",
+      "title": "Wikipedia: Edwin Hubble",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Edwin_Hubble",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "hubble"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-062",
+      "title": "Wikipedia: Quantum Mechanics",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Quantum_mechanics",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "quantum"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-063",
+      "title": "Wikipedia: Marie Curie",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Marie_Curie",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "curie"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-064",
+      "title": "Wikipedia: Radioactivity",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Radioactivity",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "radioactivity"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-065",
+      "title": "Wikipedia: X-rays",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/X-ray",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "xray"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-066",
+      "title": "Wikipedia: Insulin",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Insulin",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "insulin"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-067",
+      "title": "Wikipedia: Human Genome Project",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Human_Genome_Project",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "genome"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-068",
+      "title": "Wikipedia: CRISPR",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/CRISPR_gene_editing",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "crispr"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-069",
+      "title": "Wikipedia: French Revolution",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/French_Revolution",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "frenchrev"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-070",
+      "title": "Wikipedia: American Revolution",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/American_Revolution",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "americanrev"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-071",
+      "title": "Wikipedia: Gutenberg Bible",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gutenberg_Bible",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "printingbook"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-072",
+      "title": "Wikipedia: Mughal Empire",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mughal_Empire",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "mughal"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-073",
+      "title": "Wikipedia: Bengal Renaissance",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bengal_Renaissance",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "bengal"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-074",
+      "title": "Wikipedia: Bengali Language Movement",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bengali_language_movement",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "language"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-075",
+      "title": "Wikipedia: Bangladesh Liberation War",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bangladesh_Liberation_War",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "liberation"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-076",
+      "title": "Wikipedia: Dhaka",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dhaka",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "dhaka"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-077",
+      "title": "Wikipedia: The Sundarbans",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sundarbans",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "sundarbans"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-078",
+      "title": "Wikipedia: Rabindranath Tagore",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rabindranath_Tagore",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "rabindranath"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-079",
+      "title": "Wikipedia: Jagadish Chandra Bose",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jagadish_Chandra_Bose",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "bose"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-080",
+      "title": "Wikipedia: Pala Empire",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pala_Empire",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "pala"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-081",
+      "title": "Wikipedia: Monsoon",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Monsoon",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "monsoon"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-082",
+      "title": "Wikipedia: Movable Type",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Movable_type",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "printingpress"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-083",
+      "title": "Wikipedia: Railway",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/History_of_rail_transport",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "steamrail"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-084",
+      "title": "Wikipedia: Mobile Phone",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mobile_phone",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "telephonecell"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-085",
+      "title": "Wikipedia: Photography",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Photography",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "photography"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-086",
+      "title": "Wikipedia: Open Source Software",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Open-source_software",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "internetprotocolv6"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-087",
+      "title": "Wikipedia: Renewable Energy",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Renewable_energy",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "renewables"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-088",
+      "title": "Wikipedia: Edward Jenner",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Edward_Jenner",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "vaccinia"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-089",
+      "title": "Wikipedia: Satyendra Nath Bose",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Satyendra_Nath_Bose",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "satyendranathbose"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-090",
+      "title": "Wikipedia: Begum Rokeya",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Begum_Rokeya",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "begumrokeya"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-091",
+      "title": "Wikipedia: Battle of Plassey",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Plassey",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "battleplassey"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-092",
+      "title": "Wikipedia: Permanent Settlement",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Permanent_Settlement",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "permanentsettlement"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-093",
+      "title": "Wikipedia: Partition of Bengal",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Partition_of_Bengal_(1905)",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "partition1905"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-094",
+      "title": "Wikipedia: Swadeshi Movement",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Swadeshi_movement",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "swadeshi"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-095",
+      "title": "Wikipedia: Somapura Mahavihara",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Somapura_Mahavihara",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "somapura"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-096",
+      "title": "Wikipedia: University of Dhaka",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/University_of_Dhaka",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "dhakauniversity"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-097",
+      "title": "Wikipedia: Six-Point Movement",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Six_point_movement",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "sixpoint"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-098",
+      "title": "Wikipedia: Mass Uprising of 1969",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/1969_East_Pakistan_mass_uprising",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "massuprising1969"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-099",
+      "title": "Wikipedia: Bengal Famine of 1943",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bengal_famine_of_1943",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "bengalfamine1943"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-100",
+      "title": "Wikipedia: The Bengal Delta",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bengal_delta",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "bengalregion"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-101",
+      "title": "Wikipedia: Binary Number System",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Binary_number",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "binary"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-102",
+      "title": "Wikipedia: Algorithms",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Algorithm",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "algorithm"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-103",
+      "title": "Wikipedia: Calculus",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Calculus",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "calculus"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-104",
+      "title": "Wikipedia: Cryptography",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cryptography",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "cryptography"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-105",
+      "title": "Wikipedia: Linux",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Linux",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "linux"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-106",
+      "title": "Wikipedia: Microprocessor",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Microprocessor",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "microprocessor"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-107",
+      "title": "Wikipedia: Integrated Circuit",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Integrated_circuit",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "semiconductorfab"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-108",
+      "title": "Wikipedia: Cloud Computing",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cloud_computing",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "cloud"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-109",
+      "title": "Wikipedia: Blockchain",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Blockchain",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "blockchain"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-110",
+      "title": "Wikipedia: Machine Learning",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Machine_learning",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "machinelearning"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-111",
+      "title": "Wikipedia: Artificial Neural Network",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Artificial_neural_network",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "neuralnetwork"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-112",
+      "title": "Wikipedia: Theory of Relativity",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Theory_of_relativity",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "relativity"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-113",
+      "title": "Wikipedia: Periodic Table",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Periodic_table",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "periodictable"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-114",
+      "title": "Wikipedia: Magnetic Resonance Imaging",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Magnetic_resonance_imaging",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "mri"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-115",
+      "title": "Wikipedia: Exoplanets",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Exoplanet",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "exoplanet"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-116",
+      "title": "Wikipedia: Hubble Space Telescope",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hubble_Space_Telescope",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "hubbletelescope"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-117",
+      "title": "Wikipedia: Black Holes",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Black_hole",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "blackhole"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-118",
+      "title": "Wikipedia: Mars Exploration Rovers",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mars_Exploration_Rover",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "marsrover"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-119",
+      "title": "Wikipedia: Silk",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Silk",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "silkprinting"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-120",
+      "title": "Wikipedia: Olympic Games",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Olympic_Games",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "olympics"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-121",
+      "title": "Wikipedia: Jazz",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jazz",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "jazz"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-122",
+      "title": "Wikipedia: Mona Lisa",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mona_Lisa",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "mona"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-123",
+      "title": "Wikipedia: William Shakespeare",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/William_Shakespeare",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "shakespeare"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-124",
+      "title": "Wikipedia: Harry Potter",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Harry_Potter",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "harrypotter"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-125",
+      "title": "Wikipedia: Philosophy",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Philosophy",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "philosophy"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-126",
+      "title": "Wikipedia: Public Education",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/History_of_education",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "printingeducation"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-127",
+      "title": "Wikipedia: Human Migration",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Human_migration",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "migration"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-128",
+      "title": "Wikipedia: Constitutionalism",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Constitutionalism",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "constitution"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-129",
+      "title": "Wikipedia: United Nations",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/United_Nations",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "un"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-130",
+      "title": "Wikipedia: Civil Rights Movement",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Civil_rights_movement",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "civilrights"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-131",
+      "title": "Wikipedia: Plate Tectonics",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Plate_tectonics",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "plate"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-132",
+      "title": "Wikipedia: Amazon Rainforest",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Amazon_rainforest",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "amazon"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-133",
+      "title": "Wikipedia: Ozone Layer",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ozone_layer",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "ozone"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-134",
+      "title": "Wikipedia: Biodiversity",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Biodiversity",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "biodiversity"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-135",
+      "title": "Wikipedia: Ishwar Chandra Vidyasagar",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ishwar_Chandra_Vidyasagar",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "vidyasagar"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-136",
+      "title": "Wikipedia: Kazi Nazrul Islam",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kazi_Nazrul_Islam",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "nazrul"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-137",
+      "title": "Wikipedia: Sheikh Mujibur Rahman",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sheikh_Mujibur_Rahman",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "mujib"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-138",
+      "title": "Wikipedia: Bengal Tiger",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bengal_tiger",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "bengaltiger"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-139",
+      "title": "Wikipedia: Muslin of Bengal",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Muslin",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "bengaltextile"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-140",
+      "title": "Wikipedia: Bangla Language",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bengali_language",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "languagebangla"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-141",
+      "title": "Wikipedia: Economics",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Economics",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "economics"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-142",
+      "title": "Wikipedia: Money",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Money",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "money"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-143",
+      "title": "Wikipedia: Inflation",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Inflation",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "inflation"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-144",
+      "title": "Wikipedia: Stock Market",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Stock_market",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "stockmarket"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-145",
+      "title": "Wikipedia: Civil Engineering",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Civil_engineering",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "civilengineering"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-146",
+      "title": "Wikipedia: Robotics",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Robotics",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "robotics"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-147",
+      "title": "Wikipedia: Bridge",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bridge",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "bridge"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-148",
+      "title": "Wikipedia: Irrigation",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Irrigation",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "irrigation"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-149",
+      "title": "Wikipedia: Domestication",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Domestication",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "domestication"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-150",
+      "title": "Wikipedia: Fermentation",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Fermentation",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "fermentation"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-151",
+      "title": "Wikipedia: Crop Rotation",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Crop_rotation",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "croprotation"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-152",
+      "title": "Wikipedia: Telegraph",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Electrical_telegraph",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "telegraph"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-153",
+      "title": "Wikipedia: Television",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Television",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "television"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-154",
+      "title": "Wikipedia: Broadcasting",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Broadcasting",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "broadcasting"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-155",
+      "title": "Wikipedia: Mobile Communication",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mobile_telephony",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "mobilecommunication"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-156",
+      "title": "Wikipedia: Archaeology",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Archaeology",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "archaeology"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-157",
+      "title": "Wikipedia: Rosetta Stone",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rosetta_Stone",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "rosettastone"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-158",
+      "title": "Wikipedia: Pompeii",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pompeii",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "pompeii"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-159",
+      "title": "Wikipedia: Terracotta Army",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Terracotta_Army",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "terracottawarriors"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-160",
+      "title": "Wikipedia: University",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/University",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "university"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-161",
+      "title": "Wikipedia: Literacy",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Literacy",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "literacy"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-162",
+      "title": "Wikipedia: Library",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Library",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "library"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-163",
+      "title": "Wikipedia: Massive Open Online Course",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Massive_open_online_course",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "mooc"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-164",
+      "title": "Wikipedia: Psychology",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Psychology",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "psychology"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-165",
+      "title": "Wikipedia: Psychoanalysis",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Psychoanalysis",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "psychoanalysis"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-166",
+      "title": "Wikipedia: Cognitive Psychology",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cognitive_psychology",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "cognitivepsychology"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-167",
+      "title": "Wikipedia: Behaviorism",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Behaviorism",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "behaviorism"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-168",
+      "title": "Wikipedia: Social Psychology",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Social_psychology",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "socialpsychology"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-169",
+      "title": "Wikipedia: Architecture",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Architecture",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "architecture"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-170",
+      "title": "Wikipedia: Bauhaus",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bauhaus",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "bauhaus"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-171",
+      "title": "Wikipedia: Gothic Architecture",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gothic_architecture",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "gothicarchitecture"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-172",
+      "title": "Wikipedia: Modern Architecture",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Modern_architecture",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "modernism"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-173",
+      "title": "Wikipedia: Sustainable Architecture",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sustainable_architecture",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "sustainablearchitecture"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-174",
+      "title": "Wikipedia: Energy",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Energy",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "energy"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-175",
+      "title": "Wikipedia: Solar Energy",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Solar_energy",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "solarenergy"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-176",
+      "title": "Wikipedia: Wind Power",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wind_power",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "windpower"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-177",
+      "title": "Wikipedia: Nuclear Power",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nuclear_power",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "nuclearpower"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-178",
+      "title": "Wikipedia: Battery",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Battery_(electricity)",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "battery"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-179",
+      "title": "Wikipedia: Linguistics",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Linguistics",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "linguistics"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-180",
+      "title": "Wikipedia: Phonetics",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Phonetics",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "phonetics"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-181",
+      "title": "Wikipedia: Writing Systems",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Writing_system",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "writing_systems"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-182",
+      "title": "Wikipedia: Sign Languages",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sign_language",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "sign_language"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-183",
+      "title": "Wikipedia: Translation",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Translation",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "translation"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-184",
+      "title": "Wikipedia: Cinema",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cinema",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "cinema"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-185",
+      "title": "Wikipedia: Animation",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Animation",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "animation"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-186",
+      "title": "Wikipedia: Documentary Film",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Documentary_film",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "documentary"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-187",
+      "title": "Wikipedia: Film Editing",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Film_editing",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "film_editing"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-188",
+      "title": "Wikipedia: Sound Recording",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sound_recording_and_reproduction",
+      "roles": [
+        "General reference and further reading"
+      ],
+      "topicIds": [
+        "sound_recording"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-189",
+      "title": "OpenStax · World History",
+      "publisher": "OpenStax",
+      "url": "https://openstax.org/books/world-history-volume-1/pages/b-world-history-volume-1-to-1500-maps-and-timelines",
+      "roles": [
+        "Historical reference"
+      ],
+      "topicIds": [],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-190",
+      "title": "UNESCO · Memphis and its Necropolis",
+      "publisher": "UNESCO",
+      "url": "https://whc.unesco.org/en/list/86/",
+      "roles": [
+        "Historical reference"
+      ],
+      "topicIds": [],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-191",
+      "title": "Banglapedia · Pala Rule",
+      "publisher": "Banglapedia",
+      "url": "https://en.banglapedia.org/index.php?title=Pala_Rule",
+      "roles": [
+        "Historical reference",
+        "Biographical reference"
+      ],
+      "topicIds": [
+        "pala"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-192",
+      "title": "UNESCO · Somapura Mahavihara",
+      "publisher": "UNESCO",
+      "url": "https://whc.unesco.org/en/list/322",
+      "roles": [
+        "Historical reference",
+        "Biographical reference"
+      ],
+      "topicIds": [
+        "somapura"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-193",
+      "title": "UNESCO · Angkor",
+      "publisher": "UNESCO",
+      "url": "https://whc.unesco.org/en/list/668/",
+      "roles": [
+        "Historical reference",
+        "Biographical reference"
+      ],
+      "topicIds": [],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-194",
+      "title": "University of Dhaka · History syllabus",
+      "publisher": "University of Dhaka",
+      "url": "https://duap.du.ac.bd/upload/download/Honours_Syllabus_2010-2011.pdf",
+      "roles": [
+        "Historical reference"
+      ],
+      "topicIds": [
+        "bengalregion"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-195",
+      "title": "UK National Archives · Magna Carta",
+      "publisher": "UK National Archives",
+      "url": "https://www.nationalarchives.gov.uk/education/resources/magna-carta/",
+      "roles": [
+        "Historical reference"
+      ],
+      "topicIds": [],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-196",
+      "title": "Banglapedia · Iliyas Shah",
+      "publisher": "Banglapedia",
+      "url": "https://en.banglapedia.org/index.php?title=Iliyas_Shah",
+      "roles": [
+        "Historical reference",
+        "Biographical reference"
+      ],
+      "topicIds": [
+        "bengalregion"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-197",
+      "title": "OpenStax · World History",
+      "publisher": "OpenStax",
+      "url": "https://openstax.org/books/world-history-volume-2/pages/b-world-history-volume-2-from-1400-maps-and-timelines",
+      "roles": [
+        "Historical reference"
+      ],
+      "topicIds": [],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-198",
+      "title": "CFR · Essential Events Before 1900",
+      "publisher": "CFR",
+      "url": "https://www.cfr.org/education/learn/timelines/essential-events-1900",
+      "roles": [
+        "Historical reference"
+      ],
+      "topicIds": [],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-199",
+      "title": "Bangladesh: A Country Study · Federal Research Division",
+      "publisher": "Bangladesh: A Country Study",
+      "url": "https://www.marines.mil/Portals/1/Publications/Bangladesh%20Study_1.pdf",
+      "roles": [
+        "Historical reference"
+      ],
+      "topicIds": [
+        "dhaka",
+        "battleplassey",
+        "bengalregion"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-200",
+      "title": "Banglapedia · Palashi, The Battle of",
+      "publisher": "Banglapedia",
+      "url": "https://en.banglapedia.org/index.php?title=Palashi%2C_The_Battle_of",
+      "roles": [
+        "Historical reference",
+        "Biographical reference"
+      ],
+      "topicIds": [
+        "battleplassey"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-201",
+      "title": "Banglapedia · Permanent Settlement",
+      "publisher": "Banglapedia",
+      "url": "https://en.banglapedia.org/index.php?title=Permanent_Settlement%2C_The",
+      "roles": [
+        "Historical reference"
+      ],
+      "topicIds": [
+        "permanentsettlement"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-202",
+      "title": "UK Parliament · Slavery and the British Parliament",
+      "publisher": "UK Parliament",
+      "url": "https://www.parliament.uk/about/living-heritage/transformingsociety/tradeindustry/imperialism/overview/slavetrade/",
+      "roles": [
+        "Historical reference"
+      ],
+      "topicIds": [],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-203",
+      "title": "Banglapedia · Partition of Bengal, 1905",
+      "publisher": "Banglapedia",
+      "url": "https://en.banglapedia.org/index.php?title=Partition_of_Bengal%2C_1905",
+      "roles": [
+        "Historical reference"
+      ],
+      "topicIds": [
+        "partition1905",
+        "swadeshi"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-204",
+      "title": "Banglapedia · Annulment of Bengal Partition",
+      "publisher": "Banglapedia",
+      "url": "https://en.banglapedia.org/index.php?title=Annulment_of_Bengal_Partition",
+      "roles": [
+        "Historical reference"
+      ],
+      "topicIds": [
+        "partition1905"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-205",
+      "title": "OpenStax · World History, Vol. 2",
+      "publisher": "OpenStax",
+      "url": "https://openstax.org/books/world-history-volume-2/pages/11-introduction",
+      "roles": [
+        "Historical reference"
+      ],
+      "topicIds": [],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-206",
+      "title": "University of Dhaka · Historical Outline",
+      "publisher": "University of Dhaka",
+      "url": "https://www.du.ac.bd/index.php/university/HistoricalOutline",
+      "roles": [
+        "Historical reference"
+      ],
+      "topicIds": [
+        "dhakauniversity"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-207",
+      "title": "OpenStax · World History, Vol. 2",
+      "publisher": "OpenStax",
+      "url": "https://openstax.org/books/world-history-volume-2/pages/12-3-the-great-depression",
+      "roles": [
+        "Historical reference"
+      ],
+      "topicIds": [],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-208",
+      "title": "OpenStax · World History, Vol. 2",
+      "publisher": "OpenStax",
+      "url": "https://openstax.org/books/world-history-volume-2/pages/13-introduction",
+      "roles": [
+        "Historical reference"
+      ],
+      "topicIds": [],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-209",
+      "title": "Banglapedia · Famine, 1943",
+      "publisher": "Banglapedia",
+      "url": "https://en.banglapedia.org/index.php?title=Famine%2C_1943",
+      "roles": [
+        "Historical reference"
+      ],
+      "topicIds": [
+        "bengalfamine1943"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-210",
+      "title": "United Nations · History of the UN",
+      "publisher": "United Nations",
+      "url": "https://www.un.org/en/about-us/history-of-the-un",
+      "roles": [
+        "Historical reference"
+      ],
+      "topicIds": [],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-211",
+      "title": "CFR · Essential Events Since 1945",
+      "publisher": "CFR",
+      "url": "https://www.cfr.org/education/learn/timelines/essential-events-1945",
+      "roles": [
+        "Historical reference"
+      ],
+      "topicIds": [],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-212",
+      "title": "United Nations · Universal Declaration of Human Rights",
+      "publisher": "United Nations",
+      "url": "https://www.un.org/en/about-us/universal-declaration-of-human-rights",
+      "roles": [
+        "Historical reference"
+      ],
+      "topicIds": [],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-213",
+      "title": "Banglapedia · Language Movement",
+      "publisher": "Banglapedia",
+      "url": "https://en.banglapedia.org/index.php/Language_Movement",
+      "roles": [
+        "Historical reference",
+        "Biographical reference"
+      ],
+      "topicIds": [
+        "language"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-214",
+      "title": "Institutional reference",
+      "publisher": "Institutional reference",
+      "url": "https://www.un.org/dppa/decolonization/en/about",
+      "roles": [
+        "Historical reference"
+      ],
+      "topicIds": [],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-215",
+      "title": "Institutional reference",
+      "publisher": "Institutional reference",
+      "url": "https://au.int/en/overview",
+      "roles": [
+        "Historical reference"
+      ],
+      "topicIds": [],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-216",
+      "title": "Banglapedia · Sheikh Mujibur Rahman",
+      "publisher": "Banglapedia",
+      "url": "https://en.banglapedia.org/index.php?title=Rahman%2C_Bangabandhu_Sheikh_Mujibur",
+      "roles": [
+        "Historical reference",
+        "Biographical reference"
+      ],
+      "topicIds": [
+        "sixpoint",
+        "massuprising1969",
+        "liberation"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-217",
+      "title": "NASA · Apollo 11",
+      "publisher": "NASA",
+      "url": "https://www.nasa.gov/mission/apollo-11/",
+      "roles": [
+        "Historical reference"
+      ],
+      "topicIds": [],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-218",
+      "title": "Banglapedia · Ideas and Institutions",
+      "publisher": "Banglapedia",
+      "url": "https://en.banglapedia.org/index.php?title=Ideas_and_Institutions",
+      "roles": [
+        "Historical reference"
+      ],
+      "topicIds": [
+        "liberation"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-219",
+      "title": "South African History Online",
+      "publisher": "South African History Online",
+      "url": "https://www.sahistory.org.za/article/1994-election",
+      "roles": [
+        "Historical reference"
+      ],
+      "topicIds": [],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-220",
+      "title": "Institutional reference",
+      "publisher": "Institutional reference",
+      "url": "https://www.un.org/en/preventgenocide/rwanda",
+      "roles": [
+        "Historical reference"
+      ],
+      "topicIds": [],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-221",
+      "title": "WHO · Timeline of WHO's COVID-19 response",
+      "publisher": "WHO",
+      "url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/interactive-timeline",
+      "roles": [
+        "Historical reference"
+      ],
+      "topicIds": [],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-222",
+      "title": "Institutional reference",
+      "publisher": "Institutional reference",
+      "url": "https://www.un.org/en/ukraine",
+      "roles": [
+        "Historical reference"
+      ],
+      "topicIds": [],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-223",
+      "title": "Banglapedia · Roquiah Sakhawat Hossain",
+      "publisher": "Banglapedia",
+      "url": "https://en.banglapedia.org/index.php?title=Hossain%2C_Roquiah_Sakhawat",
+      "roles": [
+        "Biographical reference"
+      ],
+      "topicIds": [
+        "begumrokeya"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-224",
+      "title": "Banglapedia · Rabindranath Tagore",
+      "publisher": "Banglapedia",
+      "url": "https://en.banglapedia.org/index.php?title=Tagore%2C_Rabindranath",
+      "roles": [
+        "Biographical reference"
+      ],
+      "topicIds": [
+        "rabindranath"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-225",
+      "title": "Banglapedia · Sir Jagadish Chandra Bose",
+      "publisher": "Banglapedia",
+      "url": "https://en.banglapedia.org/index.php?redirect=no&title=Bose%2C_Sir_Jagadish_Chandra",
+      "roles": [
+        "Biographical reference"
+      ],
+      "topicIds": [
+        "bose"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-226",
+      "title": "Banglapedia · Satyendra Nath Bose",
+      "publisher": "Banglapedia",
+      "url": "https://en.banglapedia.org/index.php?title=Bose%2C_Satyendra_Nath",
+      "roles": [
+        "Biographical reference"
+      ],
+      "topicIds": [
+        "satyendranathbose"
+      ],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-227",
+      "title": "Banglapedia · A. K. Fazlul Huq",
+      "publisher": "Banglapedia",
+      "url": "https://en.banglapedia.org/index.php?title=Huq%2C_AK_Fazlul",
+      "roles": [
+        "Biographical reference"
+      ],
+      "topicIds": [],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-228",
+      "title": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Hatshepsut",
+      "roles": [
+        "Biographical reference"
+      ],
+      "topicIds": [],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-229",
+      "title": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Ramses-II",
+      "roles": [
+        "Biographical reference"
+      ],
+      "topicIds": [],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-230",
+      "title": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Hannibal",
+      "roles": [
+        "Biographical reference"
+      ],
+      "topicIds": [],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-231",
+      "title": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Musa-I-of-Mali",
+      "roles": [
+        "Biographical reference"
+      ],
+      "topicIds": [],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-232",
+      "title": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Shaka-Zulu-chief",
+      "roles": [
+        "Biographical reference"
+      ],
+      "topicIds": [],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-233",
+      "title": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Yaa-Asantewaa",
+      "roles": [
+        "Biographical reference"
+      ],
+      "topicIds": [],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-234",
+      "title": "Nobel Prize",
+      "publisher": "Nobel Prize",
+      "url": "https://www.nobelprize.org/prizes/peace/1993/mandela/biographical/",
+      "roles": [
+        "Biographical reference"
+      ],
+      "topicIds": [],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-235",
+      "title": "Nobel Prize",
+      "publisher": "Nobel Prize",
+      "url": "https://www.nobelprize.org/prizes/peace/2004/maathai/biographical/",
+      "roles": [
+        "Biographical reference"
+      ],
+      "topicIds": [],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-236",
+      "title": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Nefertiti",
+      "roles": [
+        "Biographical reference"
+      ],
+      "topicIds": [],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-237",
+      "title": "Reference source",
+      "publisher": "Reference source",
+      "url": "https://www.poetryfoundation.org/poets/maya-angelou",
+      "roles": [
+        "Biographical reference"
+      ],
+      "topicIds": [],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-238",
+      "title": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Simon-Bolivar",
+      "roles": [
+        "Biographical reference"
+      ],
+      "topicIds": [],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-239",
+      "title": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Jose-de-San-Martin",
+      "roles": [
+        "Biographical reference"
+      ],
+      "topicIds": [],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-240",
+      "title": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Benjamin-Franklin",
+      "roles": [
+        "Biographical reference"
+      ],
+      "topicIds": [],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-241",
+      "title": "National / cultural institution",
+      "publisher": "National / cultural institution",
+      "url": "https://www.nps.gov/frdo/learn/historyculture/frederick-douglass.htm",
+      "roles": [
+        "Biographical reference"
+      ],
+      "topicIds": [],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-242",
+      "title": "National / cultural institution",
+      "publisher": "National / cultural institution",
+      "url": "https://www.nps.gov/hatu/learn/historyculture/harriet-tubman-biography.htm",
+      "roles": [
+        "Biographical reference"
+      ],
+      "topicIds": [],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-243",
+      "title": "Reference source",
+      "publisher": "Reference source",
+      "url": "https://www.whitehouse.gov/about-the-white-house/presidents/abraham-lincoln/",
+      "roles": [
+        "Biographical reference"
+      ],
+      "topicIds": [],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-244",
+      "title": "Nobel Prize",
+      "publisher": "Nobel Prize",
+      "url": "https://www.nobelprize.org/prizes/peace/1964/king/biographical/",
+      "roles": [
+        "Biographical reference"
+      ],
+      "topicIds": [],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-245",
+      "title": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Cesar-Chavez",
+      "roles": [
+        "Biographical reference"
+      ],
+      "topicIds": [],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-246",
+      "title": "Reference source",
+      "publisher": "Reference source",
+      "url": "https://plato.stanford.edu/entries/confucius/",
+      "roles": [
+        "Biographical reference"
+      ],
+      "topicIds": [],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-247",
+      "title": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Qin-Shi-Huang",
+      "roles": [
+        "Biographical reference"
+      ],
+      "topicIds": [],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-248",
+      "title": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Wu-Zetian",
+      "roles": [
+        "Biographical reference"
+      ],
+      "topicIds": [],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-249",
+      "title": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Murasaki-Shikibu",
+      "roles": [
+        "Biographical reference"
+      ],
+      "topicIds": [],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-250",
+      "title": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Genghis-Khan",
+      "roles": [
+        "Biographical reference"
+      ],
+      "topicIds": [],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-251",
+      "title": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Zheng-He",
+      "roles": [
+        "Biographical reference"
+      ],
+      "topicIds": [],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-252",
+      "title": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Oda-Nobunaga",
+      "roles": [
+        "Biographical reference"
+      ],
+      "topicIds": [],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-253",
+      "title": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Mao-Zedong",
+      "roles": [
+        "Biographical reference"
+      ],
+      "topicIds": [],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-254",
+      "title": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Kurosawa-Akira",
+      "roles": [
+        "Biographical reference"
+      ],
+      "topicIds": [],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-255",
+      "title": "Reference source",
+      "publisher": "Reference source",
+      "url": "https://plato.stanford.edu/entries/socrates/",
+      "roles": [
+        "Biographical reference"
+      ],
+      "topicIds": [],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-256",
+      "title": "Reference source",
+      "publisher": "Reference source",
+      "url": "https://plato.stanford.edu/entries/aristotle/",
+      "roles": [
+        "Biographical reference"
+      ],
+      "topicIds": [],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-257",
+      "title": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Julius-Caesar",
+      "roles": [
+        "Biographical reference"
+      ],
+      "topicIds": [],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-258",
+      "title": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Leonardo-da-Vinci",
+      "roles": [
+        "Biographical reference"
+      ],
+      "topicIds": [],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-259",
+      "title": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Galileo-Galilei",
+      "roles": [
+        "Biographical reference"
+      ],
+      "topicIds": [],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-260",
+      "title": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Isaac-Newton",
+      "roles": [
+        "Biographical reference"
+      ],
+      "topicIds": [],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-261",
+      "title": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Mary-Wollstonecraft",
+      "roles": [
+        "Biographical reference"
+      ],
+      "topicIds": [],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-262",
+      "title": "Nobel Prize",
+      "publisher": "Nobel Prize",
+      "url": "https://www.nobelprize.org/prizes/physics/1903/marie-curie/biographical/",
+      "roles": [
+        "Biographical reference"
+      ],
+      "topicIds": [],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-263",
+      "title": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Alan-Turing",
+      "roles": [
+        "Biographical reference"
+      ],
+      "topicIds": [],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-264",
+      "title": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Cyrus-the-Great",
+      "roles": [
+        "Biographical reference"
+      ],
+      "topicIds": [],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-265",
+      "title": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Hammurabi",
+      "roles": [
+        "Biographical reference"
+      ],
+      "topicIds": [],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-266",
+      "title": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Avicenna",
+      "roles": [
+        "Biographical reference"
+      ],
+      "topicIds": [],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-267",
+      "title": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/al-Khwarizmi",
+      "roles": [
+        "Biographical reference"
+      ],
+      "topicIds": [],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-268",
+      "title": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Saladin",
+      "roles": [
+        "Biographical reference"
+      ],
+      "topicIds": [],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-269",
+      "title": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Rumi",
+      "roles": [
+        "Biographical reference"
+      ],
+      "topicIds": [],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-270",
+      "title": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Ibn-Khaldun",
+      "roles": [
+        "Biographical reference"
+      ],
+      "topicIds": [],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-271",
+      "title": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Kemal-Ataturk",
+      "roles": [
+        "Biographical reference"
+      ],
+      "topicIds": [],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-272",
+      "title": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Ashoka",
+      "roles": [
+        "Biographical reference"
+      ],
+      "topicIds": [],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-273",
+      "title": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Aryabhata",
+      "roles": [
+        "Biographical reference"
+      ],
+      "topicIds": [],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-274",
+      "title": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Shankara",
+      "roles": [
+        "Biographical reference"
+      ],
+      "topicIds": [],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-275",
+      "title": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Amir-Khusrow",
+      "roles": [
+        "Biographical reference"
+      ],
+      "topicIds": [],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-276",
+      "title": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Kabir-Indian-mystic-and-poet",
+      "roles": [
+        "Biographical reference"
+      ],
+      "topicIds": [],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-277",
+      "title": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Akbar",
+      "roles": [
+        "Biographical reference"
+      ],
+      "topicIds": [],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-278",
+      "title": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Shah-Jahan",
+      "roles": [
+        "Biographical reference"
+      ],
+      "topicIds": [],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-279",
+      "title": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Savitribai-Phule",
+      "roles": [
+        "Biographical reference"
+      ],
+      "topicIds": [],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-280",
+      "title": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Mohandas-Karamchand-Gandhi",
+      "roles": [
+        "Biographical reference"
+      ],
+      "topicIds": [],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-281",
+      "title": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Bhimrao-Ramji-Ambedkar",
+      "roles": [
+        "Biographical reference"
+      ],
+      "topicIds": [],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-282",
+      "title": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Abdul-Sattar-Edhi",
+      "roles": [
+        "Biographical reference"
+      ],
+      "topicIds": [],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-283",
+      "title": "Nobel Prize",
+      "publisher": "Nobel Prize",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1998/sen/biographical/",
+      "roles": [
+        "Biographical reference"
+      ],
+      "topicIds": [],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-284",
+      "title": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Jayavarman-VII",
+      "roles": [
+        "Biographical reference"
+      ],
+      "topicIds": [],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-285",
+      "title": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/topic/Majapahit-empire",
+      "roles": [
+        "Biographical reference"
+      ],
+      "topicIds": [],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-286",
+      "title": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/place/Indonesia",
+      "roles": [
+        "Biographical reference"
+      ],
+      "topicIds": [],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-287",
+      "title": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Ho-Chi-Minh",
+      "roles": [
+        "Biographical reference"
+      ],
+      "topicIds": [],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-288",
+      "title": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Aung-San",
+      "roles": [
+        "Biographical reference"
+      ],
+      "topicIds": [],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-289",
+      "title": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Sukarno",
+      "roles": [
+        "Biographical reference"
+      ],
+      "topicIds": [],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-290",
+      "title": "National / cultural institution",
+      "publisher": "National / cultural institution",
+      "url": "https://teara.govt.nz/en/kupe",
+      "roles": [
+        "Biographical reference"
+      ],
+      "topicIds": [],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-291",
+      "title": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Tupaia",
+      "roles": [
+        "Biographical reference"
+      ],
+      "topicIds": [],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-292",
+      "title": "National / cultural institution",
+      "publisher": "National / cultural institution",
+      "url": "https://www.nma.gov.au/defining-moments/resources/pemulwuy",
+      "roles": [
+        "Biographical reference"
+      ],
+      "topicIds": [],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-293",
+      "title": "National / cultural institution",
+      "publisher": "National / cultural institution",
+      "url": "https://www.nma.gov.au/defining-moments/resources/mabo-decision",
+      "roles": [
+        "Biographical reference"
+      ],
+      "topicIds": [],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-294",
+      "title": "National / cultural institution",
+      "publisher": "National / cultural institution",
+      "url": "https://teara.govt.nz/en/te-puea-herangi",
+      "roles": [
+        "Biographical reference"
+      ],
+      "topicIds": [],
+      "sourceClass": "reference"
+    },
+    {
+      "id": "src-295",
+      "title": "Encyclopaedia Britannica",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Epeli-Hauofa",
+      "roles": [
+        "Biographical reference"
+      ],
+      "topicIds": [],
+      "sourceClass": "reference"
+    }
+  ]
+}
