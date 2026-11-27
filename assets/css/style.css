@@ -440,3 +440,12 @@ button,a{-webkit-tap-highlight-color:transparent}
 
 /* Claim-level research references in subject reader */
 .reader-claim-list{border-top:1px solid var(--rule);margin-top:12px}.reader-claim{padding:14px 0;border-bottom:1px solid var(--rule)}.reader-claim>p{font:13px/1.75 var(--sans);color:#4f514b;margin:0}.reader-claim-citations{display:flex;flex-wrap:wrap;gap:7px 13px;margin-top:9px}.reader-claim-citations a{font:9px/1.5 var(--mono);color:var(--red);text-decoration:none;border-bottom:1px solid #d4b8ad;padding-bottom:2px}.reader-claim-citations a:hover{color:var(--ink)}
+
+/* Batch 007: searchable relationship index inside subject readers */
+.reader-related-tools{display:flex;align-items:center;justify-content:space-between;gap:14px;margin:18px 0 12px}
+.reader-related-search{display:flex;align-items:center;gap:9px;flex:1;max-width:420px;border-bottom:1px solid #c9c2b5;padding:8px 0;color:var(--muted)}
+.reader-related-search span{font:18px var(--sans)}
+.reader-related-search input{width:100%;min-width:0;border:0;outline:0;background:transparent;color:var(--ink);font:11px var(--sans)}
+.reader-related-count{font:8px var(--mono);letter-spacing:.5px;color:var(--muted);white-space:nowrap}
+.reader-related-item[hidden]{display:none!important}
+@media(max-width:520px){.reader-related-tools{align-items:flex-start;flex-direction:column;gap:7px}.reader-related-search{max-width:none;width:100%}}

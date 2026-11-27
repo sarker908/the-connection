@@ -113,3 +113,8 @@ This batch strengthens 25 existing subjects spanning World War II, Ancient Greec
 ## Research batch 006: global civilisations and knowledge traditions
 
 Batch 006 adds 26 atlas subjects across African kingdoms and cities, Chinese and Japanese history, Persian and Arab empires, Indigenous American civilisations, and the history of mathematics and literature. It contributes 52 claim records, 32 source records, and 30 connections. The new records are stored additively in `data/research-batches/batch-006.json`; the application merges this batch at load time without rewriting the large core subject, connection, source or claim files. All claims remain marked `editorial-review-pending` until separate independent editorial review. The source registry provides traceability and further reading, not a guarantee that each claim has been independently verified.
+
+
+## Stage 007: richer subject reading
+
+The subject reader now includes an in-panel search for direct relationships. Visitors can filter a subject's recorded connections by title, collection or relationship description without leaving the article. The visible connection count updates as the list is filtered. This is a browsing improvement only; it does not create or infer new relationships.
