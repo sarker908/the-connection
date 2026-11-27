@@ -18,6 +18,7 @@ function renderCollectionSubjects(list){const filtered=list.filter(n=>(n.title+"
 function relatedTo(id){return edges.filter(e=>e.from===id||e.to===id).map(e=>({edge:e,node:nodes.find(n=>n.id===(e.from===id?e.to:e.from))})).filter(x=>x.node)}
 async function openTopic(id){
  const n=nodes.find(x=>x.id===id);if(!n)return;
+ const readMinutes=Math.max(1,Math.ceil(((n.description||"")+" "+(n.short||"")).trim().split(/\\s+/).filter(Boolean).length/200));
  const linked=relatedTo(id),year=n.year||"Ongoing";
  const events=historyData.events.filter(e=>e.topicId===id);
  const people=historyData.people.filter(p=>p.topicId===id);
@@ -35,7 +36,7 @@ async function openTopic(id){
  '<article class="reader">'+
  '<div class="reader-image-wrap"><div class="detail-image reader-image" id="detailImage"></div><span class="reader-image-caption" id="imageCaption">A visual reference for this subject</span></div>'+
  '<div class="reader-body">'+
- '<div class="reader-eyebrow"><span>'+esc(n.category.toUpperCase())+'</span><span>FIELD NOTES · '+esc((n.type||"SUBJECT").toUpperCase())+'</span></div>'+
+ '<div class="reader-eyebrow"><span>'+esc(n.category.toUpperCase())+'</span><span>FIELD NOTES · '+esc((n.type||"SUBJECT").toUpperCase())+'</span><span> '+readMinutes+' MIN READ</span></div>'+
  '<h2 class="reader-title">'+esc(n.title)+'</h2><p class="reader-deck">'+esc(n.short||n.description)+'</p>'+
  '<div class="reader-facts reader-facts-expanded">'+
  '<div><small>DATE / PERIOD</small><strong>'+esc(year)+'</strong></div>'+
@@ -50,12 +51,15 @@ async function openTopic(id){
  '<section class="reader-section"><p class="reader-section-label">04 / THE BIGGER PICTURE</p><h3>Connections that explain the story</h3><p class="reader-section-intro">Each note below describes the recorded link between this subject and another part of the atlas. Follow one to see the next piece of the story.</p><div class="reader-related">'+
  (linked.length?linked.map(x=>'<button class="reader-related-item" data-id="'+esc(x.node.id)+'"><span class="reader-related-main"><strong>'+esc(x.node.title)+'</strong><small>'+esc(x.node.category)+' · '+esc(x.node.year||x.node.type||"")+'</small></span><span class="reader-relationship"><small>WHY IT CONNECTS</small>'+esc(x.edge.label)+'</span><span class="reader-arrow">↗</span></button>').join(""):'<p class="reader-note">No direct connections have been recorded for this subject yet.</p>')+
  '</div></section>'+
- (nextReads.length?'<section class="reader-section reader-next-section"><p class="reader-section-label">05 / KEEP EXPLORING</p><h3>Where to go next</h3><p class="reader-section-intro">A few connected subjects that open a different door into the same story.</p><div class="reader-next-grid">'+nextReads.map(x=>'<button class="reader-next-card" data-id="'+esc(x.node.id)+'"><span>'+esc(x.node.category.toUpperCase())+'</span><strong>'+esc(x.node.title)+'</strong><small>Explore this subject ↗</small></button>').join("")+'</div></section>':'')+
+ (nextReads.length?'<section class="reader-section reader-next-section"><p class="reader-section-label">05 / KEEP EXPLORING</p><h3>Where to go next</h3><p class="reader-section-intro">A few connected subjects that open a different door into the same story.</p><div class="reader-next-grid">'+nextReads.map(x=>'<button class="reader-next-card" data-id="'+esc(x.node.id)+'"><span class="reader-next-image" id="readerNextImage'+i+'"></span><span class="reader-next-category">'+esc(x.node.category.toUpperCase())+'</span><strong>'+esc(x.node.title)+'</strong><small>Explore this subject ↗</small></button>').join("")+'</div></section>':'')+
  '<section class="reader-sources"><p class="reader-section-label">SOURCES & FURTHER READING</p>'+
  (sourceItems.length?'<div class="reader-source-list">'+sourceItems.map(s=>'<a class="reader-source-link" href="'+esc(s.url)+'" target="_blank" rel="noopener noreferrer"><span><strong>'+esc(s.label)+'</strong><small>'+esc(s.kind)+'</small></span><span>↗</span></a>').join("")+'</div>':'<p class="reader-note">No external reference has been added for this subject yet.</p>')+
  '<p class="reader-note">Summaries in this atlas are editorial paraphrases. Historical and biographical references are listed separately where available. Dates marked c. are approximate.</p></section>'+
  '<button class="save-topic reader-save" id="saveTopic">'+(saved.includes(id)?"Remove from saved":"＋ Save to my collection")+'</button></div></article>';
- $("#detailPanel").classList.add("open");
+ const panel=$("#detailPanel");panel.classList.add("open");panel.scrollTop=0;
+ const progress=$("#readerProgressBar");
+ const updateProgress=()=>{const max=panel.scrollHeight-panel.clientHeight;const ratio=max>0?Math.min(1,Math.max(0,panel.scrollTop/max)):0;if(progress)progress.style.width=(ratio*100)+"%";};
+ panel.onscroll=updateProgress;updateProgress();
  $("#saveTopic").onclick=()=>toggleSave(id);
  loadMedia(n,$("#detailImage")).then(media=>{
    const caption=$("#imageCaption");
@@ -67,9 +71,10 @@ async function openTopic(id){
    }
  });
  document.querySelectorAll(".reader-related-item,.reader-next-card").forEach(el=>el.onclick=()=>openTopic(el.dataset.id));
+ nextReads.forEach((x,i)=>loadMedia(x,$("#readerNextImage"+i)));
 }
 
-function closeDetail(){$("#detailPanel").classList.remove("open")}
+function closeDetail(){const panel=$("#detailPanel");panel.classList.remove("open");panel.scrollTop=0;const progress=$("#readerProgressBar");if(progress)progress.style.width="0%"}
 function toggleSave(id){saved=saved.includes(id)?saved.filter(x=>x!==id):[...saved,id];localStorage.setItem("tc-saved",JSON.stringify(saved));updateSavedCount();openTopic(id);toast(saved.includes(id)?"Saved to your collection":"Removed from your collection")}
 function updateSavedCount(){$("#savedCount").textContent=saved.length}
 
