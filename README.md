@@ -8,7 +8,7 @@
 - **1663 relationships** connecting subjects across disciplines
 - **132 historical milestones**
 - **81 biographical profiles**
-- **1213 unique source records** in the structured source register
+- **1365 unique source records** in the structured source register
 
 The atlas includes global history, science, culture and technology alongside a deeper collection on Bengal and Bangladesh.
 
@@ -40,13 +40,13 @@ This is a growing, selective collection, not a claim to represent every relation
 
 ## Source register and verification
 
-`data/sources.json` is the central source-link registry. Each record has a stable ID, title, publisher, URL, role and the subject IDs it supports. Repeated URLs are stored once and linked to multiple relevant subjects where applicable. The registry currently contains 1213 unique URL records: 1136 encyclopedia, 19 academic or educational, and 58 institutional or official records. These records are linked to 2280 subjects. Duplicate URLs are consolidated into one record with merged subject IDs and source roles. Some historical and biographical references support archive entries rather than subject pages. These labels describe source type, not a quality score. These records are linked to 2280 subjects. Duplicate URLs are consolidated into one record with merged subject IDs and source roles. Some historical and biographical references support archive entries rather than subject pages. These labels describe source type, not a quality score. Some records support timeline or biographical entries rather than a subject page, so their topic ID list is intentionally empty. These labels describe source type, not a quality score.
+`data/sources.json` is the central source-link registry. Each record has a stable ID, title, publisher, URL, role and the subject IDs it supports. Repeated URLs are stored once and linked to multiple relevant subjects where applicable. The registry currently contains 1365 unique URL records: 1141 encyclopedia, 66 academic or educational, and 156 institutional or official records. These records are linked to 2280 subjects. Duplicate URLs are consolidated into one record with merged subject IDs and source roles. Some historical and biographical references support archive entries rather than subject pages. These labels describe source type, not a quality score. These records are linked to 2280 subjects. Duplicate URLs are consolidated into one record with merged subject IDs and source roles. Some historical and biographical references support archive entries rather than subject pages. These labels describe source type, not a quality score. Some records support timeline or biographical entries rather than a subject page, so their topic ID list is intentionally empty. These labels describe source type, not a quality score.
 
 The registry is a provenance layer, not an automatic credibility score. A link being present does not mean every claim has been independently audited. Wikipedia is labelled as a general reference and discovery starting point. Subject-specific research should progressively add primary documents, peer-reviewed work and specialist institutional publications, especially for technical, disputed or sensitive claims. Historical and biographical links are retained as references to the corresponding archive entries.
 
 ## Research-enriched subjects
 
-The first focused research batch updates ten foundational subjects: Prime Numbers, Quantum Mechanics, Evolution, DNA Structure, Climate Change, The Internet, Artificial Intelligence, Vaccination, Plate Tectonics and Cryptography. Their introductory explanations have been rewritten against named academic, primary or institutional references. They are marked `research-enriched` and still await independent subject-expert review.
+Four focused research batches have now enriched foundational subjects and selected entries across global history, public health, climate, engineering, philosophy, literature, culture, politics and economics. Batch 004 adds 25 existing subjects, 50 claim-level records and 19 new specialist references. All remain marked `research-enriched` and `editorial-review-pending` until a separate independent editorial review is documented.
 
 ## Knowledge quality standard
 
@@ -83,3 +83,17 @@ https://sarker908.github.io/the-connection/
 ## Technology
 
 HTML, CSS, vanilla JavaScript, JSON, Wikipedia REST page summaries and browser LocalStorage. No backend or paid API is required.
+
+
+## Research Batch 004: Philosophy, Literature, Politics, Economics and Scientific Ideas
+
+**Completed:** 28 November 2026  
+**Subjects enriched:** 25 existing subjects  
+**New claim-level records:** 1  
+**New specialist source records:** 19
+
+This batch deepens 25 subjects with existing cross-disciplinary relationships. It covers globalization and economics; writing, music and literature; democracy, human rights and the rule of law; the Bengal Renaissance, Buddhism and the Reformation; and scientific figures and concepts including Darwin, Leonardo da Vinci, Marie Curie and radioactivity. Each entry has been rewritten in original language and linked to two distinct references through claim-level provenance. Existing subject IDs, collections and connections were preserved.
+
+**Editorial status:** research-enriched, not expert-reviewed. Claim references support traceability and further reading; they do not certify every sentence as independently verified. Historical interpretation, specialist context and source quality still require a separate editorial review.
+
+**Structural audit:** 2280 subjects, 1663 relationships, 1365 source records and 186 claim records. All relationship endpoints, claim subject IDs and claim source IDs resolve. Every Batch 004 subject has at least one existing relationship and two distinct references.

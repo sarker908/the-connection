@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "updated": "2026-11-28",
-  "editorialNote": "This registry records references linked to atlas subjects. A linked reference is evidence for research and further reading, not proof that every sentence has been independently verified. Claim-level provenance is recorded in data/claims.json for subjects researched in batches; specialist, disputed and sensitive topics still require independent editorial review.",
+  "editorialNote": "This registry records references linked to atlas subjects. A linked reference is evidence for research and further reading, not proof that every sentence has been independently verified. Claim-level provenance is recorded in data/claims.json for researched subjects; specialist, disputed and sensitive topics still require independent editorial review.",
   "sources": [
     {
       "id": "src-001",
@@ -3483,7 +3483,9 @@
       "roles": [
         "Biographical reference"
       ],
-      "topicIds": [],
+      "topicIds": [
+        "curie"
+      ],
       "sourceClass": "institutional"
     },
     {
@@ -16690,7 +16692,8 @@
         "Primary historical source for Darwin's 1859 argument and its original context"
       ],
       "topicIds": [
-        "evolution"
+        "evolution",
+        "darwin"
       ],
       "sourceClass": "institutional"
     },
@@ -18587,6 +18590,254 @@
       ],
       "topicIds": [
         "battery"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1971",
+      "title": "Trade Overview",
+      "publisher": "World Bank",
+      "url": "https://www.worldbank.org/en/topic/trade/overview",
+      "roles": [
+        "Specialist institutional or academic reference for the subject research batch"
+      ],
+      "topicIds": [
+        "globalization"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1972",
+      "title": "The Economy: Economics for a Changing World",
+      "publisher": "CORE Econ",
+      "url": "https://www.core-econ.org/the-economy/",
+      "roles": [
+        "Specialist institutional or academic reference for the subject research batch"
+      ],
+      "topicIds": [
+        "economics"
+      ],
+      "sourceClass": "academic"
+    },
+    {
+      "id": "src-1973",
+      "title": "Mesopotamia: The Invention of Writing",
+      "publisher": "The British Museum",
+      "url": "https://www.britishmuseum.org/learn/schools/ages-7-11/ancient-civilisations/mesopotamia",
+      "roles": [
+        "Specialist institutional or academic reference for the subject research batch"
+      ],
+      "topicIds": [
+        "writing"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1974",
+      "title": "Democracy",
+      "publisher": "United Nations",
+      "url": "https://www.un.org/en/global-issues/democracy",
+      "roles": [
+        "Specialist institutional or academic reference for the subject research batch"
+      ],
+      "topicIds": [
+        "democracy"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1975",
+      "title": "Florence and Central Italy, 1400–1600",
+      "publisher": "The Metropolitan Museum of Art",
+      "url": "https://82nd-and-fifth.metmuseum.org/toah/ht/08/eustc.html",
+      "roles": [
+        "Specialist institutional or academic reference for the subject research batch"
+      ],
+      "topicIds": [
+        "renaissance",
+        "leonardo"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1976",
+      "title": "Miguel de Cervantes",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Miguel-de-Cervantes-Saavedra",
+      "roles": [
+        "Specialist institutional or academic reference for the subject research batch"
+      ],
+      "topicIds": [
+        "cervantes"
+      ],
+      "sourceClass": "encyclopedia"
+    },
+    {
+      "id": "src-1977",
+      "title": "Ethics",
+      "publisher": "Stanford Encyclopedia of Philosophy",
+      "url": "https://plato.stanford.edu/entries/ethics/",
+      "roles": [
+        "Specialist institutional or academic reference for the subject research batch"
+      ],
+      "topicIds": [
+        "ethics"
+      ],
+      "sourceClass": "academic"
+    },
+    {
+      "id": "src-1978",
+      "title": "Bengal Renaissance",
+      "publisher": "Banglapedia",
+      "url": "https://en.banglapedia.org/index.php?title=Bengal_Renaissance",
+      "roles": [
+        "Specialist institutional or academic reference for the subject research batch"
+      ],
+      "topicIds": [
+        "bengal"
+      ],
+      "sourceClass": "encyclopedia"
+    },
+    {
+      "id": "src-1979",
+      "title": "Buddhism",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/topic/Buddhism",
+      "roles": [
+        "Specialist institutional or academic reference for the subject research batch"
+      ],
+      "topicIds": [
+        "buddhism"
+      ],
+      "sourceClass": "encyclopedia"
+    },
+    {
+      "id": "src-1980",
+      "title": "Bangla Language",
+      "publisher": "Banglapedia",
+      "url": "https://en.banglapedia.org/index.php?title=Bangla_Language",
+      "roles": [
+        "Specialist institutional or academic reference for the subject research batch"
+      ],
+      "topicIds": [
+        "languagebangla"
+      ],
+      "sourceClass": "encyclopedia"
+    },
+    {
+      "id": "src-1981",
+      "title": "What is money?",
+      "publisher": "Bank of England",
+      "url": "https://www.bankofengland.co.uk/explainers/what-is-money.",
+      "roles": [
+        "Specialist institutional or academic reference for the subject research batch"
+      ],
+      "topicIds": [
+        "money"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1982",
+      "title": "What is the Rule of Law?",
+      "publisher": "United Nations and the Rule of Law",
+      "url": "https://www.un.org/ruleoflaw/en/what-is-the-rule-of-law",
+      "roles": [
+        "Specialist institutional or academic reference for the subject research batch"
+      ],
+      "topicIds": [
+        "ruleoflaw"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1983",
+      "title": "What are Human Rights?",
+      "publisher": "Office of the United Nations High Commissioner for Human Rights",
+      "url": "https://europe.ohchr.org/human-rights/what-are-human-rights",
+      "roles": [
+        "Specialist institutional or academic reference for the subject research batch"
+      ],
+      "topicIds": [
+        "udhr"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1984",
+      "title": "Radiation",
+      "publisher": "International Atomic Energy Agency",
+      "url": "https://www.iaea.org/topics/radiation-protection",
+      "roles": [
+        "Specialist institutional or academic reference for the subject research batch"
+      ],
+      "topicIds": [
+        "radioactivity"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1985",
+      "title": "French Revolution",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/event/French-Revolution",
+      "roles": [
+        "Specialist institutional or academic reference for the subject research batch"
+      ],
+      "topicIds": [
+        "frenchrev"
+      ],
+      "sourceClass": "encyclopedia"
+    },
+    {
+      "id": "src-1986",
+      "title": "The Declaration of Independence: A Transcription",
+      "publisher": "US National Archives",
+      "url": "https://www.archives.gov/founding-docs/declaration-transcript",
+      "roles": [
+        "Specialist institutional or academic reference for the subject research batch"
+      ],
+      "topicIds": [
+        "americanrev"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1987",
+      "title": "Philosophy of Religion",
+      "publisher": "Stanford Encyclopedia of Philosophy",
+      "url": "https://plato.stanford.edu/entries/philosophy-religion/",
+      "roles": [
+        "Specialist institutional or academic reference for the subject research batch"
+      ],
+      "topicIds": [
+        "philosophy"
+      ],
+      "sourceClass": "academic"
+    },
+    {
+      "id": "src-1988",
+      "title": "Shakespeare's Life",
+      "publisher": "Folger Shakespeare Library",
+      "url": "https://www.folger.edu/explore/shakespeares-life/",
+      "roles": [
+        "Specialist institutional or academic reference for the subject research batch"
+      ],
+      "topicIds": [
+        "shakespeare"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1989",
+      "title": "Central Europe, 1400–1600",
+      "publisher": "The Metropolitan Museum of Art",
+      "url": "https://82nd-and-fifth.metmuseum.org/toah/ht/08/euwc.html",
+      "roles": [
+        "Specialist institutional or academic reference for the subject research batch"
+      ],
+      "topicIds": [
+        "printingreform"
       ],
       "sourceClass": "institutional"
     }

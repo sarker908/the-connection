@@ -1645,6 +1645,606 @@
       "claimType": "historical-or-conceptual",
       "reviewStatus": "editorial-review-pending",
       "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0137",
+      "subjectId": "globalization",
+      "claim": "Globalization links economies and societies through cross-border flows of goods, services, capital, people, information and culture.",
+      "sourceIds": [
+        "src-030",
+        "src-1971"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0138",
+      "subjectId": "globalization",
+      "claim": "Its effects are uneven: integration can expand access and exchange while also transmitting economic shocks and widening some inequalities.",
+      "sourceIds": [
+        "src-030",
+        "src-1971"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0139",
+      "subjectId": "economics",
+      "claim": "Economics analyses choices about scarce resources, production, distribution and consumption at both individual and economy-wide levels.",
+      "sourceIds": [
+        "src-141",
+        "src-1972"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0140",
+      "subjectId": "economics",
+      "claim": "Economic outcomes are shaped not only by markets and prices but also by institutions, public policy, power, information and social conditions.",
+      "sourceIds": [
+        "src-141",
+        "src-1972"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0141",
+      "subjectId": "writing",
+      "claim": "Writing records language and information in durable signs, allowing communication to extend beyond the speaker's presence and lifetime.",
+      "sourceIds": [
+        "src-032",
+        "src-1973"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0142",
+      "subjectId": "writing",
+      "claim": "Writing systems developed in multiple societies; their origins, structures and purposes differ, so the history of writing cannot be reduced to a single invention.",
+      "sourceIds": [
+        "src-032",
+        "src-1973"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0143",
+      "subjectId": "democracy",
+      "claim": "Democracy locates the legitimacy of government in the people and requires meaningful opportunities for participation and accountability.",
+      "sourceIds": [
+        "src-035",
+        "src-1974"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0144",
+      "subjectId": "democracy",
+      "claim": "Democratic systems take different institutional forms; elections alone are not sufficient without rights, pluralism, fair procedures and limits on public power.",
+      "sourceIds": [
+        "src-035",
+        "src-1974"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0145",
+      "subjectId": "renaissance",
+      "claim": "Renaissance movements renewed engagement with classical learning while transforming art, literature, scholarship and natural inquiry in different European regions.",
+      "sourceIds": [
+        "src-014",
+        "src-1975"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0146",
+      "subjectId": "renaissance",
+      "claim": "The Renaissance was neither uniform nor isolated: regional conditions, patronage, print, trade and cross-cultural transmission shaped its varied developments.",
+      "sourceIds": [
+        "src-014",
+        "src-1975"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0147",
+      "subjectId": "cervantes",
+      "claim": "Cervantes published the two parts of Don Quixote in 1605 and 1615, using parody and layered narration to examine literature and society.",
+      "sourceIds": [
+        "src-025",
+        "src-1976"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0148",
+      "subjectId": "cervantes",
+      "claim": "Don Quixote became influential in the development of the novel, but the history of prose fiction predates Cervantes and spans many literary traditions.",
+      "sourceIds": [
+        "src-025",
+        "src-1976"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0149",
+      "subjectId": "humanrights",
+      "claim": "Human rights are inherent to all people and are expressed through moral principles, national law and international legal instruments.",
+      "sourceIds": [
+        "src-212",
+        "src-308"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0150",
+      "subjectId": "humanrights",
+      "claim": "Human rights are interrelated and interdependent; protecting one set of rights often depends on institutions and conditions that protect others.",
+      "sourceIds": [
+        "src-212",
+        "src-308"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0151",
+      "subjectId": "music",
+      "claim": "Music organises sound through culturally learned practices that can include rhythm, melody, harmony, timbre, improvisation and performance.",
+      "sourceIds": [
+        "src-309",
+        "src-310"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0152",
+      "subjectId": "music",
+      "claim": "There is no single musical system shared by all cultures; musical meaning and structure vary across communities and historical settings.",
+      "sourceIds": [
+        "src-309",
+        "src-310"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0153",
+      "subjectId": "ethics",
+      "claim": "Ethics investigates how people ought to act and what makes lives, institutions and decisions good or just.",
+      "sourceIds": [
+        "src-305",
+        "src-1977"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0154",
+      "subjectId": "ethics",
+      "claim": "Ethics includes distinct but connected fields such as normative ethics, metaethics and applied ethics, rather than one universally agreed moral formula.",
+      "sourceIds": [
+        "src-305",
+        "src-1977"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0155",
+      "subjectId": "bengal",
+      "claim": "The Bengal Renaissance describes overlapping reform and cultural movements that reshaped education, literature, social debate and intellectual life in colonial Bengal.",
+      "sourceIds": [
+        "src-073",
+        "src-1978"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0156",
+      "subjectId": "bengal",
+      "claim": "The label is contested because it can privilege elite urban reformers and understate the region's diverse communities, political conflicts and material conditions.",
+      "sourceIds": [
+        "src-073",
+        "src-1978"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0157",
+      "subjectId": "buddhism",
+      "claim": "Buddhist traditions trace their origins to the teachings of the Buddha in ancient South Asia and address suffering, ethical conduct and liberation.",
+      "sourceIds": [
+        "src-059",
+        "src-1979"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0158",
+      "subjectId": "buddhism",
+      "claim": "Buddhism developed into diverse traditions across Asia; doctrines, texts, rituals and institutions vary significantly between communities.",
+      "sourceIds": [
+        "src-059",
+        "src-1979"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0159",
+      "subjectId": "rabindranath",
+      "claim": "Tagore received the 1913 Nobel Prize in Literature, with Gitanjali playing a central role in the international recognition of his poetry.",
+      "sourceIds": [
+        "src-078",
+        "src-224"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0160",
+      "subjectId": "rabindranath",
+      "claim": "Tagore's influence spans Bengali literature, music, education and public thought, and cannot be reduced to his Nobel-winning English translations.",
+      "sourceIds": [
+        "src-078",
+        "src-224"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0161",
+      "subjectId": "languagebangla",
+      "claim": "Bangla is an eastern Indo-Aryan language with major speech communities in Bangladesh and India and a substantial literary tradition.",
+      "sourceIds": [
+        "src-140",
+        "src-1980"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0162",
+      "subjectId": "languagebangla",
+      "claim": "The 1952 Language Movement made language rights central to the political history of East Bengal and later Bangladesh, while Bangla itself remains regionally diverse.",
+      "sourceIds": [
+        "src-140",
+        "src-1980"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0163",
+      "subjectId": "money",
+      "claim": "Money commonly serves as a medium of exchange, a unit of account and a store of value, making complex exchange easier.",
+      "sourceIds": [
+        "src-142",
+        "src-1981"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0164",
+      "subjectId": "money",
+      "claim": "Modern money includes bank deposits as well as physical cash, and its creation and circulation depend on banking systems, central banks, law and public confidence.",
+      "sourceIds": [
+        "src-142",
+        "src-1981"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0165",
+      "subjectId": "ruleoflaw",
+      "claim": "The rule of law requires public and private actors, including the state, to be accountable under publicly promulgated and fairly applied laws.",
+      "sourceIds": [
+        "src-308",
+        "src-1982"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0166",
+      "subjectId": "ruleoflaw",
+      "claim": "The existence of laws alone does not establish the rule of law; fair enforcement, independent adjudication and protection of rights are essential.",
+      "sourceIds": [
+        "src-308",
+        "src-1982"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0167",
+      "subjectId": "udhr",
+      "claim": "The UN General Assembly adopted the UDHR on 10 December 1948, setting out 30 articles on fundamental rights and freedoms.",
+      "sourceIds": [
+        "src-212",
+        "src-1983"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0168",
+      "subjectId": "udhr",
+      "claim": "The UDHR is a declaration, not a treaty, but it has profoundly influenced later international human-rights standards and legal instruments.",
+      "sourceIds": [
+        "src-212",
+        "src-1983"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0169",
+      "subjectId": "darwin",
+      "claim": "Darwin's 1859 book On the Origin of Species presented natural selection as a mechanism that can explain adaptation and the diversification of life.",
+      "sourceIds": [
+        "src-022",
+        "src-304"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0170",
+      "subjectId": "darwin",
+      "claim": "Evolutionary biology developed through many contributors; modern explanations combine natural selection with genetics, population biology and evidence from multiple sciences.",
+      "sourceIds": [
+        "src-022",
+        "src-304"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0171",
+      "subjectId": "leonardo",
+      "claim": "Leonardo combined painting and drawing with investigations of anatomy, mechanics, engineering and the natural world.",
+      "sourceIds": [
+        "src-055",
+        "src-1975"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0172",
+      "subjectId": "leonardo",
+      "claim": "Many of Leonardo's engineering concepts survive as designs and studies rather than completed devices, so his notebooks should not be mistaken for a catalogue of working inventions.",
+      "sourceIds": [
+        "src-055",
+        "src-1975"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0173",
+      "subjectId": "curie",
+      "claim": "Curie's research helped establish radioactivity as a field and led to the identification of polonium and radium in 1898.",
+      "sourceIds": [
+        "src-063",
+        "src-262"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0174",
+      "subjectId": "curie",
+      "claim": "Curie received Nobel Prizes in Physics in 1903 and Chemistry in 1911, reflecting distinct contributions across experimental physics and chemistry.",
+      "sourceIds": [
+        "src-063",
+        "src-262"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0175",
+      "subjectId": "radioactivity",
+      "claim": "Radioactive decay occurs when unstable atomic nuclei transform and emit particles or electromagnetic radiation.",
+      "sourceIds": [
+        "src-064",
+        "src-1984"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0176",
+      "subjectId": "radioactivity",
+      "claim": "Radiation is not one uniform hazard: its effects depend on type, energy, dose, exposure time and biological context.",
+      "sourceIds": [
+        "src-064",
+        "src-1984"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0177",
+      "subjectId": "frenchrev",
+      "claim": "The French Revolution began in 1789 and transformed France's political order through the collapse of absolute monarchy and the rise of new institutions.",
+      "sourceIds": [
+        "src-069",
+        "src-1985"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0178",
+      "subjectId": "frenchrev",
+      "claim": "The revolution's legacy is contested and complex, including rights claims and republican ideas as well as war, repression, slavery-related conflicts and political violence.",
+      "sourceIds": [
+        "src-069",
+        "src-1985"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0179",
+      "subjectId": "americanrev",
+      "claim": "The American Revolution led to the independence of thirteen British colonies, formally recognised by the 1783 Treaty of Paris.",
+      "sourceIds": [
+        "src-070",
+        "src-1986"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0180",
+      "subjectId": "americanrev",
+      "claim": "Its language of liberty and self-government coexisted with slavery, Indigenous dispossession and restricted political rights, making its legacy both influential and deeply contested.",
+      "sourceIds": [
+        "src-070",
+        "src-1986"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0181",
+      "subjectId": "philosophy",
+      "claim": "Philosophy uses reasoned inquiry and argument to examine fundamental questions about knowledge, reality, value and human life.",
+      "sourceIds": [
+        "src-125",
+        "src-1987"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0182",
+      "subjectId": "philosophy",
+      "claim": "Philosophical traditions are global and historically diverse; accounts that treat philosophy as exclusively European leave out major bodies of thought and debate.",
+      "sourceIds": [
+        "src-125",
+        "src-1987"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0183",
+      "subjectId": "shakespeare",
+      "claim": "Shakespeare wrote for the professional theatre of early modern England, and his works circulated through both performance and print.",
+      "sourceIds": [
+        "src-123",
+        "src-1988"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0184",
+      "subjectId": "shakespeare",
+      "claim": "The 1623 First Folio is a major source for Shakespeare's plays, preserving 18 works that had not previously been printed.",
+      "sourceIds": [
+        "src-123",
+        "src-1988"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0185",
+      "subjectId": "printingreform",
+      "claim": "The Reformation comprised multiple movements that challenged church practices and authority and contributed to the formation of Protestant traditions.",
+      "sourceIds": [
+        "src-029",
+        "src-1989"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
+    },
+    {
+      "id": "clm-0186",
+      "subjectId": "printingreform",
+      "claim": "Printing helped circulate reform arguments, but political rulers, local communities, theological disputes and Catholic reform also shaped the movement's course.",
+      "sourceIds": [
+        "src-029",
+        "src-1989"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28"
     }
   ]
 }

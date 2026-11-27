@@ -188,10 +188,12 @@
     "type": "Cultural movement",
     "icon": "🎨",
     "featured": true,
-    "short": "Art, inquiry and ideas flourished.",
-    "description": "The Renaissance was a period of renewed interest in classical learning, artistic experimentation and human-centered inquiry across Europe.",
+    "short": "A set of cultural and intellectual transformations, not a single uniform European rebirth.",
+    "description": "The Renaissance describes interconnected cultural and intellectual developments that took shape in parts of Europe from the late medieval period into the early modern era. Humanist scholarship, the study of classical texts, artistic experimentation, new forms of patronage, printing and scientific inquiry all contributed, but the timing and character varied by region. Renaissance Europe also inherited, translated and adapted knowledge that had travelled through Byzantine, Islamic, Jewish and other scholarly networks.",
     "wiki": "https://en.wikipedia.org/wiki/Renaissance",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-004"
   },
   {
     "id": "industrial",
@@ -301,10 +303,12 @@
     "type": "Naturalist",
     "icon": "🐦",
     "featured": false,
-    "short": "Natural selection changed biology.",
-    "description": "Charles Darwin developed the theory of evolution by natural selection, providing a unifying explanation for the diversity of life.",
+    "short": "A naturalist whose theory of evolution by natural selection transformed biology.",
+    "description": "Charles Darwin (1809–1882) was a British naturalist whose work helped establish evolution by natural selection as a central explanation for biological diversity. In On the Origin of Species (1859), he argued that heritable variation and differential survival and reproduction can cause populations to change over generations. Darwin did not discover every part of evolutionary theory: ideas about species change predated him, and genetics and later evolutionary biology developed the explanation further.",
     "wiki": "https://en.wikipedia.org/wiki/Charles_Darwin",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-004"
   },
   {
     "id": "vaccines",
@@ -341,10 +345,12 @@
     "type": "Writer",
     "icon": "📖",
     "featured": false,
-    "short": "Author of Don Quixote.",
-    "description": "Cervantes wrote Don Quixote, a landmark work often considered one of the foundations of the modern novel.",
+    "short": "A Spanish writer whose Don Quixote transformed the possibilities of prose fiction.",
+    "description": "Miguel de Cervantes (1547–1616) was a Spanish writer whose life included military service, captivity, public administration and literary work. The two parts of Don Quixote appeared in 1605 and 1615. The novel plays with chivalric romance, unreliable narration, social change and the gap between imagination and experience. It is often described as foundational to the modern novel, although claims that it was simply the first novel overlook earlier prose traditions across several languages.",
     "wiki": "https://en.wikipedia.org/wiki/Miguel_de_Cervantes",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-004"
   },
   {
     "id": "internetprotocol",
@@ -399,10 +405,12 @@
     "type": "Religious movement",
     "icon": "📚",
     "featured": false,
-    "short": "A movement transformed by printed ideas.",
-    "description": "The Protestant Reformation reshaped European religious and political life. The printing press helped pamphlets and translations circulate widely.",
+    "short": "A series of religious reform movements that reshaped Christianity and European politics.",
+    "description": "The Protestant Reformation refers to several related but distinct movements that challenged aspects of Western European Catholic practice and authority from the early sixteenth century onward. Martin Luther's 1517 protest is a conventional starting point, but reform movements also drew on earlier critics, local political conditions, humanist scholarship and print culture. The Catholic Reformation, confessional conflict and global missionary activity further shaped the period, whose effects differed across regions.",
     "wiki": "https://en.wikipedia.org/wiki/Reformation",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-004"
   },
   {
     "id": "globalization",
@@ -412,10 +420,12 @@
     "type": "Global process",
     "icon": "🌏",
     "featured": false,
-    "short": "People, economies and cultures interconnect.",
-    "description": "Globalization describes the growing connections among countries through trade, technology, migration, culture and communication.",
+    "short": "A network of economic, political, technological and cultural relationships across borders.",
+    "description": "Globalization is the intensification of connections among societies through trade, investment, migration, communication, technology and cultural exchange. These connections can create shared opportunities and faster flows of information, goods and capital, but their benefits and costs are unevenly distributed. Globalization is not a single recent event: its forms and reach have changed across centuries, shaped by empires, trade routes, industrialization, colonialism, transport and digital networks.",
     "wiki": "https://en.wikipedia.org/wiki/Globalization",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-004"
   },
   {
     "id": "agriculture",
@@ -438,12 +448,14 @@
     "category": "Arts & Literature",
     "year": "c. 3200 BCE",
     "type": "Communication system",
-    "description": "Writing preserved laws, records, stories and knowledge beyond spoken memory.",
+    "description": "Writing uses visible or tactile signs to represent language and preserve information across time and distance. Systems of writing emerged independently in more than one region, including Mesopotamia, Egypt, China and Mesoamerica, and developed for different administrative, ritual, literary and practical purposes. Writing changed how states collected taxes, communities recorded laws, scholars accumulated knowledge and people shared stories, but literacy remained unevenly distributed in many societies.",
     "icon": "✍️",
     "featured": false,
-    "short": "Writing preserved laws, records, stories and knowledge beyond spoken memory.",
+    "short": "A system for recording language and information beyond immediate speech and memory.",
     "wiki": "https://en.wikipedia.org/wiki/History_of_writing",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-004"
   },
   {
     "id": "mesopotamia",
@@ -479,12 +491,14 @@
     "category": "Politics & Society",
     "year": "5th century BCE",
     "type": "Political system",
-    "description": "Democracy grounds political authority in the people and has roots in several ancient societies and many modern forms.",
+    "description": "Democracy is a family of political arrangements in which people have a meaningful role in authorising, shaping and holding public power to account. Forms include direct participation and representative institutions, often constrained by constitutions, rights, elections, pluralism and independent courts. Ancient Athens is an influential historical example, but its citizenship excluded women, enslaved people and many residents; modern universal suffrage emerged through much later struggles and reforms.",
     "icon": "🗳️",
     "featured": false,
-    "short": "Democracy grounds political authority in the people and has roots in several ancient societies and many modern forms.",
+    "short": "A family of political systems in which public authority is grounded in the people.",
     "wiki": "https://en.wikipedia.org/wiki/Democracy",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-004"
   },
   {
     "id": "rome",
@@ -755,12 +769,14 @@
     "category": "Arts & Literature",
     "year": "1452",
     "type": "Artist and inventor",
-    "description": "Leonardo combined art, engineering and observation, exemplifying the broad curiosity associated with the Renaissance.",
+    "description": "Leonardo da Vinci (1452–1519) was an Italian artist, engineer and investigator whose surviving paintings, drawings and notebooks reveal sustained curiosity about anatomy, mechanics, water, flight and the natural world. His work joined close observation with design and artistic practice, although many inventions remained sketches rather than built machines. Leonardo's reputation as a universal genius can obscure the workshop networks, patrons, collaborators and practical traditions that supported Renaissance production.",
     "icon": "🎨",
     "featured": false,
-    "short": "Leonardo combined art, engineering and observation, exemplifying the broad curiosity associated with the Renaissance.",
+    "short": "A Renaissance artist and investigator whose work crossed art, engineering and natural observation.",
     "wiki": "https://en.wikipedia.org/wiki/Leonardo_da_Vinci",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-004"
   },
   {
     "id": "algebra",
@@ -811,12 +827,14 @@
     "category": "Culture",
     "year": "5th century BCE",
     "type": "Tradition",
-    "description": "Buddhism emerged in ancient India and spread across Asia through teaching, travel, translation and trade networks.",
+    "description": "Buddhism developed in ancient South Asia around the teachings associated with Siddhartha Gautama, the Buddha. Its traditions investigate suffering, impermanence, ethical conduct, mental cultivation and liberation, with concepts and practices interpreted differently across schools and historical periods. Theravada, Mahayana and Vajrayana are broad traditions rather than perfectly uniform blocks. Monastic institutions, translation, pilgrimage, trade and royal patronage helped Buddhism take root across much of Asia.",
     "icon": "☸️",
     "featured": false,
-    "short": "Buddhism emerged in ancient India and spread across Asia through teaching, travel, translation and trade networks.",
+    "short": "A diverse family of religious and philosophical traditions originating in ancient South Asia.",
     "wiki": "https://en.wikipedia.org/wiki/Buddhism",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-004"
   },
   {
     "id": "bigbang",
@@ -864,12 +882,14 @@
     "category": "Science",
     "year": "1898",
     "type": "Physicist and chemist",
-    "description": "Marie Curie's research on radioactivity led to the discovery of polonium and radium and changed the study of atomic physics and medicine.",
-    "short": "Marie Curie's research on radioactivity led to the discovery of polonium and radium and changed the study of atomic physics and medicine.",
+    "description": "Marie Skłodowska-Curie (1867–1934) was a physicist and chemist whose investigations of uranium-bearing minerals helped establish radioactivity as a field of research. With Pierre Curie, she discovered polonium and radium in 1898; she later isolated radium and studied radioactive substances and their applications. She received the 1903 Nobel Prize in Physics and the 1911 Nobel Prize in Chemistry. Her achievements took place within collaborative laboratory work and a scientific culture that often excluded women.",
+    "short": "A physicist and chemist whose research reshaped the study of radioactivity.",
     "icon": "🧪",
     "featured": false,
     "wiki": "https://en.wikipedia.org/wiki/Marie_Curie",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-004"
   },
   {
     "id": "radioactivity",
@@ -877,12 +897,14 @@
     "category": "Science",
     "year": "1896",
     "type": "Physical phenomenon",
-    "description": "Radioactivity is the spontaneous emission of radiation from unstable atomic nuclei, a phenomenon central to nuclear science and medical imaging.",
-    "short": "Radioactivity is the spontaneous emission of radiation from unstable atomic nuclei, a phenomenon central to nuclear science and medical imaging.",
+    "description": "Radioactivity is the spontaneous transformation of unstable atomic nuclei into more stable configurations, accompanied by the emission of ionising radiation. Common forms include alpha particles, beta particles and gamma rays, each with different properties and penetration. Radioactive decay occurs at characteristic rates described by half-life. Radiation has uses in medicine, industry, research and energy, but exposure risk depends on factors such as dose, radiation type, duration and route of exposure.",
+    "short": "The spontaneous transformation of unstable atomic nuclei, releasing radiation.",
     "icon": "☢️",
     "featured": false,
     "wiki": "https://en.wikipedia.org/wiki/Radioactivity",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-004"
   },
   {
     "id": "xray",
@@ -948,12 +970,14 @@
     "category": "History",
     "year": "1789",
     "type": "Revolution",
-    "description": "The French Revolution challenged monarchy and privilege, reshaped political institutions and helped spread ideas of citizenship and popular sovereignty.",
-    "short": "The French Revolution challenged monarchy and privilege, reshaped political institutions and helped spread ideas of citizenship and popular sovereignty.",
+    "description": "The French Revolution began in 1789 amid fiscal crisis, social conflict and challenges to royal authority. It brought the end of the old monarchy, declarations of rights, republican government, war, political violence and the rise of Napoleon. The revolution was not a single coherent movement: political factions, popular mobilisation, colonial slavery, gender, religion and regional experiences shaped its changing course and legacy.",
+    "short": "A complex revolution that transformed French institutions and reshaped political debate.",
     "icon": "⚖️",
     "featured": false,
     "wiki": "https://en.wikipedia.org/wiki/French_Revolution",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-004"
   },
   {
     "id": "americanrev",
@@ -961,12 +985,14 @@
     "category": "History",
     "year": "1775",
     "type": "Revolution",
-    "description": "The thirteen colonies' break from British rule produced the United States and influenced later debates about republican government and rights.",
-    "short": "The thirteen colonies' break from British rule produced the United States and influenced later debates about republican government and rights.",
+    "description": "The American Revolution grew from disputes over imperial authority, taxation, representation and political rights in Britain's North American colonies. Armed conflict began in 1775, the Declaration of Independence was adopted in 1776, and the Treaty of Paris recognised US independence in 1783. The revolution created republican institutions and influenced later constitutional debates, while slavery, Indigenous dispossession, women's exclusion and unequal citizenship exposed major contradictions between its ideals and social realities.",
+    "short": "A broad struggle for independence that created the United States while leaving deep questions unresolved.",
     "icon": "🗽",
     "featured": false,
     "wiki": "https://en.wikipedia.org/wiki/American_Revolution",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-004"
   },
   {
     "id": "printingbook",
@@ -1000,12 +1026,14 @@
     "category": "Culture",
     "year": "19th century",
     "type": "Intellectual movement",
-    "description": "A period of social, literary, educational and scientific reform in Bengal, involving figures who debated modernity, identity and social change.",
-    "short": "A period of social, literary, educational and scientific reform in Bengal, involving figures who debated modernity, identity and social change.",
+    "description": "The Bengal Renaissance is a label used for a range of intellectual, educational, literary, religious and social reform movements in Bengal, especially during the nineteenth and early twentieth centuries. Figures debated women's education, caste, religious practice, literature, science, colonial power and the meaning of modernity. The term is useful but contested: it can overemphasise a small urban elite and obscure rural society, Muslim intellectual life, working people and the wider political economy of colonial rule.",
+    "short": "A diverse, debated period of reform and cultural change in colonial Bengal.",
     "icon": "📚",
     "featured": false,
     "wiki": "https://en.wikipedia.org/wiki/Bengal_Renaissance",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-004"
   },
   {
     "id": "language",
@@ -1067,12 +1095,14 @@
     "category": "Arts & Literature",
     "year": "1861",
     "type": "Writer and composer",
-    "description": "Tagore reshaped Bengali literature and music and became the first non-European Nobel laureate in Literature in 1913.",
-    "short": "Tagore reshaped Bengali literature and music and became the first non-European Nobel laureate in Literature in 1913.",
+    "description": "Rabindranath Tagore (1861–1941) worked across poetry, fiction, drama, music, essays, education and visual art. His Gitanjali poems helped bring him the 1913 Nobel Prize in Literature, making him the first non-European laureate in that category. Tagore's writing and songs were rooted in Bengali language and society while engaging with international debates about nationalism, education, humanism and modernity. His legacy is broader than the Nobel citation or a single literary genre.",
+    "short": "A Bengali poet, novelist, composer, educator and public thinker with global influence.",
     "icon": "🖋️",
     "featured": false,
     "wiki": "https://en.wikipedia.org/wiki/Rabindranath_Tagore",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-004"
   },
   {
     "id": "bose",
@@ -1665,12 +1695,14 @@
     "category": "Arts & Literature",
     "year": "1564",
     "type": "Playwright and poet",
-    "description": "An English playwright and poet whose works continue to shape theatre, literature and the English language.",
-    "short": "An English playwright and poet whose works continue to shape theatre, literature and the English language.",
+    "description": "William Shakespeare (1564–1616) was an English playwright, poet and actor whose works include tragedies, comedies, histories and poems. His plays were written for performance within a commercial theatre culture and circulated in print during and after his lifetime. The 1623 First Folio preserved 18 plays that had not previously appeared in print, making it central to the survival of his dramatic canon. Biographical evidence is substantial but incomplete, and claims about his life should distinguish documents from later legend.",
+    "short": "An English playwright and poet whose works were shaped by theatre, print and early modern culture.",
     "icon": "🎭",
     "featured": false,
     "wiki": "https://en.wikipedia.org/wiki/William_Shakespeare",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-004"
   },
   {
     "id": "harrypotter",
@@ -1691,12 +1723,14 @@
     "category": "Humanity",
     "year": "Ancient",
     "type": "Field of inquiry",
-    "description": "The disciplined study of fundamental questions about knowledge, reality, ethics, reason and human existence.",
-    "short": "The disciplined study of fundamental questions about knowledge, reality, ethics, reason and human existence.",
+    "description": "Philosophy investigates fundamental questions about reality, knowledge, value, reason, language, mind, politics and how to live. It does so through methods such as conceptual analysis, argument, interpretation, thought experiments and engagement with experience. Philosophical traditions developed across many regions, including South Asia, East Asia, Africa, the Islamic world, Europe and the Americas; no single canon or method captures the field as a whole.",
+    "short": "A global, diverse inquiry into fundamental questions through argument, reflection and critical examination.",
     "icon": "💭",
     "featured": false,
     "wiki": "https://en.wikipedia.org/wiki/Philosophy",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-004"
   },
   {
     "id": "printingeducation",
@@ -1893,12 +1927,14 @@
     "category": "Arts & Literature",
     "year": "—",
     "type": "Language",
-    "description": "An Indo-Aryan language with a rich literary history and a central place in the cultural identity of Bangladesh and West Bengal.",
-    "short": "An Indo-Aryan language with a rich literary history and a central place in the cultural identity of Bangladesh and West Bengal.",
+    "description": "Bangla (Bengali) is an Indo-Aryan language spoken primarily in Bangladesh and the Indian state of West Bengal, with communities around the world. It has a long and varied literary history and is written today mainly in the Bengali-Assamese script family. The language includes regional varieties and registers, while standard forms developed through changing literary, educational and political institutions. The Language Movement of 1952 became a defining moment in the history of language rights and Bengali identity in what is now Bangladesh.",
+    "short": "An Indo-Aryan language with a long literary history and a central place in eastern South Asia.",
     "icon": "অ",
     "featured": false,
     "wiki": "https://en.wikipedia.org/wiki/Bengali_language",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-004"
   },
   {
     "id": "economics",
@@ -1906,12 +1942,14 @@
     "category": "Economics",
     "year": "—",
     "type": "Field of study",
-    "description": "The study of how people, businesses and societies make choices about resources, production and exchange.",
-    "short": "The study of how people, businesses and societies make choices about resources, production and exchange.",
+    "description": "Economics studies how people, firms, governments and institutions make choices about producing, distributing and using scarce resources. Microeconomics examines decisions and interactions among households and firms; macroeconomics studies economy-wide outcomes such as output, employment, inflation and growth. Economic explanations depend on incentives, institutions, history and assumptions, so models are tools for reasoning rather than perfect predictions.",
+    "short": "How people and societies make choices when resources, time and information are limited.",
     "icon": "✳",
     "featured": false,
     "wiki": "https://en.wikipedia.org/wiki/Economics",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-004"
   },
   {
     "id": "money",
@@ -1919,12 +1957,14 @@
     "category": "Economics",
     "year": "—",
     "type": "Economic institution",
-    "description": "A widely accepted medium of exchange that makes trade, pricing and saving possible across complex societies.",
-    "short": "A widely accepted medium of exchange that makes trade, pricing and saving possible across complex societies.",
+    "description": "Money is a widely accepted means of payment and a unit for expressing prices and debts. Economists commonly describe its functions as medium of exchange, unit of account and store of value. Money has taken many forms, including commodities, coins, paper notes and bank deposits; modern economies rely heavily on electronic deposits and payment systems. Its usefulness depends on shared trust, legal and institutional arrangements, and confidence that others will accept it.",
+    "short": "A social and institutional system that makes exchange, pricing and saving possible.",
     "icon": "✳",
     "featured": false,
     "wiki": "https://en.wikipedia.org/wiki/Money",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-004"
   },
   {
     "id": "inflation",
@@ -2540,10 +2580,12 @@
     "type": "Branch of philosophy",
     "icon": "⚖️",
     "featured": false,
-    "short": "The study of how people ought to live, act and treat one another.",
-    "description": "Ethics examines questions about right and wrong, virtue, duties, justice and the good life. Philosophical traditions approach these questions through different methods, including consequences, principles, character, relationships and lived experience.",
+    "short": "The philosophical study of value, obligation, character and how people ought to act.",
+    "description": "Ethics is the branch of philosophy that examines questions about right and wrong, good and bad, justice, obligation, character and the good life. Normative ethics develops and compares standards for action; metaethics asks what moral claims mean and whether they can be true; applied ethics studies particular issues such as medicine, technology, business and the environment. Ethical traditions differ, and arguments may draw on consequences, duties, virtues, relationships, rights or care.",
     "wiki": "https://en.wikipedia.org/wiki/Ethics",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-004"
   },
   {
     "id": "metaphysics",
@@ -2579,10 +2621,12 @@
     "type": "Legal and ethical framework",
     "icon": "🕊️",
     "featured": false,
-    "short": "Basic rights and freedoms belonging to every person.",
-    "description": "Human rights are claims and protections grounded in the dignity and equal worth of people. They are expressed through moral arguments, national constitutions and international instruments, including treaties developed through the United Nations system.",
+    "short": "Universal claims and legal protections grounded in the dignity and equal worth of every person.",
+    "description": "Human rights are universal claims and protections that belong to people because they are human, rather than gifts granted at a government's discretion. International human-rights law expresses duties to respect, protect and fulfil rights, while national constitutions and institutions shape how protections are implemented. Rights are interdependent: civil and political freedoms connect with economic, social and cultural conditions, and real protection requires accountability and access to remedies.",
     "wiki": "https://en.wikipedia.org/wiki/Human_rights",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-004"
   },
   {
     "id": "ruleoflaw",
@@ -2592,10 +2636,12 @@
     "type": "Legal principle",
     "icon": "⚖️",
     "featured": false,
-    "short": "The principle that public power is constrained by known and fairly applied laws.",
-    "description": "The rule of law means that individuals, institutions and governments are accountable under publicly known rules. It depends on fair procedures, independent institutions, access to justice and protections against arbitrary uses of power.",
+    "short": "The principle that everyone, including government, is accountable under public and fairly applied law.",
+    "description": "The rule of law is a principle of governance under which individuals, institutions and the state are accountable to laws that are publicly known, applied fairly and independently adjudicated. It requires more than the existence of statutes: equality before the law, due process, legal certainty, access to justice, limits on arbitrary power and institutional accountability all matter. It differs from rule by law, where legal rules may be used as instruments of unchecked authority.",
     "wiki": "https://en.wikipedia.org/wiki/Rule_of_law",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-004"
   },
   {
     "id": "udhr",
@@ -2605,10 +2651,12 @@
     "type": "International declaration",
     "icon": "📜",
     "featured": false,
-    "short": "A landmark United Nations declaration setting out a common standard of human rights.",
-    "description": "Adopted by the UN General Assembly on 10 December 1948, the Universal Declaration of Human Rights sets out 30 articles on civil, political, economic, social and cultural rights. It is a declaration rather than a treaty, but it became a foundation for later international human-rights instruments.",
+    "short": "The 1948 UN declaration that set out a common international standard of human rights.",
+    "description": "The Universal Declaration of Human Rights (UDHR) was adopted by the United Nations General Assembly on 10 December 1948. Its 30 articles set out a common standard covering civil, political, economic, social and cultural rights. The UDHR is a declaration rather than a treaty, so it did not itself create treaty obligations in the same way as later covenants; nevertheless, it became a foundational reference for international human-rights law and subsequent instruments.",
     "wiki": "https://en.wikipedia.org/wiki/Universal_Declaration_of_Human_Rights",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-004"
   },
   {
     "id": "music",
@@ -2618,10 +2666,12 @@
     "type": "Art form",
     "icon": "🎼",
     "featured": false,
-    "short": "Organised sound shaped by rhythm, melody, harmony, timbre and culture.",
-    "description": "Music is a human art and social practice found in every known society. It can accompany ritual, storytelling, work, celebration, protest and entertainment, while musical systems and meanings vary widely across cultures and historical periods.",
+    "short": "A global human practice combining sound, movement, memory, identity and social life.",
+    "description": "Music is a diverse human practice in which sound is organised and interpreted through rhythm, melody, harmony, timbre, silence and performance. Musical traditions vary widely in their instruments, tuning systems, forms, purposes and ideas about what counts as music. Across societies, music can accompany ritual, work, storytelling, celebration, mourning, protest and entertainment, and it travels through migration, trade, recording, education and digital media.",
     "wiki": "https://en.wikipedia.org/wiki/Music",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-004"
   },
   {
     "id": "musicalinstruments",
