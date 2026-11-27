@@ -118,3 +118,8 @@ Batch 006 adds 26 atlas subjects across African kingdoms and cities, Chinese and
 ## Stage 007: richer subject reading
 
 The subject reader now includes an in-panel search for direct relationships. Visitors can filter a subject's recorded connections by title, collection or relationship description without leaving the article. The visible connection count updates as the list is filtered. This is a browsing improvement only; it does not create or infer new relationships.
+
+
+## Stage 008: searchable historical timeline
+
+The history archive now supports keyword search across event titles, summaries, dates, regions and source labels, alongside the existing period and region filters. Filters work together and update the result count and timeline in place.

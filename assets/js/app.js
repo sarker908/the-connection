@@ -228,12 +228,13 @@ function renderTimeline(){
  eraSelect.innerHTML='<option value="all">All periods</option>'+historyData.eras.map(e=>'<option value="'+esc(e.id)+'">'+esc(e.label)+' · '+esc(e.range)+'</option>').join("");
  const regions=[...new Set(historyData.events.map(e=>e.region||"Global"))].sort((a,b)=>a.localeCompare(b));
  regionSelect.innerHTML='<option value="all">All regions</option>'+regions.map(r=>'<option value="'+esc(r)+'">'+esc(r)+'</option>').join("");
- eraSelect.onchange=renderTimelineItems;regionSelect.onchange=renderTimelineItems;
+ eraSelect.onchange=renderTimelineItems;regionSelect.onchange=renderTimelineItems;const historySearch=$("#historySearch");if(historySearch)historySearch.oninput=renderTimelineItems;
  renderTimelineItems();renderPeople();
 }
 function renderTimelineItems(){
  const era=$("#historyEraSelect").value,region=$("#historyRegionSelect").value;
- const events=historyData.events.filter(e=>(era==="all"||e.era===era)&&(region==="all"||(e.region||"Global")===region)).slice().sort((a,b)=>a.sort-b.sort);
+ const q=($("#historySearch")?.value||"").trim().toLowerCase();
+ const events=historyData.events.filter(e=>(era==="all"||e.era===era)&&(region==="all"||(e.region||"Global")===region)&&(!q||(e.title+" "+e.summary+" "+e.date+" "+(e.region||"")+" "+(e.source||"")).toLowerCase().includes(q))).slice().sort((a,b)=>a.sort-b.sort);
  $("#historyResultCount").textContent=events.length+" historical entries";
  $("#timelineList").innerHTML=events.map((e,i)=>'<article class="history-event"><div class="history-event-visual"><div class="history-event-image" id="historyEventImage'+i+'"></div><div class="history-event-date">'+esc(e.date)+'<small>'+esc(e.region||"Global")+'</small></div></div><div class="history-event-body"><p class="history-event-era">'+esc((historyData.eras.find(x=>x.id===e.era)||{}).label||"HISTORY")+'</p><h3>'+esc(e.title)+'</h3><p>'+esc(e.summary)+'</p><div class="history-event-links"><a href="'+esc(e.url)+'" target="_blank" rel="noopener noreferrer">'+esc(e.source)+' ↗</a>'+(nodes.some(n=>n.id===e.topicId)?'<button data-topic="'+esc(e.topicId)+'">Explore subject ↗</button>':'')+'</div></div></article>').join("")||'<p class="history-empty">No entries in this selection yet. Try another period or region.</p>';
  events.forEach((e,i)=>loadMedia({id:"history-"+e.sort+"-"+i,title:e.title,wiki:/wikipedia\.org\/wiki\//i.test(e.url)?e.url:null},$("#historyEventImage"+i)));
