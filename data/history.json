@@ -1414,7 +1414,8 @@
       "topicId": "pala",
       "source": "Banglapedia · Pala Rule",
       "url": "https://en.banglapedia.org/index.php?title=Pala_Rule",
-      "era": "early"
+      "era": "early",
+      "region": "South Asia"
     },
     {
       "name": "Dharmapala",
@@ -1424,7 +1425,8 @@
       "topicId": "somapura",
       "source": "UNESCO · Somapura Mahavihara",
       "url": "https://whc.unesco.org/en/list/322",
-      "era": "early"
+      "era": "early",
+      "region": "South Asia"
     },
     {
       "name": "Shamsuddin Ilyas Shah",
@@ -1434,7 +1436,8 @@
       "topicId": "bengalregion",
       "source": "Banglapedia · Iliyas Shah",
       "url": "https://en.banglapedia.org/index.php?title=Iliyas_Shah",
-      "era": "medieval"
+      "era": "medieval",
+      "region": "South Asia"
     },
     {
       "name": "Siraj ud-Daulah",
@@ -1444,7 +1447,8 @@
       "topicId": "battleplassey",
       "source": "Banglapedia · Palashi, The Battle of",
       "url": "https://en.banglapedia.org/index.php?title=Palashi%2C_The_Battle_of",
-      "era": "colonial"
+      "era": "colonial",
+      "region": "South Asia"
     },
     {
       "name": "Begum Rokeya",
@@ -1454,7 +1458,8 @@
       "topicId": "begumrokeya",
       "source": "Banglapedia · Roquiah Sakhawat Hossain",
       "url": "https://en.banglapedia.org/index.php?title=Hossain%2C_Roquiah_Sakhawat",
-      "era": "colonial"
+      "era": "colonial",
+      "region": "South Asia"
     },
     {
       "name": "Rabindranath Tagore",
@@ -1464,7 +1469,8 @@
       "topicId": "rabindranath",
       "source": "Banglapedia · Rabindranath Tagore",
       "url": "https://en.banglapedia.org/index.php?title=Tagore%2C_Rabindranath",
-      "era": "colonial"
+      "era": "colonial",
+      "region": "South Asia"
     },
     {
       "name": "Jagadish Chandra Bose",
@@ -1474,7 +1480,8 @@
       "topicId": "bose",
       "source": "Banglapedia · Sir Jagadish Chandra Bose",
       "url": "https://en.banglapedia.org/index.php?redirect=no&title=Bose%2C_Sir_Jagadish_Chandra",
-      "era": "colonial"
+      "era": "colonial",
+      "region": "South Asia"
     },
     {
       "name": "Satyendra Nath Bose",
@@ -1484,7 +1491,8 @@
       "topicId": "satyendranathbose",
       "source": "Banglapedia · Satyendra Nath Bose",
       "url": "https://en.banglapedia.org/index.php?title=Bose%2C_Satyendra_Nath",
-      "era": "colonial"
+      "era": "colonial",
+      "region": "South Asia"
     },
     {
       "name": "A. K. Fazlul Huq",
@@ -1493,7 +1501,8 @@
       "bio": "A prominent Bengali political leader who served as Prime Minister of Bengal from 1937 to 1943. His career crossed provincial politics, agrarian questions and the politics of late colonial India.",
       "source": "Banglapedia · A. K. Fazlul Huq",
       "url": "https://en.banglapedia.org/index.php?title=Huq%2C_AK_Fazlul",
-      "era": "colonial"
+      "era": "colonial",
+      "region": "South Asia"
     },
     {
       "name": "Sheikh Mujibur Rahman",
@@ -1503,7 +1512,8 @@
       "topicId": "liberation",
       "source": "Banglapedia · Sheikh Mujibur Rahman",
       "url": "https://en.banglapedia.org/index.php?title=Rahman%2C_Bangabandhu_Sheikh_Mujibur",
-      "era": "modern"
+      "era": "modern",
+      "region": "South Asia"
     },
     {
       "name": "Dhirendranath Datta",
@@ -1513,7 +1523,8 @@
       "topicId": "language",
       "source": "Banglapedia · Language Movement",
       "url": "https://en.banglapedia.org/index.php/Language_Movement",
-      "era": "modern"
+      "era": "modern",
+      "region": "South Asia"
     },
     {
       "name": "Abul Kashem",
@@ -1523,7 +1534,629 @@
       "topicId": "language",
       "source": "Banglapedia · Language Movement",
       "url": "https://en.banglapedia.org/index.php/Language_Movement",
-      "era": "modern"
+      "era": "modern",
+      "region": "South Asia"
+    },
+    {
+      "name": "Hatshepsut",
+      "life": "c. 1507–1458 BCE",
+      "role": "Pharaoh of ancient Egypt",
+      "bio": "One of ancient Egypt's most successful rulers, Hatshepsut expanded trade, commissioned monumental architecture and governed during the Eighteenth Dynasty.",
+      "region": "Africa",
+      "source": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Hatshepsut"
+    },
+    {
+      "name": "Ramses II",
+      "life": "c. 1303–1213 BCE",
+      "role": "Pharaoh of Egypt",
+      "bio": "Known for a long reign, major building projects and the Battle of Kadesh, Ramses II became one of Egypt's best-known pharaohs.",
+      "region": "Africa",
+      "source": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Ramses-II"
+    },
+    {
+      "name": "Hannibal",
+      "life": "247–c. 183 BCE",
+      "role": "Carthaginian military commander",
+      "bio": "Hannibal led Carthaginian forces across the Alps during the Second Punic War and became one of antiquity's most studied commanders.",
+      "region": "Africa",
+      "source": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Hannibal"
+    },
+    {
+      "name": "Mansa Musa",
+      "life": "c. 1280–c. 1337",
+      "role": "Emperor of Mali",
+      "bio": "The Mali ruler's pilgrimage to Mecca in 1324 became famous for its scale and highlighted the empire's wealth and trans-Saharan connections.",
+      "region": "Africa",
+      "source": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Musa-I-of-Mali"
+    },
+    {
+      "name": "Shaka",
+      "life": "c. 1787–1828",
+      "role": "Zulu king and military leader",
+      "bio": "Shaka helped transform the Zulu kingdom in southern Africa through military and political reforms during a period of regional upheaval.",
+      "region": "Africa",
+      "source": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Shaka-Zulu-chief"
+    },
+    {
+      "name": "Yaa Asantewaa",
+      "life": "c. 1840–1921",
+      "role": "Asante queen mother and resistance leader",
+      "bio": "Yaa Asantewaa led Asante resistance during the War of the Golden Stool against British colonial power in 1900.",
+      "region": "Africa",
+      "source": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Yaa-Asantewaa"
+    },
+    {
+      "name": "Nelson Mandela",
+      "life": "1918–2013",
+      "role": "Anti-apartheid leader and president",
+      "bio": "Mandela became a leading figure in the struggle against apartheid, spent 27 years in prison and became South Africa's first Black president in 1994.",
+      "region": "Africa",
+      "source": "Nobel Prize",
+      "url": "https://www.nobelprize.org/prizes/peace/1993/mandela/biographical/"
+    },
+    {
+      "name": "Wangari Maathai",
+      "life": "1940–2011",
+      "role": "Environmental activist and Nobel laureate",
+      "bio": "The Kenyan scholar founded the Green Belt Movement, linking environmental restoration with women's livelihoods and democratic participation.",
+      "region": "Africa",
+      "source": "Nobel Prize",
+      "url": "https://www.nobelprize.org/prizes/peace/2004/maathai/biographical/"
+    },
+    {
+      "name": "Nefertiti",
+      "life": "14th century BCE",
+      "role": "Queen of ancient Egypt",
+      "bio": "Nefertiti was a prominent royal figure during the Amarna period, remembered for her political visibility and the celebrated sculpted bust associated with her name.",
+      "region": "Africa",
+      "source": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Nefertiti"
+    },
+    {
+      "name": "Maya Angelou",
+      "life": "1928–2014",
+      "role": "Writer and civil rights activist",
+      "bio": "Angelou's autobiographical writing, poetry and activism explored race, identity and resilience in the United States.",
+      "region": "Americas",
+      "source": "Reference source",
+      "url": "https://www.poetryfoundation.org/poets/maya-angelou"
+    },
+    {
+      "name": "Simón Bolívar",
+      "life": "1783–1830",
+      "role": "Independence leader",
+      "bio": "Bolívar played a central role in independence campaigns that ended Spanish colonial rule in several South American territories.",
+      "region": "Americas",
+      "source": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Simon-Bolivar"
+    },
+    {
+      "name": "José de San Martín",
+      "life": "1778–1850",
+      "role": "South American independence leader",
+      "bio": "San Martín helped lead independence movements in Argentina, Chile and Peru during the wars against Spanish rule.",
+      "region": "Americas",
+      "source": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Jose-de-San-Martin"
+    },
+    {
+      "name": "Benjamin Franklin",
+      "life": "1706–1790",
+      "role": "Inventor, writer and statesman",
+      "bio": "Franklin shaped American political thought and diplomacy and made influential contributions to the study of electricity.",
+      "region": "Americas",
+      "source": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Benjamin-Franklin"
+    },
+    {
+      "name": "Frederick Douglass",
+      "life": "c. 1818–1895",
+      "role": "Abolitionist and writer",
+      "bio": "Born enslaved, Douglass escaped and became a powerful writer, speaker and organiser in the movement to abolish slavery.",
+      "region": "Americas",
+      "source": "National / cultural institution",
+      "url": "https://www.nps.gov/frdo/learn/historyculture/frederick-douglass.htm"
+    },
+    {
+      "name": "Harriet Tubman",
+      "life": "c. 1822–1913",
+      "role": "Abolitionist and humanitarian",
+      "bio": "Tubman escaped slavery and repeatedly helped others reach freedom through the Underground Railroad; she later served the Union during the Civil War.",
+      "region": "Americas",
+      "source": "National / cultural institution",
+      "url": "https://www.nps.gov/hatu/learn/historyculture/harriet-tubman-biography.htm"
+    },
+    {
+      "name": "Abraham Lincoln",
+      "life": "1809–1865",
+      "role": "U.S. president",
+      "bio": "Lincoln led the United States through the Civil War and issued the Emancipation Proclamation, which changed the legal status of enslaved people in rebelling states.",
+      "region": "Americas",
+      "source": "Reference source",
+      "url": "https://www.whitehouse.gov/about-the-white-house/presidents/abraham-lincoln/"
+    },
+    {
+      "name": "Martin Luther King Jr.",
+      "life": "1929–1968",
+      "role": "Civil rights leader",
+      "bio": "King advocated nonviolent protest against racial segregation and became a central leader of the US civil rights movement.",
+      "region": "Americas",
+      "source": "Nobel Prize",
+      "url": "https://www.nobelprize.org/prizes/peace/1964/king/biographical/"
+    },
+    {
+      "name": "César Chávez",
+      "life": "1927–1993",
+      "role": "Labour organiser",
+      "bio": "Chávez co-founded the United Farm Workers and organised campaigns for improved conditions and rights for agricultural workers.",
+      "region": "Americas",
+      "source": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Cesar-Chavez"
+    },
+    {
+      "name": "Confucius",
+      "life": "551–479 BCE",
+      "role": "Chinese philosopher and teacher",
+      "bio": "Confucius's teachings on ethics, education, social responsibility and government became foundational to intellectual traditions across East Asia.",
+      "region": "East Asia",
+      "source": "Reference source",
+      "url": "https://plato.stanford.edu/entries/confucius/"
+    },
+    {
+      "name": "Qin Shi Huang",
+      "life": "259–210 BCE",
+      "role": "First emperor of a unified China",
+      "bio": "The Qin ruler unified major warring states, standardised key systems and initiated the imperial structure that shaped later Chinese history.",
+      "region": "East Asia",
+      "source": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Qin-Shi-Huang"
+    },
+    {
+      "name": "Empress Wu Zetian",
+      "life": "624–705",
+      "role": "Emperor of China",
+      "bio": "Wu Zetian became the only woman in Chinese history to rule in her own name as emperor, during a period of significant court and administrative change.",
+      "region": "East Asia",
+      "source": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Wu-Zetian"
+    },
+    {
+      "name": "Murasaki Shikibu",
+      "life": "c. 973–c. 1014",
+      "role": "Japanese novelist and court writer",
+      "bio": "Her work The Tale of Genji is widely regarded as a landmark of Japanese literature and an early major work of prose fiction.",
+      "region": "East Asia",
+      "source": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Murasaki-Shikibu"
+    },
+    {
+      "name": "Genghis Khan",
+      "life": "c. 1162–1227",
+      "role": "Founder of the Mongol Empire",
+      "bio": "Temüjin united Mongol groups and founded an empire that reshaped political, commercial and cultural connections across Eurasia.",
+      "region": "East Asia",
+      "source": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Genghis-Khan"
+    },
+    {
+      "name": "Zheng He",
+      "life": "1371–1433",
+      "role": "Chinese admiral and explorer",
+      "bio": "Zheng He commanded large Ming maritime expeditions that travelled through Southeast Asia, the Indian Ocean and East Africa.",
+      "region": "East Asia",
+      "source": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Zheng-He"
+    },
+    {
+      "name": "Oda Nobunaga",
+      "life": "1534–1582",
+      "role": "Japanese military leader",
+      "bio": "Nobunaga initiated the process of political unification in Japan during the late sixteenth century.",
+      "region": "East Asia",
+      "source": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Oda-Nobunaga"
+    },
+    {
+      "name": "Mao Zedong",
+      "life": "1893–1976",
+      "role": "Chinese communist leader",
+      "bio": "Mao led the Chinese Communist Party to victory in 1949 and became the founding leader of the People's Republic of China.",
+      "region": "East Asia",
+      "source": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Mao-Zedong"
+    },
+    {
+      "name": "Akira Kurosawa",
+      "life": "1910–1998",
+      "role": "Japanese film director",
+      "bio": "Kurosawa's films influenced world cinema through their visual storytelling, narrative craft and adaptations of literary and historical themes.",
+      "region": "East Asia",
+      "source": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Kurosawa-Akira"
+    },
+    {
+      "name": "Socrates",
+      "life": "c. 470–399 BCE",
+      "role": "Greek philosopher",
+      "bio": "Socrates influenced Western philosophy through a method of questioning that examined ethics, knowledge and civic life.",
+      "region": "Europe",
+      "source": "Reference source",
+      "url": "https://plato.stanford.edu/entries/socrates/"
+    },
+    {
+      "name": "Aristotle",
+      "life": "384–322 BCE",
+      "role": "Greek philosopher and scientist",
+      "bio": "Aristotle wrote influential works on logic, biology, politics, ethics and natural philosophy that shaped scholarship for centuries.",
+      "region": "Europe",
+      "source": "Reference source",
+      "url": "https://plato.stanford.edu/entries/aristotle/"
+    },
+    {
+      "name": "Julius Caesar",
+      "life": "100–44 BCE",
+      "role": "Roman general and statesman",
+      "bio": "Caesar's military campaigns and political rise transformed the Roman Republic and helped set the stage for imperial rule.",
+      "region": "Europe",
+      "source": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Julius-Caesar"
+    },
+    {
+      "name": "Leonardo da Vinci",
+      "life": "1452–1519",
+      "role": "Artist, engineer and inventor",
+      "bio": "Da Vinci's paintings, notebooks and investigations of anatomy, mechanics and nature exemplified the intellectual breadth of the Renaissance.",
+      "region": "Europe",
+      "source": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Leonardo-da-Vinci"
+    },
+    {
+      "name": "Galileo Galilei",
+      "life": "1564–1642",
+      "role": "Astronomer and physicist",
+      "bio": "Galileo's telescopic observations and work on motion helped transform astronomy and the study of nature.",
+      "region": "Europe",
+      "source": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Galileo-Galilei"
+    },
+    {
+      "name": "Isaac Newton",
+      "life": "1643–1727",
+      "role": "Physicist and mathematician",
+      "bio": "Newton's laws of motion and universal gravitation became central foundations of classical mechanics.",
+      "region": "Europe",
+      "source": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Isaac-Newton"
+    },
+    {
+      "name": "Mary Wollstonecraft",
+      "life": "1759–1797",
+      "role": "Writer and advocate for women's rights",
+      "bio": "Her A Vindication of the Rights of Woman argued for women's education and challenged the assumptions underpinning gender inequality.",
+      "region": "Europe",
+      "source": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Mary-Wollstonecraft"
+    },
+    {
+      "name": "Marie Curie",
+      "life": "1867–1934",
+      "role": "Physicist and chemist",
+      "bio": "Curie's pioneering research on radioactivity led to two Nobel Prizes and transformed modern physics and chemistry.",
+      "region": "Europe",
+      "source": "Nobel Prize",
+      "url": "https://www.nobelprize.org/prizes/physics/1903/marie-curie/biographical/"
+    },
+    {
+      "name": "Alan Turing",
+      "life": "1912–1954",
+      "role": "Mathematician and computing pioneer",
+      "bio": "Turing made foundational contributions to theoretical computer science and helped Allied codebreaking during the Second World War.",
+      "region": "Europe",
+      "source": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Alan-Turing"
+    },
+    {
+      "name": "Cyrus the Great",
+      "life": "c. 600–530 BCE",
+      "role": "Founder of the Achaemenid Persian Empire",
+      "bio": "Cyrus founded the Achaemenid Empire, which became one of the largest political formations of the ancient world.",
+      "region": "Middle East",
+      "source": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Cyrus-the-Great"
+    },
+    {
+      "name": "Hammurabi",
+      "life": "died c. 1750 BCE",
+      "role": "King of Babylon",
+      "bio": "Hammurabi is remembered for a surviving law collection that offers insight into justice, hierarchy and social life in ancient Mesopotamia.",
+      "region": "Middle East",
+      "source": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Hammurabi"
+    },
+    {
+      "name": "Ibn Sina (Avicenna)",
+      "life": "c. 980–1037",
+      "role": "Physician and philosopher",
+      "bio": "Ibn Sina wrote influential works on medicine and philosophy, including The Canon of Medicine, which shaped medical education across regions.",
+      "region": "Middle East",
+      "source": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Avicenna"
+    },
+    {
+      "name": "Al-Khwarizmi",
+      "life": "c. 780–850",
+      "role": "Mathematician and astronomer",
+      "bio": "His writings helped transmit algebraic methods and Hindu-Arabic numerals into wider scholarly circulation; the word algorithm derives from his name.",
+      "region": "Middle East",
+      "source": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/al-Khwarizmi"
+    },
+    {
+      "name": "Saladin",
+      "life": "c. 1137–1193",
+      "role": "Sultan of Egypt and Syria",
+      "bio": "Saladin founded the Ayyubid dynasty and led forces that recaptured Jerusalem in 1187 during the Crusades.",
+      "region": "Middle East",
+      "source": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Saladin"
+    },
+    {
+      "name": "Rumi",
+      "life": "1207–1273",
+      "role": "Persian-language poet and mystic",
+      "bio": "Rumi's poetry and spiritual writings became influential across Persianate and wider literary traditions.",
+      "region": "Middle East",
+      "source": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Rumi"
+    },
+    {
+      "name": "Ibn Khaldun",
+      "life": "1332–1406",
+      "role": "Historian and social thinker",
+      "bio": "His Muqaddimah developed influential ideas about society, political power, economic life and the writing of history.",
+      "region": "Middle East",
+      "source": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Ibn-Khaldun"
+    },
+    {
+      "name": "Mustafa Kemal Atatürk",
+      "life": "1881–1938",
+      "role": "Founder of modern Turkey",
+      "bio": "Atatürk led the Turkish national movement after the First World War and established the Republic of Turkey in 1923.",
+      "region": "Middle East",
+      "source": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Kemal-Ataturk"
+    },
+    {
+      "name": "Ashoka",
+      "life": "died c. 232 BCE",
+      "role": "Mauryan emperor",
+      "bio": "After the Kalinga war, Ashoka promoted dhamma and supported the spread of Buddhist institutions and ideas across South Asia and beyond.",
+      "region": "South Asia",
+      "source": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Ashoka"
+    },
+    {
+      "name": "Aryabhata",
+      "life": "476–c. 550",
+      "role": "Indian mathematician and astronomer",
+      "bio": "Aryabhata made important contributions to mathematics and astronomy, including work on place value, trigonometry and planetary motion.",
+      "region": "South Asia",
+      "source": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Aryabhata"
+    },
+    {
+      "name": "Adi Shankara",
+      "life": "c. 8th century",
+      "role": "Philosopher and theologian",
+      "bio": "Shankara became a major interpreter of Advaita Vedanta and helped shape influential traditions of Indian philosophy.",
+      "region": "South Asia",
+      "source": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Shankara"
+    },
+    {
+      "name": "Amir Khusrau",
+      "life": "1253–1325",
+      "role": "Poet and musician",
+      "bio": "Writing in Persian and Hindavi, Khusrau became a major literary figure at the Delhi Sultanate court and is associated with Indo-Persian cultural exchange.",
+      "region": "South Asia",
+      "source": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Amir-Khusrow"
+    },
+    {
+      "name": "Kabir",
+      "life": "15th century",
+      "role": "Poet and spiritual teacher",
+      "bio": "Kabir's verses challenged social divisions and ritual authority, influencing devotional traditions across northern India.",
+      "region": "South Asia",
+      "source": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Kabir-Indian-mystic-and-poet"
+    },
+    {
+      "name": "Akbar",
+      "life": "1542–1605",
+      "role": "Mughal emperor",
+      "bio": "Akbar expanded and consolidated Mughal rule and developed administrative and diplomatic policies that shaped the empire.",
+      "region": "South Asia",
+      "source": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Akbar"
+    },
+    {
+      "name": "Shah Jahan",
+      "life": "1592–1666",
+      "role": "Mughal emperor and patron of architecture",
+      "bio": "His reign is associated with major architectural projects, including the Taj Mahal, and the high point of Mughal imperial design.",
+      "region": "South Asia",
+      "source": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Shah-Jahan"
+    },
+    {
+      "name": "Savitribai Phule",
+      "life": "1831–1897",
+      "role": "Educator and social reformer",
+      "bio": "With Jyotirao Phule, she helped pioneer girls' education in India and challenged caste and gender discrimination.",
+      "region": "South Asia",
+      "source": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Savitribai-Phule"
+    },
+    {
+      "name": "Mahatma Gandhi",
+      "life": "1869–1948",
+      "role": "Anti-colonial leader",
+      "bio": "Gandhi became a leading figure in India's independence movement, advocating mass mobilisation and nonviolent resistance.",
+      "region": "South Asia",
+      "source": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Mohandas-Karamchand-Gandhi"
+    },
+    {
+      "name": "B. R. Ambedkar",
+      "life": "1891–1956",
+      "role": "Jurist and social reformer",
+      "bio": "Ambedkar campaigned against caste discrimination, chaired the Constitution's drafting committee and became a central architect of India's constitutional democracy.",
+      "region": "South Asia",
+      "source": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Bhimrao-Ramji-Ambedkar"
+    },
+    {
+      "name": "Abdul Sattar Edhi",
+      "life": "1928–2016",
+      "role": "Humanitarian and philanthropist",
+      "bio": "Edhi founded a major network of charitable services in Pakistan, including emergency ambulance and social welfare programmes.",
+      "region": "South Asia",
+      "source": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Abdul-Sattar-Edhi"
+    },
+    {
+      "name": "Amartya Sen",
+      "life": "1933–",
+      "role": "Economist and philosopher",
+      "bio": "Sen's work on welfare economics, poverty, famine and human development reshaped debates about economic justice and public policy.",
+      "region": "South Asia",
+      "source": "Nobel Prize",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1998/sen/biographical/"
+    },
+    {
+      "name": "Jayavarman VII",
+      "life": "c. 1120–1218",
+      "role": "Khmer emperor",
+      "bio": "Jayavarman VII presided over a major period of Khmer state building and sponsored temples, roads and public works across the empire.",
+      "region": "Southeast Asia",
+      "source": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Jayavarman-VII"
+    },
+    {
+      "name": "Raden Wijaya",
+      "life": "died 1309",
+      "role": "Founder of the Majapahit kingdom",
+      "bio": "Raden Wijaya established Majapahit in Java, a kingdom that became a major political and commercial power in maritime Southeast Asia.",
+      "region": "Southeast Asia",
+      "source": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/topic/Majapahit-empire"
+    },
+    {
+      "name": "Suryavarman II",
+      "life": "died c. 1150",
+      "role": "Khmer king and builder of Angkor Wat",
+      "bio": "Suryavarman II commissioned Angkor Wat, one of the most significant monumental complexes in world architecture.",
+      "region": "Southeast Asia",
+      "source": "Reference source",
+      "url": "https://whc.unesco.org/en/list/668/"
+    },
+    {
+      "name": "Raja Haji Fisabilillah",
+      "life": "1727–1784",
+      "role": "Bugis-Malay warrior and statesman",
+      "bio": "Raja Haji was a prominent leader in the Malay world who resisted Dutch expansion in the eighteenth century.",
+      "region": "Southeast Asia",
+      "source": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/place/Indonesia"
+    },
+    {
+      "name": "Ho Chi Minh",
+      "life": "1890–1969",
+      "role": "Vietnamese revolutionary leader",
+      "bio": "Ho Chi Minh led the Vietnamese independence movement and became president of North Vietnam during the wars that shaped modern Vietnam.",
+      "region": "Southeast Asia",
+      "source": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Ho-Chi-Minh"
+    },
+    {
+      "name": "Aung San",
+      "life": "1915–1947",
+      "role": "Burmese independence leader",
+      "bio": "Aung San helped negotiate the path toward Burma's independence from Britain before he was assassinated in 1947.",
+      "region": "Southeast Asia",
+      "source": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Aung-San"
+    },
+    {
+      "name": "Sukarno",
+      "life": "1901–1970",
+      "role": "Indonesian independence leader and president",
+      "bio": "Sukarno led Indonesia's independence movement and became the country's first president after the end of Dutch colonial rule.",
+      "region": "Southeast Asia",
+      "source": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Sukarno"
+    },
+    {
+      "name": "Kupe",
+      "life": "Traditional, pre-European era",
+      "role": "Polynesian navigator in Māori tradition",
+      "bio": "Kupe is a celebrated navigator in Māori oral traditions, associated with ancestral voyages to Aotearoa New Zealand.",
+      "region": "Oceania",
+      "source": "National / cultural institution",
+      "url": "https://teara.govt.nz/en/kupe"
+    },
+    {
+      "name": "Tupaia",
+      "life": "c. 1725–1770",
+      "role": "Polynesian navigator and interpreter",
+      "bio": "Tupaia joined James Cook's first Pacific voyage and contributed deep knowledge of Pacific navigation, geography and languages.",
+      "region": "Oceania",
+      "source": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Tupaia"
+    },
+    {
+      "name": "Pemulwuy",
+      "life": "c. 1750–1802",
+      "role": "Aboriginal resistance leader",
+      "bio": "A Bidjigal leader, Pemulwuy resisted British colonial expansion around Sydney in the early years of the colony.",
+      "region": "Oceania",
+      "source": "National / cultural institution",
+      "url": "https://www.nma.gov.au/defining-moments/resources/pemulwuy"
+    },
+    {
+      "name": "Eddie Mabo",
+      "life": "1936–1992",
+      "role": "Indigenous land rights campaigner",
+      "bio": "Mabo's challenge to the legal doctrine of terra nullius led to a landmark Australian High Court decision recognising native title.",
+      "region": "Oceania",
+      "source": "National / cultural institution",
+      "url": "https://www.nma.gov.au/defining-moments/resources/mabo-decision"
+    },
+    {
+      "name": "Te Puea Hērangi",
+      "life": "1883–1952",
+      "role": "Māori leader",
+      "bio": "Te Puea helped revitalise the Māori King Movement and worked to strengthen Māori communities, culture and political organisation.",
+      "region": "Oceania",
+      "source": "National / cultural institution",
+      "url": "https://teara.govt.nz/en/te-puea-herangi"
+    },
+    {
+      "name": "Epeli Hauʻofa",
+      "life": "1939–2009",
+      "role": "Writer and Pacific thinker",
+      "bio": "Hauʻofa's influential writing reframed the Pacific as a connected oceanic world rather than a collection of isolated small islands.",
+      "region": "Oceania",
+      "source": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Epeli-Hauofa"
     }
   ]
 }
