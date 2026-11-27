@@ -18,29 +18,58 @@ function renderCollectionSubjects(list){const filtered=list.filter(n=>(n.title+"
 function relatedTo(id){return edges.filter(e=>e.from===id||e.to===id).map(e=>({edge:e,node:nodes.find(n=>n.id===(e.from===id?e.to:e.from))})).filter(x=>x.node)}
 async function openTopic(id){
  const n=nodes.find(x=>x.id===id);if(!n)return;
- const linked=relatedTo(id),year=n.year||"Ongoing",source=n.wiki||"";
+ const linked=relatedTo(id),year=n.year||"Ongoing";
  const events=historyData.events.filter(e=>e.topicId===id);
  const people=historyData.people.filter(p=>p.topicId===id);
+ const sourceItems=[];
+ const addSource=(label,url,kind)=>{if(url&&!sourceItems.some(x=>x.url===url))sourceItems.push({label,url,kind})};
+ addSource("Wikipedia article",n.wiki,"Further reading");
+ events.forEach(e=>addSource(e.source,e.url,"Historical reference"));
+ people.forEach(p=>addSource(p.source,p.url,"Biographical reference"));
+ const archiveCount=events.length+people.length;
+ const nextReads=linked.slice().sort((a,b)=>{
+   const aDifferent=a.node.category!==n.category?1:0,bDifferent=b.node.category!==n.category?1:0;
+   return bDifferent-aDifferent;
+ }).slice(0,3);
  $("#detailContent").innerHTML=
  '<article class="reader">'+
  '<div class="reader-image-wrap"><div class="detail-image reader-image" id="detailImage"></div><span class="reader-image-caption" id="imageCaption">A visual reference for this subject</span></div>'+
  '<div class="reader-body">'+
- '<div class="reader-eyebrow"><span>'+esc(n.category.toUpperCase())+'</span><span>FIELD NOTES · '+esc(n.type||"SUBJECT").toUpperCase()+'</span></div>'+
+ '<div class="reader-eyebrow"><span>'+esc(n.category.toUpperCase())+'</span><span>FIELD NOTES · '+esc((n.type||"SUBJECT").toUpperCase())+'</span></div>'+
  '<h2 class="reader-title">'+esc(n.title)+'</h2><p class="reader-deck">'+esc(n.short||n.description)+'</p>'+
- '<div class="reader-facts"><div><small>DATE / PERIOD</small><strong>'+esc(year)+'</strong></div><div><small>COLLECTION</small><strong>'+esc(n.category)+'</strong></div><div><small>SUBJECT TYPE</small><strong>'+esc(n.type||"Topic")+'</strong></div></div>'+
- '<section class="reader-section"><p class="reader-section-label">01 / THE OVERVIEW</p><h3>The story so far</h3><p class="reader-prose">'+esc(n.description)+'</p><div class="reader-wiki" id="wikiExtract" hidden><p class="reader-section-label">ADDITIONAL CONTEXT · WIKIPEDIA</p><p class="reader-prose" id="wikiExtractText"></p></div></section>'+
- '<section class="reader-section"><p class="reader-section-label">02 / HISTORICAL RECORD</p><h3>Moments that matter</h3>'+
- (events.length?'<div class="reader-event-list">'+events.map(e=>'<article class="reader-event"><time>'+esc(e.date)+'</time><div><strong>'+esc(e.title)+'</strong><p>'+esc(e.summary)+'</p><a href="'+esc(e.url)+'" target="_blank" rel="noopener noreferrer">'+esc(e.source)+' ↗</a></div></article>').join("")+'</div>':'<div class="reader-milestone"><span class="reader-milestone-dot"></span><div><strong>'+esc(year)+'</strong><p>'+esc(n.title)+' · '+esc(n.short||"A moment in this subject’s story.")+'</p></div></div><p class="reader-note">This is the date currently recorded in the atlas. A fuller sourced chronology has not yet been added for this subject.</p>')+'</section>'+
- (people.length?'<section class="reader-section"><p class="reader-section-label">03 / PEOPLE IN THIS STORY</p><h3>People to know</h3><div class="reader-people-list">'+people.map(p=>'<article class="reader-person"><div><strong>'+esc(p.name)+'</strong><small>'+esc(p.life)+' · '+esc(p.role)+'</small><p>'+esc(p.bio)+'</p><a href="'+esc(p.url)+'" target="_blank" rel="noopener noreferrer">'+esc(p.source)+' ↗</a></div></article>').join("")+'</div></section>':'')+
- '<section class="reader-section"><p class="reader-section-label">04 / THE WIDER STORY</p><h3>Connected subjects</h3><p class="reader-section-intro">Follow the links to explore how this subject relates to other discoveries.</p><div class="reader-related">'+(linked.length?linked.map(x=>'<button class="reader-related-item" data-id="'+esc(x.node.id)+'"><span class="reader-related-main"><strong>'+esc(x.node.title)+'</strong><small>'+esc(x.node.category)+' · '+esc(x.node.year||"")+'</small></span><span class="reader-relationship">'+esc(x.edge.label)+'</span><span class="reader-arrow">↗</span></button>').join(""):'<p class="reader-note">No direct connections have been recorded yet.</p>')+'</div></section>'+
- '<section class="reader-sources"><p class="reader-section-label">SOURCES & FURTHER READING</p>'+(source?'<a class="reader-source-link" href="'+esc(source)+'" target="_blank" rel="noopener noreferrer"><span><strong>Wikipedia reference</strong><small>Open the original article</small></span><span>↗</span></a>':'')+
- '<p class="reader-note">Historical entries link to their individual references. Summaries are editorial paraphrases, not direct quotations. Approximate dates are marked c. where relevant.</p></section>'+
+ '<div class="reader-facts reader-facts-expanded">'+
+ '<div><small>DATE / PERIOD</small><strong>'+esc(year)+'</strong></div>'+
+ '<div><small>COLLECTION</small><strong>'+esc(n.category)+'</strong></div>'+
+ '<div><small>SUBJECT TYPE</small><strong>'+esc(n.type||"Topic")+'</strong></div>'+
+ '<div><small>DIRECT CONNECTIONS</small><strong>'+linked.length+'</strong></div>'+
+ '</div>'+
+ '<section class="reader-section"><p class="reader-section-label">01 / THE STORY</p><h3>What it is, and why it matters</h3><p class="reader-prose">'+esc(n.description)+'</p>'+
+ '<div class="reader-wiki" id="wikiExtract" hidden><p class="reader-section-label">ADDITIONAL CONTEXT · WIKIPEDIA</p><p class="reader-prose" id="wikiExtractText"></p><a class="reader-inline-source" id="wikiArticleLink" href="'+esc(n.wiki||"#")+'" target="_blank" rel="noopener noreferrer">Read the full article ↗</a></div></section>'+
+ (events.length?'<section class="reader-section"><p class="reader-section-label">02 / IN THE HISTORICAL RECORD</p><h3>Moments that matter</h3><p class="reader-section-intro">Milestones in the archive that are directly associated with this subject.</p><div class="reader-event-list">'+events.map(e=>'<article class="reader-event"><time>'+esc(e.date)+'</time><div><strong>'+esc(e.title)+'</strong><p>'+esc(e.summary)+'</p><a href="'+esc(e.url)+'" target="_blank" rel="noopener noreferrer">'+esc(e.source)+' ↗</a></div></article>').join("")+'</div></section>':'')+
+ (people.length?'<section class="reader-section"><p class="reader-section-label">03 / PEOPLE IN THIS STORY</p><h3>People to know</h3><div class="reader-people-list">'+people.map(p=>'<article class="reader-person"><div><strong>'+esc(p.name)+'</strong><small>'+esc(p.life||"")+' · '+esc(p.role||"")+'</small><p>'+esc(p.bio)+'</p><a href="'+esc(p.url)+'" target="_blank" rel="noopener noreferrer">'+esc(p.source)+' ↗</a></div></article>').join("")+'</div></section>':'')+
+ '<section class="reader-section"><p class="reader-section-label">04 / THE BIGGER PICTURE</p><h3>Connections that explain the story</h3><p class="reader-section-intro">Each note below describes the recorded link between this subject and another part of the atlas. Follow one to see the next piece of the story.</p><div class="reader-related">'+
+ (linked.length?linked.map(x=>'<button class="reader-related-item" data-id="'+esc(x.node.id)+'"><span class="reader-related-main"><strong>'+esc(x.node.title)+'</strong><small>'+esc(x.node.category)+' · '+esc(x.node.year||x.node.type||"")+'</small></span><span class="reader-relationship"><small>WHY IT CONNECTS</small>'+esc(x.edge.label)+'</span><span class="reader-arrow">↗</span></button>').join(""):'<p class="reader-note">No direct connections have been recorded for this subject yet.</p>')+
+ '</div></section>'+
+ (nextReads.length?'<section class="reader-section reader-next-section"><p class="reader-section-label">05 / KEEP EXPLORING</p><h3>Where to go next</h3><p class="reader-section-intro">A few connected subjects that open a different door into the same story.</p><div class="reader-next-grid">'+nextReads.map(x=>'<button class="reader-next-card" data-id="'+esc(x.node.id)+'"><span>'+esc(x.node.category.toUpperCase())+'</span><strong>'+esc(x.node.title)+'</strong><small>Explore this subject ↗</small></button>').join("")+'</div></section>':'')+
+ '<section class="reader-sources"><p class="reader-section-label">SOURCES & FURTHER READING</p>'+
+ (sourceItems.length?'<div class="reader-source-list">'+sourceItems.map(s=>'<a class="reader-source-link" href="'+esc(s.url)+'" target="_blank" rel="noopener noreferrer"><span><strong>'+esc(s.label)+'</strong><small>'+esc(s.kind)+'</small></span><span>↗</span></a>').join("")+'</div>':'<p class="reader-note">No external reference has been added for this subject yet.</p>')+
+ '<p class="reader-note">Summaries in this atlas are editorial paraphrases. Historical and biographical references are listed separately where available. Dates marked c. are approximate.</p></section>'+
  '<button class="save-topic reader-save" id="saveTopic">'+(saved.includes(id)?"Remove from saved":"＋ Save to my collection")+'</button></div></article>';
- $("#detailPanel").classList.add("open");$("#saveTopic").onclick=()=>toggleSave(id);
- loadMedia(n,$("#detailImage")).then(media=>{const caption=$("#imageCaption");if(media?.image&&caption)caption.textContent="Image from the Wikipedia article · "+n.title;const extract=$("#wikiExtract"),text=$("#wikiExtractText");if(media?.extract&&media.extract.length>n.description.length+45&&extract&&text){text.textContent=media.extract;extract.hidden=false}});
- document.querySelectorAll(".reader-related-item").forEach(el=>el.onclick=()=>openTopic(el.dataset.id));
- 
-}function closeDetail(){$("#detailPanel").classList.remove("open")}
+ $("#detailPanel").classList.add("open");
+ $("#saveTopic").onclick=()=>toggleSave(id);
+ loadMedia(n,$("#detailImage")).then(media=>{
+   const caption=$("#imageCaption");
+   if(media?.image&&caption)caption.textContent="Image from the Wikipedia article · "+n.title;
+   const extract=$("#wikiExtract"),text=$("#wikiExtractText");
+   if(media?.extract&&media.extract.length>n.description.length+45&&extract&&text){
+     text.textContent=media.extract;
+     extract.hidden=false;
+   }
+ });
+ document.querySelectorAll(".reader-related-item,.reader-next-card").forEach(el=>el.onclick=()=>openTopic(el.dataset.id));
+}
+
+function closeDetail(){$("#detailPanel").classList.remove("open")}
 function toggleSave(id){saved=saved.includes(id)?saved.filter(x=>x!==id):[...saved,id];localStorage.setItem("tc-saved",JSON.stringify(saved));updateSavedCount();openTopic(id);toast(saved.includes(id)?"Saved to your collection":"Removed from your collection")}
 function updateSavedCount(){$("#savedCount").textContent=saved.length}
 function renderFeatured(){const preferred=["bigbang","curie","liberation","bengal","sundarbans","smartphone","printingpress","quantum"];const featured=preferred.map(id=>nodes.find(n=>n.id===id)).filter(Boolean);$("#featuredTopics").innerHTML=featured.map((n,i)=>'<article class="story-card" data-id="'+esc(n.id)+'"><div class="story-image" id="storyImage'+i+'"></div><div class="story-meta"><span>'+esc(n.category)+'</span><span>'+esc(n.year||"")+'</span></div><h3>'+esc(n.title)+'</h3><p>'+esc(n.short||n.description)+'</p><span class="story-open">Explore this subject ↗</span></article>').join("");featured.forEach((n,i)=>{loadMedia(n,$("#storyImage"+i));document.querySelector('.story-card[data-id="'+n.id+'"]').onclick=()=>openTopic(n.id)})}
