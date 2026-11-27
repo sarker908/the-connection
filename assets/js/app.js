@@ -11,6 +11,7 @@ const mediaObserver=typeof IntersectionObserver!=="undefined"?new IntersectionOb
  if(n)getMedia(n).then(media=>{if(media?.image&&el.isConnected)paintImage(el,media.image)});
 }),{rootMargin:"350px 0px"}):null;
 const esc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+function sourceTypeLabel(type){return ({encyclopedia:"ENCYCLOPEDIA",academic:"ACADEMIC / EDUCATIONAL",institutional:"INSTITUTIONAL / OFFICIAL"})[type]||"REFERENCE"}
 function pageTitle(n){if(n.wiki){const p=n.wiki.split("/wiki/")[1];if(p)return decodeURIComponent(p.replace(/_/g," "))}return n.title}
 async function getMedia(n){
  const key=n.id||n.title;
@@ -75,7 +76,7 @@ async function openTopic(id){
  addFallback("Wikipedia article",n.wiki,"General reference and further reading");
  events.forEach(e=>addFallback(e.source,e.url,"Historical reference"));
  people.forEach(p=>addFallback(p.source,p.url,"Biographical reference"));
- const sourceItems=(registeredSources.length?registeredSources:fallbackSources).map(s=>({label:s.title,url:s.url,kind:[s.publisher,...s.roles].filter(Boolean).join(" · ")}));
+ const sourceItems=(registeredSources.length?registeredSources:fallbackSources).map(s=>({label:s.title,url:s.url,kind:[s.publisher,...s.roles].filter(Boolean).join(" · "),sourceType:sourceTypeLabel(s.sourceClass)})).sort((a,b)=>({ "INSTITUTIONAL / OFFICIAL":0,"ACADEMIC / EDUCATIONAL":1,ENCYCLOPEDIA:2,REFERENCE:3 }[a.sourceType]??4)-({ "INSTITUTIONAL / OFFICIAL":0,"ACADEMIC / EDUCATIONAL":1,ENCYCLOPEDIA:2,REFERENCE:3 }[b.sourceType]??4));
  const archiveCount=events.length+people.length;
  const nextReads=linked.slice().sort((a,b)=>{
    const aDifferent=a.node.category!==n.category?1:0,bDifferent=b.node.category!==n.category?1:0;
@@ -102,8 +103,8 @@ async function openTopic(id){
  '</div></section>'+
  (nextReads.length?'<section class="reader-section reader-next-section"><p class="reader-section-label">05 / KEEP EXPLORING</p><h3>Where to go next</h3><p class="reader-section-intro">A few connected subjects that open a different door into the same story.</p><div class="reader-next-grid">'+nextReads.map((x,i)=>'<button class="reader-next-card" data-id="'+esc(x.node.id)+'"><span class="reader-next-image" id="readerNextImage'+i+'"></span><span class="reader-next-category">'+esc(x.node.category.toUpperCase())+'</span><strong>'+esc(x.node.title)+'</strong><small>Explore this subject ↗</small></button>').join("")+'</div></section>':'')+
  '<section class="reader-sources"><p class="reader-section-label">SOURCES & FURTHER READING</p>'+
- (sourceItems.length?'<div class="reader-source-list">'+sourceItems.map(s=>'<a class="reader-source-link" href="'+esc(s.url)+'" target="_blank" rel="noopener noreferrer"><span><strong>'+esc(s.label)+'</strong><small>'+esc(s.kind)+'</small></span><span>↗</span></a>').join("")+'</div>':'<p class="reader-note">No external reference has been added for this subject yet.</p>')+
- '<p class="reader-note">This register shows where the atlas points readers for further checking. A listed link is not a claim that every sentence has been independently verified. Wikipedia is included as a general reference, not as the sole authority. Prefer primary documents, peer-reviewed research and specialist institutional sources for detailed or disputed questions. Dates marked c. are approximate.</p></section>'+
+ (sourceItems.length?'<div class="reader-source-list">'+sourceItems.map(s=>'<a class="reader-source-link" href="'+esc(s.url)+'" target="_blank" rel="noopener noreferrer"><span><strong>'+esc(s.label)+'</strong><small>'+esc(s.kind)+' · '+esc(s.sourceType)+'</small></span><span>↗</span></a>').join("")+'</div>':'<p class="reader-note">No external reference has been added for this subject yet.</p>')+
+ '<p class="reader-note">Source labels describe the kind of publisher or resource, not a credibility score. A listed link is not proof that every sentence has been independently verified. Compare independent references, and prefer primary documents, peer-reviewed research and specialist institutional publications for detailed or disputed questions. Wikipedia is included as a general reference and discovery starting point. Dates marked c. are approximate.</p></section>'+
  '<button class="save-topic reader-save" id="saveTopic">'+(saved.includes(id)?"Remove from saved":"＋ Save to my collection")+'</button></div></article>';
  const panel=$("#detailPanel");panel.classList.add("open");panel.scrollTop=0;
  const progress=$("#readerProgressBar");
