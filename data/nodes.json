@@ -8,7 +8,8 @@
     "icon": "🌐",
     "featured": true,
     "short": "A network that connected the world.",
-    "description": "The Internet is a global system of interconnected computer networks. It grew from early research networks into the infrastructure behind communication, commerce, science and modern culture."
+    "description": "The Internet is a global system of interconnected computer networks. It grew from early research networks into the infrastructure behind communication, commerce, science and modern culture.",
+    "wiki": "https://en.wikipedia.org/wiki/Internet"
   },
   {
     "id": "www",
@@ -19,7 +20,8 @@
     "icon": "🕸️",
     "featured": true,
     "short": "A web of pages linked by hyperlinks.",
-    "description": "Invented by Tim Berners-Lee at CERN, the World Wide Web made information on the Internet easy to access through browsers, URLs and hyperlinks."
+    "description": "Invented by Tim Berners-Lee at CERN, the World Wide Web made information on the Internet easy to access through browsers, URLs and hyperlinks.",
+    "wiki": "https://en.wikipedia.org/wiki/World_Wide_Web"
   },
   {
     "id": "computer",
@@ -30,7 +32,8 @@
     "icon": "💻",
     "featured": true,
     "short": "A machine that transformed calculation.",
-    "description": "Modern electronic computers evolved from mathematical theory, wartime engineering and advances in electronics. They became general-purpose tools for science, business and everyday life."
+    "description": "Modern electronic computers evolved from mathematical theory, wartime engineering and advances in electronics. They became general-purpose tools for science, business and everyday life.",
+    "wiki": "https://en.wikipedia.org/wiki/Computer"
   },
   {
     "id": "turing",
@@ -41,7 +44,8 @@
     "icon": "🧠",
     "featured": true,
     "short": "A pioneer of theoretical computer science.",
-    "description": "Alan Turing formalized the idea of a general-purpose computing machine and made foundational contributions to codebreaking and artificial intelligence."
+    "description": "Alan Turing formalized the idea of a general-purpose computing machine and made foundational contributions to codebreaking and artificial intelligence.",
+    "wiki": "https://en.wikipedia.org/wiki/Alan_Turing"
   },
   {
     "id": "ai",
@@ -52,7 +56,8 @@
     "icon": "✧",
     "featured": true,
     "short": "Building machines that perform intelligent tasks.",
-    "description": "Artificial intelligence studies how machines can perform tasks associated with human intelligence, including learning, reasoning, perception and language."
+    "description": "Artificial intelligence studies how machines can perform tasks associated with human intelligence, including learning, reasoning, perception and language.",
+    "wiki": "https://en.wikipedia.org/wiki/Artificial_intelligence"
   },
   {
     "id": "printing",
@@ -63,7 +68,8 @@
     "icon": "📜",
     "featured": true,
     "short": "Knowledge became easier to reproduce.",
-    "description": "Johannes Gutenberg's movable-type printing system transformed the scale and cost of reproducing texts in Europe, accelerating the circulation of ideas."
+    "description": "Johannes Gutenberg's movable-type printing system transformed the scale and cost of reproducing texts in Europe, accelerating the circulation of ideas.",
+    "wiki": "https://en.wikipedia.org/wiki/Printing_press"
   },
   {
     "id": "electricity",
@@ -74,7 +80,8 @@
     "icon": "⚡",
     "featured": true,
     "short": "The force behind the electric age.",
-    "description": "The study and practical control of electrical phenomena reshaped industry, communication, lighting and modern technology."
+    "description": "The study and practical control of electrical phenomena reshaped industry, communication, lighting and modern technology.",
+    "wiki": "https://en.wikipedia.org/wiki/Electricity"
   },
   {
     "id": "newton",
@@ -85,7 +92,8 @@
     "icon": "🍎",
     "featured": false,
     "short": "Laws of motion and universal gravitation.",
-    "description": "Newton's laws of motion and universal gravitation unified the study of motion on Earth and in the heavens, shaping classical physics."
+    "description": "Newton's laws of motion and universal gravitation unified the study of motion on Earth and in the heavens, shaping classical physics.",
+    "wiki": "https://en.wikipedia.org/wiki/Isaac_Newton"
   },
   {
     "id": "einstein",
@@ -96,7 +104,8 @@
     "icon": "🪐",
     "featured": true,
     "short": "Reimagined space, time and gravity.",
-    "description": "Einstein's theories of special and general relativity transformed physics and changed how scientists understand space, time, energy and gravity."
+    "description": "Einstein's theories of special and general relativity transformed physics and changed how scientists understand space, time, energy and gravity.",
+    "wiki": "https://en.wikipedia.org/wiki/Albert_Einstein"
   },
   {
     "id": "evolution",
@@ -107,7 +116,8 @@
     "icon": "🧬",
     "featured": true,
     "short": "How life changes across generations.",
-    "description": "Evolution by natural selection explains how inherited variation and differential reproductive success shape the diversity of life over generations."
+    "description": "Evolution by natural selection explains how inherited variation and differential reproductive success shape the diversity of life over generations.",
+    "wiki": "https://en.wikipedia.org/wiki/Evolution"
   },
   {
     "id": "dna",
@@ -118,7 +128,8 @@
     "icon": "🧬",
     "featured": false,
     "short": "The molecular blueprint of life.",
-    "description": "The double-helix model of DNA revealed a structure capable of storing and copying genetic information, transforming biology and medicine."
+    "description": "The double-helix model of DNA revealed a structure capable of storing and copying genetic information, transforming biology and medicine.",
+    "wiki": "https://en.wikipedia.org/wiki/DNA"
   },
   {
     "id": "moon",
@@ -129,7 +140,8 @@
     "icon": "🌙",
     "featured": true,
     "short": "Humanity's first steps on another world.",
-    "description": "Apollo 11 landed astronauts Neil Armstrong and Buzz Aldrin on the Moon in July 1969, a defining moment in space exploration."
+    "description": "Apollo 11 landed astronauts Neil Armstrong and Buzz Aldrin on the Moon in July 1969, a defining moment in space exploration.",
+    "wiki": "https://en.wikipedia.org/wiki/Apollo_11"
   },
   {
     "id": "apollo",
@@ -140,7 +152,8 @@
     "icon": "🚀",
     "featured": false,
     "short": "A bold engineering journey to the Moon.",
-    "description": "NASA's Apollo program mobilized scientific, industrial and engineering expertise to land humans on the Moon and return them safely."
+    "description": "NASA's Apollo program mobilized scientific, industrial and engineering expertise to land humans on the Moon and return them safely.",
+    "wiki": "https://en.wikipedia.org/wiki/Apollo_program"
   },
   {
     "id": "renaissance",
@@ -151,7 +164,8 @@
     "icon": "🎨",
     "featured": true,
     "short": "Art, inquiry and ideas flourished.",
-    "description": "The Renaissance was a period of renewed interest in classical learning, artistic experimentation and human-centered inquiry across Europe."
+    "description": "The Renaissance was a period of renewed interest in classical learning, artistic experimentation and human-centered inquiry across Europe.",
+    "wiki": "https://en.wikipedia.org/wiki/Renaissance"
   },
   {
     "id": "industrial",
@@ -162,7 +176,8 @@
     "icon": "🏭",
     "featured": true,
     "short": "Machines transformed work and society.",
-    "description": "The Industrial Revolution began a shift toward mechanized manufacturing, new energy systems, urbanization and modern industrial economies."
+    "description": "The Industrial Revolution began a shift toward mechanized manufacturing, new energy systems, urbanization and modern industrial economies.",
+    "wiki": "https://en.wikipedia.org/wiki/Industrial_Revolution"
   },
   {
     "id": "steam",
@@ -173,7 +188,8 @@
     "icon": "⚙️",
     "featured": false,
     "short": "A new source of mechanical power.",
-    "description": "Improvements to the steam engine made reliable mechanical power available for mines, factories, railways and ships."
+    "description": "Improvements to the steam engine made reliable mechanical power available for mines, factories, railways and ships.",
+    "wiki": "https://en.wikipedia.org/wiki/Steam_engine"
   },
   {
     "id": "worldwar2",
@@ -184,7 +200,8 @@
     "icon": "🕊️",
     "featured": false,
     "short": "A conflict that reshaped the modern world.",
-    "description": "World War II was a global conflict that transformed geopolitics, technology, international institutions and societies."
+    "description": "World War II was a global conflict that transformed geopolitics, technology, international institutions and societies.",
+    "wiki": "https://en.wikipedia.org/wiki/World_War_II"
   },
   {
     "id": "transistor",
@@ -195,7 +212,8 @@
     "icon": "🔌",
     "featured": false,
     "short": "The tiny switch behind modern electronics.",
-    "description": "The transistor made compact, reliable electronic switching and amplification possible, enabling modern computers and digital devices."
+    "description": "The transistor made compact, reliable electronic switching and amplification possible, enabling modern computers and digital devices.",
+    "wiki": "https://en.wikipedia.org/wiki/Transistor"
   },
   {
     "id": "semiconductor",
@@ -206,7 +224,8 @@
     "icon": "▦",
     "featured": false,
     "short": "Materials at the heart of digital devices.",
-    "description": "Semiconductor materials can control electrical current, making them essential to transistors, integrated circuits, sensors and processors."
+    "description": "Semiconductor materials can control electrical current, making them essential to transistors, integrated circuits, sensors and processors.",
+    "wiki": "https://en.wikipedia.org/wiki/Semiconductor"
   },
   {
     "id": "smartphone",
@@ -217,7 +236,8 @@
     "icon": "📱",
     "featured": true,
     "short": "A computer and camera in your pocket.",
-    "description": "The modern smartphone combines mobile communication, computing, cameras, sensors and Internet access in a pocket-sized device."
+    "description": "The modern smartphone combines mobile communication, computing, cameras, sensors and Internet access in a pocket-sized device.",
+    "wiki": "https://en.wikipedia.org/wiki/Smartphone"
   },
   {
     "id": "climate",
@@ -228,7 +248,8 @@
     "icon": "🌍",
     "featured": true,
     "short": "A changing climate with global consequences.",
-    "description": "Human-driven climate change is primarily caused by greenhouse gas emissions from energy use, industry, agriculture and land-use change."
+    "description": "Human-driven climate change is primarily caused by greenhouse gas emissions from energy use, industry, agriculture and land-use change.",
+    "wiki": "https://en.wikipedia.org/wiki/Climate_change"
   },
   {
     "id": "darwin",
@@ -239,7 +260,8 @@
     "icon": "🐦",
     "featured": false,
     "short": "Natural selection changed biology.",
-    "description": "Charles Darwin developed the theory of evolution by natural selection, providing a unifying explanation for the diversity of life."
+    "description": "Charles Darwin developed the theory of evolution by natural selection, providing a unifying explanation for the diversity of life.",
+    "wiki": "https://en.wikipedia.org/wiki/Charles_Darwin"
   },
   {
     "id": "vaccines",
@@ -250,7 +272,8 @@
     "icon": "💉",
     "featured": false,
     "short": "Training the immune system to prevent disease.",
-    "description": "Vaccination uses a biological preparation to stimulate immune protection against infectious diseases, preventing illness and saving lives."
+    "description": "Vaccination uses a biological preparation to stimulate immune protection against infectious diseases, preventing illness and saving lives.",
+    "wiki": "https://en.wikipedia.org/wiki/Vaccination"
   },
   {
     "id": "gutenberg",
@@ -261,7 +284,8 @@
     "icon": "🖋️",
     "featured": false,
     "short": "A key figure in European printing history.",
-    "description": "Gutenberg developed a practical movable-type printing system in Europe, helping make books more widely available."
+    "description": "Gutenberg developed a practical movable-type printing system in Europe, helping make books more widely available.",
+    "wiki": "https://en.wikipedia.org/wiki/Johannes_Gutenberg"
   },
   {
     "id": "cervantes",
@@ -272,7 +296,8 @@
     "icon": "📖",
     "featured": false,
     "short": "Author of Don Quixote.",
-    "description": "Cervantes wrote Don Quixote, a landmark work often considered one of the foundations of the modern novel."
+    "description": "Cervantes wrote Don Quixote, a landmark work often considered one of the foundations of the modern novel.",
+    "wiki": "https://en.wikipedia.org/wiki/Miguel_de_Cervantes"
   },
   {
     "id": "internetprotocol",
@@ -283,7 +308,8 @@
     "icon": "🔗",
     "featured": false,
     "short": "The common language of the Internet.",
-    "description": "TCP/IP is the foundational suite of communication protocols that allows diverse networks and devices to exchange data."
+    "description": "TCP/IP is the foundational suite of communication protocols that allows diverse networks and devices to exchange data.",
+    "wiki": "https://en.wikipedia.org/wiki/Internet_protocol_suite"
   },
   {
     "id": "satellite",
@@ -294,7 +320,8 @@
     "icon": "🛰️",
     "featured": false,
     "short": "Orbiting tools for a connected planet.",
-    "description": "Artificial satellites support communication, navigation, weather forecasting, Earth observation and scientific research."
+    "description": "Artificial satellites support communication, navigation, weather forecasting, Earth observation and scientific research.",
+    "wiki": "https://en.wikipedia.org/wiki/Artificial_satellite"
   },
   {
     "id": "navigation",
@@ -305,7 +332,8 @@
     "icon": "📍",
     "featured": false,
     "short": "Precise positioning from space.",
-    "description": "The Global Positioning System uses satellite signals to provide positioning, navigation and timing services around the world."
+    "description": "The Global Positioning System uses satellite signals to provide positioning, navigation and timing services around the world.",
+    "wiki": "https://en.wikipedia.org/wiki/Global_Positioning_System"
   },
   {
     "id": "printingreform",
@@ -316,7 +344,8 @@
     "icon": "📚",
     "featured": false,
     "short": "A movement transformed by printed ideas.",
-    "description": "The Protestant Reformation reshaped European religious and political life. The printing press helped pamphlets and translations circulate widely."
+    "description": "The Protestant Reformation reshaped European religious and political life. The printing press helped pamphlets and translations circulate widely.",
+    "wiki": "https://en.wikipedia.org/wiki/Reformation"
   },
   {
     "id": "globalization",
@@ -327,7 +356,8 @@
     "icon": "🌏",
     "featured": false,
     "short": "People, economies and cultures interconnect.",
-    "description": "Globalization describes the growing connections among countries through trade, technology, migration, culture and communication."
+    "description": "Globalization describes the growing connections among countries through trade, technology, migration, culture and communication.",
+    "wiki": "https://en.wikipedia.org/wiki/Globalization"
   },
   {
     "id": "agriculture",
