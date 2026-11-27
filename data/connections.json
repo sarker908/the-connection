@@ -804,12 +804,6 @@
     "label": "Used fiction and essays to challenge social restrictions"
   },
   {
-    "id": "e135",
-    "from": "begumrokeya",
-    "to": "dhaka",
-    "label": "Her legacy is commemorated across Bangladesh"
-  },
-  {
     "id": "e136",
     "from": "battleplassey",
     "to": "mughal",
@@ -824,13 +818,13 @@
   {
     "id": "e138",
     "from": "battleplassey",
-    "to": "bengal",
+    "to": "bengalregion",
     "label": "A turning point in the political history of Bengal"
   },
   {
     "id": "e139",
     "from": "permanentsettlement",
-    "to": "bengal",
+    "to": "bengalregion",
     "label": "Reshaped landholding and rural society in Bengal"
   },
   {
@@ -848,7 +842,7 @@
   {
     "id": "e142",
     "from": "partition1905",
-    "to": "bengal",
+    "to": "bengalregion",
     "label": "Redrew the political map of Bengal"
   },
   {
@@ -860,7 +854,7 @@
   {
     "id": "e144",
     "from": "swadeshi",
-    "to": "bengal",
+    "to": "bengalregion",
     "label": "Mobilised public opposition to the 1905 partition"
   },
   {
@@ -874,12 +868,6 @@
     "from": "somapura",
     "to": "buddhism",
     "label": "A major centre of Buddhist learning and practice"
-  },
-  {
-    "id": "e147",
-    "from": "somapura",
-    "to": "sundarbans",
-    "label": "Both are part of Bangladesh's diverse cultural and natural heritage"
   },
   {
     "id": "e148",
@@ -938,7 +926,7 @@
   {
     "id": "e157",
     "from": "bengalfamine1943",
-    "to": "bengal",
+    "to": "bengalregion",
     "label": "Devastated communities across Bengal"
   },
   {
@@ -946,5 +934,35 @@
     "from": "bengalfamine1943",
     "to": "dhaka",
     "label": "Affected the wider Bengal region, including areas now in Bangladesh"
+  },
+  {
+    "id": "e159",
+    "from": "somapura",
+    "to": "bengalregion",
+    "label": "A major monastery in the historic Bengal region"
+  },
+  {
+    "id": "e160",
+    "from": "dhaka",
+    "to": "bengalregion",
+    "label": "A major historic city in the Bengal delta"
+  },
+  {
+    "id": "e161",
+    "from": "pala",
+    "to": "bengalregion",
+    "label": "The dynasty ruled much of the Bengal region"
+  },
+  {
+    "id": "e162",
+    "from": "language",
+    "to": "bengalregion",
+    "label": "The language movement emerged in eastern Bengal"
+  },
+  {
+    "id": "e163",
+    "from": "liberation",
+    "to": "bengalregion",
+    "label": "The modern state of Bangladesh emerged in the eastern Bengal region"
   }
 ]
