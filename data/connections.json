@@ -236,12 +236,12 @@
   {
     "id": "e40",
     "from": "einstein",
-    "to": "gps",
+    "to": "navigation",
     "label": "Relativity corrections improve satellite timing"
   },
   {
     "id": "e41",
-    "from": "gps",
+    "from": "navigation",
     "to": "satellite",
     "label": "Uses satellite signals"
   }
