@@ -1,0 +1,248 @@
+[
+  {
+    "id": "e1",
+    "from": "internet",
+    "to": "www",
+    "label": "The Web runs on the Internet"
+  },
+  {
+    "id": "e2",
+    "from": "internet",
+    "to": "internetprotocol",
+    "label": "Uses TCP/IP protocols"
+  },
+  {
+    "id": "e3",
+    "from": "internet",
+    "to": "smartphone",
+    "label": "Connects mobile devices"
+  },
+  {
+    "id": "e4",
+    "from": "internet",
+    "to": "globalization",
+    "label": "Accelerated global communication"
+  },
+  {
+    "id": "e5",
+    "from": "internet",
+    "to": "ai",
+    "label": "Provides data and computing infrastructure"
+  },
+  {
+    "id": "e6",
+    "from": "www",
+    "to": "turing",
+    "label": "Built on foundations of computing theory"
+  },
+  {
+    "id": "e7",
+    "from": "computer",
+    "to": "turing",
+    "label": "Grounded in theoretical computation"
+  },
+  {
+    "id": "e8",
+    "from": "computer",
+    "to": "transistor",
+    "label": "Made practical by transistors"
+  },
+  {
+    "id": "e9",
+    "from": "transistor",
+    "to": "semiconductor",
+    "label": "Uses semiconductor materials"
+  },
+  {
+    "id": "e10",
+    "from": "semiconductor",
+    "to": "smartphone",
+    "label": "Powers modern mobile devices"
+  },
+  {
+    "id": "e11",
+    "from": "ai",
+    "to": "computer",
+    "label": "Depends on computational machines"
+  },
+  {
+    "id": "e12",
+    "from": "ai",
+    "to": "turing",
+    "label": "Inspired by foundational questions about machine intelligence"
+  },
+  {
+    "id": "e13",
+    "from": "printing",
+    "to": "gutenberg",
+    "label": "Developed by"
+  },
+  {
+    "id": "e14",
+    "from": "printing",
+    "to": "renaissance",
+    "label": "Spread Renaissance ideas"
+  },
+  {
+    "id": "e15",
+    "from": "printing",
+    "to": "printingreform",
+    "label": "Helped circulate reform ideas"
+  },
+  {
+    "id": "e16",
+    "from": "printing",
+    "to": "cervantes",
+    "label": "Enabled wider circulation of literature"
+  },
+  {
+    "id": "e17",
+    "from": "renaissance",
+    "to": "newton",
+    "label": "Helped shape the scientific culture"
+  },
+  {
+    "id": "e18",
+    "from": "newton",
+    "to": "einstein",
+    "label": "Classical physics later extended by"
+  },
+  {
+    "id": "e19",
+    "from": "einstein",
+    "to": "moon",
+    "label": "Relativity informs precision space navigation"
+  },
+  {
+    "id": "e20",
+    "from": "electricity",
+    "to": "industrial",
+    "label": "Powered industrial technologies"
+  },
+  {
+    "id": "e21",
+    "from": "electricity",
+    "to": "computer",
+    "label": "Powers electronic computing"
+  },
+  {
+    "id": "e22",
+    "from": "industrial",
+    "to": "steam",
+    "label": "Driven by improved steam power"
+  },
+  {
+    "id": "e23",
+    "from": "steam",
+    "to": "industrial",
+    "label": "Powered factories and transport"
+  },
+  {
+    "id": "e24",
+    "from": "worldwar2",
+    "to": "computer",
+    "label": "Accelerated computing research"
+  },
+  {
+    "id": "e25",
+    "from": "worldwar2",
+    "to": "turing",
+    "label": "Turing contributed to wartime codebreaking"
+  },
+  {
+    "id": "e26",
+    "from": "worldwar2",
+    "to": "transistor",
+    "label": "Postwar research helped advance electronics"
+  },
+  {
+    "id": "e27",
+    "from": "apollo",
+    "to": "moon",
+    "label": "Achieved the first crewed lunar landing"
+  },
+  {
+    "id": "e28",
+    "from": "apollo",
+    "to": "computer",
+    "label": "Relied on onboard guidance computers"
+  },
+  {
+    "id": "e29",
+    "from": "moon",
+    "to": "satellite",
+    "label": "Advanced space exploration"
+  },
+  {
+    "id": "e30",
+    "from": "satellite",
+    "to": "navigation",
+    "label": "Enables satellite navigation"
+  },
+  {
+    "id": "e31",
+    "from": "navigation",
+    "to": "smartphone",
+    "label": "Location services on mobile devices"
+  },
+  {
+    "id": "e32",
+    "from": "evolution",
+    "to": "darwin",
+    "label": "Explained by natural selection"
+  },
+  {
+    "id": "e33",
+    "from": "evolution",
+    "to": "dna",
+    "label": "Genetics later revealed the molecular basis"
+  },
+  {
+    "id": "e34",
+    "from": "darwin",
+    "to": "vaccines",
+    "label": "Both transformed biological science"
+  },
+  {
+    "id": "e35",
+    "from": "climate",
+    "to": "electricity",
+    "label": "Energy systems shape emissions"
+  },
+  {
+    "id": "e36",
+    "from": "climate",
+    "to": "industrial",
+    "label": "Industrialization increased fossil fuel use"
+  },
+  {
+    "id": "e37",
+    "from": "globalization",
+    "to": "smartphone",
+    "label": "Mobile connectivity links societies"
+  },
+  {
+    "id": "e38",
+    "from": "globalization",
+    "to": "www",
+    "label": "Web connects people and economies"
+  },
+  {
+    "id": "e39",
+    "from": "newton",
+    "to": "apollo",
+    "label": "Classical mechanics guides orbital calculations"
+  },
+  {
+    "id": "e40",
+    "from": "einstein",
+    "to": "gps",
+    "label": "Relativity corrections improve satellite timing"
+  },
+  {
+    "id": "e41",
+    "from": "gps",
+    "to": "satellite",
+    "label": "Uses satellite signals"
+  }
+]
