@@ -8,7 +8,7 @@
 - **286 relationships** connecting subjects across disciplines
 - **132 historical milestones**
 - **81 biographical profiles**
-- **295 source records** in the structured source register
+- **304 source records** in the structured source register
 
 The atlas includes global history, science, culture and technology alongside a deeper collection on Bengal and Bangladesh.
 
@@ -24,7 +24,7 @@ The atlas includes global history, science, culture and technology alongside a d
 - Curated reading journeys that connect subjects into guided stories
 - Wikipedia article extracts surfaced in subject panels when available
 - A structured source register linking subjects to general references, historical references and biographical references
-- Publisher and source-role labels shown in subject readers, with a clear note distinguishing linked references from independently verified claims
+- Publisher, source-type and source-role labels shown in subject readers, with a clear note distinguishing linked references from independently verified claims
 - Personal saved collection stored in browser LocalStorage
 - Responsive layout for desktop and mobile
 
