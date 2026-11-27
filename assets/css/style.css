@@ -430,3 +430,9 @@ button,a{-webkit-tap-highlight-color:transparent}
 /* Keep the selected collection and its subject list in view after a collection is chosen */
 .collection-results{scroll-margin-top:88px}
 @media(prefers-reduced-motion:reduce){html:focus-within{scroll-behavior:auto}}
+
+
+/* Source register: clear provenance without implying an automatic quality score */
+.reader-source-link small{display:block;margin-top:6px;color:var(--muted);font:8px/1.65 var(--mono);letter-spacing:.15px}
+.reader-sources>.reader-section-label{margin-bottom:15px}
+.reader-sources .reader-note{max-width:760px;margin-top:18px;line-height:1.8}
