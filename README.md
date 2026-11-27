@@ -18,7 +18,7 @@ The dataset includes global history and science, alongside subjects from Bengal 
 - Search across titles, descriptions, categories and subject types
 - Detailed subject panels with reference links and connected subjects
 - Connection Finder that traces a route between two subjects
-- Chronological timeline
+- Curated reading journeys that connect subjects into guided stories\n- Wikipedia article extracts surfaced in subject panels when available\n- Chronological timeline
 - Personal saved collection stored in browser LocalStorage
 - Responsive layout for desktop and mobile
 
