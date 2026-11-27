@@ -29,14 +29,16 @@
       "keyTerms",
       "relatedQuestions",
       "lastReviewed",
-      "reviewerNotes"
+      "reviewerNotes",
+      "lastResearchUpdate"
     ]
   },
   "contentStatuses": {
     "starter": "Template-based introduction. Substantive research and rewriting required.",
     "review-pending": "Entry exists but has not passed a documented editorial review.",
     "reviewed": "A named review pass checked factual claims, dates, wording and references.",
-    "needs-update": "Previously reviewed entry needs checking because evidence or context may have changed."
+    "needs-update": "Previously reviewed entry needs checking because evidence or context may have changed.",
+    "research-enriched": "Entry rewritten or expanded against named references; still awaiting independent subject-expert review."
   },
   "sourceRequirements": {
     "baseline": "At least two independent, subject-specific sources for reviewed entries where practical.",
