@@ -3872,7 +3872,8 @@
         "internetprotocol"
       ],
       "roles": [
-        "Technical and historical overview of Internet development and TCP/IP"
+        "Technical and historical overview of Internet development and TCP/IP",
+        "First-person historical account of internetworking, TCP/IP and network development"
       ],
       "sourceClass": "institutional"
     },
@@ -3898,7 +3899,8 @@
         "ai"
       ],
       "roles": [
-        "Academic overview and definition of artificial intelligence"
+        "Academic overview and definition of artificial intelligence",
+        "Definition and overview of AI capabilities and current terminology"
       ],
       "sourceClass": "academic"
     },
@@ -3925,7 +3927,8 @@
         "dna"
       ],
       "roles": [
-        "Institutional explanation of DNA structure and discovery"
+        "Institutional explanation of DNA structure and discovery",
+        "DNA composition, base pairing, double-helix structure and genetic information"
       ],
       "sourceClass": "institutional"
     },
@@ -16610,6 +16613,227 @@
         "atlas_bangladesh_history_bangladesh_liberation_war"
       ],
       "sourceClass": "encyclopedia"
+    },
+    {
+      "id": "src-1821",
+      "title": "Prime Number",
+      "publisher": "Wolfram MathWorld",
+      "url": "https://mathworld.wolfram.com/PrimeNumber.html",
+      "roles": [
+        "Definition, examples, fundamental theorem of arithmetic and related prime-number results"
+      ],
+      "topicIds": [
+        "atlas_number_theory_prime_numbers"
+      ],
+      "sourceClass": "encyclopedia"
+    },
+    {
+      "id": "src-1822",
+      "title": "Four Basic Examples: Prime Numbers",
+      "publisher": "American Mathematical Society",
+      "url": "https://www.ams.org/bookstore/pspdf/amstext-27-prev.pdf",
+      "roles": [
+        "Academic textbook treatment of divisibility, primes and elementary number theory"
+      ],
+      "topicIds": [
+        "atlas_number_theory_prime_numbers"
+      ],
+      "sourceClass": "academic"
+    },
+    {
+      "id": "src-1823",
+      "title": "University Physics Volume 3, Chapter 7 Summary",
+      "publisher": "OpenStax",
+      "url": "https://openstax.org/books/university-physics-volume-3/pages/7-summary",
+      "roles": [
+        "Textbook reference for wave functions, uncertainty and the Schrödinger equation"
+      ],
+      "topicIds": [
+        "quantum"
+      ],
+      "sourceClass": "academic"
+    },
+    {
+      "id": "src-1824",
+      "title": "Quantum Mechanics Distilled",
+      "publisher": "Quantum Country",
+      "url": "https://quantum.country/qm",
+      "roles": [
+        "Accessible instructional treatment of core quantum-mechanical ideas"
+      ],
+      "topicIds": [
+        "quantum"
+      ],
+      "sourceClass": "academic"
+    },
+    {
+      "id": "src-1825",
+      "title": "18.1 Understanding Evolution",
+      "publisher": "OpenStax Biology 2e",
+      "url": "https://openstax.org/books/biology-2e/pages/18-1-understanding-evolution",
+      "roles": [
+        "Textbook overview of natural selection, adaptation, evidence and common misconceptions"
+      ],
+      "topicIds": [
+        "evolution"
+      ],
+      "sourceClass": "academic"
+    },
+    {
+      "id": "src-1826",
+      "title": "On the Origin of Species, First Edition (1859)",
+      "publisher": "Darwin Online, University of Cambridge",
+      "url": "https://darwin-online.org.uk/converted/published/1859_Origin_F373/1859_Origin_F373.html",
+      "roles": [
+        "Primary historical source for Darwin's 1859 argument and its original context"
+      ],
+      "topicIds": [
+        "evolution"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1827",
+      "title": "The Structure of DNA",
+      "publisher": "NCBI Bookshelf, National Library of Medicine",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK9913/",
+      "roles": [
+        "Molecular biology textbook reference for DNA structure, replication and gene expression"
+      ],
+      "topicIds": [
+        "dna"
+      ],
+      "sourceClass": "academic"
+    },
+    {
+      "id": "src-1828",
+      "title": "Evidence for Climate Change",
+      "publisher": "NASA Science",
+      "url": "https://science.nasa.gov/climate-change/evidence/",
+      "roles": [
+        "Observed indicators of a warming climate and evidence from multiple measurement systems"
+      ],
+      "topicIds": [
+        "climate"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1829",
+      "title": "AR6 Synthesis Report: Climate Change 2023",
+      "publisher": "Intergovernmental Panel on Climate Change",
+      "url": "https://www.ipcc.ch/report/sixth-assessment-report-cycle/2023/",
+      "roles": [
+        "International scientific assessment synthesizing physical science, impacts, adaptation and mitigation"
+      ],
+      "topicIds": [
+        "climate"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1830",
+      "title": "A Brief History of the Internet",
+      "publisher": "Internet Society",
+      "url": "https://www.internetsociety.org/internet/history-internet/brief-history-internet/",
+      "roles": [
+        "Historical account by key Internet pioneers of packet switching, ARPANET and Internet architecture"
+      ],
+      "topicIds": [
+        "internet"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1831",
+      "title": "AI Risk Management Framework",
+      "publisher": "National Institute of Standards and Technology",
+      "url": "https://www.nist.gov/itl/ai-risk-management-framework",
+      "roles": [
+        "Framework for identifying and managing risks in AI design, development, use and evaluation"
+      ],
+      "topicIds": [
+        "ai"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1832",
+      "title": "Vaccines and immunization: What is vaccination?",
+      "publisher": "World Health Organization",
+      "url": "https://www.who.int/news-room/questions-and-answers/item/vaccines-and-immunization-what-is-vaccination",
+      "roles": [
+        "WHO explanation of vaccination, immune response and vaccine delivery"
+      ],
+      "topicIds": [
+        "vaccines"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1833",
+      "title": "Explaining How Vaccines Work",
+      "publisher": "Centers for Disease Control and Prevention",
+      "url": "https://www.cdc.gov/vaccines/basics/explaining-how-vaccines-work.html",
+      "roles": [
+        "Mechanisms of vaccine-induced immune protection and limits of protection"
+      ],
+      "topicIds": [
+        "vaccines"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1834",
+      "title": "This Dynamic Earth: The Story of Plate Tectonics",
+      "publisher": "U.S. Geological Survey",
+      "url": "https://pubs.usgs.gov/publication/7000097",
+      "roles": [
+        "USGS synthesis of the development, evidence and processes of plate tectonics"
+      ],
+      "topicIds": [
+        "plate"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1835",
+      "title": "What is a tectonic plate?",
+      "publisher": "U.S. Geological Survey",
+      "url": "https://pubs.usgs.gov/gip/dynamic/tectonic.html",
+      "roles": [
+        "Definitions, composition, scale and movement of lithospheric plates"
+      ],
+      "topicIds": [
+        "plate"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1836",
+      "title": "Cryptographic Standards and Guidelines",
+      "publisher": "National Institute of Standards and Technology",
+      "url": "https://csrc.nist.gov/Projects/cryptographic-standards-and-guidelines",
+      "roles": [
+        "NIST standards and guidance covering encryption, hashes, signatures, key management and post-quantum cryptography"
+      ],
+      "topicIds": [
+        "cryptography"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1837",
+      "title": "Advanced Encryption Standard (AES), FIPS 197",
+      "publisher": "National Institute of Standards and Technology",
+      "url": "https://csrc.nist.gov/pubs/fips/197/final",
+      "roles": [
+        "Primary technical standard specifying the AES symmetric block cipher"
+      ],
+      "topicIds": [
+        "cryptography"
+      ],
+      "sourceClass": "institutional"
     }
   ]
 }
