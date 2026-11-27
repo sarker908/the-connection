@@ -357,3 +357,12 @@ button,a{-webkit-tap-highlight-color:transparent}
 }
 @media(max-width:390px){.journey-card{grid-template-columns:92px minmax(0,1fr)}.journey-card-image{min-height:220px}.journey-card-body{padding:11px}.journey-card-body>strong{font-size:17px}}
 @media(prefers-reduced-motion:reduce){.journey-card,.journey-card-image{transition:none}}
+
+
+/* Stage 5: browse the complete subject catalogue */
+.collection-more{display:flex;align-items:center;justify-content:center;gap:14px;flex-wrap:wrap;padding:25px 0 5px;color:var(--muted);font:9px var(--mono);letter-spacing:.35px}
+.collection-expand-button{border:1px solid #c9c2b5;background:transparent;color:var(--ink);padding:12px 19px;font:10px var(--mono);letter-spacing:.3px;cursor:pointer;transition:background .18s,color .18s,border-color .18s}
+.collection-expand-button:hover{background:var(--ink);border-color:var(--ink);color:var(--paper)}
+.collection-expand-button:focus-visible{outline:2px solid var(--red);outline-offset:3px}
+.collection-tile-description{max-width:32ch}
+@media(max-width:650px){.collection-more{flex-direction:column;gap:10px}.collection-expand-button{width:100%;padding:14px}}
