@@ -152,8 +152,19 @@ function renderTimelineItems(){
 }
 function renderPeople(){
  const grid=$("#peopleGrid");if(!grid)return;
- grid.innerHTML=historyData.people.map((p,i)=>'<article class="history-person"><div class="history-person-image" id="personImage'+i+'"></div><div class="history-person-index">'+String(i+1).padStart(2,"0")+' / '+esc(p.life)+'</div><h3>'+esc(p.name)+'</h3><p class="history-person-role">'+esc(p.role)+'</p><p class="history-person-bio">'+esc(p.bio)+'</p><div class="history-person-footer"><a href="'+esc(p.url)+'" target="_blank" rel="noopener noreferrer">'+esc(p.source)+' ↗</a>'+(nodes.some(n=>n.id===p.topicId)?'<button data-topic="'+esc(p.topicId)+'">Related subject</button>':'')+'</div></article>').join("");
- historyData.people.forEach((p,i)=>loadMedia({id:"person-"+i,title:p.name},$("#personImage"+i)));
+ const regionSelect=$("#peopleRegionSelect");
+ if(regionSelect){
+  const regions=[...new Set(historyData.people.map(p=>p.region||"Global"))].sort((a,b)=>a.localeCompare(b));
+  const current=regionSelect.value||"all";
+  regionSelect.innerHTML='<option value="all">All regions</option>'+regions.map(r=>'<option value="'+esc(r)+'">'+esc(r)+'</option>').join("");
+  regionSelect.value=regions.includes(current)?current:"all";
+  regionSelect.onchange=renderPeople;
+ }
+ const selected=regionSelect?regionSelect.value:"all";
+ const people=historyData.people.filter(p=>selected==="all"||(p.region||"Global")===selected);
+ grid.innerHTML=people.map((p,i)=>'<article class="history-person"><div class="history-person-image" id="personImage'+i+'"></div><div class="history-person-index">'+esc(p.region||"Global")+' · '+String(i+1).padStart(2,"0")+' / '+esc(p.life)+'</div><h3>'+esc(p.name)+'</h3><p class="history-person-role">'+esc(p.role)+'</p><p class="history-person-bio">'+esc(p.bio)+'</p><div class="history-person-footer"><a href="'+esc(p.url)+'" target="_blank" rel="noopener noreferrer">'+esc(p.source)+' ↗</a>'+(nodes.some(n=>n.id===p.topicId)?'<button data-topic="'+esc(p.topicId)+'">Related subject</button>':'')+'</div></article>').join("")||'<p class="history-empty">No profiles in this region yet.</p>';
+ $("#peopleCount").textContent=people.length+" people";
+ people.forEach((p,i)=>loadMedia({id:"person-"+p.name.toLowerCase().replace(/[^a-z0-9]+/g,"-"),title:p.name},$("#personImage"+i)));
  grid.querySelectorAll("[data-topic]").forEach(btn=>btn.onclick=()=>openTopic(btn.dataset.topic));
 }
 function search(q){const query=q.trim().toLowerCase();const results=nodes.filter(n=>(n.title+" "+n.description+" "+n.category+" "+n.type).toLowerCase().includes(query)).slice(0,15);$("#searchResults").innerHTML=results.length?results.map(n=>'<div class="search-result" data-id="'+esc(n.id)+'"><strong>'+esc(n.title)+'</strong><small>'+esc(n.category)+'</small></div>').join(""):'<p>No matching subject. Try a different word.</p>';document.querySelectorAll(".search-result").forEach(el=>el.onclick=()=>{closeSearch();openTopic(el.dataset.id)})}
