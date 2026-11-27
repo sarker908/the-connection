@@ -1294,5 +1294,293 @@
     "from": "languagebangla",
     "to": "nazrul",
     "label": "The language of much of Nazrul's writing"
+  },
+  {
+    "id": "e219",
+    "from": "economics",
+    "to": "industrial",
+    "label": "Explores the economic changes behind industrialisation"
+  },
+  {
+    "id": "e220",
+    "from": "economics",
+    "to": "globalization",
+    "label": "Studies the systems connecting economies"
+  },
+  {
+    "id": "e221",
+    "from": "money",
+    "to": "silkroad",
+    "label": "Made long-distance trade and exchange easier"
+  },
+  {
+    "id": "e222",
+    "from": "money",
+    "to": "economics",
+    "label": "A central institution in economic life"
+  },
+  {
+    "id": "e223",
+    "from": "inflation",
+    "to": "money",
+    "label": "Changes the purchasing power of money"
+  },
+  {
+    "id": "e224",
+    "from": "inflation",
+    "to": "industrial",
+    "label": "Can rise during periods of major economic change"
+  },
+  {
+    "id": "e225",
+    "from": "stockmarket",
+    "to": "industrial",
+    "label": "Grew alongside modern industrial corporations"
+  },
+  {
+    "id": "e226",
+    "from": "stockmarket",
+    "to": "internet",
+    "label": "Digital networks transformed financial trading"
+  },
+  {
+    "id": "e227",
+    "from": "civilengineering",
+    "to": "industrial",
+    "label": "Expanded with modern infrastructure and industry"
+  },
+  {
+    "id": "e228",
+    "from": "civilengineering",
+    "to": "rome",
+    "label": "Ancient engineering built roads, aqueducts and bridges"
+  },
+  {
+    "id": "e229",
+    "from": "steamengine",
+    "to": "industrial",
+    "label": "Powered factories, mines and transport"
+  },
+  {
+    "id": "e230",
+    "from": "steamengine",
+    "to": "faraday",
+    "label": "Part of the wider history of energy and machinery"
+  },
+  {
+    "id": "e231",
+    "from": "robotics",
+    "to": "computer",
+    "label": "Combines computation with physical machines"
+  },
+  {
+    "id": "e232",
+    "from": "robotics",
+    "to": "ai",
+    "label": "Uses intelligent systems for sensing and action"
+  },
+  {
+    "id": "e233",
+    "from": "bridge",
+    "to": "civilengineering",
+    "label": "A defining structure designed by civil engineers"
+  },
+  {
+    "id": "e234",
+    "from": "bridge",
+    "to": "rome",
+    "label": "Roman builders developed enduring bridge techniques"
+  },
+  {
+    "id": "e235",
+    "from": "irrigation",
+    "to": "agriculture",
+    "label": "Makes crop cultivation possible where rainfall is limited"
+  },
+  {
+    "id": "e236",
+    "from": "irrigation",
+    "to": "mesopotamia",
+    "label": "Water management supported early settled agriculture"
+  },
+  {
+    "id": "e237",
+    "from": "domestication",
+    "to": "agriculture",
+    "label": "Created the foundations of farming"
+  },
+  {
+    "id": "e238",
+    "from": "domestication",
+    "to": "evolution",
+    "label": "A human-directed form of biological selection"
+  },
+  {
+    "id": "e239",
+    "from": "fermentation",
+    "to": "agriculture",
+    "label": "Uses crops and other organic materials as ingredients"
+  },
+  {
+    "id": "e240",
+    "from": "fermentation",
+    "to": "writing",
+    "label": "Food production and storage shaped settled societies"
+  },
+  {
+    "id": "e241",
+    "from": "croprotation",
+    "to": "agriculture",
+    "label": "Improves the long-term productivity of farmland"
+  },
+  {
+    "id": "e242",
+    "from": "croprotation",
+    "to": "industrial",
+    "label": "Agricultural change helped support industrial societies"
+  },
+  {
+    "id": "e243",
+    "from": "telegraph",
+    "to": "electricity",
+    "label": "Uses electrical signals to transmit messages"
+  },
+  {
+    "id": "e244",
+    "from": "telegraph",
+    "to": "radio",
+    "label": "A predecessor in the history of long-distance communication"
+  },
+  {
+    "id": "e245",
+    "from": "television",
+    "to": "radio",
+    "label": "Developed from the era of electronic broadcasting"
+  },
+  {
+    "id": "e246",
+    "from": "television",
+    "to": "internet",
+    "label": "Streaming and connected screens changed how television is delivered"
+  },
+  {
+    "id": "e247",
+    "from": "broadcasting",
+    "to": "radio",
+    "label": "Radio is one of the major forms of broadcasting"
+  },
+  {
+    "id": "e248",
+    "from": "broadcasting",
+    "to": "television",
+    "label": "Television became a major broadcast medium"
+  },
+  {
+    "id": "e249",
+    "from": "mobilecommunication",
+    "to": "telephone",
+    "label": "Extends voice communication into mobile networks"
+  },
+  {
+    "id": "e250",
+    "from": "mobilecommunication",
+    "to": "smartphone",
+    "label": "Makes connected communication portable"
+  },
+  {
+    "id": "e251",
+    "from": "archaeology",
+    "to": "mesopotamia",
+    "label": "Studies material remains of early civilisations"
+  },
+  {
+    "id": "e252",
+    "from": "archaeology",
+    "to": "writing",
+    "label": "Uses inscriptions and objects to investigate the past"
+  },
+  {
+    "id": "e253",
+    "from": "rosettastone",
+    "to": "writing",
+    "label": "Its inscriptions helped decipher an ancient writing system"
+  },
+  {
+    "id": "e254",
+    "from": "rosettastone",
+    "to": "ancientgreece",
+    "label": "Includes a Greek text alongside Egyptian scripts"
+  },
+  {
+    "id": "e255",
+    "from": "pompeii",
+    "to": "rome",
+    "label": "Preserves evidence of everyday life in the Roman world"
+  },
+  {
+    "id": "e256",
+    "from": "pompeii",
+    "to": "plate",
+    "label": "A volcanic eruption buried the ancient city"
+  },
+  {
+    "id": "e257",
+    "from": "terracottawarriors",
+    "to": "rome",
+    "label": "Offers a comparison with other ancient imperial powers"
+  },
+  {
+    "id": "e258",
+    "from": "terracottawarriors",
+    "to": "archaeology",
+    "label": "A major discovery studied through archaeological methods"
+  },
+  {
+    "id": "e259",
+    "from": "university",
+    "to": "dhakauniversity",
+    "label": "A prominent example of a modern university in Bengal"
+  },
+  {
+    "id": "e260",
+    "from": "university",
+    "to": "renaissance",
+    "label": "Universities helped circulate Renaissance scholarship"
+  },
+  {
+    "id": "e261",
+    "from": "literacy",
+    "to": "printing",
+    "label": "Printing helped expand access to written material"
+  },
+  {
+    "id": "e262",
+    "from": "literacy",
+    "to": "university",
+    "label": "Literacy supports participation in advanced education"
+  },
+  {
+    "id": "e263",
+    "from": "library",
+    "to": "writing",
+    "label": "Libraries preserve written records and knowledge"
+  },
+  {
+    "id": "e264",
+    "from": "library",
+    "to": "internet",
+    "label": "Digital networks have expanded access to collections"
+  },
+  {
+    "id": "e265",
+    "from": "mooc",
+    "to": "internet",
+    "label": "Uses online networks to deliver learning"
+  },
+  {
+    "id": "e266",
+    "from": "mooc",
+    "to": "university",
+    "label": "A newer model for widening access to higher education"
   }
 ]
