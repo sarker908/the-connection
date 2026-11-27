@@ -1582,5 +1582,155 @@
     "from": "mooc",
     "to": "university",
     "label": "A newer model for widening access to higher education"
+  },
+  {
+    "id": "e267",
+    "from": "psychology",
+    "to": "cognitivepsychology",
+    "label": "Cognitive psychology examines mental processes within psychology"
+  },
+  {
+    "id": "e268",
+    "from": "psychology",
+    "to": "behaviorism",
+    "label": "Different approaches to explaining human behaviour"
+  },
+  {
+    "id": "e269",
+    "from": "psychology",
+    "to": "socialpsychology",
+    "label": "Social psychology studies people in social contexts"
+  },
+  {
+    "id": "e270",
+    "from": "psychology",
+    "to": "psychoanalysis",
+    "label": "Psychoanalysis shaped an influential tradition in psychology"
+  },
+  {
+    "id": "e271",
+    "from": "architecture",
+    "to": "bauhaus",
+    "label": "The Bauhaus helped shape modern architecture and design"
+  },
+  {
+    "id": "e272",
+    "from": "architecture",
+    "to": "gothicarchitecture",
+    "label": "Gothic architecture is a major historical architectural tradition"
+  },
+  {
+    "id": "e273",
+    "from": "architecture",
+    "to": "modernism",
+    "label": "Modernism reshaped architecture for industrial society"
+  },
+  {
+    "id": "e274",
+    "from": "architecture",
+    "to": "sustainablearchitecture",
+    "label": "Sustainable design applies environmental thinking to buildings"
+  },
+  {
+    "id": "e275",
+    "from": "energy",
+    "to": "solarenergy",
+    "label": "Solar power is one way to convert energy into electricity"
+  },
+  {
+    "id": "e276",
+    "from": "energy",
+    "to": "windpower",
+    "label": "Wind turbines convert moving air into useful energy"
+  },
+  {
+    "id": "e277",
+    "from": "energy",
+    "to": "nuclearpower",
+    "label": "Nuclear fission releases energy used to generate electricity"
+  },
+  {
+    "id": "e278",
+    "from": "energy",
+    "to": "battery",
+    "label": "Batteries store energy for later use"
+  },
+  {
+    "id": "e279",
+    "from": "linguistics",
+    "to": "phonetics",
+    "label": "Phonetics studies the sounds used in language"
+  },
+  {
+    "id": "e280",
+    "from": "linguistics",
+    "to": "writing_systems",
+    "label": "Writing systems represent language in visible form"
+  },
+  {
+    "id": "e281",
+    "from": "linguistics",
+    "to": "sign_language",
+    "label": "Sign languages are complete natural human languages"
+  },
+  {
+    "id": "e282",
+    "from": "linguistics",
+    "to": "translation",
+    "label": "Translation carries meaning between languages"
+  },
+  {
+    "id": "e283",
+    "from": "cinema",
+    "to": "animation",
+    "label": "Animation is one of cinema's visual storytelling forms"
+  },
+  {
+    "id": "e284",
+    "from": "cinema",
+    "to": "documentary",
+    "label": "Documentary film uses cinema to explore real life"
+  },
+  {
+    "id": "e285",
+    "from": "cinema",
+    "to": "film_editing",
+    "label": "Editing shapes the structure and rhythm of cinema"
+  },
+  {
+    "id": "e286",
+    "from": "cinema",
+    "to": "sound_recording",
+    "label": "Recorded sound transformed the cinematic experience"
+  },
+  {
+    "id": "e287",
+    "from": "writing_systems",
+    "to": "writing",
+    "label": "Writing systems developed to preserve language and information"
+  },
+  {
+    "id": "e288",
+    "from": "solarenergy",
+    "to": "climate",
+    "label": "Renewable energy can help reduce greenhouse gas emissions"
+  },
+  {
+    "id": "e289",
+    "from": "sustainablearchitecture",
+    "to": "climate",
+    "label": "Building design influences energy use and emissions"
+  },
+  {
+    "id": "e290",
+    "from": "sound_recording",
+    "to": "radio",
+    "label": "Sound recording made modern broadcasting possible"
+  },
+  {
+    "id": "e291",
+    "from": "film_editing",
+    "to": "television",
+    "label": "Editing techniques shape both film and television storytelling"
   }
 ]
