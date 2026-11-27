@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#090b12">
+  <meta name="description" content="Explore the hidden connections between ideas, inventions, discoveries and the people who changed our world.">
+  <title>The Connection | A universe of knowledge</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/style.css">
+  <script src="https://unpkg.com/cytoscape@3.30.4/dist/cytoscape.min.js"></script>
+</head>
+<body>
+  <div class="ambient ambient-one"></div><div class="ambient ambient-two"></div>
+  <header class="topbar">
+    <a class="brand" href="#"><span class="brand-mark">✳</span><span>the<span class="brand-light">connection</span><small>EXPLORE THE UNSEEN</small></span></a>
+    <nav class="main-nav"><button class="nav-link active" data-view="universe">Universe</button><button class="nav-link" data-view="explore">Explore</button><button class="nav-link" data-view="timeline">Timeline</button></nav>
+    <div class="top-actions"><button class="icon-btn" id="savedBtn" title="My discoveries">♡<span class="saved-count" id="savedCount">0</span></button><button class="search-trigger" id="searchOpen"><span>⌕</span> <span>Search anything</span><kbd>⌘ K</kbd></button></div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="eyebrow"><span class="pulse"></span> A LIVING MAP OF HUMAN KNOWLEDGE</div>
+      <h1>Everything is<br><em>connected.</em></h1>
+      <p class="hero-copy">Follow the threads between ideas, inventions, people and moments that shaped our world. One discovery leads to another.</p>
+      <div class="hero-actions"><button class="primary-btn" id="exploreBtn">Explore the universe <span>↗</span></button><button class="text-btn" id="randomBtn">Surprise me <span>✧</span></button></div>
+      <div class="hero-stats"><div><strong id="nodeStat">30</strong><span>DISCOVERIES</span></div><i></i><div><strong id="edgeStat">40</strong><span>CONNECTIONS</span></div><i></i><div><strong>06</strong><span>DOMAINS</span></div></div>
+    </section>
+
+    <section class="universe-section" id="universeSection">
+      <div class="section-heading"><div><div class="eyebrow">THE BIG PICTURE</div><h2>Knowledge universe <span class="live-dot"></span></h2><p>Move around. Zoom in. Select any glowing point to uncover its story.</p></div><div class="graph-tools"><button class="filter-chip selected" data-filter="all">All topics</button><button class="filter-chip" data-filter="Technology">Technology</button><button class="filter-chip" data-filter="Science">Science</button><button class="filter-chip" data-filter="History">History</button><button class="graph-icon" id="resetGraph" title="Reset view">⟳</button></div></div>
+      <div class="graph-shell"><div id="graph"></div><div class="graph-hint"><span class="hint-orb"></span> SELECT A NODE TO EXPLORE</div><div class="graph-legend"><span><i class="tech"></i>Technology</span><span><i class="science"></i>Science</span><span><i class="history"></i>History</span><span><i class="culture"></i>Culture</span><span><i class="geo"></i>Geography</span></div><div class="graph-controls"><button id="zoomIn">+</button><button id="zoomOut">−</button><button id="fitGraph">⌗</button></div></div>
+    </section>
+
+    <section class="below-grid" id="exploreSection">
+      <div class="section-heading compact"><div><div class="eyebrow">START SOMEWHERE</div><h2>Open a new door</h2><p>Curated starting points for your next rabbit hole.</p></div><button class="subtle-btn" id="allTopicsBtn">All discoveries ↗</button></div>
+      <div class="topic-grid" id="featuredTopics"></div>
+    </section>
+
+    <section class="connection-section">
+      <div class="connection-copy"><div class="eyebrow">FOLLOW THE THREAD</div><h2>How are two things<br><em>connected?</em></h2><p>Pick any two topics. We'll trace the chain of ideas, people and events that link them.</p></div>
+      <div class="finder-card"><label for="fromTopic">FROM</label><select id="fromTopic"></select><div class="finder-arrow">↓</div><label for="toTopic">TO</label><select id="toTopic"></select><button class="primary-btn full" id="findPath">Find the connection <span>↗</span></button><div id="pathResult" class="path-result"></div></div>
+    </section>
+
+    <section class="timeline-section" id="timelineSection"><div class="section-heading compact"><div><div class="eyebrow">THROUGH THE AGES</div><h2>A timeline of ideas</h2><p>Moments that changed the direction of human history.</p></div></div><div id="timelineList" class="timeline-list"></div></section>
+    <footer><a class="brand footer-brand" href="#"><span class="brand-mark">✳</span><span>the<span class="brand-light">connection</span><small>KEEP FOLLOWING CURIOSITY</small></span></a><span>Built for the endlessly curious.</span><span>© 2026 THE CONNECTION</span></footer>
+  </main>
+
+  <div class="overlay" id="searchOverlay"><div class="search-modal"><div class="modal-search"><span>⌕</span><input id="globalSearch" placeholder="Search people, ideas, inventions..." autocomplete="off"><kbd>ESC</kbd></div><div id="searchResults" class="search-results"><p class="muted">Try “Internet”, “Einstein” or “Printing press”.</p></div></div></div>
+  <aside class="detail-panel" id="detailPanel"><button class="close-btn" id="closeDetail">×</button><div id="detailContent"></div></aside>
+  <div class="toast" id="toast"></div>
+  <script src="assets/js/app.js"></script>
+</body></html>
