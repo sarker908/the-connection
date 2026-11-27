@@ -18,7 +18,7 @@ The dataset includes global history and science alongside a deeper collection on
 - Subject reading panels with photographs, overviews, historical milestones, people, connected subjects and references
 - A dedicated Bengal and Bangladesh chronology with filters for four historical periods
 - Biographical profiles for selected figures connected to the timeline
-- Interactive relationship map powered by Cytoscape.js
+- A visual collection browser with 12 illustrated subject collections
 - Search across titles, descriptions, categories and subject types
 - Connection Finder that traces a route between two subjects
 - Curated reading journeys that connect subjects into guided stories
@@ -34,7 +34,7 @@ Approximate dates are marked with `c.` or a period range. Some dates and periodi
 
 Where available, the website retrieves a page thumbnail and short extract from Wikipedia's REST page-summary endpoint at runtime. Images and summaries remain subject to the source article's availability and licensing; consult the linked article and its image-credit information before reusing material elsewhere.
 
-This is a growing, selective map, not a claim to represent every relationship or a complete account of any subject. The summaries are introductions, not substitutes for specialist research.
+This is a growing, selective collection, not a claim to represent every relationship or a complete account of any subject. The summaries are introductions, not substitutes for specialist research.
 
 ## Selected research references
 
@@ -62,4 +62,4 @@ https://sarker908.github.io/the-connection/
 
 ## Technology
 
-HTML, CSS, vanilla JavaScript, Cytoscape.js, JSON, Wikipedia REST page summaries and browser LocalStorage. No backend or paid API is required.
+HTML, CSS, vanilla JavaScript, JSON, Wikipedia REST page summaries and browser LocalStorage. No backend or paid API is required.
