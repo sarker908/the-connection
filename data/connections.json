@@ -129,13 +129,7 @@
     "id": "e22",
     "from": "industrial",
     "to": "steam",
-    "label": "Driven by improved steam power"
-  },
-  {
-    "id": "e23",
-    "from": "steam",
-    "to": "industrial",
-    "label": "Powered factories and transport"
+    "label": "Steam power helped mechanise factories, mines and transport"
   },
   {
     "id": "e24",
@@ -177,7 +171,7 @@
     "id": "e30",
     "from": "satellite",
     "to": "navigation",
-    "label": "Enables satellite navigation"
+    "label": "Satellite signals enable positioning, navigation and timing"
   },
   {
     "id": "e31",
@@ -238,12 +232,6 @@
     "from": "einstein",
     "to": "navigation",
     "label": "Relativity corrections improve satellite timing"
-  },
-  {
-    "id": "e41",
-    "from": "navigation",
-    "to": "satellite",
-    "label": "Uses satellite signals"
   },
   {
     "id": "e42",
@@ -716,12 +704,12 @@
   {
     "id": "e120",
     "from": "photography",
-    "to": "film",
+    "to": "cinema",
     "label": "Photography and moving pictures share optical technologies"
   },
   {
     "id": "e121",
-    "from": "film",
+    "from": "cinema",
     "to": "globalization",
     "label": "Cinema circulates stories across borders"
   },
@@ -1356,14 +1344,8 @@
     "label": "Ancient engineering built roads, aqueducts and bridges"
   },
   {
-    "id": "e229",
-    "from": "steamengine",
-    "to": "industrial",
-    "label": "Powered factories, mines and transport"
-  },
-  {
     "id": "e230",
-    "from": "steamengine",
+    "from": "steam",
     "to": "faraday",
     "label": "Part of the wider history of energy and machinery"
   },
