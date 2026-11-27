@@ -3,6 +3,13 @@ let nodes=[],edges=[],selectedCollection="all",collectionQuery="",collectionExpa
 let saved=JSON.parse(localStorage.getItem("tc-saved")||"[]");
 const colors={Technology:"#657d86",Science:"#a16b52",History:"#9a7851",Culture:"#75836b",Geography:"#64858a",Humanity:"#9a6d78",Mathematics:"#8575a6",Medicine:"#a66f78",Space:"#617c9c","Arts & Literature":"#a07855","Politics & Society":"#88745f",Environment:"#66836a"};
 const mediaCache=new Map();
+const mediaTargets=new WeakMap();
+const mediaObserver=typeof IntersectionObserver!=="undefined"?new IntersectionObserver(entries=>entries.forEach(entry=>{
+ if(!entry.isIntersecting)return;
+ const el=entry.target,n=mediaTargets.get(el);
+ mediaObserver.unobserve(el);
+ if(n)getMedia(n).then(media=>{if(media?.image&&el.isConnected)paintImage(el,media.image)});
+}),{rootMargin:"350px 0px"}):null;
 const esc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 function pageTitle(n){if(n.wiki){const p=n.wiki.split("/wiki/")[1];if(p)return decodeURIComponent(p.replace(/_/g," "))}return n.title}
 async function getMedia(n){
@@ -37,7 +44,17 @@ async function getMedia(n){
  return task;
 }
 function paintImage(el,url){if(url){el.style.backgroundImage="url('"+url.replace(/'/g,"%27")+"')";el.classList.add("has-image")}}
-async function loadMedia(n,el){if(!el)return null;const media=await getMedia(n);if(media?.image&&el.isConnected)paintImage(el,media.image);return media}
+async function loadMedia(n,el){
+ if(!el)return null;
+ if(mediaObserver&&el.id!=="detailImage"){
+  mediaTargets.set(el,n);
+  mediaObserver.observe(el);
+  return null;
+ }
+ const media=await getMedia(n);
+ if(media?.image&&el.isConnected)paintImage(el,media.image);
+ return media;
+}
 async function loadData(){const [nr,er,hr]=await Promise.all([fetch("data/nodes.json?v=6").then(r=>{if(!r.ok)throw Error("nodes");return r.json()}),fetch("data/connections.json?v=6").then(r=>{if(!r.ok)throw Error("connections");return r.json()}),fetch("data/history.json?v=1").then(r=>{if(!r.ok)throw Error("history");return r.json()})]);nodes=nr;edges=er;historyData=hr;$("#nodeStat").textContent=nodes.length;$("#edgeStat").textContent=edges.length;$("#domainStat").textContent=new Set(nodes.map(n=>n.category)).size.toString().padStart(2,"0");$("#atlasCount").textContent=nodes.length;renderCollectionBrowser();renderFeatured();renderDailyFeatures();renderOnThisDay();renderJourneys();fillSelects();renderTimeline();updateSavedCount();loadMedia(nodes.find(n=>n.id==="bigbang"),$("#heroImageMain"));loadMedia(nodes.find(n=>n.id==="bengal"),$("#heroImageSmall"))}
 const collectionInfo={"Economics":["How money, markets and choices shape the way societies work.","economics"],"Engineering":["The structures, machines and systems people design to solve problems.","civilengineering"],"Food & Agriculture":["The crops, methods and discoveries behind how the world eats.","agriculture"],"Communication":["The technologies that carry ideas, voices and images across distance.","telegraph"],"Archaeology":["Objects, places and evidence that bring the human past into view.","archaeology"],"Education":["The institutions and ideas that help knowledge travel between generations.","university"],"Technology":["How tools, machines and networks reshape everyday life.","computer"],"Science":["The questions, experiments and discoveries that explain our universe.","einstein"],"History":["The turning points, empires and movements that made the present.","liberation"],"Geography":["Landscapes, places and natural systems that shape human life.","sundarbans"],"Culture":["Art, belief and shared ideas that travel across generations.","renaissance"],"Humanity":["The institutions and ideas through which societies organise themselves.","dhakauniversity"],"Mathematics":["The language of patterns, quantities and logical thinking.","algebra"],"Medicine":["Discoveries that changed how we understand and treat the human body.","penicillin"],"Space":["Our attempts to understand the cosmos and travel beyond Earth.","moon"],"Arts & Literature":["The creators and works that give shape to imagination.","leonardo"],"Politics & Society":["Power, citizenship and the systems that shape public life.","democracy"],"Environment":["The living planet, its changing climate and connected ecosystems.","climate"],"Psychology":["The mind, behaviour and the ways people understand one another.","psychology"],"Architecture":["Buildings, spaces and design movements that shape how we live.","architecture"],"Energy":["The forces and technologies that power societies.","energy"],"Linguistics":["How language works, changes and connects human communities.","linguistics"],"Film & Media":["Moving images, sound and the craft of visual storytelling.","cinema"]};
 function renderCollectionBrowser(){const cats=[...new Set(nodes.map(n=>n.category))].sort((a,b)=>a.localeCompare(b));$("#collectionGrid").innerHTML=cats.map((cat,i)=>{const info=collectionInfo[cat]||["Explore this field of knowledge.",nodes.find(n=>n.category===cat)?.id],count=nodes.filter(n=>n.category===cat).length;return '<button class="collection-tile" data-category="'+esc(cat)+'" aria-pressed="false"><span class="collection-tile-number">'+String(i+1).padStart(2,"0")+'</span><span class="collection-tile-image" id="collectionImage'+i+'"></span><span class="collection-tile-copy"><strong>'+esc(cat)+'</strong><small>'+count+' SUBJECTS</small><span class="collection-tile-description">'+esc(info[0])+'</span><span class="collection-tile-arrow">Explore collection ↗</span></span></button>'}).join("");cats.forEach((cat,i)=>{const id=(collectionInfo[cat]||[])[1],n=nodes.find(x=>x.id===id)||nodes.find(x=>x.category===cat);if(n)loadMedia(n,$("#collectionImage"+i))});$("#collectionGrid").querySelectorAll("[data-category]").forEach(b=>b.onclick=()=>selectCollection(b.dataset.category,true));selectCollection("all")}
