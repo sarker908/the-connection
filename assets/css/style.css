@@ -280,3 +280,80 @@ button,a{-webkit-tap-highlight-color:transparent}
  .reader-next-grid{grid-template-columns:1fr}
  .reader-next-image{height:150px}
 }
+
+/* Stage 4: guided reading journeys */
+.journeys-section{padding:92px 9%;max-width:1600px;margin:0 auto}
+.journey-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:22px}
+.journey-card{display:flex;flex-direction:column;text-align:left;padding:0;border:1px solid var(--rule);background:#f8f6f0;color:var(--ink);min-width:0;overflow:hidden;transition:transform .22s,border-color .22s}
+.journey-card:hover{transform:translateY(-4px);border-color:#aaa397}
+.journey-card-image{display:block;width:100%;height:175px;background:#d9d3c6 center/cover no-repeat;transition:filter .2s}
+.journey-card:hover .journey-card-image{filter:saturate(1.1)}
+.journey-card-body{display:flex;flex-direction:column;align-items:flex-start;padding:19px 20px 18px;min-height:250px}
+.journey-card-top{display:flex;justify-content:space-between;align-items:center;width:100%;gap:10px;margin-bottom:16px}
+.journey-number{font:10px var(--mono);color:var(--red)}
+.journey-tag{font:8px var(--mono);letter-spacing:.8px;color:var(--muted);text-align:right}
+.journey-card-body>strong{font:500 23px/1.15 var(--serif);margin-bottom:9px}
+.journey-intro{font:11px/1.7 var(--sans);color:#6b6c64}
+.journey-card-progress{display:flex;align-items:center;gap:10px;width:100%;margin-top:auto;padding-top:21px}
+.journey-card-progress>span{height:3px;flex:1;background:#e2ddd1}
+.journey-card-progress i{height:100%;display:block;background:var(--red)}
+.journey-card-progress small{font:8px var(--mono);color:var(--muted);white-space:nowrap}
+.journey-cta{font:9px var(--mono);color:var(--red);margin-top:13px}
+.journey-detail{display:none;margin-top:35px;padding:30px 32px;background:#eae6dc;border-top:1px solid #d0cabc;border-bottom:1px solid #d0cabc}
+.journey-detail.visible{display:block}
+.journey-detail-head{display:flex;justify-content:space-between;align-items:flex-start;gap:25px;padding-bottom:22px;border-bottom:1px solid #d0cabc}
+.journey-detail-head .kicker{margin-bottom:10px}
+.journey-detail-head h3{font:500 clamp(30px,4vw,43px)/1.1 var(--serif);margin:0 0 9px}
+.journey-detail-head p:last-child{font:12px/1.7 var(--sans);color:#65675f;max-width:620px;margin:0}
+.journey-close{width:36px;height:36px;flex:0 0 36px;border:1px solid #c8c2b5;background:transparent;font-size:22px;color:var(--ink)}
+.journey-progress-summary{display:flex;align-items:center;gap:22px;padding:19px 0;border-bottom:1px solid #d0cabc}
+.journey-progress-summary>div{display:flex;align-items:baseline;gap:10px;white-space:nowrap}
+.journey-progress-summary strong{font:500 25px var(--serif)}
+.journey-progress-summary span{font:8px var(--mono);letter-spacing:.6px;color:var(--muted)}
+.journey-progress-track{height:4px;flex:1;background:#d7d1c5}
+.journey-progress-track i{display:block;height:100%;background:var(--red)}
+.journey-detail-actions{display:flex;align-items:center;gap:18px;padding:16px 0}
+.journey-resume{border:0;background:var(--ink);color:var(--paper);padding:12px 16px;font:10px var(--sans)}
+.journey-resume:hover{background:var(--red)}
+.journey-reset{border:0;background:none;color:var(--muted);font:9px var(--mono);text-decoration:underline;text-underline-offset:4px}
+.journey-step-list{border-top:1px solid #d0cabc}
+.journey-step-row{display:grid;grid-template-columns:42px minmax(0,1fr) auto;gap:18px;align-items:start;padding:22px 0;border-bottom:1px solid #d0cabc}
+.journey-step-index{font:11px var(--mono);color:var(--red);padding-top:2px}
+.journey-step-copy{min-width:0}
+.journey-step-status{display:block;font:8px var(--mono);letter-spacing:1px;color:var(--muted);margin-bottom:7px}
+.journey-step-copy strong{font:500 23px/1.2 var(--serif)}
+.journey-step-copy small{display:block;font:9px var(--mono);color:var(--muted);margin-top:6px}
+.journey-step-copy p{font:11px/1.7 var(--sans);color:#686960;max-width:630px;margin:10px 0 0}
+.journey-step-row.is-current .journey-step-status{color:var(--red)}
+.journey-step-row.is-done .journey-step-index{color:var(--green)}
+.journey-step-row.is-done .journey-step-copy>strong{text-decoration:line-through;text-decoration-color:#b9b3a7}
+.journey-step-actions{display:flex;flex-direction:column;align-items:flex-end;gap:9px}
+.journey-open-topic,.journey-mark-step{font:9px var(--mono);padding:9px 11px;border:1px solid #c8c2b5;background:transparent;color:var(--ink);white-space:nowrap}
+.journey-open-topic:hover,.journey-mark-step:hover{background:var(--ink);color:var(--paper);border-color:var(--ink)}
+.journey-mark-step{border-color:transparent;color:var(--red)}
+.journey-finish-note{font:12px var(--serif);color:var(--green);padding-top:20px}
+@media(max-width:1000px){.journey-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.journey-card-image{height:155px}}
+@media(max-width:650px){
+ .journeys-section{padding:65px 6%}
+ .journey-grid{grid-template-columns:1fr;gap:15px}
+ .journey-card{display:grid;grid-template-columns:116px minmax(0,1fr);min-height:0}
+ .journey-card-image{height:100%;min-height:210px}
+ .journey-card-body{padding:14px;min-height:210px}
+ .journey-card-top{margin-bottom:10px;align-items:flex-start}
+ .journey-tag{font-size:7px}
+ .journey-card-body>strong{font-size:19px}
+ .journey-intro{font-size:10px}
+ .journey-detail{padding:22px 17px;margin-top:24px}
+ .journey-detail-head{gap:12px}
+ .journey-detail-head h3{font-size:29px}
+ .journey-progress-summary{gap:12px}
+ .journey-progress-summary>div{display:block}
+ .journey-progress-summary strong{display:block}
+ .journey-progress-summary span{font-size:7px}
+ .journey-step-row{grid-template-columns:25px minmax(0,1fr);gap:10px;padding:18px 0}
+ .journey-step-copy strong{font-size:20px}
+ .journey-step-actions{grid-column:2;flex-direction:row;align-items:center;flex-wrap:wrap}
+ .journey-open-topic,.journey-mark-step{font-size:8px;padding:9px}
+}
+@media(max-width:390px){.journey-card{grid-template-columns:92px minmax(0,1fr)}.journey-card-image{min-height:220px}.journey-card-body{padding:11px}.journey-card-body>strong{font-size:17px}}
+@media(prefers-reduced-motion:reduce){.journey-card,.journey-card-image{transition:none}}
