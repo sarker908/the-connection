@@ -406,7 +406,7 @@ button,a{-webkit-tap-highlight-color:transparent}
 .on-this-day-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:22px 16px}
 .on-this-day-card{min-width:0;background:var(--paper);border:1px solid #d2ccbf;display:flex;flex-direction:column}
 .on-this-day-image{display:flex;align-items:flex-start;justify-content:flex-start;height:230px;background:#d6d0c4 center/cover no-repeat;text-decoration:none;position:relative;overflow:hidden}
-.on-this-day-image:after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,#1d211c30,transparent 48%);pointer-events:none}
+.on-this-day-image:after{content:"";position:absolute;inset:0;background:#1d211c12;pointer-events:none}
 .on-this-day-image span{position:relative;z-index:1;margin:13px;padding:7px 9px;background:var(--paper);color:var(--ink);font:10px var(--mono)}
 .on-this-day-copy{display:flex;flex-direction:column;align-items:flex-start;padding:18px 18px 20px;flex:1}
 .on-this-day-copy small{font:8px var(--mono);letter-spacing:.8px;color:var(--red)}
