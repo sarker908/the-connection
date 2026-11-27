@@ -4,8 +4,8 @@
 
 ## Current collection
 
-- **100 subjects**
-- **158 relationships**
+- **101 subjects**
+- **168 relationships**
 - **6 collections:** Technology, Science, History, Geography, Culture and Humanity
 
 The dataset includes global history and science alongside a deeper collection on Bengal and Bangladesh: the Pala period and Somapura Mahavihara, colonial land policy, the 1905 Partition and Swadeshi movement, Begum Rokeya, the Bengal famine, the University of Dhaka, the Six-Point Movement and the 1969 mass uprising.
