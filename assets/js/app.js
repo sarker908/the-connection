@@ -8,7 +8,7 @@ function pageTitle(n){if(n.wiki){const p=n.wiki.split("/wiki/")[1];if(p)return d
 async function getMedia(n){if(mediaCache.has(n.id))return mediaCache.get(n.id);const task=(async()=>{try{const url="https://en.wikipedia.org/api/rest_v1/page/summary/"+encodeURIComponent(pageTitle(n));const res=await fetch(url);if(!res.ok)return null;const data=await res.json();return{image:data.thumbnail?.source||data.originalimage?.source||null,extract:data.extract||null,source:data.content_urls?.desktop?.page||n.wiki||null}}catch(e){return null}})();mediaCache.set(n.id,task);return task}
 function paintImage(el,url){if(url){el.style.backgroundImage="url('"+url.replace(/'/g,"%27")+"')";el.classList.add("has-image")}}
 async function loadMedia(n,el){const media=await getMedia(n);if(media?.image&&el.isConnected)paintImage(el,media.image);return media}
-async function loadData(){const [nr,er,hr]=await Promise.all([fetch("data/nodes.json?v=6").then(r=>{if(!r.ok)throw Error("nodes");return r.json()}),fetch("data/connections.json?v=6").then(r=>{if(!r.ok)throw Error("connections");return r.json()}),fetch("data/history.json?v=1").then(r=>{if(!r.ok)throw Error("history");return r.json()})]);nodes=nr;edges=er;historyData=hr;$("#nodeStat").textContent=nodes.length;$("#edgeStat").textContent=edges.length;$("#domainStat").textContent=new Set(nodes.map(n=>n.category)).size.toString().padStart(2,"0");$("#atlasCount").textContent=nodes.length;renderCollectionBrowser();renderFeatured();renderJourneys();fillSelects();renderTimeline();updateSavedCount();loadMedia(nodes.find(n=>n.id==="bigbang"),$("#heroImageMain"));loadMedia(nodes.find(n=>n.id==="bengal"),$("#heroImageSmall"))}
+async function loadData(){const [nr,er,hr]=await Promise.all([fetch("data/nodes.json?v=6").then(r=>{if(!r.ok)throw Error("nodes");return r.json()}),fetch("data/connections.json?v=6").then(r=>{if(!r.ok)throw Error("connections");return r.json()}),fetch("data/history.json?v=1").then(r=>{if(!r.ok)throw Error("history");return r.json()})]);nodes=nr;edges=er;historyData=hr;$("#nodeStat").textContent=nodes.length;$("#edgeStat").textContent=edges.length;$("#domainStat").textContent=new Set(nodes.map(n=>n.category)).size.toString().padStart(2,"0");$("#atlasCount").textContent=nodes.length;renderCollectionBrowser();renderFeatured();renderDailyFeatures();renderJourneys();fillSelects();renderTimeline();updateSavedCount();loadMedia(nodes.find(n=>n.id==="bigbang"),$("#heroImageMain"));loadMedia(nodes.find(n=>n.id==="bengal"),$("#heroImageSmall"))}
 const collectionInfo={"Technology":["How tools, machines and networks reshape everyday life.","computer"],"Science":["The questions, experiments and discoveries that explain our universe.","einstein"],"History":["The turning points, empires and movements that made the present.","liberation"],"Geography":["Landscapes, places and natural systems that shape human life.","sundarbans"],"Culture":["Art, belief and shared ideas that travel across generations.","renaissance"],"Humanity":["The institutions and ideas through which societies organise themselves.","dhakauniversity"],"Mathematics":["The language of patterns, quantities and logical thinking.","algebra"],"Medicine":["Discoveries that changed how we understand and treat the human body.","penicillin"],"Space":["Our attempts to understand the cosmos and travel beyond Earth.","moon"],"Arts & Literature":["The creators and works that give shape to imagination.","leonardo"],"Politics & Society":["Power, citizenship and the systems that shape public life.","democracy"],"Environment":["The living planet, its changing climate and connected ecosystems.","climate"]};
 function renderCollectionBrowser(){const cats=[...new Set(nodes.map(n=>n.category))].sort((a,b)=>a.localeCompare(b));$("#collectionGrid").innerHTML=cats.map((cat,i)=>{const info=collectionInfo[cat]||["Explore this field of knowledge.",nodes.find(n=>n.category===cat)?.id],count=nodes.filter(n=>n.category===cat).length;return '<button class="collection-tile" data-category="'+esc(cat)+'" aria-pressed="false"><span class="collection-tile-number">'+String(i+1).padStart(2,"0")+'</span><span class="collection-tile-image" id="collectionImage'+i+'"></span><span class="collection-tile-copy"><strong>'+esc(cat)+'</strong><small>'+count+' SUBJECTS</small><span class="collection-tile-description">'+esc(info[0])+'</span><span class="collection-tile-arrow">Explore collection ↗</span></span></button>'}).join("");cats.forEach((cat,i)=>{const id=(collectionInfo[cat]||[])[1],n=nodes.find(x=>x.id===id)||nodes.find(x=>x.category===cat);if(n)loadMedia(n,$("#collectionImage"+i))});$("#collectionGrid").querySelectorAll("[data-category]").forEach(b=>b.onclick=()=>selectCollection(b.dataset.category));selectCollection("all")}
 function selectCollection(cat){selectedCollection=cat;$("#collectionGrid").querySelectorAll(".collection-tile").forEach(b=>{b.classList.toggle("active",b.dataset.category===cat);b.setAttribute("aria-pressed",String(b.dataset.category===cat))});const info=collectionInfo[cat],list=cat==="all"?nodes:nodes.filter(n=>n.category===cat);$("#collectionTitle").textContent=cat==="all"?"All subjects":cat;$("#collectionDescription").textContent=cat==="all"?"A little bit of everything, waiting to be explored.":(info?.[0]||"Explore this collection.");collectionQuery="";$("#collectionSearch").value="";renderCollectionSubjects(list)}
@@ -72,6 +72,32 @@ async function openTopic(id){
 function closeDetail(){$("#detailPanel").classList.remove("open")}
 function toggleSave(id){saved=saved.includes(id)?saved.filter(x=>x!==id):[...saved,id];localStorage.setItem("tc-saved",JSON.stringify(saved));updateSavedCount();openTopic(id);toast(saved.includes(id)?"Saved to your collection":"Removed from your collection")}
 function updateSavedCount(){$("#savedCount").textContent=saved.length}
+
+function renderDailyFeatures(){
+ if(!nodes.length)return;
+ const now=new Date(),yearStart=new Date(now.getFullYear(),0,0);
+ const day=Math.floor((now-new Date(yearStart.getFullYear(),yearStart.getMonth(),yearStart.getDate()))/86400000);
+ const ordered=nodes.slice().sort((a,b)=>a.title.localeCompare(b.title));
+ const daily=ordered[day%ordered.length];
+ const validEdges=edges.filter(e=>nodes.some(n=>n.id===e.from)&&nodes.some(n=>n.id===e.to)&&e.label);
+ const edge=validEdges.length?validEdges[day%validEdges.length]:null;
+ const from=edge?nodes.find(n=>n.id===edge.from):daily;
+ const to=edge?nodes.find(n=>n.id===edge.to):ordered[(day+1)%ordered.length];
+ $("#dailyDate").textContent=now.toLocaleDateString("en",{day:"numeric",month:"long",year:"numeric"}).toUpperCase();
+ $("#dailyTopicTitle").textContent=daily.title;
+ $("#dailyTopicSummary").textContent=daily.short||daily.description;
+ $("#dailyFromTitle").textContent=from.title;
+ $("#dailyToTitle").textContent=to.title;
+ $("#dailyRelationship").textContent=edge?edge.label:"Explore how these two subjects relate.";
+ $("#dailyTopicCard").onclick=()=>openTopic(daily.id);
+ $("#dailyFromButton").onclick=()=>openTopic(from.id);
+ $("#dailyToButton").onclick=()=>openTopic(to.id);
+ $("#dailyConnectionExplore").onclick=()=>openTopic(from.id);
+ loadMedia(daily,$("#dailyTopicImage"));
+ loadMedia(from,$("#dailyFromImage"));
+ loadMedia(to,$("#dailyToImage"));
+}
+
 function renderFeatured(){const preferred=["bigbang","curie","liberation","bengal","sundarbans","smartphone","printingpress","quantum"];const featured=preferred.map(id=>nodes.find(n=>n.id===id)).filter(Boolean);$("#featuredTopics").innerHTML=featured.map((n,i)=>'<article class="story-card" data-id="'+esc(n.id)+'"><div class="story-image" id="storyImage'+i+'"></div><div class="story-meta"><span>'+esc(n.category)+'</span><span>'+esc(n.year||"")+'</span></div><h3>'+esc(n.title)+'</h3><p>'+esc(n.short||n.description)+'</p><span class="story-open">Explore this subject ↗</span></article>').join("");featured.forEach((n,i)=>{loadMedia(n,$("#storyImage"+i));document.querySelector('.story-card[data-id="'+n.id+'"]').onclick=()=>openTopic(n.id)})}
 
 const journeys=[
