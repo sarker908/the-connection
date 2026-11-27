@@ -108,3 +108,8 @@ This batch deepens 25 subjects with existing cross-disciplinary relationships. I
 This batch strengthens 25 existing subjects spanning World War II, Ancient Greece, the Black Death, the Indus and Mughal civilisations, Bengal's political history, the 1971 Liberation War, the Bengal famine, Bengali writers and reformers, the South Asian monsoon, the Bengal Delta, Dhaka, Somapura Mahavihara, silk networks, jazz and Bengal muslin. Two claim-level statements per subject are linked to distinct references. Existing subject IDs, collections and relationships were preserved.
 
 **Editorial status:** research-enriched, not expert-reviewed. Historical interpretation, contested casualty estimates, colonial policy and political narratives require independent review. References provide traceability and further reading; they do not certify every sentence.
+
+
+## Research batch 006: global civilisations and knowledge traditions
+
+Batch 006 adds 25 atlas subjects across African kingdoms and cities, Chinese and Japanese history, Persian and Arab empires, Indigenous American civilisations, and the history of mathematics and literature. It contributes 50 claim records, 32 source records, and 29 connections. The new records are stored additively in `data/research-batches/batch-006.json`; the application merges this batch at load time without rewriting the large core subject, connection, source or claim files. All claims remain marked `editorial-review-pending` until separate independent editorial review. The source registry provides traceability and further reading, not a guarantee that each claim has been independently verified.

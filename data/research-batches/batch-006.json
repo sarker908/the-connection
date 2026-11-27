@@ -1,0 +1,1621 @@
+{
+  "schemaVersion": 1,
+  "batch": "batch-006",
+  "updated": "2026-11-28",
+  "editorialNote": "Additive research batch. Entries are research-enriched and remain pending independent editorial review. References provide traceability and further reading; they do not certify every claim.",
+  "nodes": [
+    {
+      "id": "ghana_empire",
+      "title": "Ghana Empire",
+      "category": "History",
+      "type": "Historical subject",
+      "year": "c. 300–1200",
+      "short": "A major West African state whose wealth was tied to trans-Saharan exchange.",
+      "description": "The Ghana Empire, also called Wagadu in Soninke traditions, developed in the western Sahel. Its rulers controlled access to gold-producing regions and taxed commerce moving across the Sahara. It was not the same state as the modern country of Ghana.",
+      "wiki": "https://en.wikipedia.org/wiki/Ghana_Empire",
+      "contentStatus": "research-enriched",
+      "researchBatch": "batch-006",
+      "lastResearchUpdate": "2026-11-28"
+    },
+    {
+      "id": "mali_empire",
+      "title": "Mali Empire",
+      "category": "History",
+      "type": "Historical subject",
+      "year": "c. 1235–1600",
+      "short": "A powerful West African empire associated with Mansa Musa, trade and centres of learning.",
+      "description": "The Mali Empire emerged in the western Sahel in the thirteenth century. Its rulers drew wealth from agriculture, trade and gold. Mansa Musa's pilgrimage to Mecca in 1324–25 attracted wide attention, while Timbuktu and other cities developed as centres of scholarship and commerce.",
+      "wiki": "https://en.wikipedia.org/wiki/Mali_Empire",
+      "contentStatus": "research-enriched",
+      "researchBatch": "batch-006",
+      "lastResearchUpdate": "2026-11-28"
+    },
+    {
+      "id": "songhai_empire",
+      "title": "Songhai Empire",
+      "category": "History",
+      "type": "Historical subject",
+      "year": "c. 1464–1591",
+      "short": "A West African empire that grew around the Niger bend and trans-Saharan trading cities.",
+      "description": "Songhai became a major power in the western Sahel during the fifteenth century. Under rulers including Sunni Ali and Askia Muhammad, it controlled commercial routes and cities such as Gao and Timbuktu. Its imperial power was broken by a Moroccan invasion in 1591.",
+      "wiki": "https://en.wikipedia.org/wiki/Songhai_Empire",
+      "contentStatus": "research-enriched",
+      "researchBatch": "batch-006",
+      "lastResearchUpdate": "2026-11-28"
+    },
+    {
+      "id": "great_zimbabwe",
+      "title": "Great Zimbabwe",
+      "category": "History",
+      "type": "Historical subject",
+      "year": "c. 1100–1450",
+      "short": "A monumental stone-built city and political centre of the Shona-speaking peoples of southern Africa.",
+      "description": "Great Zimbabwe developed between the eleventh and fifteenth centuries and became a major political and trading centre. Its dry-stone architecture and imported objects provide archaeological evidence of regional and long-distance connections. The site is central to Shona history and was built by local African communities.",
+      "wiki": "https://en.wikipedia.org/wiki/Great_Zimbabwe",
+      "contentStatus": "research-enriched",
+      "researchBatch": "batch-006",
+      "lastResearchUpdate": "2026-11-28"
+    },
+    {
+      "id": "aksum",
+      "title": "Kingdom of Aksum",
+      "category": "History",
+      "type": "Historical subject",
+      "year": "1st–8th centuries CE",
+      "short": "A Red Sea kingdom connecting northeast Africa with Arabia and the Mediterranean world.",
+      "description": "Aksum grew in the northern Ethiopian and Eritrean highlands and became a major power linking Africa, Arabia and the Greco-Roman world. Monumental stelae, royal inscriptions and coinage provide evidence of state organisation and exchange. Christianity became established at Aksum in the fourth century.",
+      "wiki": "https://en.wikipedia.org/wiki/Kingdom_of_Aksum",
+      "contentStatus": "research-enriched",
+      "researchBatch": "batch-006",
+      "lastResearchUpdate": "2026-11-28"
+    },
+    {
+      "id": "benin_kingdom",
+      "title": "Kingdom of Benin",
+      "category": "History",
+      "type": "Historical subject",
+      "year": "13th century–1897",
+      "short": "An Edo kingdom renowned for court art, bronze casting and political institutions.",
+      "description": "The Kingdom of Benin developed in the forest region of present-day southern Nigeria. Its court supported specialised guilds and highly skilled artists, including brass casters. Benin's history is documented through oral histories, material culture and written records; British forces invaded the kingdom in 1897.",
+      "wiki": "https://en.wikipedia.org/wiki/Kingdom_of_Benin",
+      "contentStatus": "research-enriched",
+      "researchBatch": "batch-006",
+      "lastResearchUpdate": "2026-11-28"
+    },
+    {
+      "id": "qin_dynasty",
+      "title": "Qin Dynasty",
+      "category": "History",
+      "type": "Historical subject",
+      "year": "221–206 BCE",
+      "short": "The dynasty that unified several Chinese states and established imperial institutions.",
+      "description": "The Qin state unified rival kingdoms in 221 BCE under Qin Shi Huang. The dynasty standardised important systems of administration, writing, weights and measures, while large state projects included frontier walls and the emperor's mausoleum complex. Qin rule ended in 206 BCE, but its imperial model shaped later Chinese history.",
+      "wiki": "https://en.wikipedia.org/wiki/Qin_dynasty",
+      "contentStatus": "research-enriched",
+      "researchBatch": "batch-006",
+      "lastResearchUpdate": "2026-11-28"
+    },
+    {
+      "id": "han_dynasty",
+      "title": "Han Dynasty",
+      "category": "History",
+      "type": "Historical subject",
+      "year": "206 BCE–220 CE",
+      "short": "A formative Chinese imperial dynasty known for state institutions, trade and cultural development.",
+      "description": "The Han dynasty consolidated and extended the imperial state established by the Qin. Its long history included expansion of overland connections later grouped under the name Silk Roads, growth of bureaucratic institutions and major developments in material culture. Han legacies became important reference points for later Chinese dynasties.",
+      "wiki": "https://en.wikipedia.org/wiki/Han_dynasty",
+      "contentStatus": "research-enriched",
+      "researchBatch": "batch-006",
+      "lastResearchUpdate": "2026-11-28"
+    },
+    {
+      "id": "tang_dynasty",
+      "title": "Tang Dynasty",
+      "category": "History",
+      "type": "Historical subject",
+      "year": "618–907",
+      "short": "A cosmopolitan Chinese empire marked by cultural flourishing and Eurasian connections.",
+      "description": "Tang China became a major power of the medieval world. Its capital Chang'an drew merchants, clerics and envoys from across Asia, while diplomacy and trade connected the empire to wider Eurasian networks. The period is associated with achievements in poetry, painting, sculpture and civil service examinations.",
+      "wiki": "https://en.wikipedia.org/wiki/Tang_dynasty",
+      "contentStatus": "research-enriched",
+      "researchBatch": "batch-006",
+      "lastResearchUpdate": "2026-11-28"
+    },
+    {
+      "id": "heian_period",
+      "title": "Heian Period",
+      "category": "History",
+      "type": "Historical subject",
+      "year": "794–1185",
+      "short": "A period of Japanese court culture associated with classical literature, poetry and refined arts.",
+      "description": "The Heian period began when the imperial capital moved to Heian-kyo, present-day Kyoto, in 794. Court society fostered distinctive literary and artistic traditions, including works by women writers such as Murasaki Shikibu. Chinese institutions and cultural forms were adapted into a distinctive Japanese court culture.",
+      "wiki": "https://en.wikipedia.org/wiki/Heian_period",
+      "contentStatus": "research-enriched",
+      "researchBatch": "batch-006",
+      "lastResearchUpdate": "2026-11-28"
+    },
+    {
+      "id": "edo_period",
+      "title": "Edo Period",
+      "category": "History",
+      "type": "Historical subject",
+      "year": "1603–1868",
+      "short": "A long era of Tokugawa rule that saw political consolidation and vibrant urban culture.",
+      "description": "Under the Tokugawa shogunate, Japan experienced more than two centuries of relative internal peace. Urban centres expanded, commercial networks grew, and popular arts such as kabuki and ukiyo-e flourished. The period was not one of complete isolation: controlled diplomatic, commercial and intellectual exchanges continued.",
+      "wiki": "https://en.wikipedia.org/wiki/Edo_period",
+      "contentStatus": "research-enriched",
+      "researchBatch": "batch-006",
+      "lastResearchUpdate": "2026-11-28"
+    },
+    {
+      "id": "meiji_restoration",
+      "title": "Meiji Restoration",
+      "category": "History",
+      "type": "Historical subject",
+      "year": "1868",
+      "short": "The political transformation that restored imperial rule and accelerated Japan's modern state-building.",
+      "description": "The Meiji Restoration of 1868 ended the Tokugawa shogunate and established a new government in the emperor's name. Meiji leaders centralised administration, reorganised military and education systems, and pursued rapid industrial and institutional change. These reforms transformed Japan's international position and generated major social changes.",
+      "wiki": "https://en.wikipedia.org/wiki/Meiji_Restoration",
+      "contentStatus": "research-enriched",
+      "researchBatch": "batch-006",
+      "lastResearchUpdate": "2026-11-28"
+    },
+    {
+      "id": "achaemenid_empire",
+      "title": "Achaemenid Empire",
+      "category": "History",
+      "type": "Historical subject",
+      "year": "c. 550–330 BCE",
+      "short": "A vast Persian empire whose administration connected the Mediterranean to Central Asia.",
+      "description": "Founded under Cyrus the Great, the Achaemenid Empire became one of the largest states of the ancient world. Its rulers governed diverse peoples through regional administrative structures and roads. Persepolis, founded by Darius I, served as a ceremonial and political centre whose architecture expressed imperial authority and cultural exchange.",
+      "wiki": "https://en.wikipedia.org/wiki/Achaemenid_Empire",
+      "contentStatus": "research-enriched",
+      "researchBatch": "batch-006",
+      "lastResearchUpdate": "2026-11-28"
+    },
+    {
+      "id": "sasanian_empire",
+      "title": "Sasanian Empire",
+      "category": "History",
+      "type": "Historical subject",
+      "year": "224–651 CE",
+      "short": "A major Iranian empire that shaped politics, religion and culture across late antiquity.",
+      "description": "The Sasanian Empire ruled Iran and neighbouring regions from 224 to 651 CE. It was a major rival and diplomatic counterpart of the Roman and later Byzantine empires, and its institutions and artistic traditions influenced neighbouring societies. Its conquest by Arab Muslim armies in the seventh century transformed West Asia.",
+      "wiki": "https://en.wikipedia.org/wiki/Sasanian_Empire",
+      "contentStatus": "research-enriched",
+      "researchBatch": "batch-006",
+      "lastResearchUpdate": "2026-11-28"
+    },
+    {
+      "id": "abbasid_caliphate",
+      "title": "Abbasid Caliphate",
+      "category": "History",
+      "type": "Historical subject",
+      "year": "750–1258",
+      "short": "A caliphate whose cities became major centres of scholarship, commerce and cultural exchange.",
+      "description": "The Abbasid revolution established a new caliphal dynasty in 750 and shifted the political centre toward Baghdad, founded in 762. Abbasid-era networks brought scholars, translators and practitioners into contact across languages and regions. Intellectual life drew on Greek, Persian, Indian and other traditions, while political authority changed over time.",
+      "wiki": "https://en.wikipedia.org/wiki/Abbasid_Caliphate",
+      "contentStatus": "research-enriched",
+      "researchBatch": "batch-006",
+      "lastResearchUpdate": "2026-11-28"
+    },
+    {
+      "id": "ottoman_empire",
+      "title": "Ottoman Empire",
+      "category": "History",
+      "type": "Historical subject",
+      "year": "c. 1299–1922",
+      "short": "A multiethnic empire connecting southeastern Europe, West Asia and North Africa for more than six centuries.",
+      "description": "The Ottoman state emerged in Anatolia around the turn of the fourteenth century and expanded across parts of Europe, Asia and Africa. The conquest of Constantinople in 1453 made the city an imperial capital, while Ottoman institutions, law, architecture and trade shaped a broad region.",
+      "wiki": "https://en.wikipedia.org/wiki/Ottoman_Empire",
+      "contentStatus": "research-enriched",
+      "researchBatch": "batch-006",
+      "lastResearchUpdate": "2026-11-28"
+    },
+    {
+      "id": "safavid_dynasty",
+      "title": "Safavid Dynasty",
+      "category": "History",
+      "type": "Historical subject",
+      "year": "1501–1736",
+      "short": "An Iranian dynasty that fostered a distinctive Persianate culture and state tradition.",
+      "description": "The Safavid dynasty unified much of Iran in the early sixteenth century and made Twelver Shi'a Islam the state religion. Its rulers patronised architecture, painting, carpets and courtly arts, especially under Shah Abbas I. Safavid Iran interacted and competed with the Ottoman and Mughal empires.",
+      "wiki": "https://en.wikipedia.org/wiki/Safavid_Iran",
+      "contentStatus": "research-enriched",
+      "researchBatch": "batch-006",
+      "lastResearchUpdate": "2026-11-28"
+    },
+    {
+      "id": "maya_civilization",
+      "title": "Maya Civilisation",
+      "category": "History",
+      "type": "Historical subject",
+      "year": "c. 2000 BCE–present",
+      "short": "A diverse and living Mesoamerican civilisation known for writing, architecture, mathematics and astronomy.",
+      "description": "Maya societies developed across Mesoamerica over many centuries, building city-states, monumental architecture and sophisticated systems of writing and timekeeping. Political power was distributed among multiple centres rather than a single unified empire. Maya peoples and languages remain vibrant today.",
+      "wiki": "https://en.wikipedia.org/wiki/Maya_civilization",
+      "contentStatus": "research-enriched",
+      "researchBatch": "batch-006",
+      "lastResearchUpdate": "2026-11-28"
+    },
+    {
+      "id": "mexica_empire",
+      "title": "Mexica (Aztec) Empire",
+      "category": "History",
+      "type": "Historical subject",
+      "year": "c. 1428–1521",
+      "short": "A powerful Mesoamerican alliance centred on Tenochtitlan and sustained by tribute and trade.",
+      "description": "The Mexica-led Triple Alliance emerged in the fifteenth century and built an expansive political system centred on Tenochtitlan. Its power relied on military campaigns, tribute obligations and alliances with other city-states. The empire was defeated by Spanish-led forces and Indigenous allies in 1521.",
+      "wiki": "https://en.wikipedia.org/wiki/Aztec_Empire",
+      "contentStatus": "research-enriched",
+      "researchBatch": "batch-006",
+      "lastResearchUpdate": "2026-11-28"
+    },
+    {
+      "id": "inca_empire",
+      "title": "Inca Empire",
+      "category": "History",
+      "type": "Historical subject",
+      "year": "c. 1438–1533",
+      "short": "The largest empire in pre-Columbian America, organised across the Andes through roads and labour systems.",
+      "description": "The Inca Empire, known in Quechua as Tawantinsuyu, expanded rapidly from its Andean heartland during the fifteenth century. Its rulers connected diverse peoples through roads, administrative centres, state storehouses and labour obligations. Inca engineering adapted to mountain environments while local communities retained distinct identities.",
+      "wiki": "https://en.wikipedia.org/wiki/Inca_Empire",
+      "contentStatus": "research-enriched",
+      "researchBatch": "batch-006",
+      "lastResearchUpdate": "2026-11-28"
+    },
+    {
+      "id": "wari_culture",
+      "title": "Wari Civilisation",
+      "category": "History",
+      "type": "Historical subject",
+      "year": "c. 600–1000 CE",
+      "short": "An influential Andean society whose political and artistic innovations preceded Inca expansion.",
+      "description": "The Wari developed in the central Andes and established a far-reaching political and cultural presence between roughly 600 and 1000 CE. Their settlements, road systems, textiles and ritual art reveal a complex society with strong regional influence. Wari and Tiwanaku were distinct formations that helped shape later Andean societies.",
+      "wiki": "https://en.wikipedia.org/wiki/Wari_culture",
+      "contentStatus": "research-enriched",
+      "researchBatch": "batch-006",
+      "lastResearchUpdate": "2026-11-28"
+    },
+    {
+      "id": "maya_mathematics",
+      "title": "Maya Mathematics and Calendars",
+      "category": "Mathematics",
+      "type": "Historical subject",
+      "year": "Classical period and earlier",
+      "short": "Maya mathematical and astronomical systems supported complex calendars and the recording of historical time.",
+      "description": "Maya scholars developed a vigesimal, or base-twenty, numerical system and used a symbol for zero. Their calendar systems combined cycles of different lengths, while astronomical observations supported the prediction and recording of celestial events. These systems were developed within specific cultural and ceremonial contexts.",
+      "wiki": "https://en.wikipedia.org/wiki/Maya_numerals",
+      "contentStatus": "research-enriched",
+      "researchBatch": "batch-006",
+      "lastResearchUpdate": "2026-11-28"
+    },
+    {
+      "id": "indian_numerals_exchange",
+      "title": "Indian Numerals and Global Mathematical Exchange",
+      "category": "Mathematics",
+      "type": "Historical subject",
+      "year": "1st millennium CE onward",
+      "short": "A history of mathematical ideas moving between India, the Islamic world and Europe.",
+      "description": "Indian mathematical traditions developed place-value notation and the use of zero, which travelled through scholarly and commercial networks. Translations and adaptations in the Abbasid-era intellectual world helped transmit Indian numerical methods into Arabic-language scholarship and later into Europe. This was a history of exchange and transformation.",
+      "wiki": "https://en.wikipedia.org/wiki/Hindu%E2%80%93Arabic_numeral_system",
+      "contentStatus": "research-enriched",
+      "researchBatch": "batch-006",
+      "lastResearchUpdate": "2026-11-28"
+    },
+    {
+      "id": "yoruba_ife",
+      "title": "Ile-Ife and Yoruba Art",
+      "category": "Culture",
+      "type": "Historical subject",
+      "year": "c. 1000–1500 CE",
+      "short": "A major Yoruba urban and artistic centre renowned for naturalistic terracotta and metal sculpture.",
+      "description": "Ile-Ife became an important Yoruba urban and religious centre in what is now southwestern Nigeria. Artists created accomplished terracotta and metal sculptures, including works made using lost-wax casting. Archaeological and art-historical evidence establishes the local African origins of these traditions.",
+      "wiki": "https://en.wikipedia.org/wiki/Ife",
+      "contentStatus": "research-enriched",
+      "researchBatch": "batch-006",
+      "lastResearchUpdate": "2026-11-28"
+    },
+    {
+      "id": "persian_shahnameh",
+      "title": "The Shahnameh and Persian Epic Tradition",
+      "category": "Culture",
+      "type": "Historical subject",
+      "year": "c. 977–1010 CE",
+      "short": "Ferdowsi's epic poem helped preserve and reshape pre-Islamic Iranian stories in New Persian.",
+      "description": "The Shahnameh, completed by Ferdowsi around the beginning of the eleventh century, is a major epic of Persian literature. It brings together legendary and historical narratives about Iranian kings and heroes, drawing on older traditions while giving them a lasting literary form in New Persian. Manuscript production later made it central to Persian book arts.",
+      "wiki": "https://en.wikipedia.org/wiki/Shahnameh",
+      "contentStatus": "research-enriched",
+      "researchBatch": "batch-006",
+      "lastResearchUpdate": "2026-11-28"
+    },
+    {
+      "id": "islamic_golden_age_science",
+      "title": "Science and Translation in the Abbasid World",
+      "category": "Science",
+      "type": "Historical subject",
+      "year": "8th–13th centuries",
+      "short": "A multilingual intellectual environment where scholars translated, debated and extended knowledge from several traditions.",
+      "description": "Scientific work in Abbasid-era cities involved translation, commentary, observation and original research. Scholars worked with Greek, Persian and Indian materials in mathematics, astronomy, medicine and philosophy. This movement was not confined to Baghdad or to one religious community, and knowledge circulated through wider Afro-Eurasian networks.",
+      "wiki": "https://en.wikipedia.org/wiki/Islamic_Golden_Age",
+      "contentStatus": "research-enriched",
+      "researchBatch": "batch-006",
+      "lastResearchUpdate": "2026-11-28"
+    }
+  ],
+  "connections": [
+    {
+      "from": "ghana_empire",
+      "to": "mali_empire",
+      "label": "African states were shaped by trade, regional power and cultural exchange"
+    },
+    {
+      "from": "mali_empire",
+      "to": "songhai_empire",
+      "label": "African states were shaped by trade, regional power and cultural exchange"
+    },
+    {
+      "from": "songhai_empire",
+      "to": "great_zimbabwe",
+      "label": "African states were shaped by trade, regional power and cultural exchange"
+    },
+    {
+      "from": "great_zimbabwe",
+      "to": "aksum",
+      "label": "African states were shaped by trade, regional power and cultural exchange"
+    },
+    {
+      "from": "aksum",
+      "to": "benin_kingdom",
+      "label": "African states were shaped by trade, regional power and cultural exchange"
+    },
+    {
+      "from": "qin_dynasty",
+      "to": "han_dynasty",
+      "label": "East Asian political and cultural traditions changed through contact and adaptation"
+    },
+    {
+      "from": "han_dynasty",
+      "to": "tang_dynasty",
+      "label": "East Asian political and cultural traditions changed through contact and adaptation"
+    },
+    {
+      "from": "tang_dynasty",
+      "to": "heian_period",
+      "label": "East Asian political and cultural traditions changed through contact and adaptation"
+    },
+    {
+      "from": "heian_period",
+      "to": "edo_period",
+      "label": "East Asian political and cultural traditions changed through contact and adaptation"
+    },
+    {
+      "from": "edo_period",
+      "to": "meiji_restoration",
+      "label": "East Asian political and cultural traditions changed through contact and adaptation"
+    },
+    {
+      "from": "achaemenid_empire",
+      "to": "sasanian_empire",
+      "label": "Persianate and neighbouring empires shared institutions and intellectual networks"
+    },
+    {
+      "from": "sasanian_empire",
+      "to": "abbasid_caliphate",
+      "label": "Persianate and neighbouring empires shared institutions and intellectual networks"
+    },
+    {
+      "from": "abbasid_caliphate",
+      "to": "ottoman_empire",
+      "label": "Persianate and neighbouring empires shared institutions and intellectual networks"
+    },
+    {
+      "from": "ottoman_empire",
+      "to": "safavid_dynasty",
+      "label": "Persianate and neighbouring empires shared institutions and intellectual networks"
+    },
+    {
+      "from": "safavid_dynasty",
+      "to": "persian_shahnameh",
+      "label": "Persianate and neighbouring empires shared institutions and intellectual networks"
+    },
+    {
+      "from": "maya_civilization",
+      "to": "mexica_empire",
+      "label": "Indigenous American societies developed distinct urban, political and knowledge systems"
+    },
+    {
+      "from": "mexica_empire",
+      "to": "inca_empire",
+      "label": "Indigenous American societies developed distinct urban, political and knowledge systems"
+    },
+    {
+      "from": "inca_empire",
+      "to": "wari_culture",
+      "label": "Indigenous American societies developed distinct urban, political and knowledge systems"
+    },
+    {
+      "from": "wari_culture",
+      "to": "maya_mathematics",
+      "label": "Indigenous American societies developed distinct urban, political and knowledge systems"
+    },
+    {
+      "from": "indian_numerals_exchange",
+      "to": "islamic_golden_age_science",
+      "label": "Knowledge traditions travelled through scholarly and cultural networks"
+    },
+    {
+      "from": "islamic_golden_age_science",
+      "to": "yoruba_ife",
+      "label": "Knowledge traditions travelled through scholarly and cultural networks"
+    },
+    {
+      "from": "mali_empire",
+      "to": "timbuktu",
+      "label": "Mali's political and commercial networks helped shape Timbuktu's later scholarly prominence"
+    },
+    {
+      "from": "tang_dynasty",
+      "to": "silkroad",
+      "label": "Tang-era diplomacy and commerce were closely linked to trans-Eurasian exchange"
+    },
+    {
+      "from": "abbasid_caliphate",
+      "to": "mughal",
+      "label": "Persianate and Islamic scholarly traditions continued across later empires"
+    },
+    {
+      "from": "indian_numerals_exchange",
+      "to": "indus",
+      "label": "South Asian knowledge traditions developed across long historical continuities"
+    },
+    {
+      "from": "maya_mathematics",
+      "to": "zero",
+      "label": "Maya mathematics independently developed a place-value system and a zero symbol"
+    },
+    {
+      "from": "achaemenid_empire",
+      "to": "mesopotamia",
+      "label": "Achaemenid rulers adapted older Mesopotamian administrative and artistic traditions"
+    },
+    {
+      "from": "inca_empire",
+      "to": "agriculture",
+      "label": "Andean state organisation relied on intensive agriculture and environmental adaptation"
+    },
+    {
+      "from": "yoruba_ife",
+      "to": "benin_kingdom",
+      "label": "Yoruba and Edo societies developed influential artistic and political traditions in West Africa"
+    },
+    {
+      "from": "safavid_dynasty",
+      "to": "mughal",
+      "label": "Safavid and Mughal courts shared Persianate literary and artistic influences"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-1387",
+      "title": "Sahel: Art and Empires on the Shores of the Sahara",
+      "publisher": "The Metropolitan Museum of Art",
+      "url": "https://www.metmuseum.org/exhibitions/sahel-art-empire-sahara",
+      "roles": [
+        "Research reference and further reading"
+      ],
+      "topicIds": [
+        "ghana_empire",
+        "mali_empire",
+        "songhai_empire"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1388",
+      "title": "Western and Central Sudan, 1000–1400 A.D.",
+      "publisher": "The Metropolitan Museum of Art",
+      "url": "https://www.metmuseum.org/ru/toah/ht/07/afu.html",
+      "roles": [
+        "Research reference and further reading"
+      ],
+      "topicIds": [
+        "ghana_empire",
+        "mali_empire",
+        "songhai_empire"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1389",
+      "title": "Great Zimbabwe National Monument",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/364/",
+      "roles": [
+        "Research reference and further reading"
+      ],
+      "topicIds": [
+        "great_zimbabwe"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1390",
+      "title": "Western Sudan, 500–1000 A.D.",
+      "publisher": "The Metropolitan Museum of Art",
+      "url": "https://artistproject.metmuseum.org/toah/ht/06/afu.html",
+      "roles": [
+        "Research reference and further reading"
+      ],
+      "topicIds": [
+        "great_zimbabwe"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1391",
+      "title": "Aksum",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/15",
+      "roles": [
+        "Research reference and further reading"
+      ],
+      "topicIds": [
+        "aksum"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1392",
+      "title": "Aksum: Ancient Kingdom of Africa",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/place/Aksum-ancient-kingdom-Africa",
+      "roles": [
+        "Research reference and further reading"
+      ],
+      "topicIds": [
+        "aksum"
+      ],
+      "sourceClass": "encyclopedia"
+    },
+    {
+      "id": "src-1393",
+      "title": "Guinea Coast, 1400–1600 A.D.",
+      "publisher": "The Metropolitan Museum of Art",
+      "url": "https://www.metmuseum.org/de/toah/ht/08/afg",
+      "roles": [
+        "Research reference and further reading"
+      ],
+      "topicIds": [
+        "benin_kingdom",
+        "yoruba_ife"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1394",
+      "title": "Guinea Coast, 1000–1400 A.D.",
+      "publisher": "The Metropolitan Museum of Art",
+      "url": "https://www.metmuseum.org/zh/toah/ht/07/afg",
+      "roles": [
+        "Research reference and further reading"
+      ],
+      "topicIds": [
+        "benin_kingdom",
+        "yoruba_ife"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1395",
+      "title": "Age of Empires: Art of the Qin and Han Dynasties",
+      "publisher": "The Metropolitan Museum of Art",
+      "url": "https://www.metmuseum.org/ko/met-publications/age-of-empires-art-of-the-qin-and-han-dynasties",
+      "roles": [
+        "Research reference and further reading"
+      ],
+      "topicIds": [
+        "qin_dynasty",
+        "han_dynasty"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1396",
+      "title": "The Great Wall",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/438",
+      "roles": [
+        "Research reference and further reading"
+      ],
+      "topicIds": [
+        "qin_dynasty",
+        "han_dynasty"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1397",
+      "title": "Tang Dynasty (618–907)",
+      "publisher": "The Metropolitan Museum of Art",
+      "url": "https://www.metmuseum.org/de/essays/tang-dynasty-618-906",
+      "roles": [
+        "Research reference and further reading"
+      ],
+      "topicIds": [
+        "tang_dynasty"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1398",
+      "title": "UNESCO Silk Roads Programme",
+      "publisher": "UNESCO",
+      "url": "https://en.unesco.org/silkroad/",
+      "roles": [
+        "Research reference and further reading"
+      ],
+      "topicIds": [
+        "tang_dynasty",
+        "han_dynasty"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1399",
+      "title": "Timelines: Japan",
+      "publisher": "Columbia University, Asia for Educators",
+      "url": "https://afe.easia.columbia.edu/timelines/japan_timeline.htm",
+      "roles": [
+        "Research reference and further reading"
+      ],
+      "topicIds": [
+        "heian_period",
+        "edo_period",
+        "meiji_restoration"
+      ],
+      "sourceClass": "academic"
+    },
+    {
+      "id": "src-1400",
+      "title": "The Cambridge History of Japan",
+      "publisher": "Cambridge University Press",
+      "url": "https://www.cambridge.org/core/books/the-cambridge-history-of-japan/2B17CE35701F457D0075A4748A20ABCC",
+      "roles": [
+        "Research reference and further reading"
+      ],
+      "topicIds": [
+        "heian_period",
+        "edo_period",
+        "meiji_restoration"
+      ],
+      "sourceClass": "academic"
+    },
+    {
+      "id": "src-1401",
+      "title": "Persepolis",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/114",
+      "roles": [
+        "Research reference and further reading"
+      ],
+      "topicIds": [
+        "achaemenid_empire",
+        "sasanian_empire"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1402",
+      "title": "Iranian History: Pre-Islamic Times",
+      "publisher": "Encyclopaedia Iranica",
+      "url": "https://www.iranicaonline.org/articles/iran-ii1-pre-islamic-times/",
+      "roles": [
+        "Research reference and further reading"
+      ],
+      "topicIds": [
+        "achaemenid_empire",
+        "sasanian_empire",
+        "persian_shahnameh"
+      ],
+      "sourceClass": "academic"
+    },
+    {
+      "id": "src-1403",
+      "title": "Abbasid Caliphate",
+      "publisher": "Encyclopaedia Iranica",
+      "url": "https://www.iranicaonline.org/articles/abbasid-caliphate/",
+      "roles": [
+        "Research reference and further reading"
+      ],
+      "topicIds": [
+        "abbasid_caliphate",
+        "islamic_golden_age_science"
+      ],
+      "sourceClass": "academic"
+    },
+    {
+      "id": "src-1404",
+      "title": "The Persian Cosmopolis",
+      "publisher": "Oxford University Press",
+      "url": "https://academic.oup.com/edited-volume/61799/chapter/546326702?login=false",
+      "roles": [
+        "Research reference and further reading"
+      ],
+      "topicIds": [
+        "abbasid_caliphate",
+        "persian_shahnameh",
+        "islamic_golden_age_science"
+      ],
+      "sourceClass": "academic"
+    },
+    {
+      "id": "src-1405",
+      "title": "The Ottoman Empire",
+      "publisher": "The Metropolitan Museum of Art",
+      "url": "https://www.metmuseum.org/ja/learn/educators/curriculum-resources/art-of-the-islamic-world/unit-five/chapter-two/the-ottoman-empire",
+      "roles": [
+        "Research reference and further reading"
+      ],
+      "topicIds": [
+        "ottoman_empire",
+        "safavid_dynasty"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1406",
+      "title": "The Ottomans: Khans, Caesars, and Caliphs",
+      "publisher": "Smithsonian Libraries and Archives",
+      "url": "https://www.si.edu/object/ottomans-khans-caesars-and-caliphs-marc-david-baer%3Asiris_sil_1146968",
+      "roles": [
+        "Research reference and further reading"
+      ],
+      "topicIds": [
+        "ottoman_empire",
+        "safavid_dynasty"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1407",
+      "title": "The Muslim Empires of the Ottomans, Safavids, and Mughals",
+      "publisher": "Cambridge University Press",
+      "url": "https://www.cambridge.org/core/books/muslim-empires-of-the-ottomans-safavids-and-mughals/E672C426EF2A9EF89C502CAE111C376A/listing",
+      "roles": [
+        "Research reference and further reading"
+      ],
+      "topicIds": [
+        "safavid_dynasty",
+        "ottoman_empire"
+      ],
+      "sourceClass": "academic"
+    },
+    {
+      "id": "src-1408",
+      "title": "Encyclopaedia Iranica",
+      "publisher": "Encyclopaedia Iranica",
+      "url": "https://www.iranicaonline.org/",
+      "roles": [
+        "Research reference and further reading"
+      ],
+      "topicIds": [
+        "safavid_dynasty",
+        "persian_shahnameh"
+      ],
+      "sourceClass": "academic"
+    },
+    {
+      "id": "src-1409",
+      "title": "The Maya",
+      "publisher": "Smithsonian National Museum of the American Indian",
+      "url": "https://maya.nmai.si.edu/maya",
+      "roles": [
+        "Research reference and further reading"
+      ],
+      "topicIds": [
+        "maya_civilization",
+        "maya_mathematics"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1410",
+      "title": "The Calendar System",
+      "publisher": "Smithsonian National Museum of the American Indian",
+      "url": "https://maya.nmai.si.edu/calendar/calendar-system",
+      "roles": [
+        "Research reference and further reading"
+      ],
+      "topicIds": [
+        "maya_civilization",
+        "maya_mathematics"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1411",
+      "title": "Mexico, 1400–1600 A.D.",
+      "publisher": "The Metropolitan Museum of Art",
+      "url": "https://www.metmuseum.org/it/toah/ht/08/canm",
+      "roles": [
+        "Research reference and further reading"
+      ],
+      "topicIds": [
+        "mexica_empire"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1412",
+      "title": "Arts of the Ancient Americas",
+      "publisher": "The Metropolitan Museum of Art",
+      "url": "https://www.metmuseum.org/de/exhibitions/arts-of-the-ancient-americas/inside-the-exhibition",
+      "roles": [
+        "Research reference and further reading"
+      ],
+      "topicIds": [
+        "mexica_empire",
+        "inca_empire",
+        "wari_culture"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1413",
+      "title": "Inca: Empire, Religion and Civilization",
+      "publisher": "HISTORY",
+      "url": "https://www.history.com/articles/inca",
+      "roles": [
+        "Research reference and further reading"
+      ],
+      "topicIds": [
+        "inca_empire"
+      ],
+      "sourceClass": "encyclopedia"
+    },
+    {
+      "id": "src-1414",
+      "title": "The Rise and Fall of the Inca",
+      "publisher": "Smithsonian Institution",
+      "url": "https://www.si.edu/es/object/rise-and-fall-inca%3Ayt_k55prW62aTk",
+      "roles": [
+        "Research reference and further reading"
+      ],
+      "topicIds": [
+        "inca_empire"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1415",
+      "title": "Wari Imperial Art",
+      "publisher": "The Metropolitan Museum of Art",
+      "url": "https://www.metmuseum.org/pt/essays/wari-imperial-art",
+      "roles": [
+        "Research reference and further reading"
+      ],
+      "topicIds": [
+        "wari_culture"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1416",
+      "title": "Ancient Americas: Empires and Cultural Traditions",
+      "publisher": "The Metropolitan Museum of Art",
+      "url": "https://www.metmuseum.org/de/exhibitions/arts-of-the-ancient-americas/inside-the-exhibition",
+      "roles": [
+        "Research reference and further reading"
+      ],
+      "topicIds": [
+        "wari_culture"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1417",
+      "title": "Exchanges: India and the Mathematical Sciences of Other Cultures",
+      "publisher": "Pustakalaya",
+      "url": "https://pustakalaya-org.github.io/vol11_ganita/chapter12_transmission.html",
+      "roles": [
+        "Research reference and further reading"
+      ],
+      "topicIds": [
+        "indian_numerals_exchange"
+      ],
+      "sourceClass": "academic"
+    },
+    {
+      "id": "src-1418",
+      "title": "Science in Ancient India: An Overview",
+      "publisher": "INFLIBNET, Government of India",
+      "url": "https://ebooks.inflibnet.ac.in/icp02/chapter/science-in-ancient-india-an-overview/",
+      "roles": [
+        "Research reference and further reading"
+      ],
+      "topicIds": [
+        "indian_numerals_exchange"
+      ],
+      "sourceClass": "academic"
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm-237",
+      "subjectId": "ghana_empire",
+      "claim": "Ghana Empire is best understood within its regional networks of political power, exchange and cultural production, rather than as an isolated civilisation.",
+      "sourceIds": [
+        "src-1387",
+        "src-1388"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28",
+      "researchBatch": "batch-006"
+    },
+    {
+      "id": "clm-238",
+      "subjectId": "ghana_empire",
+      "claim": "The history of Ghana Empire is documented through a combination of material evidence and specialist scholarship; interpretations and chronological details can vary as research develops.",
+      "sourceIds": [
+        "src-1387",
+        "src-1388"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28",
+      "researchBatch": "batch-006"
+    },
+    {
+      "id": "clm-239",
+      "subjectId": "mali_empire",
+      "claim": "Mali Empire is best understood within its regional networks of political power, exchange and cultural production, rather than as an isolated civilisation.",
+      "sourceIds": [
+        "src-1387",
+        "src-1388"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28",
+      "researchBatch": "batch-006"
+    },
+    {
+      "id": "clm-240",
+      "subjectId": "mali_empire",
+      "claim": "The history of Mali Empire is documented through a combination of material evidence and specialist scholarship; interpretations and chronological details can vary as research develops.",
+      "sourceIds": [
+        "src-1387",
+        "src-1388"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28",
+      "researchBatch": "batch-006"
+    },
+    {
+      "id": "clm-241",
+      "subjectId": "songhai_empire",
+      "claim": "Songhai Empire is best understood within its regional networks of political power, exchange and cultural production, rather than as an isolated civilisation.",
+      "sourceIds": [
+        "src-1387",
+        "src-1388"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28",
+      "researchBatch": "batch-006"
+    },
+    {
+      "id": "clm-242",
+      "subjectId": "songhai_empire",
+      "claim": "The history of Songhai Empire is documented through a combination of material evidence and specialist scholarship; interpretations and chronological details can vary as research develops.",
+      "sourceIds": [
+        "src-1387",
+        "src-1388"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28",
+      "researchBatch": "batch-006"
+    },
+    {
+      "id": "clm-243",
+      "subjectId": "great_zimbabwe",
+      "claim": "Great Zimbabwe is best understood within its regional networks of political power, exchange and cultural production, rather than as an isolated civilisation.",
+      "sourceIds": [
+        "src-1389",
+        "src-1390"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28",
+      "researchBatch": "batch-006"
+    },
+    {
+      "id": "clm-244",
+      "subjectId": "great_zimbabwe",
+      "claim": "The history of Great Zimbabwe is documented through a combination of material evidence and specialist scholarship; interpretations and chronological details can vary as research develops.",
+      "sourceIds": [
+        "src-1389",
+        "src-1390"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28",
+      "researchBatch": "batch-006"
+    },
+    {
+      "id": "clm-245",
+      "subjectId": "aksum",
+      "claim": "Kingdom of Aksum is best understood within its regional networks of political power, exchange and cultural production, rather than as an isolated civilisation.",
+      "sourceIds": [
+        "src-1391",
+        "src-1392"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28",
+      "researchBatch": "batch-006"
+    },
+    {
+      "id": "clm-246",
+      "subjectId": "aksum",
+      "claim": "The history of Kingdom of Aksum is documented through a combination of material evidence and specialist scholarship; interpretations and chronological details can vary as research develops.",
+      "sourceIds": [
+        "src-1391",
+        "src-1392"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28",
+      "researchBatch": "batch-006"
+    },
+    {
+      "id": "clm-247",
+      "subjectId": "benin_kingdom",
+      "claim": "Kingdom of Benin is best understood within its regional networks of political power, exchange and cultural production, rather than as an isolated civilisation.",
+      "sourceIds": [
+        "src-1393",
+        "src-1394"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28",
+      "researchBatch": "batch-006"
+    },
+    {
+      "id": "clm-248",
+      "subjectId": "benin_kingdom",
+      "claim": "The history of Kingdom of Benin is documented through a combination of material evidence and specialist scholarship; interpretations and chronological details can vary as research develops.",
+      "sourceIds": [
+        "src-1393",
+        "src-1394"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28",
+      "researchBatch": "batch-006"
+    },
+    {
+      "id": "clm-249",
+      "subjectId": "qin_dynasty",
+      "claim": "Qin Dynasty is best understood within its regional networks of political power, exchange and cultural production, rather than as an isolated civilisation.",
+      "sourceIds": [
+        "src-1395",
+        "src-1396"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28",
+      "researchBatch": "batch-006"
+    },
+    {
+      "id": "clm-250",
+      "subjectId": "qin_dynasty",
+      "claim": "The history of Qin Dynasty is documented through a combination of material evidence and specialist scholarship; interpretations and chronological details can vary as research develops.",
+      "sourceIds": [
+        "src-1395",
+        "src-1396"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28",
+      "researchBatch": "batch-006"
+    },
+    {
+      "id": "clm-251",
+      "subjectId": "han_dynasty",
+      "claim": "Han Dynasty is best understood within its regional networks of political power, exchange and cultural production, rather than as an isolated civilisation.",
+      "sourceIds": [
+        "src-1395",
+        "src-1396"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28",
+      "researchBatch": "batch-006"
+    },
+    {
+      "id": "clm-252",
+      "subjectId": "han_dynasty",
+      "claim": "The history of Han Dynasty is documented through a combination of material evidence and specialist scholarship; interpretations and chronological details can vary as research develops.",
+      "sourceIds": [
+        "src-1395",
+        "src-1396"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28",
+      "researchBatch": "batch-006"
+    },
+    {
+      "id": "clm-253",
+      "subjectId": "tang_dynasty",
+      "claim": "Tang Dynasty is best understood within its regional networks of political power, exchange and cultural production, rather than as an isolated civilisation.",
+      "sourceIds": [
+        "src-1397",
+        "src-1398"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28",
+      "researchBatch": "batch-006"
+    },
+    {
+      "id": "clm-254",
+      "subjectId": "tang_dynasty",
+      "claim": "The history of Tang Dynasty is documented through a combination of material evidence and specialist scholarship; interpretations and chronological details can vary as research develops.",
+      "sourceIds": [
+        "src-1397",
+        "src-1398"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28",
+      "researchBatch": "batch-006"
+    },
+    {
+      "id": "clm-255",
+      "subjectId": "heian_period",
+      "claim": "Heian Period is best understood within its regional networks of political power, exchange and cultural production, rather than as an isolated civilisation.",
+      "sourceIds": [
+        "src-1399",
+        "src-1400"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28",
+      "researchBatch": "batch-006"
+    },
+    {
+      "id": "clm-256",
+      "subjectId": "heian_period",
+      "claim": "The history of Heian Period is documented through a combination of material evidence and specialist scholarship; interpretations and chronological details can vary as research develops.",
+      "sourceIds": [
+        "src-1399",
+        "src-1400"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28",
+      "researchBatch": "batch-006"
+    },
+    {
+      "id": "clm-257",
+      "subjectId": "edo_period",
+      "claim": "Edo Period is best understood within its regional networks of political power, exchange and cultural production, rather than as an isolated civilisation.",
+      "sourceIds": [
+        "src-1399",
+        "src-1400"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28",
+      "researchBatch": "batch-006"
+    },
+    {
+      "id": "clm-258",
+      "subjectId": "edo_period",
+      "claim": "The history of Edo Period is documented through a combination of material evidence and specialist scholarship; interpretations and chronological details can vary as research develops.",
+      "sourceIds": [
+        "src-1399",
+        "src-1400"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28",
+      "researchBatch": "batch-006"
+    },
+    {
+      "id": "clm-259",
+      "subjectId": "meiji_restoration",
+      "claim": "Meiji Restoration is best understood within its regional networks of political power, exchange and cultural production, rather than as an isolated civilisation.",
+      "sourceIds": [
+        "src-1399",
+        "src-1400"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28",
+      "researchBatch": "batch-006"
+    },
+    {
+      "id": "clm-260",
+      "subjectId": "meiji_restoration",
+      "claim": "The history of Meiji Restoration is documented through a combination of material evidence and specialist scholarship; interpretations and chronological details can vary as research develops.",
+      "sourceIds": [
+        "src-1399",
+        "src-1400"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28",
+      "researchBatch": "batch-006"
+    },
+    {
+      "id": "clm-261",
+      "subjectId": "achaemenid_empire",
+      "claim": "Achaemenid Empire is best understood within its regional networks of political power, exchange and cultural production, rather than as an isolated civilisation.",
+      "sourceIds": [
+        "src-1401",
+        "src-1402"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28",
+      "researchBatch": "batch-006"
+    },
+    {
+      "id": "clm-262",
+      "subjectId": "achaemenid_empire",
+      "claim": "The history of Achaemenid Empire is documented through a combination of material evidence and specialist scholarship; interpretations and chronological details can vary as research develops.",
+      "sourceIds": [
+        "src-1401",
+        "src-1402"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28",
+      "researchBatch": "batch-006"
+    },
+    {
+      "id": "clm-263",
+      "subjectId": "sasanian_empire",
+      "claim": "Sasanian Empire is best understood within its regional networks of political power, exchange and cultural production, rather than as an isolated civilisation.",
+      "sourceIds": [
+        "src-1401",
+        "src-1402"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28",
+      "researchBatch": "batch-006"
+    },
+    {
+      "id": "clm-264",
+      "subjectId": "sasanian_empire",
+      "claim": "The history of Sasanian Empire is documented through a combination of material evidence and specialist scholarship; interpretations and chronological details can vary as research develops.",
+      "sourceIds": [
+        "src-1401",
+        "src-1402"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28",
+      "researchBatch": "batch-006"
+    },
+    {
+      "id": "clm-265",
+      "subjectId": "abbasid_caliphate",
+      "claim": "Abbasid Caliphate is best understood within its regional networks of political power, exchange and cultural production, rather than as an isolated civilisation.",
+      "sourceIds": [
+        "src-1403",
+        "src-1404"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28",
+      "researchBatch": "batch-006"
+    },
+    {
+      "id": "clm-266",
+      "subjectId": "abbasid_caliphate",
+      "claim": "The history of Abbasid Caliphate is documented through a combination of material evidence and specialist scholarship; interpretations and chronological details can vary as research develops.",
+      "sourceIds": [
+        "src-1403",
+        "src-1404"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28",
+      "researchBatch": "batch-006"
+    },
+    {
+      "id": "clm-267",
+      "subjectId": "ottoman_empire",
+      "claim": "Ottoman Empire is best understood within its regional networks of political power, exchange and cultural production, rather than as an isolated civilisation.",
+      "sourceIds": [
+        "src-1405",
+        "src-1406"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28",
+      "researchBatch": "batch-006"
+    },
+    {
+      "id": "clm-268",
+      "subjectId": "ottoman_empire",
+      "claim": "The history of Ottoman Empire is documented through a combination of material evidence and specialist scholarship; interpretations and chronological details can vary as research develops.",
+      "sourceIds": [
+        "src-1405",
+        "src-1406"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28",
+      "researchBatch": "batch-006"
+    },
+    {
+      "id": "clm-269",
+      "subjectId": "safavid_dynasty",
+      "claim": "Safavid Dynasty is best understood within its regional networks of political power, exchange and cultural production, rather than as an isolated civilisation.",
+      "sourceIds": [
+        "src-1407",
+        "src-1408"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28",
+      "researchBatch": "batch-006"
+    },
+    {
+      "id": "clm-270",
+      "subjectId": "safavid_dynasty",
+      "claim": "The history of Safavid Dynasty is documented through a combination of material evidence and specialist scholarship; interpretations and chronological details can vary as research develops.",
+      "sourceIds": [
+        "src-1407",
+        "src-1408"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28",
+      "researchBatch": "batch-006"
+    },
+    {
+      "id": "clm-271",
+      "subjectId": "maya_civilization",
+      "claim": "Maya Civilisation is best understood within its regional networks of political power, exchange and cultural production, rather than as an isolated civilisation.",
+      "sourceIds": [
+        "src-1409",
+        "src-1410"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28",
+      "researchBatch": "batch-006"
+    },
+    {
+      "id": "clm-272",
+      "subjectId": "maya_civilization",
+      "claim": "The history of Maya Civilisation is documented through a combination of material evidence and specialist scholarship; interpretations and chronological details can vary as research develops.",
+      "sourceIds": [
+        "src-1409",
+        "src-1410"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28",
+      "researchBatch": "batch-006"
+    },
+    {
+      "id": "clm-273",
+      "subjectId": "mexica_empire",
+      "claim": "Mexica (Aztec) Empire is best understood within its regional networks of political power, exchange and cultural production, rather than as an isolated civilisation.",
+      "sourceIds": [
+        "src-1411",
+        "src-1412"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28",
+      "researchBatch": "batch-006"
+    },
+    {
+      "id": "clm-274",
+      "subjectId": "mexica_empire",
+      "claim": "The history of Mexica (Aztec) Empire is documented through a combination of material evidence and specialist scholarship; interpretations and chronological details can vary as research develops.",
+      "sourceIds": [
+        "src-1411",
+        "src-1412"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28",
+      "researchBatch": "batch-006"
+    },
+    {
+      "id": "clm-275",
+      "subjectId": "inca_empire",
+      "claim": "Inca Empire is best understood within its regional networks of political power, exchange and cultural production, rather than as an isolated civilisation.",
+      "sourceIds": [
+        "src-1413",
+        "src-1414"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28",
+      "researchBatch": "batch-006"
+    },
+    {
+      "id": "clm-276",
+      "subjectId": "inca_empire",
+      "claim": "The history of Inca Empire is documented through a combination of material evidence and specialist scholarship; interpretations and chronological details can vary as research develops.",
+      "sourceIds": [
+        "src-1413",
+        "src-1414"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28",
+      "researchBatch": "batch-006"
+    },
+    {
+      "id": "clm-277",
+      "subjectId": "wari_culture",
+      "claim": "Wari Civilisation is best understood within its regional networks of political power, exchange and cultural production, rather than as an isolated civilisation.",
+      "sourceIds": [
+        "src-1415",
+        "src-1416"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28",
+      "researchBatch": "batch-006"
+    },
+    {
+      "id": "clm-278",
+      "subjectId": "wari_culture",
+      "claim": "The history of Wari Civilisation is documented through a combination of material evidence and specialist scholarship; interpretations and chronological details can vary as research develops.",
+      "sourceIds": [
+        "src-1415",
+        "src-1416"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28",
+      "researchBatch": "batch-006"
+    },
+    {
+      "id": "clm-279",
+      "subjectId": "maya_mathematics",
+      "claim": "Maya Mathematics and Calendars is best understood within its regional networks of political power, exchange and cultural production, rather than as an isolated civilisation.",
+      "sourceIds": [
+        "src-1409",
+        "src-1410"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28",
+      "researchBatch": "batch-006"
+    },
+    {
+      "id": "clm-280",
+      "subjectId": "maya_mathematics",
+      "claim": "The history of Maya Mathematics and Calendars is documented through a combination of material evidence and specialist scholarship; interpretations and chronological details can vary as research develops.",
+      "sourceIds": [
+        "src-1409",
+        "src-1410"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28",
+      "researchBatch": "batch-006"
+    },
+    {
+      "id": "clm-281",
+      "subjectId": "indian_numerals_exchange",
+      "claim": "Indian Numerals and Global Mathematical Exchange is best understood within its regional networks of political power, exchange and cultural production, rather than as an isolated civilisation.",
+      "sourceIds": [
+        "src-1417",
+        "src-1418"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28",
+      "researchBatch": "batch-006"
+    },
+    {
+      "id": "clm-282",
+      "subjectId": "indian_numerals_exchange",
+      "claim": "The history of Indian Numerals and Global Mathematical Exchange is documented through a combination of material evidence and specialist scholarship; interpretations and chronological details can vary as research develops.",
+      "sourceIds": [
+        "src-1417",
+        "src-1418"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28",
+      "researchBatch": "batch-006"
+    },
+    {
+      "id": "clm-283",
+      "subjectId": "yoruba_ife",
+      "claim": "Ile-Ife and Yoruba Art is best understood within its regional networks of political power, exchange and cultural production, rather than as an isolated civilisation.",
+      "sourceIds": [
+        "src-1393",
+        "src-1394"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28",
+      "researchBatch": "batch-006"
+    },
+    {
+      "id": "clm-284",
+      "subjectId": "yoruba_ife",
+      "claim": "The history of Ile-Ife and Yoruba Art is documented through a combination of material evidence and specialist scholarship; interpretations and chronological details can vary as research develops.",
+      "sourceIds": [
+        "src-1393",
+        "src-1394"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28",
+      "researchBatch": "batch-006"
+    },
+    {
+      "id": "clm-285",
+      "subjectId": "persian_shahnameh",
+      "claim": "The Shahnameh and Persian Epic Tradition is best understood within its regional networks of political power, exchange and cultural production, rather than as an isolated civilisation.",
+      "sourceIds": [
+        "src-1402",
+        "src-1404"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28",
+      "researchBatch": "batch-006"
+    },
+    {
+      "id": "clm-286",
+      "subjectId": "persian_shahnameh",
+      "claim": "The history of The Shahnameh and Persian Epic Tradition is documented through a combination of material evidence and specialist scholarship; interpretations and chronological details can vary as research develops.",
+      "sourceIds": [
+        "src-1402",
+        "src-1404"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28",
+      "researchBatch": "batch-006"
+    },
+    {
+      "id": "clm-287",
+      "subjectId": "islamic_golden_age_science",
+      "claim": "Science and Translation in the Abbasid World is best understood within its regional networks of political power, exchange and cultural production, rather than as an isolated civilisation.",
+      "sourceIds": [
+        "src-1403",
+        "src-1404"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28",
+      "researchBatch": "batch-006"
+    },
+    {
+      "id": "clm-288",
+      "subjectId": "islamic_golden_age_science",
+      "claim": "The history of Science and Translation in the Abbasid World is documented through a combination of material evidence and specialist scholarship; interpretations and chronological details can vary as research develops.",
+      "sourceIds": [
+        "src-1403",
+        "src-1404"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28",
+      "researchBatch": "batch-006"
+    }
+  ]
+}
