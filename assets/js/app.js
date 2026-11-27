@@ -10,27 +10,28 @@ async function getMedia(n){
  if(mediaCache.has(key))return mediaCache.get(key);
  const task=(async()=>{
   const title=pageTitle(n);
+  let summary=null;
   try{
    const summaryUrl="https://en.wikipedia.org/api/rest_v1/page/summary/"+encodeURIComponent(title);
    const response=await fetch(summaryUrl);
    if(response.ok){
-    const data=await response.json();
-    const image=data.thumbnail?.source||data.originalimage?.source||null;
-    if(image)return{image,extract:data.extract||null,source:data.content_urls?.desktop?.page||n.wiki||null};
-    if(data.extract)return{image:null,extract:data.extract,source:data.content_urls?.desktop?.page||n.wiki||null};
+    summary=await response.json();
+    const image=summary.thumbnail?.source||summary.originalimage?.source||null;
+    if(image)return{image,extract:summary.extract||null,source:summary.content_urls?.desktop?.page||n.wiki||null};
    }
   }catch(error){}
   try{
    const searchUrl="https://en.wikipedia.org/w/rest.php/v1/search/page?q="+encodeURIComponent(title)+"&limit=5";
    const response=await fetch(searchUrl);
-   if(!response.ok)return null;
-   const data=await response.json();
-   const pages=data.pages||[];
-   const normalized=title.toLowerCase().replace(/[_-]/g," ").trim();
-   const best=pages.find(page=>page.title?.toLowerCase()===normalized&&page.thumbnail?.url)||pages.find(page=>page.thumbnail?.url);
-   if(best?.thumbnail?.url)return{image:best.thumbnail.url.startsWith("//")?"https:"+best.thumbnail.url:best.thumbnail.url,extract:null,source:"https://en.wikipedia.org/wiki/"+encodeURIComponent((best.key||best.title).replace(/ /g,"_"))};
+   if(response.ok){
+    const data=await response.json();
+    const pages=data.pages||[];
+    const normalized=title.toLowerCase().replace(/[_-]/g," ").trim();
+    const best=pages.find(page=>page.title?.toLowerCase()===normalized&&page.thumbnail?.url)||pages.find(page=>page.thumbnail?.url);
+    if(best?.thumbnail?.url)return{image:best.thumbnail.url.startsWith("//")?"https:"+best.thumbnail.url:best.thumbnail.url,extract:summary?.extract||null,source:summary?.content_urls?.desktop?.page||"https://en.wikipedia.org/wiki/"+encodeURIComponent((best.key||best.title).replace(/ /g,"_"))};
+   }
   }catch(error){}
-  return null;
+  return summary?{image:null,extract:summary.extract||null,source:summary.content_urls?.desktop?.page||n.wiki||null}:null;
  })();
  mediaCache.set(key,task);
  return task;
