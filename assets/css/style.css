@@ -454,3 +454,7 @@ button,a{-webkit-tap-highlight-color:transparent}
 .history-search-control input{width:100%;min-height:46px;padding:0 13px;border:1px solid #c9c3b7;border-radius:0;background:#f8f5ed;color:var(--ink);font:12px var(--sans)}
 .history-search-control input:focus-visible{outline:2px solid var(--red);outline-offset:2px}
 @media(min-width:651px){.history-controls{grid-template-columns:minmax(220px,1.2fr) minmax(170px,1fr) minmax(170px,1fr) auto}}
+
+/* Batch 009: provenance and research-status clarity */
+.reader-evidence>.reader-note:first-of-type{margin:10px 0 12px;padding:9px 11px;background:#eeeae0;border-left:2px solid var(--red);font-size:9px}
+.reader-source-link:focus-visible,.reader-claim-citations a:focus-visible{outline:2px solid var(--red);outline-offset:3px}

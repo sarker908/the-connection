@@ -123,3 +123,8 @@ The subject reader now includes an in-panel search for direct relationships. Vis
 ## Stage 008: searchable historical timeline
 
 The history archive now supports keyword search across event titles, summaries, dates, regions and source labels, alongside the existing period and region filters. Filters work together and update the result count and timeline in place.
+
+
+## Stage 009: clearer research provenance
+
+Subject readers now state the number and recorded review status of linked research claims. External source links are restricted to explicit HTTP(S) URLs before rendering. Editorial-review-pending remains visible as a status rather than being presented as verification.
