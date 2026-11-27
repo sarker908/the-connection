@@ -426,3 +426,7 @@ button,a{-webkit-tap-highlight-color:transparent}
 @media(max-width:1000px){.on-this-day-section{padding:78px 6%}.on-this-day-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.on-this-day-image{height:220px}.story-image{height:220px}.collection-tile-image{height:165px}.collection-subject-image{height:170px}}
 @media(max-width:650px){.on-this-day-section{padding:65px 6%}.on-this-day-heading{align-items:flex-start;flex-direction:column;gap:17px}.on-this-day-heading h2{font-size:38px}.on-this-day-date{align-items:flex-start;text-align:left}.on-this-day-grid{grid-template-columns:1fr 1fr;gap:13px 10px}.on-this-day-image{height:165px}.on-this-day-copy{padding:13px}.on-this-day-copy h3{font-size:17px;margin:10px 0 16px}.on-this-day-copy small{font-size:7px}.story-image{height:175px}.collection-tile-image{height:130px}.collection-subject-image{height:145px}.journey-card-image{height:100%}}
 @media(max-width:390px){.on-this-day-image{height:140px}.on-this-day-copy h3{font-size:15px}.story-image{height:150px}.collection-subject-image{height:125px}}
+
+/* Keep the selected collection and its subject list in view after a collection is chosen */
+.collection-results{scroll-margin-top:88px}
+@media(prefers-reduced-motion:reduce){html:focus-within{scroll-behavior:auto}}
