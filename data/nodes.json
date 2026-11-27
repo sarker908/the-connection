@@ -21,10 +21,12 @@
     "type": "Information system",
     "icon": "🕸️",
     "featured": true,
-    "short": "A web of pages linked by hyperlinks.",
-    "description": "Invented by Tim Berners-Lee at CERN, the World Wide Web made information on the Internet easy to access through browsers, URLs and hyperlinks.",
+    "short": "A global information system built on the Internet, linking documents and resources through URLs and hyperlinks.",
+    "description": "The World Wide Web is an information system that runs on the Internet. It connects resources through URLs and hyperlinks and uses web standards and protocols such as HTTP and HTML so browsers and servers can exchange and display information. Tim Berners-Lee proposed the system at CERN in 1989; the first browser and server were developed in 1990, and the Web was made freely usable in 1993. The Web is not the Internet itself: it is one service built on top of the Internet.",
     "wiki": "https://en.wikipedia.org/wiki/World_Wide_Web",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-001"
   },
   {
     "id": "computer",
@@ -34,10 +36,12 @@
     "type": "Invention",
     "icon": "💻",
     "featured": true,
-    "short": "A machine that transformed calculation.",
-    "description": "Modern electronic computers evolved from mathematical theory, wartime engineering and advances in electronics. They became general-purpose tools for science, business and everyday life.",
+    "short": "A programmable machine that represents, stores and processes information according to instructions.",
+    "description": "A computer is a programmable machine that accepts data, processes it according to instructions, stores information and produces results. Modern electronic digital computers grew from several lines of mathematical, theoretical and engineering work rather than one single invention. A defining development was the stored-program architecture, in which instructions and data are held in memory. Early electronic computers differed in purpose, technology and design, so claims about the 'first computer' depend on the criteria being used.",
     "wiki": "https://en.wikipedia.org/wiki/Computer",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-001"
   },
   {
     "id": "turing",
@@ -74,10 +78,12 @@
     "type": "Invention",
     "icon": "📜",
     "featured": true,
-    "short": "Knowledge became easier to reproduce.",
-    "description": "Johannes Gutenberg's movable-type printing system transformed the scale and cost of reproducing texts in Europe, accelerating the circulation of ideas.",
+    "short": "Printing technologies reproduce text and images at scale, transforming how knowledge is copied and circulated.",
+    "description": "Printing is the reproduction of text or images from prepared forms onto materials such as paper. Printing developed in East Asia long before Gutenberg, including woodblock printing and movable type. In mid-fifteenth-century Europe, Johannes Gutenberg and his workshop refined a system using reusable metal type, suitable inks and a mechanical press. This made repeated production of books more practical and helped accelerate the circulation of texts, while remaining part of a much longer global history of printing.",
     "wiki": "https://en.wikipedia.org/wiki/Printing_press",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-001"
   },
   {
     "id": "electricity",
@@ -87,10 +93,12 @@
     "type": "Scientific phenomenon",
     "icon": "⚡",
     "featured": true,
-    "short": "The force behind the electric age.",
-    "description": "The study and practical control of electrical phenomena reshaped industry, communication, lighting and modern technology.",
+    "short": "A set of physical phenomena associated with electric charge, including its forces, fields and movement.",
+    "description": "Electricity describes physical phenomena associated with electric charge, including static charge, electric fields, voltage and electric current. It is not itself a primary energy source: generators convert other forms of energy into electrical energy, often through electromagnetic induction. The study of electricity developed through contributions from many investigators, and practical electrical systems later transformed lighting, industry, communication and everyday life.",
     "wiki": "https://en.wikipedia.org/wiki/Electricity",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-001"
   },
   {
     "id": "newton",
@@ -206,10 +214,12 @@
     "type": "Invention",
     "icon": "⚙️",
     "featured": false,
-    "short": "A heat engine that turned steam into mechanical power.",
-    "description": "A steam engine converts the heat energy of steam into mechanical work. Successive designs powered mines, factories, ships and railways, becoming a major technology of industrialisation.",
+    "short": "A heat engine that uses steam pressure and expansion to produce mechanical work.",
+    "description": "A steam engine is a heat engine that uses steam to produce mechanical work. Early practical atmospheric engines, including Thomas Newcomen's engine installed in 1712, were used mainly to pump water from mines. James Watt and many other engineers later improved efficiency, control and applications. Steam power became central to industrialisation, transport and manufacturing, but its history was cumulative rather than the work of one inventor.",
     "wiki": "https://en.wikipedia.org/wiki/Steam_engine",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-001"
   },
   {
     "id": "worldwar2",
@@ -232,10 +242,12 @@
     "type": "Invention",
     "icon": "🔌",
     "featured": false,
-    "short": "The tiny switch behind modern electronics.",
-    "description": "The transistor made compact, reliable electronic switching and amplification possible, enabling modern computers and digital devices.",
+    "short": "A semiconductor device used to amplify or switch electronic signals and electrical power.",
+    "description": "A transistor is a semiconductor device that can control current or voltage, allowing it to act as an electronic switch or amplifier. John Bardeen and Walter Brattain demonstrated a working point-contact transistor at Bell Labs in December 1947; William Shockley subsequently developed the junction-transistor theory and device. Different transistor types and manufacturing advances made electronics smaller, more reliable and more energy-efficient, enabling modern digital computers and communications.",
     "wiki": "https://en.wikipedia.org/wiki/Transistor",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-001"
   },
   {
     "id": "semiconductor",
@@ -245,10 +257,12 @@
     "type": "Technology",
     "icon": "▦",
     "featured": false,
-    "short": "Materials at the heart of digital devices.",
-    "description": "Semiconductor materials can control electrical current, making them essential to transistors, integrated circuits, sensors and processors.",
+    "short": "A material whose electrical conductivity can be deliberately controlled, forming the basis of modern electronic devices.",
+    "description": "A semiconductor is a material whose electrical conductivity lies between that of a good conductor and an insulator and can be controlled by factors such as doping, temperature, light and electric fields. Silicon is the most widely used semiconductor in modern electronics. Semiconductor physics and manufacturing make devices such as diodes, transistors, sensors and integrated circuits possible. The field developed through contributions from physics, chemistry, materials science and industrial engineering.",
     "wiki": "https://en.wikipedia.org/wiki/Semiconductor",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-001"
   },
   {
     "id": "smartphone",
@@ -338,10 +352,12 @@
     "type": "Protocol suite",
     "icon": "🔗",
     "featured": false,
-    "short": "The common language of the Internet.",
-    "description": "TCP/IP is the foundational suite of communication protocols that allows diverse networks and devices to exchange data.",
+    "short": "The Internet protocol suite enables independent networks and devices to exchange data using common rules.",
+    "description": "The Internet protocol suite, commonly called TCP/IP, is a layered set of rules that allows different computers and networks to communicate. Internet Protocol (IP) addresses and forwards packets across interconnected networks, while Transmission Control Protocol (TCP) provides a reliable, ordered byte stream between applications. Other transport protocols, including UDP, serve different needs. TCP/IP is not one program or a single protocol; it is an evolving family of interoperable standards.",
     "wiki": "https://en.wikipedia.org/wiki/Internet_protocol_suite",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-001"
   },
   {
     "id": "satellite",
@@ -351,10 +367,12 @@
     "type": "Space technology",
     "icon": "🛰️",
     "featured": false,
-    "short": "Orbiting tools for a connected planet.",
-    "description": "Artificial satellites support communication, navigation, weather forecasting, Earth observation and scientific research.",
+    "short": "A human-made object placed in orbit to support communication, navigation, observation and scientific research.",
+    "description": "An artificial satellite is a human-made object placed into orbit around Earth or another celestial body. Satellites can relay communications, support navigation and timing, observe weather and environmental change, map Earth, and conduct scientific experiments. The Soviet Union's Sputnik 1, launched on 4 October 1957, was the first artificial satellite to orbit Earth and marked the beginning of the Space Age.",
     "wiki": "https://en.wikipedia.org/wiki/Artificial_satellite",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-001"
   },
   {
     "id": "navigation",
@@ -364,10 +382,12 @@
     "type": "Navigation system",
     "icon": "📍",
     "featured": false,
-    "short": "Precise positioning from space.",
-    "description": "The Global Positioning System uses satellite signals to provide positioning, navigation and timing services around the world.",
+    "short": "A satellite-based radionavigation system that lets receivers calculate position, velocity and precise time.",
+    "description": "The Global Positioning System (GPS) is a satellite-based radionavigation system that provides positioning, navigation and timing services worldwide. GPS satellites broadcast precisely timed signals and information about their orbits; a receiver compares signal arrival times from multiple satellites to estimate its position and clock offset. The system has space, control and user segments. GPS began as a United States defence programme, with its first NAVSTAR satellite launched in 1978, and later became a widely used civilian infrastructure.",
     "wiki": "https://en.wikipedia.org/wiki/Global_Positioning_System",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-001"
   },
   {
     "id": "printingreform",
@@ -492,12 +512,14 @@
     "category": "Technology",
     "year": "c. 105 CE",
     "type": "Invention",
-    "description": "Paper offered a portable and economical surface for recording information, transforming administration, education and publishing.",
+    "description": "Paper is a sheet material made by forming a mat of separated fibres, usually plant-based, and drying it into a flexible surface. Paper-making developed in China in the early centuries CE; historical evidence for early paper predates the later account of Cai Lun, who is traditionally associated with improvements to its production around 105 CE. The technique spread across Asia and later westward through interconnected trade and knowledge networks, reshaping administration, scholarship and publishing.",
     "icon": "📄",
     "featured": false,
-    "short": "Paper offered a portable and economical surface for recording information, transforming administration, education and publishing.",
+    "short": "A thin, flexible sheet material that transformed record-keeping, education, administration and publishing.",
     "wiki": "https://en.wikipedia.org/wiki/History_of_paper",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-001"
   },
   {
     "id": "compass",
@@ -505,12 +527,14 @@
     "category": "Technology",
     "year": "11th century",
     "type": "Navigation instrument",
-    "description": "The magnetic compass enabled more reliable orientation and became vital for overland and maritime navigation.",
+    "description": "A magnetic compass uses a magnetised needle or other element that aligns approximately with Earth's magnetic field, helping users determine direction. Knowledge of magnetism and magnetic direction in China predates the first surviving written descriptions of compass use for navigation. By the medieval period, compasses had become important tools for overland and maritime travel. A compass points toward magnetic north, which differs from true geographic north and varies by location and time.",
     "icon": "🧭",
     "featured": false,
-    "short": "The magnetic compass enabled more reliable orientation and became vital for overland and maritime navigation.",
+    "short": "A navigation instrument that uses a magnetised element to indicate direction relative to Earth's magnetic field.",
     "wiki": "https://en.wikipedia.org/wiki/Compass",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-001"
   },
   {
     "id": "gunpowder",
@@ -583,12 +607,14 @@
     "category": "Science",
     "year": "17th century",
     "type": "Method",
-    "description": "Observation, measurement, hypothesis testing and revision help build reliable explanations of the natural world.",
+    "description": "The scientific method is not a single rigid checklist used identically in every discipline. It describes a family of practices through which researchers make observations, ask questions, develop testable explanations, gather evidence, analyse results and revise ideas. Experiments, measurement, replication, peer criticism and transparent reporting help make findings more dependable. Scientific explanations remain open to revision when new evidence or better methods become available.",
     "icon": "🧪",
     "featured": false,
-    "short": "Observation, measurement, hypothesis testing and revision help build reliable explanations of the natural world.",
+    "short": "A family of evidence-based practices for asking questions, testing explanations and revising knowledge.",
     "wiki": "https://en.wikipedia.org/wiki/Scientific_method",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-001"
   },
   {
     "id": "faraday",
@@ -661,12 +687,14 @@
     "category": "Medicine",
     "year": "19th century",
     "type": "Scientific theory",
-    "description": "Germ theory explains that many diseases are caused by microorganisms, transforming hygiene, surgery and public health.",
+    "description": "Germ theory explains that many infectious diseases are caused by microorganisms such as bacteria, viruses, fungi and parasites. It emerged through a long history of microscopy, experiments, clinical observation and public-health practice, with major nineteenth-century contributions from Louis Pasteur and Robert Koch. Germ theory transformed infection prevention, sanitation, food safety, vaccination and surgery. It does not mean every disease is infectious or has a microbial cause.",
     "icon": "🦠",
     "featured": false,
-    "short": "Germ theory explains that many diseases are caused by microorganisms, transforming hygiene, surgery and public health.",
+    "short": "The scientific framework that explains many infectious diseases through disease-causing microorganisms.",
     "wiki": "https://en.wikipedia.org/wiki/Germ_theory_of_disease",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-001"
   },
   {
     "id": "penicillin",
@@ -674,12 +702,14 @@
     "category": "Medicine",
     "year": "1928",
     "type": "Medical discovery",
-    "description": "Penicillin became the first widely used antibiotic and transformed treatment of bacterial infections.",
+    "description": "Penicillin is a group of beta-lactam antibiotics that kill susceptible bacteria by interfering with cell-wall synthesis. Alexander Fleming observed the antibacterial effect of a Penicillium mould in 1928 and published his findings in 1929. A team at Oxford, including Howard Florey, Ernst Chain and Norman Heatley, later developed methods to purify, test and produce penicillin for clinical use during the 1940s. Its success transformed treatment of bacterial infections, while the spread of antibiotic resistance makes careful use essential.",
     "icon": "🧫",
     "featured": false,
-    "short": "Penicillin became the first widely used antibiotic and transformed treatment of bacterial infections.",
+    "short": "An antibiotic first observed by Alexander Fleming and later developed into a widely usable medicine by a research team.",
     "wiki": "https://en.wikipedia.org/wiki/Penicillin",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-001"
   },
   {
     "id": "smallpox",
@@ -726,12 +756,14 @@
     "category": "Mathematics",
     "year": "9th century",
     "type": "Mathematical field",
-    "description": "Algebra expresses relationships and solves problems using symbols and general rules.",
+    "description": "Algebra is a branch of mathematics that uses symbols to represent numbers and unknown quantities and studies the rules governing their relationships. Equation-solving traditions existed in ancient Babylonian, Greek and Indian mathematics. In the ninth century, the scholar Muhammad ibn Musa al-Khwarizmi wrote an influential systematic treatise on al-jabr and al-muqabala, helping establish algebra as a distinct discipline and giving the subject its name. Modern symbolic notation developed gradually over later centuries.",
     "icon": "➗",
     "featured": false,
-    "short": "Algebra expresses relationships and solves problems using symbols and general rules.",
+    "short": "A branch of mathematics that studies relationships and structures using symbols, quantities and rules.",
     "wiki": "https://en.wikipedia.org/wiki/Algebra",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-001"
   },
   {
     "id": "zero",
@@ -739,12 +771,14 @@
     "category": "Mathematics",
     "year": "c. 5th century",
     "type": "Number",
-    "description": "Zero as a number and positional placeholder was essential to decimal place value and modern mathematics.",
+    "description": "Zero has two closely related but distinct roles: it is a number representing no quantity, and it marks an empty place in a positional numeral system. Different societies developed forms of zero independently or through distinct historical pathways. Indian mathematicians developed the decimal place-value system and treated zero as a number; Brahmagupta set out arithmetic rules involving zero in the seventh century. The history is cumulative and should not be reduced to a single inventor or date.",
     "icon": "0️⃣",
     "featured": false,
-    "short": "Zero as a number and positional placeholder was essential to decimal place value and modern mathematics.",
+    "short": "A number representing no quantity and a placeholder that makes positional numeral systems work.",
     "wiki": "https://en.wikipedia.org/wiki/0",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-001"
   },
   {
     "id": "indus",
@@ -870,12 +904,14 @@
     "category": "Medicine",
     "year": "1990",
     "type": "Research project",
-    "description": "An international research effort produced a reference sequence of the human genome, accelerating genetics, biology and precision medicine.",
-    "short": "An international research effort produced a reference sequence of the human genome, accelerating genetics, biology and precision medicine.",
+    "description": "The Human Genome Project was an international research programme, formally launched in 1990 and completed in 2003, to map and sequence human DNA and selected model organisms. Its 2003 reference sequence covered about 92% of the human genome with high accuracy by the technologies then available; it was not the complete genome of one individual. The project advanced sequencing technology, open data sharing and biomedical research. In 2022, the Telomere-to-Telomere consortium reported the first truly complete human genome sequence, filling major repetitive gaps left by earlier methods.",
+    "short": "An international project that produced a reference sequence of human DNA and transformed modern genomics.",
     "icon": "🧬",
     "featured": false,
     "wiki": "https://en.wikipedia.org/wiki/Human_Genome_Project",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-001"
   },
   {
     "id": "crispr",
@@ -1130,12 +1166,14 @@
     "category": "Technology",
     "year": "20th century",
     "type": "Energy system",
-    "description": "Solar, wind, hydro and other renewable sources provide energy from naturally replenished processes and are central to decarbonizing electricity systems.",
-    "short": "Solar, wind, hydro and other renewable sources provide energy from naturally replenished processes and are central to decarbonizing electricity systems.",
+    "description": "Renewable energy comes from sources replenished by natural processes on human timescales, including sunlight, wind, flowing water, geothermal heat and biomass. These resources can produce electricity, heat and fuels, but each technology has different costs, land and material needs, reliability characteristics and environmental effects. Renewable energy is therefore not impact-free; its role in energy systems depends on storage, transmission, demand management, local ecosystems and careful planning.",
+    "short": "Energy from naturally replenished flows and processes, including sunlight, wind, water, geothermal heat and biomass.",
     "icon": "☀️",
     "featured": false,
     "wiki": "https://en.wikipedia.org/wiki/Renewable_energy",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-001"
   },
   {
     "id": "vaccinia",
@@ -1312,12 +1350,14 @@
     "category": "Mathematics",
     "year": "c. 3rd century",
     "type": "Number system",
-    "description": "The binary number system represents values using only two digits, 0 and 1. Its place-value structure makes it well suited to digital electronics, where circuits can reliably represent two states. Binary arithmetic and Boolean logic form foundations of computer hardware, data representation and digital communication.",
-    "short": "The two-symbol system at the heart of digital computing.",
+    "description": "The binary number system is a positional numeral system with base two: each digit is either 0 or 1, and each position represents a power of two. Digital computers use binary representations because electronic circuits can reliably distinguish between two states, although real devices implement those states through physical voltage, charge or other properties. Binary encoding underlies digital arithmetic, memory, instructions and data representation; it is one of several number systems used in mathematics and computing.",
+    "short": "A base-two positional number system that represents values using only 0 and 1.",
     "icon": "🔢",
     "featured": false,
     "wiki": "https://en.wikipedia.org/wiki/Binary_number",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-001"
   },
   {
     "id": "algorithm",
@@ -1325,12 +1365,14 @@
     "category": "Mathematics",
     "year": "9th century",
     "type": "Computational method",
-    "description": "Step-by-step methods for solving problems, from arithmetic to search engines.",
-    "short": "Step-by-step methods for solving problems, from arithmetic to search engines.",
+    "description": "An algorithm is a finite, well-defined procedure that takes specified inputs and produces an output or completes a task. Algorithms are not limited to computers: recipes, arithmetic procedures and navigation instructions can also be described algorithmically. In computing, algorithms are analysed for correctness, resource use and efficiency. The English word derives from the Latinised name of the ninth-century mathematician al-Khwarizmi, whose works helped transmit arithmetic methods.",
+    "short": "A finite, clearly specified sequence of steps for solving a problem or carrying out a computation.",
     "icon": "🧮",
     "featured": false,
     "wiki": "https://en.wikipedia.org/wiki/Algorithm",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-001"
   },
   {
     "id": "calculus",
@@ -1338,12 +1380,14 @@
     "category": "Mathematics",
     "year": "17th century",
     "type": "Mathematical field",
-    "description": "A mathematical language for change and accumulation, developed independently by Newton and Leibniz.",
-    "short": "A mathematical language for change and accumulation, developed independently by Newton and Leibniz.",
+    "description": "Calculus is a branch of mathematics concerned with continuous change and accumulation. Differential calculus studies rates of change and slopes using derivatives; integral calculus studies accumulated quantities such as areas and total change. Its foundations developed over many centuries, with important ancient work by Archimedes and later advances by many mathematicians. Isaac Newton and Gottfried Wilhelm Leibniz independently developed systematic forms of calculus in the seventeenth century, and their notations shaped later mathematics.",
+    "short": "A branch of mathematics that studies continuous change through derivatives and accumulation through integrals.",
     "icon": "∫",
     "featured": false,
     "wiki": "https://en.wikipedia.org/wiki/Calculus",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-001"
   },
   {
     "id": "cryptography",
@@ -1378,12 +1422,14 @@
     "category": "Technology",
     "year": "1971",
     "type": "Invention",
-    "description": "A central processing unit built onto a single integrated circuit, enabling compact and affordable computing.",
-    "short": "A central processing unit built onto a single integrated circuit, enabling compact and affordable computing.",
+    "description": "A microprocessor is a processor whose central processing functions are implemented on one or a small number of integrated-circuit chips. It combines arithmetic, logic and control operations that were previously built from multiple components. The Intel 4004, introduced commercially in 1971 for a calculator project, is widely recognised as an early single-chip general-purpose microprocessor, but the history includes earlier multi-chip processor sets and parallel development by several teams.",
+    "short": "A processor implemented on an integrated circuit that performs a computer's central processing functions.",
     "icon": "▦",
     "featured": false,
     "wiki": "https://en.wikipedia.org/wiki/Microprocessor",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-001"
   },
   {
     "id": "semiconductorfab",
@@ -1469,12 +1515,14 @@
     "category": "Science",
     "year": "1869",
     "type": "Scientific framework",
-    "description": "A systematic arrangement of chemical elements that reveals recurring patterns in their properties.",
+    "description": "The periodic table arranges chemical elements by increasing atomic number, grouping elements whose properties recur in patterns. Earlier chemists organised elements using observed similarities and atomic masses. Dmitri Mendeleev's 1869 table was influential because it left gaps and predicted properties of elements not yet discovered. Henry Moseley's work on atomic number in the early twentieth century established the basis for the modern ordering.",
     "short": "A systematic arrangement of chemical elements that reveals recurring patterns in their properties.",
     "icon": "🧪",
     "featured": false,
     "wiki": "https://en.wikipedia.org/wiki/Periodic_table",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-001"
   },
   {
     "id": "mri",
@@ -1743,12 +1791,14 @@
     "category": "Environment",
     "year": "—",
     "type": "Ecological concept",
-    "description": "The variety of life across genes, species and ecosystems, supporting resilient natural systems and human wellbeing.",
-    "short": "The variety of life across genes, species and ecosystems, supporting resilient natural systems and human wellbeing.",
+    "description": "Biodiversity refers to the variety of life at genetic, species and ecosystem levels, together with the ecological relationships that sustain living systems. It supports food production, pollination, soil formation, freshwater quality, climate regulation, medicines and cultural values. The IPBES global assessment synthesised thousands of scientific publications alongside Indigenous and local knowledge, finding widespread declines driven by land- and sea-use change, direct exploitation, climate change, pollution and invasive alien species. Biodiversity is not simply a count of species; it also includes variation within species and the diversity of ecosystems.",
+    "short": "The variety of life within species, between species and across ecosystems, and the ecological relationships linking them.",
     "icon": "🦋",
     "featured": false,
     "wiki": "https://en.wikipedia.org/wiki/Biodiversity",
-    "contentStatus": "review-pending"
+    "contentStatus": "research-enriched",
+    "lastResearchUpdate": "2026-11-28",
+    "researchBatch": "batch-001"
   },
   {
     "id": "vidyasagar",

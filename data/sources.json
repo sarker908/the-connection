@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "updated": "2026-11-28",
-  "editorialNote": "This registry records references linked to atlas subjects. A listed reference is a research lead, not proof that every claim has been independently checked. Wikipedia is a discovery and general-background source; technical, disputed and sensitive subjects require primary, peer-reviewed or specialist institutional references.",
+  "editorialNote": "This registry records references linked to atlas subjects. A linked reference is evidence for research and further reading, not proof that every sentence has been independently verified. Claim-level provenance is recorded in data/claims.json for subjects researched in batches; specialist, disputed and sensitive topics still require independent editorial review.",
   "sources": [
     {
       "id": "src-001",
@@ -3883,10 +3883,12 @@
       "publisher": "Computer History Museum",
       "url": "https://www.computerhistory.org/timeline/computers/",
       "topicIds": [
-        "computer"
+        "computer",
+        "binary"
       ],
       "roles": [
-        "Museum chronology of computing milestones"
+        "Museum chronology of computing milestones",
+        "Stored-program computer milestones and early computer development."
       ],
       "sourceClass": "institutional"
     },
@@ -16832,6 +16834,555 @@
       ],
       "topicIds": [
         "cryptography"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1838",
+      "title": "World Wide Web: A brief history",
+      "publisher": "World Wide Web Consortium",
+      "url": "https://www.w3.org/webat25/about/history",
+      "roles": [
+        "Historical milestones and the Web's release to the public."
+      ],
+      "topicIds": [
+        "www"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1839",
+      "title": "Networking & The Web timeline",
+      "publisher": "Computer History Museum",
+      "url": "https://www.computerhistory.org/timeline/networking-the-web/",
+      "roles": [
+        "Web browser, server and early networking milestones."
+      ],
+      "topicIds": [
+        "www"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1840",
+      "title": "The Neverending Quest for Firsts",
+      "publisher": "Computer History Museum",
+      "url": "https://computerhistory.org/blog/the-neverending-quest-for-firsts/",
+      "roles": [
+        "Why definitions matter when identifying the first computer."
+      ],
+      "topicIds": [
+        "computer"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1841",
+      "title": "The Gutenberg Bible",
+      "publisher": "Library of Congress",
+      "url": "https://www.loc.gov/exhibits/bibles/interactives/gutenberg/index.html",
+      "roles": [
+        "Movable metal type in Europe and the distinction from earlier Asian printing."
+      ],
+      "topicIds": [
+        "printing"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1842",
+      "title": "China, 1–500 A.D. chronology",
+      "publisher": "The Metropolitan Museum of Art",
+      "url": "https://www.metmuseum.org/zh/toah/ht/05/eac.html",
+      "roles": [
+        "Early paper production in China and the historical role associated with Cai Lun."
+      ],
+      "topicIds": [
+        "paper"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1843",
+      "title": "China, 1000–1400 A.D. chronology",
+      "publisher": "The Metropolitan Museum of Art",
+      "url": "https://www.metmuseum.org/toah/ht/07/eac.html",
+      "roles": [
+        "Early written evidence for compass use in China."
+      ],
+      "topicIds": [
+        "compass"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1844",
+      "title": "Electricity 101",
+      "publisher": "U.S. Department of Energy",
+      "url": "https://www.energy.gov/oe/electricity-101",
+      "roles": [
+        "Electric charge, electricity as a secondary energy source and grid basics."
+      ],
+      "topicIds": [
+        "electricity"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1845",
+      "title": "Power to the Plug: Electricity and Energy",
+      "publisher": "U.S. Department of Energy",
+      "url": "https://www1.eere.energy.gov/education/pdfs/power_to_the_plug.pdf",
+      "roles": [
+        "Electricity as an energy carrier and the generation of electrical power."
+      ],
+      "topicIds": [
+        "electricity"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1846",
+      "title": "In Pursuit of Power: The steam engine",
+      "publisher": "Science Museum Group",
+      "url": "https://blog.sciencemuseum.org.uk/a-new-age/",
+      "roles": [
+        "Newcomen's practical atmospheric engine and the 1712 milestone."
+      ],
+      "topicIds": [
+        "steam"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1847",
+      "title": "1947: Invention of the Point-Contact Transistor",
+      "publisher": "Computer History Museum",
+      "url": "https://www.computerhistory.org/siliconengine/invention-of-the-point-contact-transistor/",
+      "roles": [
+        "Bardeen and Brattain's December 1947 point-contact transistor demonstration."
+      ],
+      "topicIds": [
+        "transistor",
+        "semiconductor"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1848",
+      "title": "Who Invented the Transistor?",
+      "publisher": "Computer History Museum",
+      "url": "https://computerhistory.org/blog/who-invented-the-transistor/",
+      "roles": [
+        "Independent transistor development and the wider invention history."
+      ],
+      "topicIds": [
+        "transistor",
+        "semiconductor"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1849",
+      "title": "Resources: The Silicon Engine",
+      "publisher": "Computer History Museum",
+      "url": "https://www.computerhistory.org/siliconengine/resources/",
+      "roles": [
+        "Semiconductor technology milestones and context."
+      ],
+      "topicIds": [
+        "semiconductor"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1850",
+      "title": "RFC 1122: Requirements for Internet Hosts",
+      "publisher": "Internet Engineering Task Force",
+      "url": "https://datatracker.ietf.org/doc/rfc1122/",
+      "roles": [
+        "Internet host communication layers and the roles of TCP, UDP and IP."
+      ],
+      "topicIds": [
+        "internetprotocol"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1851",
+      "title": "RFC 9293: Transmission Control Protocol",
+      "publisher": "Internet Engineering Task Force",
+      "url": "https://datatracker.ietf.org/doc/html/rfc9293",
+      "roles": [
+        "Current consolidated TCP protocol specification."
+      ],
+      "topicIds": [
+        "internetprotocol"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1852",
+      "title": "The Dawn of the Space Age",
+      "publisher": "NASA",
+      "url": "https://www.nasa.gov/history/dawn-of-the-space-age/",
+      "roles": [
+        "Sputnik 1 launch date and the beginning of the Space Age."
+      ],
+      "topicIds": [
+        "satellite"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1853",
+      "title": "What Is a Satellite?",
+      "publisher": "NASA",
+      "url": "https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-a-satellite-grades-k-4/",
+      "roles": [
+        "Satellite purposes in Earth observation and space science."
+      ],
+      "topicIds": [
+        "satellite"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1854",
+      "title": "Global Positioning System History",
+      "publisher": "NASA",
+      "url": "https://www.nasa.gov/general/global-positioning-system-history/",
+      "roles": [
+        "GPS development, 1978 launch and 1993 operational milestone."
+      ],
+      "topicIds": [
+        "navigation"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1855",
+      "title": "Satellite Navigation: GPS",
+      "publisher": "Federal Aviation Administration",
+      "url": "https://www.faa.gov/about/office_org/headquarters_offices/ato/service_units/techops/navservices/gnss/gps",
+      "roles": [
+        "GPS space, control and user segments and system operation."
+      ],
+      "topicIds": [
+        "navigation"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1856",
+      "title": "The Process of Science",
+      "publisher": "OpenStax",
+      "url": "https://openstax.org/books/biology-2e/pages/1-1-the-science-of-biology",
+      "roles": [
+        "Observation, hypothesis testing, repeatability and scientific reasoning."
+      ],
+      "topicIds": [
+        "scientificmethod"
+      ],
+      "sourceClass": "academic"
+    },
+    {
+      "id": "src-1857",
+      "title": "The Process of Science",
+      "publisher": "OpenStax",
+      "url": "https://openstax.org/books/concepts-biology/pages/1-2-the-process-of-science",
+      "roles": [
+        "Testability, falsifiability and the revisability of scientific explanations."
+      ],
+      "topicIds": [
+        "scientificmethod"
+      ],
+      "sourceClass": "academic"
+    },
+    {
+      "id": "src-1858",
+      "title": "19th Century Discoveries Lead to Infectious Disease Prevention and Control",
+      "publisher": "CDC Emerging Infectious Diseases",
+      "url": "https://wwwnc.cdc.gov/eid/article/1/1/95-0101_article",
+      "roles": [
+        "Germ theory's role in identifying infectious agents and prevention."
+      ],
+      "topicIds": [
+        "germtheory"
+      ],
+      "sourceClass": "academic"
+    },
+    {
+      "id": "src-1859",
+      "title": "Historical Perspectives: Koch's Discovery of the Tubercle Bacillus",
+      "publisher": "Centers for Disease Control and Prevention",
+      "url": "https://www.cdc.gov/mmwr/preview/mmwrhtml/00000222.htm",
+      "roles": [
+        "Koch's 1882 identification of the tuberculosis bacillus and postulates."
+      ],
+      "topicIds": [
+        "germtheory"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1860",
+      "title": "The Discovery of Penicillin: New Insights After More Than 75 Years of Clinical Use",
+      "publisher": "CDC Emerging Infectious Diseases",
+      "url": "https://wwwnc.cdc.gov/eid/article/23/5/16-1556_article",
+      "roles": [
+        "Fleming's observation and the Oxford team's development of penicillin."
+      ],
+      "topicIds": [
+        "penicillin"
+      ],
+      "sourceClass": "academic"
+    },
+    {
+      "id": "src-1861",
+      "title": "Achievements in Public Health, 1900–1999: Control of Infectious Diseases",
+      "publisher": "Centers for Disease Control and Prevention",
+      "url": "https://www.cdc.gov/mmwr/preview/mmwrhtml/mm4829a1.htm",
+      "roles": [
+        "Penicillin's development for clinical use and public-health impact."
+      ],
+      "topicIds": [
+        "penicillin"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1862",
+      "title": "Al-Khwarizmi (780–850)",
+      "publisher": "MacTutor History of Mathematics, University of St Andrews",
+      "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Al-Khwarizmi/",
+      "roles": [
+        "Al-Khwarizmi's algebra treatise and the historical origin of the terms."
+      ],
+      "topicIds": [
+        "algebra",
+        "algorithm"
+      ],
+      "sourceClass": "academic"
+    },
+    {
+      "id": "src-1863",
+      "title": "Algebra: al-jabr wal-muqabala",
+      "publisher": "Islam Museum",
+      "url": "https://www.islam.museum/en/invention/algebra/",
+      "roles": [
+        "Algebra's earlier roots and the role of al-Khwarizmi's systematic treatise."
+      ],
+      "topicIds": [
+        "algebra"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1864",
+      "title": "A History of Zero",
+      "publisher": "MacTutor History of Mathematics, University of St Andrews",
+      "url": "https://mathshistory.st-andrews.ac.uk/HistTopics/Zero/",
+      "roles": [
+        "Distinct placeholder and numerical uses of zero and its complex history."
+      ],
+      "topicIds": [
+        "zero"
+      ],
+      "sourceClass": "academic"
+    },
+    {
+      "id": "src-1865",
+      "title": "Indian Numerals",
+      "publisher": "MacTutor History of Mathematics, University of St Andrews",
+      "url": "https://mathshistory.st-andrews.ac.uk/HistTopics/Indian_numerals/",
+      "roles": [
+        "Indian decimal place-value numerals and the evidence for their historical development."
+      ],
+      "topicIds": [
+        "zero"
+      ],
+      "sourceClass": "academic"
+    },
+    {
+      "id": "src-1866",
+      "title": "Human Genome Project Timeline",
+      "publisher": "National Human Genome Research Institute",
+      "url": "https://www.genome.gov/human-genome-project/timeline",
+      "roles": [
+        "International project milestones from planning to completion in 2003."
+      ],
+      "topicIds": [
+        "genome"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1867",
+      "title": "Human Genome Project Results",
+      "publisher": "National Human Genome Research Institute",
+      "url": "https://www.genome.gov/human-genome-project/results",
+      "roles": [
+        "Scope and accuracy of the 2003 reference sequence."
+      ],
+      "topicIds": [
+        "genome"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1868",
+      "title": "Human Genome Project Fact Sheet",
+      "publisher": "National Human Genome Research Institute",
+      "url": "https://www.genome.gov/about-genomics/educational-resources/fact-sheets/human-genome-project",
+      "roles": [
+        "Project scope, limitations of the 2003 sequence and later completion."
+      ],
+      "topicIds": [
+        "genome"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1869",
+      "title": "Renewable Energy Resource Assessment Information",
+      "publisher": "U.S. Department of Energy",
+      "url": "https://www.energy.gov/cmei/renewable-energy-resource-assessment-information-united-states",
+      "roles": [
+        "Range of renewable resource technologies and the importance of regional assessment."
+      ],
+      "topicIds": [
+        "renewables"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1870",
+      "title": "A Consumer's Guide to Renewable Energy",
+      "publisher": "U.S. Department of Energy",
+      "url": "https://www1.eere.energy.gov/solar/pdfs/27684.pdf",
+      "roles": [
+        "Solar, wind, biomass, hydropower and geothermal energy pathways."
+      ],
+      "topicIds": [
+        "renewables"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1871",
+      "title": "1946: Williams demonstrates CRT storage",
+      "publisher": "Computer History Museum",
+      "url": "https://www.computerhistory.org/storageengine/williams-demonstrates-crt-storage/",
+      "roles": [
+        "Early computer storage of a binary digit and electronic memory."
+      ],
+      "topicIds": [
+        "binary"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1872",
+      "title": "A History of the Calculus",
+      "publisher": "MacTutor History of Mathematics, University of St Andrews",
+      "url": "https://mathshistory.st-andrews.ac.uk/HistTopics/The_rise_of_calculus/",
+      "roles": [
+        "Long development of calculus, Archimedes, Newton and Leibniz."
+      ],
+      "topicIds": [
+        "calculus"
+      ],
+      "sourceClass": "academic"
+    },
+    {
+      "id": "src-1873",
+      "title": "History Overview",
+      "publisher": "MacTutor History of Mathematics, University of St Andrews",
+      "url": "https://mathshistory.st-andrews.ac.uk/HistTopics/History_overview/",
+      "roles": [
+        "Broader mathematical context for calculus and notation."
+      ],
+      "topicIds": [
+        "calculus"
+      ],
+      "sourceClass": "academic"
+    },
+    {
+      "id": "src-1874",
+      "title": "Who Invented the Microprocessor?",
+      "publisher": "Computer History Museum",
+      "url": "https://computerhistory.org/blog/who-invented-the-microprocessor/",
+      "roles": [
+        "Multiple antecedents and the development of single-chip processors."
+      ],
+      "topicIds": [
+        "microprocessor"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1875",
+      "title": "1971: Intel introduces the first microprocessor",
+      "publisher": "Computer History Museum",
+      "url": "https://www.computerhistory.org/timeline/1971/",
+      "roles": [
+        "The Intel 4004 announcement and its historical context."
+      ],
+      "topicIds": [
+        "microprocessor"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1876",
+      "title": "Development of the Periodic Table",
+      "publisher": "Royal Society of Chemistry",
+      "url": "https://periodic-table.rsc.org/history/about",
+      "roles": [
+        "Contributions before and after Mendeleev and the modern atomic-number order."
+      ],
+      "topicIds": [
+        "periodictable"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1877",
+      "title": "The Evolution of the Periodic Table",
+      "publisher": "Royal Society of Chemistry Education",
+      "url": "https://edu.rsc.org/feature/the-evolution-of-the-periodic-table/3009652.article",
+      "roles": [
+        "Earlier classification systems and the development of the periodic law."
+      ],
+      "topicIds": [
+        "periodictable"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1878",
+      "title": "Global Assessment Report on Biodiversity and Ecosystem Services",
+      "publisher": "IPBES",
+      "url": "https://www.ipbes.net/global-assessment",
+      "roles": [
+        "Global synthesis of biodiversity status, trends and response options."
+      ],
+      "topicIds": [
+        "biodiversity"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-1879",
+      "title": "Summary for Policymakers: Global Assessment",
+      "publisher": "IPBES",
+      "url": "https://files.ipbes.net/ipbes-web-prod-public-files/2020-02/ipbes_global_assessment_report_summary_for_policymakers_en.pdf",
+      "roles": [
+        "Biodiversity definition, global trends and principal direct drivers of change."
+      ],
+      "topicIds": [
+        "biodiversity"
       ],
       "sourceClass": "institutional"
     }

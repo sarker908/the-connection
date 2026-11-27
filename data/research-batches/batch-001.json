@@ -1,0 +1,338 @@
+{
+  "id": "batch-001",
+  "title": "Foundational Knowledge",
+  "researchedOn": "2026-11-28",
+  "subjectCount": 25,
+  "subjects": [
+    {
+      "id": "www",
+      "title": "World Wide Web",
+      "category": "Technology",
+      "status": "research-enriched",
+      "sourceIds": [
+        "src-1838",
+        "src-1839"
+      ],
+      "claimIds": [
+        "clm-0001",
+        "clm-0002"
+      ]
+    },
+    {
+      "id": "computer",
+      "title": "Modern Computer",
+      "category": "Technology",
+      "status": "research-enriched",
+      "sourceIds": [
+        "src-298",
+        "src-1840"
+      ],
+      "claimIds": [
+        "clm-0003",
+        "clm-0004"
+      ]
+    },
+    {
+      "id": "printing",
+      "title": "Printing Press",
+      "category": "Technology",
+      "status": "research-enriched",
+      "sourceIds": [
+        "src-1841"
+      ],
+      "claimIds": [
+        "clm-0005",
+        "clm-0006"
+      ]
+    },
+    {
+      "id": "electricity",
+      "title": "Electricity",
+      "category": "Science",
+      "status": "research-enriched",
+      "sourceIds": [
+        "src-1844",
+        "src-1845"
+      ],
+      "claimIds": [
+        "clm-0007",
+        "clm-0008"
+      ]
+    },
+    {
+      "id": "steam",
+      "title": "Steam Engine",
+      "category": "Technology",
+      "status": "research-enriched",
+      "sourceIds": [
+        "src-1846"
+      ],
+      "claimIds": [
+        "clm-0009"
+      ]
+    },
+    {
+      "id": "transistor",
+      "title": "Transistor",
+      "category": "Technology",
+      "status": "research-enriched",
+      "sourceIds": [
+        "src-1847",
+        "src-1848"
+      ],
+      "claimIds": [
+        "clm-0010"
+      ]
+    },
+    {
+      "id": "semiconductor",
+      "title": "Semiconductors",
+      "category": "Technology",
+      "status": "research-enriched",
+      "sourceIds": [
+        "src-1847",
+        "src-1848",
+        "src-1849"
+      ],
+      "claimIds": [
+        "clm-0011"
+      ]
+    },
+    {
+      "id": "internetprotocol",
+      "title": "TCP/IP",
+      "category": "Technology",
+      "status": "research-enriched",
+      "sourceIds": [
+        "src-1850",
+        "src-1851"
+      ],
+      "claimIds": [
+        "clm-0012"
+      ]
+    },
+    {
+      "id": "satellite",
+      "title": "Artificial Satellites",
+      "category": "Space",
+      "status": "research-enriched",
+      "sourceIds": [
+        "src-1852",
+        "src-1853"
+      ],
+      "claimIds": [
+        "clm-0013"
+      ]
+    },
+    {
+      "id": "navigation",
+      "title": "GPS",
+      "category": "Technology",
+      "status": "research-enriched",
+      "sourceIds": [
+        "src-1854",
+        "src-1855"
+      ],
+      "claimIds": [
+        "clm-0014",
+        "clm-0015"
+      ]
+    },
+    {
+      "id": "paper",
+      "title": "Paper",
+      "category": "Technology",
+      "status": "research-enriched",
+      "sourceIds": [
+        "src-1842"
+      ],
+      "claimIds": [
+        "clm-0016"
+      ]
+    },
+    {
+      "id": "compass",
+      "title": "Magnetic Compass",
+      "category": "Technology",
+      "status": "research-enriched",
+      "sourceIds": [
+        "src-1843"
+      ],
+      "claimIds": [
+        "clm-0017"
+      ]
+    },
+    {
+      "id": "scientificmethod",
+      "title": "Scientific Method",
+      "category": "Science",
+      "status": "research-enriched",
+      "sourceIds": [
+        "src-1856",
+        "src-1857"
+      ],
+      "claimIds": [
+        "clm-0018"
+      ]
+    },
+    {
+      "id": "germtheory",
+      "title": "Germ Theory",
+      "category": "Medicine",
+      "status": "research-enriched",
+      "sourceIds": [
+        "src-1858",
+        "src-1859"
+      ],
+      "claimIds": [
+        "clm-0019"
+      ]
+    },
+    {
+      "id": "penicillin",
+      "title": "Penicillin",
+      "category": "Medicine",
+      "status": "research-enriched",
+      "sourceIds": [
+        "src-1860",
+        "src-1861"
+      ],
+      "claimIds": [
+        "clm-0020"
+      ]
+    },
+    {
+      "id": "algebra",
+      "title": "Algebra",
+      "category": "Mathematics",
+      "status": "research-enriched",
+      "sourceIds": [
+        "src-1862",
+        "src-1863"
+      ],
+      "claimIds": [
+        "clm-0021"
+      ]
+    },
+    {
+      "id": "zero",
+      "title": "Zero",
+      "category": "Mathematics",
+      "status": "research-enriched",
+      "sourceIds": [
+        "src-1864",
+        "src-1865"
+      ],
+      "claimIds": [
+        "clm-0022",
+        "clm-0023"
+      ]
+    },
+    {
+      "id": "genome",
+      "title": "Human Genome Project",
+      "category": "Medicine",
+      "status": "research-enriched",
+      "sourceIds": [
+        "src-1866",
+        "src-1867",
+        "src-1868"
+      ],
+      "claimIds": [
+        "clm-0024",
+        "clm-0025"
+      ]
+    },
+    {
+      "id": "renewables",
+      "title": "Renewable Energy",
+      "category": "Technology",
+      "status": "research-enriched",
+      "sourceIds": [
+        "src-1869",
+        "src-1870"
+      ],
+      "claimIds": [
+        "clm-0026"
+      ]
+    },
+    {
+      "id": "binary",
+      "title": "Binary Number System",
+      "category": "Mathematics",
+      "status": "research-enriched",
+      "sourceIds": [
+        "src-298",
+        "src-1871"
+      ],
+      "claimIds": [
+        "clm-0027"
+      ]
+    },
+    {
+      "id": "algorithm",
+      "title": "Algorithms",
+      "category": "Mathematics",
+      "status": "research-enriched",
+      "sourceIds": [
+        "src-1862"
+      ],
+      "claimIds": [
+        "clm-0028"
+      ]
+    },
+    {
+      "id": "calculus",
+      "title": "Calculus",
+      "category": "Mathematics",
+      "status": "research-enriched",
+      "sourceIds": [
+        "src-1872",
+        "src-1873"
+      ],
+      "claimIds": [
+        "clm-0029"
+      ]
+    },
+    {
+      "id": "microprocessor",
+      "title": "Microprocessor",
+      "category": "Technology",
+      "status": "research-enriched",
+      "sourceIds": [
+        "src-1874",
+        "src-1875"
+      ],
+      "claimIds": [
+        "clm-0030"
+      ]
+    },
+    {
+      "id": "periodictable",
+      "title": "Periodic Table",
+      "category": "Science",
+      "status": "research-enriched",
+      "sourceIds": [
+        "src-1876",
+        "src-1877"
+      ],
+      "claimIds": [
+        "clm-0031"
+      ]
+    },
+    {
+      "id": "biodiversity",
+      "title": "Biodiversity",
+      "category": "Environment",
+      "status": "research-enriched",
+      "sourceIds": [
+        "src-1878",
+        "src-1879"
+      ],
+      "claimIds": [
+        "clm-0032"
+      ]
+    }
+  ],
+  "qualityNote": "Research-enriched means the entry was substantially rewritten against the recorded references. It does not mean an independent subject expert has reviewed it. Claim-level review status remains editorial-review-pending."
+}
