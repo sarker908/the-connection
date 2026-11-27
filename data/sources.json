@@ -3792,6 +3792,184 @@
         "Digitised primary historical text, first edition"
       ],
       "sourceClass": "academic"
+    },
+    {
+      "id": "src-305",
+      "title": "Stanford Encyclopedia of Philosophy: Plato’s Ethics",
+      "publisher": "Stanford Encyclopedia of Philosophy",
+      "url": "https://plato.stanford.edu/entries/plato-ethics/",
+      "topicIds": [
+        "ethics"
+      ],
+      "roles": [
+        "Specialist background and further reading"
+      ],
+      "sourceClass": "academic"
+    },
+    {
+      "id": "src-306",
+      "title": "Stanford Encyclopedia of Philosophy: Metaphysics",
+      "publisher": "Stanford Encyclopedia of Philosophy",
+      "url": "https://plato.stanford.edu/entries/metaphysics/",
+      "topicIds": [
+        "metaphysics",
+        "epistemology"
+      ],
+      "roles": [
+        "Specialist background and further reading"
+      ],
+      "sourceClass": "academic"
+    },
+    {
+      "id": "src-307",
+      "title": "United Nations: Universal Declaration of Human Rights",
+      "publisher": "United Nations",
+      "url": "https://www.un.org/en/about-us/universal-declaration-of-human-rights",
+      "topicIds": [
+        "humanrights",
+        "udhr"
+      ],
+      "roles": [
+        "Specialist background and further reading"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-308",
+      "title": "United Nations: Human Rights Law",
+      "publisher": "United Nations",
+      "url": "https://www.un.org/ruleoflaw/en/thematic-areas/international-law-courts-tribunals/human-rights-law",
+      "topicIds": [
+        "humanrights",
+        "ruleoflaw"
+      ],
+      "roles": [
+        "Specialist background and further reading"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-309",
+      "title": "Smithsonian: Jazz",
+      "publisher": "Smithsonian Institution",
+      "url": "https://music.si.edu/story/jazz",
+      "topicIds": [
+        "music",
+        "jazz"
+      ],
+      "roles": [
+        "Specialist background and further reading"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-310",
+      "title": "Smithsonian: Music and the American Experience",
+      "publisher": "National Museum of American History, Smithsonian Institution",
+      "url": "https://americanhistory.si.edu/explore/stories/music-and-american-experience",
+      "topicIds": [
+        "music",
+        "musicalinstruments"
+      ],
+      "roles": [
+        "Specialist background and further reading"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-311",
+      "title": "Smithsonian Human Origins Program: Human Evolution Evidence",
+      "publisher": "Smithsonian Institution",
+      "url": "https://humanorigins.si.edu/evidence",
+      "topicIds": [
+        "humanorigins",
+        "migration"
+      ],
+      "roles": [
+        "Specialist background and further reading"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-312",
+      "title": "Smithsonian Human Origins Program: Introduction to Human Evolution",
+      "publisher": "Smithsonian Institution",
+      "url": "https://humanorigins.si.edu/education/introduction-human-evolution",
+      "topicIds": [
+        "humanorigins",
+        "culturalanthropology"
+      ],
+      "roles": [
+        "Specialist background and further reading"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-313",
+      "title": "NOAA: Ocean Currents",
+      "publisher": "National Oceanic and Atmospheric Administration",
+      "url": "https://www.noaa.gov/education/resource-collections/ocean-coasts/ocean-currents",
+      "topicIds": [
+        "oceancurrents"
+      ],
+      "roles": [
+        "Specialist background and further reading"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-314",
+      "title": "NOAA: Coral Reef Ecosystems",
+      "publisher": "National Oceanic and Atmospheric Administration",
+      "url": "https://www.noaa.gov/education/resource-collections/marine-life/coral-reef-ecosystems",
+      "topicIds": [
+        "coralreefs",
+        "deepsea"
+      ],
+      "roles": [
+        "Specialist background and further reading"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-315",
+      "title": "NASA: Black Holes",
+      "publisher": "NASA Science",
+      "url": "https://science.nasa.gov/universe/black-holes/",
+      "topicIds": [
+        "blackhole"
+      ],
+      "roles": [
+        "Specialist background and further reading"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-316",
+      "title": "NASA: Sensing the Universe and Gravitational Waves",
+      "publisher": "NASA Science",
+      "url": "https://science.nasa.gov/universe/sensing-the-universe/",
+      "topicIds": [
+        "gravitationalwaves",
+        "blackhole"
+      ],
+      "roles": [
+        "Specialist background and further reading"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-317",
+      "title": "NASA: Exoplanets",
+      "publisher": "NASA Science",
+      "url": "https://science.nasa.gov/exoplanets/",
+      "topicIds": [
+        "exoplanet"
+      ],
+      "roles": [
+        "Specialist background and further reading"
+      ],
+      "sourceClass": "institutional"
     }
   ]
 }
