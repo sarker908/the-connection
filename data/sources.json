@@ -3671,6 +3671,127 @@
       ],
       "topicIds": [],
       "sourceClass": "encyclopedia"
+    },
+    {
+      "id": "src-296",
+      "title": "The birth of the Web",
+      "publisher": "CERN",
+      "url": "https://home.cern/science/computing/the-birth-of-the-web/",
+      "topicIds": [
+        "www"
+      ],
+      "roles": [
+        "Institutional history of the World Wide Web"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-297",
+      "title": "A Brief History of the Internet & Related Networks",
+      "publisher": "Internet Society",
+      "url": "https://www.internetsociety.org/internet/history-internet/brief-history-internet-related-networks/",
+      "topicIds": [
+        "internet",
+        "internetprotocol"
+      ],
+      "roles": [
+        "Technical and historical overview of Internet development and TCP/IP"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-298",
+      "title": "Timeline of Computer History",
+      "publisher": "Computer History Museum",
+      "url": "https://www.computerhistory.org/timeline/computers/",
+      "topicIds": [
+        "computer"
+      ],
+      "roles": [
+        "Museum chronology of computing milestones"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-299",
+      "title": "What is Artificial Intelligence (AI)?",
+      "publisher": "Stanford Human-Centered Artificial Intelligence",
+      "url": "https://hai.stanford.edu/ai-definitions/what-is-artificial-intelligence-ai",
+      "topicIds": [
+        "ai"
+      ],
+      "roles": [
+        "Academic overview and definition of artificial intelligence"
+      ],
+      "sourceClass": "academic"
+    },
+    {
+      "id": "src-300",
+      "title": "Inventing the Transistor",
+      "publisher": "Computer History Museum",
+      "url": "https://www.computerhistory.org/revolution/story/273",
+      "topicIds": [
+        "transistor",
+        "semiconductor"
+      ],
+      "roles": [
+        "Museum history of transistor invention and semiconductor technology"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-301",
+      "title": "Deoxyribonucleic Acid (DNA) Fact Sheet",
+      "publisher": "National Human Genome Research Institute",
+      "url": "https://www.genome.gov/about-genomics/fact-sheets/Deoxyribonucleic-Acid-Fact-Sheet",
+      "topicIds": [
+        "dna"
+      ],
+      "roles": [
+        "Institutional explanation of DNA structure and discovery"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-302",
+      "title": "Apollo 11 Mission Overview",
+      "publisher": "NASA",
+      "url": "https://www.nasa.gov/history/apollo-11-mission-overview/",
+      "topicIds": [
+        "moon",
+        "apollo"
+      ],
+      "roles": [
+        "Primary institutional mission record and chronology"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-303",
+      "title": "A Brief History of Vaccination",
+      "publisher": "World Health Organization",
+      "url": "https://www.who.int/news-room/spotlight/history-of-vaccination/a-brief-history-of-vaccination",
+      "topicIds": [
+        "vaccines"
+      ],
+      "roles": [
+        "Institutional history of vaccination"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-304",
+      "title": "On the Origin of Species (1859 first edition)",
+      "publisher": "Darwin Online, University of Cambridge",
+      "url": "https://darwin-online.org.uk/content/contentblock?basepage=1&itemID=F373&viewtype=text",
+      "topicIds": [
+        "evolution",
+        "darwin"
+      ],
+      "roles": [
+        "Digitised primary historical text, first edition"
+      ],
+      "sourceClass": "academic"
     }
   ]
 }
