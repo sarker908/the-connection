@@ -244,5 +244,293 @@
     "from": "navigation",
     "to": "satellite",
     "label": "Uses satellite signals"
+  },
+  {
+    "id": "e42",
+    "from": "agriculture",
+    "to": "mesopotamia",
+    "label": "Agricultural surplus supported permanent settlements and cities"
+  },
+  {
+    "id": "e43",
+    "from": "agriculture",
+    "to": "indus",
+    "label": "Farming supported urban growth in the Indus region"
+  },
+  {
+    "id": "e44",
+    "from": "agriculture",
+    "to": "writing",
+    "label": "Settled societies created demand for records"
+  },
+  {
+    "id": "e45",
+    "from": "mesopotamia",
+    "to": "writing",
+    "label": "Early writing systems emerged in Mesopotamian cities"
+  },
+  {
+    "id": "e46",
+    "from": "writing",
+    "to": "paper",
+    "label": "Paper became a major medium for written records"
+  },
+  {
+    "id": "e47",
+    "from": "paper",
+    "to": "printing",
+    "label": "Paper made large-scale printing practical"
+  },
+  {
+    "id": "e48",
+    "from": "paper",
+    "to": "silkroad",
+    "label": "Papermaking knowledge spread across Eurasian routes"
+  },
+  {
+    "id": "e49",
+    "from": "silkroad",
+    "to": "gunpowder",
+    "label": "Gunpowder technology spread westward through exchange"
+  },
+  {
+    "id": "e50",
+    "from": "silkroad",
+    "to": "compass",
+    "label": "Navigation knowledge and instruments moved through trade"
+  },
+  {
+    "id": "e51",
+    "from": "silkroad",
+    "to": "buddhism",
+    "label": "Trade routes helped Buddhism spread across Asia"
+  },
+  {
+    "id": "e52",
+    "from": "silkroad",
+    "to": "blackdeath",
+    "label": "Trade networks helped carry plague across regions"
+  },
+  {
+    "id": "e53",
+    "from": "ancientgreece",
+    "to": "democracy",
+    "label": "Athens developed an influential early form of democracy"
+  },
+  {
+    "id": "e54",
+    "from": "ancientgreece",
+    "to": "algebra",
+    "label": "Greek mathematics shaped later mathematical traditions"
+  },
+  {
+    "id": "e55",
+    "from": "rome",
+    "to": "ancientgreece",
+    "label": "Roman culture adopted and adapted Greek ideas"
+  },
+  {
+    "id": "e56",
+    "from": "rome",
+    "to": "democracy",
+    "label": "Roman republican institutions influenced later political thought"
+  },
+  {
+    "id": "e57",
+    "from": "renaissance",
+    "to": "leonardo",
+    "label": "Leonardo became a defining Renaissance figure"
+  },
+  {
+    "id": "e58",
+    "from": "leonardo",
+    "to": "scientificmethod",
+    "label": "Observation linked artistic practice with empirical inquiry"
+  },
+  {
+    "id": "e59",
+    "from": "renaissance",
+    "to": "scientificmethod",
+    "label": "Renaissance inquiry helped prepare the ground for modern science"
+  },
+  {
+    "id": "e60",
+    "from": "copernicus",
+    "to": "galileo",
+    "label": "Galileo's observations supported aspects of heliocentrism"
+  },
+  {
+    "id": "e61",
+    "from": "copernicus",
+    "to": "scientificmethod",
+    "label": "The heliocentric debate reshaped scientific reasoning"
+  },
+  {
+    "id": "e62",
+    "from": "telescope",
+    "to": "galileo",
+    "label": "Galileo used telescopes to observe the Moon, Jupiter and Venus"
+  },
+  {
+    "id": "e63",
+    "from": "telescope",
+    "to": "copernicus",
+    "label": "Telescopic astronomy later tested heliocentric ideas"
+  },
+  {
+    "id": "e64",
+    "from": "microscope",
+    "to": "germtheory",
+    "label": "Microscopy enabled observation of microorganisms"
+  },
+  {
+    "id": "e65",
+    "from": "scientificmethod",
+    "to": "newton",
+    "label": "Newton's work exemplified mathematical and experimental science"
+  },
+  {
+    "id": "e66",
+    "from": "faraday",
+    "to": "electricity",
+    "label": "Faraday's discoveries advanced practical electrical technology"
+  },
+  {
+    "id": "e67",
+    "from": "faraday",
+    "to": "maxwell",
+    "label": "Maxwell built mathematical theory on electromagnetic foundations"
+  },
+  {
+    "id": "e68",
+    "from": "maxwell",
+    "to": "radio",
+    "label": "Electromagnetic theory underpins radio waves"
+  },
+  {
+    "id": "e69",
+    "from": "radio",
+    "to": "telephone",
+    "label": "Both technologies transformed long-distance communication"
+  },
+  {
+    "id": "e70",
+    "from": "telephone",
+    "to": "internet",
+    "label": "Telecommunication networks helped establish global connectivity"
+  },
+  {
+    "id": "e71",
+    "from": "airplane",
+    "to": "globalization",
+    "label": "Air travel accelerated international movement and exchange"
+  },
+  {
+    "id": "e72",
+    "from": "germtheory",
+    "to": "vaccines",
+    "label": "Microbiology advanced understanding of infectious disease prevention"
+  },
+  {
+    "id": "e73",
+    "from": "germtheory",
+    "to": "penicillin",
+    "label": "Knowledge of microbes helped shape infection treatment"
+  },
+  {
+    "id": "e74",
+    "from": "smallpox",
+    "to": "vaccines",
+    "label": "Smallpox vaccination pioneered disease prevention"
+  },
+  {
+    "id": "e75",
+    "from": "penicillin",
+    "to": "worldwar2",
+    "label": "Wartime mass production made penicillin widely available"
+  },
+  {
+    "id": "e76",
+    "from": "algebra",
+    "to": "zero",
+    "label": "Place-value notation and zero supported advanced calculation"
+  },
+  {
+    "id": "e77",
+    "from": "algebra",
+    "to": "computer",
+    "label": "Mathematical logic underpins computing"
+  },
+  {
+    "id": "e78",
+    "from": "zero",
+    "to": "computer",
+    "label": "Binary and positional number systems rely on place value"
+  },
+  {
+    "id": "e79",
+    "from": "indus",
+    "to": "silkroad",
+    "label": "South Asian trade connected with wider Asian networks"
+  },
+  {
+    "id": "e80",
+    "from": "compass",
+    "to": "airplane",
+    "label": "Navigation instruments evolved into modern aviation systems"
+  },
+  {
+    "id": "e81",
+    "from": "gunpowder",
+    "to": "industrial",
+    "label": "Explosive technologies influenced mining and engineering"
+  },
+  {
+    "id": "e82",
+    "from": "writing",
+    "to": "printing",
+    "label": "Printing mechanized reproduction of written language"
+  },
+  {
+    "id": "e83",
+    "from": "mesopotamia",
+    "to": "algebra",
+    "label": "Mesopotamian scribes developed sophisticated calculation"
+  },
+  {
+    "id": "e84",
+    "from": "democracy",
+    "to": "renaissance",
+    "label": "Classical political texts were revisited by Renaissance thinkers"
+  },
+  {
+    "id": "e85",
+    "from": "rome",
+    "to": "silkroad",
+    "label": "Roman trade connected with long-distance Eurasian exchange"
+  },
+  {
+    "id": "e86",
+    "from": "maxwell",
+    "to": "einstein",
+    "label": "Electromagnetism influenced the development of special relativity"
+  },
+  {
+    "id": "e87",
+    "from": "microscope",
+    "to": "dna",
+    "label": "Microscopy became essential to cell and molecular biology"
+  },
+  {
+    "id": "e88",
+    "from": "airplane",
+    "to": "worldwar2",
+    "label": "Wartime aviation accelerated aircraft engineering"
+  },
+  {
+    "id": "e89",
+    "from": "radio",
+    "to": "worldwar2",
+    "label": "Radio communication played a major role in wartime coordination"
   }
 ]
