@@ -8,7 +8,7 @@
 - **1652 relationships** connecting subjects across disciplines
 - **132 historical milestones**
 - **81 biographical profiles**
-- **1196 unique source records** in the structured source register
+- **1213 unique source records** in the structured source register
 
 The atlas includes global history, science, culture and technology alongside a deeper collection on Bengal and Bangladesh.
 
@@ -40,9 +40,13 @@ This is a growing, selective collection, not a claim to represent every relation
 
 ## Source register and verification
 
-`data/sources.json` is the central source-link registry. Each record has a stable ID, title, publisher, URL, role and the subject IDs it supports. Repeated URLs are stored once and linked to multiple relevant subjects where applicable. The registry currently contains 1196 unique URL records: 1135 encyclopedia, 14 academic or educational, and 47 institutional or official records. These records are linked to 2280 subjects. Duplicate URLs are consolidated into one record with merged subject IDs and source roles. Some historical and biographical references support archive entries rather than subject pages. These labels describe source type, not a quality score. Some records support timeline or biographical entries rather than a subject page, so their topic ID list is intentionally empty. These labels describe source type, not a quality score.
+`data/sources.json` is the central source-link registry. Each record has a stable ID, title, publisher, URL, role and the subject IDs it supports. Repeated URLs are stored once and linked to multiple relevant subjects where applicable. The registry currently contains 1213 unique URL records: 1136 encyclopedia, 19 academic or educational, and 58 institutional or official records. These records are linked to 2280 subjects. Duplicate URLs are consolidated into one record with merged subject IDs and source roles. Some historical and biographical references support archive entries rather than subject pages. These labels describe source type, not a quality score. These records are linked to 2280 subjects. Duplicate URLs are consolidated into one record with merged subject IDs and source roles. Some historical and biographical references support archive entries rather than subject pages. These labels describe source type, not a quality score. Some records support timeline or biographical entries rather than a subject page, so their topic ID list is intentionally empty. These labels describe source type, not a quality score.
 
 The registry is a provenance layer, not an automatic credibility score. A link being present does not mean every claim has been independently audited. Wikipedia is labelled as a general reference and discovery starting point. Subject-specific research should progressively add primary documents, peer-reviewed work and specialist institutional publications, especially for technical, disputed or sensitive claims. Historical and biographical links are retained as references to the corresponding archive entries.
+
+## Research-enriched subjects
+
+The first focused research batch updates ten foundational subjects: Prime Numbers, Quantum Mechanics, Evolution, DNA Structure, Climate Change, The Internet, Artificial Intelligence, Vaccination, Plate Tectonics and Cryptography. Their introductory explanations have been rewritten against named academic, primary or institutional references. They are marked `research-enriched` and still await independent subject-expert review.
 
 ## Knowledge quality standard
 
