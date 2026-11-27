@@ -1205,7 +1205,7 @@
     "category": "Mathematics",
     "year": "c. 3rd century",
     "type": "Number system",
-    "description": "The two-symbol system at the heart of digital computing.",
+    "description": "The binary number system represents values using only two digits, 0 and 1. Its place-value structure makes it well suited to digital electronics, where circuits can reliably represent two states. Binary arithmetic and Boolean logic form foundations of computer hardware, data representation and digital communication.",
     "short": "The two-symbol system at the heart of digital computing.",
     "icon": "🔢",
     "featured": false,
@@ -1964,7 +1964,7 @@
     "icon": "🧠",
     "featured": false,
     "short": "The scientific study of mind, behaviour and experience.",
-    "description": "The scientific study of mind, behaviour and experience.",
+    "description": "Psychology is the scientific study of mind, behaviour and experience. It investigates how people think, feel, learn and act, drawing on methods from experiments, observation, neuroscience and social research. Modern experimental psychology emerged as a distinct academic discipline in the nineteenth century.",
     "wiki": "https://en.wikipedia.org/wiki/Psychology"
   },
   {
