@@ -850,16 +850,6 @@
       "region": "Americas"
     },
     {
-      "date": "1776 CE",
-      "sort": 1776,
-      "era": "modernworld",
-      "region": "Americas",
-      "title": "United States Declaration of Independence",
-      "summary": "Thirteen British colonies declared independence, beginning a political transformation that influenced later revolutionary movements.",
-      "source": "OpenStax · World History",
-      "url": "https://openstax.org/books/world-history-volume-2/pages/b-world-history-volume-2-from-1400-maps-and-timelines"
-    },
-    {
       "date": "1789 CE",
       "sort": 1789,
       "era": "modernworld",
@@ -949,16 +939,6 @@
       "source": "OpenStax · World History",
       "url": "https://openstax.org/books/world-history-volume-1/pages/b-world-history-volume-1-to-1500-maps-and-timelines",
       "region": "East Asia"
-    },
-    {
-      "date": "1868 CE",
-      "sort": 1868,
-      "era": "modernworld",
-      "region": "East Asia",
-      "title": "Meiji Restoration begins in Japan",
-      "summary": "Political authority shifted to the emperor and a rapid programme of state reform transformed Japan's institutions and economy.",
-      "source": "OpenStax · World History",
-      "url": "https://openstax.org/books/world-history-volume-2/pages/b-world-history-volume-2-from-1400-maps-and-timelines"
     },
     {
       "date": "1884–1885",
@@ -1147,16 +1127,6 @@
       "region": "East Asia"
     },
     {
-      "date": "1949 CE",
-      "sort": 1949,
-      "era": "contemporary",
-      "region": "East Asia",
-      "title": "Chinese Civil War ends with the founding of the People's Republic",
-      "summary": "The Communist victory on the mainland reshaped China and the geopolitical balance of East Asia.",
-      "source": "Council on Foreign Relations · Essential Events",
-      "url": "https://www.cfr.org/education/learn/timelines/essential-events-1900"
-    },
-    {
       "date": "1950 CE",
       "sort": 1950,
       "era": "contemporary",
@@ -1186,16 +1156,6 @@
       "source": "CFR · Essential Events Since 1945",
       "url": "https://www.cfr.org/education/learn/timelines/essential-events-1945",
       "region": "Africa"
-    },
-    {
-      "date": "1955 CE",
-      "sort": 1955,
-      "era": "contemporary",
-      "region": "Global",
-      "title": "Bandung Conference advances Afro-Asian solidarity",
-      "summary": "Leaders from Asia and Africa met in Indonesia to discuss sovereignty, anti-colonialism and cooperation during the Cold War.",
-      "source": "Council on Foreign Relations · Essential Events",
-      "url": "https://www.cfr.org/education/learn/timelines/essential-events-1900"
     },
     {
       "date": "16 February 1956",
@@ -1382,7 +1342,7 @@
       "summary": "The election brought an end to apartheid rule and led to Nelson Mandela becoming president, marking a decisive transition in South African history.",
       "source": "South African History Online",
       "url": "https://www.sahistory.org.za/article/1994-election",
-      "region": "Americas"
+      "region": "Africa"
     },
     {
       "date": "1994 CE",
