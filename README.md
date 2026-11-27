@@ -17,3 +17,8 @@ Open `index.html` through a local static server (for example, VS Code Live Serve
 Enable GitHub Pages in **Settings → Pages**, select **Deploy from a branch**, choose **main** and **/(root)**, then save.
 
 No backend, paid API, or account is required. Cytoscape.js is loaded from a public CDN.
+
+
+## Research and attribution
+
+The knowledge dataset includes concise, original summaries researched with Wikipedia as a reference. Topic records include a `wiki` URL, shown in each topic's detail panel as a source link. Wikipedia content is available under Creative Commons licenses; this project links to the relevant articles rather than reproducing their full text. Please check each linked article for its current revision and references.
