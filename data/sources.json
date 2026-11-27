@@ -14,7 +14,7 @@
       "topicIds": [
         "internet"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-002",
@@ -27,7 +27,7 @@
       "topicIds": [
         "www"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-003",
@@ -40,7 +40,7 @@
       "topicIds": [
         "computer"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-004",
@@ -53,7 +53,7 @@
       "topicIds": [
         "turing"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-005",
@@ -66,7 +66,7 @@
       "topicIds": [
         "ai"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-006",
@@ -79,7 +79,7 @@
       "topicIds": [
         "printing"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-007",
@@ -92,7 +92,7 @@
       "topicIds": [
         "electricity"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-008",
@@ -105,7 +105,7 @@
       "topicIds": [
         "newton"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-009",
@@ -118,7 +118,7 @@
       "topicIds": [
         "einstein"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-010",
@@ -131,7 +131,7 @@
       "topicIds": [
         "evolution"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-011",
@@ -144,7 +144,7 @@
       "topicIds": [
         "dna"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-012",
@@ -157,7 +157,7 @@
       "topicIds": [
         "moon"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-013",
@@ -170,7 +170,7 @@
       "topicIds": [
         "apollo"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-014",
@@ -183,7 +183,7 @@
       "topicIds": [
         "renaissance"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-015",
@@ -196,7 +196,7 @@
       "topicIds": [
         "industrial"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-016",
@@ -209,7 +209,7 @@
       "topicIds": [
         "steam"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-017",
@@ -222,7 +222,7 @@
       "topicIds": [
         "worldwar2"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-018",
@@ -235,7 +235,7 @@
       "topicIds": [
         "transistor"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-019",
@@ -248,7 +248,7 @@
       "topicIds": [
         "semiconductor"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-020",
@@ -261,7 +261,7 @@
       "topicIds": [
         "smartphone"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-021",
@@ -274,7 +274,7 @@
       "topicIds": [
         "climate"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-022",
@@ -287,7 +287,7 @@
       "topicIds": [
         "darwin"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-023",
@@ -300,7 +300,7 @@
       "topicIds": [
         "vaccines"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-024",
@@ -313,7 +313,7 @@
       "topicIds": [
         "gutenberg"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-025",
@@ -326,7 +326,7 @@
       "topicIds": [
         "cervantes"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-026",
@@ -339,7 +339,7 @@
       "topicIds": [
         "internetprotocol"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-027",
@@ -352,7 +352,7 @@
       "topicIds": [
         "satellite"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-028",
@@ -365,7 +365,7 @@
       "topicIds": [
         "navigation"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-029",
@@ -378,7 +378,7 @@
       "topicIds": [
         "printingreform"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-030",
@@ -391,7 +391,7 @@
       "topicIds": [
         "globalization"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-031",
@@ -404,7 +404,7 @@
       "topicIds": [
         "agriculture"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-032",
@@ -417,7 +417,7 @@
       "topicIds": [
         "writing"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-033",
@@ -430,7 +430,7 @@
       "topicIds": [
         "mesopotamia"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-034",
@@ -443,7 +443,7 @@
       "topicIds": [
         "ancientgreece"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-035",
@@ -456,7 +456,7 @@
       "topicIds": [
         "democracy"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-036",
@@ -469,7 +469,7 @@
       "topicIds": [
         "rome"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-037",
@@ -482,7 +482,7 @@
       "topicIds": [
         "silkroad"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-038",
@@ -495,7 +495,7 @@
       "topicIds": [
         "paper"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-039",
@@ -508,7 +508,7 @@
       "topicIds": [
         "compass"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-040",
@@ -521,7 +521,7 @@
       "topicIds": [
         "gunpowder"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-041",
@@ -534,7 +534,7 @@
       "topicIds": [
         "copernicus"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-042",
@@ -547,7 +547,7 @@
       "topicIds": [
         "galileo"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-043",
@@ -560,7 +560,7 @@
       "topicIds": [
         "telescope"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-044",
@@ -573,7 +573,7 @@
       "topicIds": [
         "microscope"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-045",
@@ -586,7 +586,7 @@
       "topicIds": [
         "scientificmethod"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-046",
@@ -599,7 +599,7 @@
       "topicIds": [
         "faraday"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-047",
@@ -612,7 +612,7 @@
       "topicIds": [
         "maxwell"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-048",
@@ -625,7 +625,7 @@
       "topicIds": [
         "telephone"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-049",
@@ -638,7 +638,7 @@
       "topicIds": [
         "radio"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-050",
@@ -651,7 +651,7 @@
       "topicIds": [
         "airplane"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-051",
@@ -664,7 +664,7 @@
       "topicIds": [
         "germtheory"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-052",
@@ -677,7 +677,7 @@
       "topicIds": [
         "penicillin"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-053",
@@ -690,7 +690,7 @@
       "topicIds": [
         "smallpox"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-054",
@@ -703,7 +703,7 @@
       "topicIds": [
         "blackdeath"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-055",
@@ -716,7 +716,7 @@
       "topicIds": [
         "leonardo"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-056",
@@ -729,7 +729,7 @@
       "topicIds": [
         "algebra"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-057",
@@ -742,7 +742,7 @@
       "topicIds": [
         "zero"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-058",
@@ -755,7 +755,7 @@
       "topicIds": [
         "indus"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-059",
@@ -768,7 +768,7 @@
       "topicIds": [
         "buddhism"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-060",
@@ -781,7 +781,7 @@
       "topicIds": [
         "bigbang"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-061",
@@ -794,7 +794,7 @@
       "topicIds": [
         "hubble"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-062",
@@ -807,7 +807,7 @@
       "topicIds": [
         "quantum"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-063",
@@ -820,7 +820,7 @@
       "topicIds": [
         "curie"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-064",
@@ -833,7 +833,7 @@
       "topicIds": [
         "radioactivity"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-065",
@@ -846,7 +846,7 @@
       "topicIds": [
         "xray"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-066",
@@ -859,7 +859,7 @@
       "topicIds": [
         "insulin"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-067",
@@ -872,7 +872,7 @@
       "topicIds": [
         "genome"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-068",
@@ -885,7 +885,7 @@
       "topicIds": [
         "crispr"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-069",
@@ -898,7 +898,7 @@
       "topicIds": [
         "frenchrev"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-070",
@@ -911,7 +911,7 @@
       "topicIds": [
         "americanrev"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-071",
@@ -924,7 +924,7 @@
       "topicIds": [
         "printingbook"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-072",
@@ -937,7 +937,7 @@
       "topicIds": [
         "mughal"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-073",
@@ -950,7 +950,7 @@
       "topicIds": [
         "bengal"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-074",
@@ -963,7 +963,7 @@
       "topicIds": [
         "language"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-075",
@@ -976,7 +976,7 @@
       "topicIds": [
         "liberation"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-076",
@@ -989,7 +989,7 @@
       "topicIds": [
         "dhaka"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-077",
@@ -1002,7 +1002,7 @@
       "topicIds": [
         "sundarbans"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-078",
@@ -1015,7 +1015,7 @@
       "topicIds": [
         "rabindranath"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-079",
@@ -1028,7 +1028,7 @@
       "topicIds": [
         "bose"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-080",
@@ -1041,7 +1041,7 @@
       "topicIds": [
         "pala"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-081",
@@ -1054,7 +1054,7 @@
       "topicIds": [
         "monsoon"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-082",
@@ -1067,7 +1067,7 @@
       "topicIds": [
         "printingpress"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-083",
@@ -1080,7 +1080,7 @@
       "topicIds": [
         "steamrail"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-084",
@@ -1093,7 +1093,7 @@
       "topicIds": [
         "telephonecell"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-085",
@@ -1106,7 +1106,7 @@
       "topicIds": [
         "photography"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-086",
@@ -1119,7 +1119,7 @@
       "topicIds": [
         "internetprotocolv6"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-087",
@@ -1132,7 +1132,7 @@
       "topicIds": [
         "renewables"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-088",
@@ -1145,7 +1145,7 @@
       "topicIds": [
         "vaccinia"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-089",
@@ -1158,7 +1158,7 @@
       "topicIds": [
         "satyendranathbose"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-090",
@@ -1171,7 +1171,7 @@
       "topicIds": [
         "begumrokeya"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-091",
@@ -1184,7 +1184,7 @@
       "topicIds": [
         "battleplassey"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-092",
@@ -1197,7 +1197,7 @@
       "topicIds": [
         "permanentsettlement"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-093",
@@ -1210,7 +1210,7 @@
       "topicIds": [
         "partition1905"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-094",
@@ -1223,7 +1223,7 @@
       "topicIds": [
         "swadeshi"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-095",
@@ -1236,7 +1236,7 @@
       "topicIds": [
         "somapura"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-096",
@@ -1249,7 +1249,7 @@
       "topicIds": [
         "dhakauniversity"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-097",
@@ -1262,7 +1262,7 @@
       "topicIds": [
         "sixpoint"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-098",
@@ -1275,7 +1275,7 @@
       "topicIds": [
         "massuprising1969"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-099",
@@ -1288,7 +1288,7 @@
       "topicIds": [
         "bengalfamine1943"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-100",
@@ -1301,7 +1301,7 @@
       "topicIds": [
         "bengalregion"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-101",
@@ -1314,7 +1314,7 @@
       "topicIds": [
         "binary"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-102",
@@ -1327,7 +1327,7 @@
       "topicIds": [
         "algorithm"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-103",
@@ -1340,7 +1340,7 @@
       "topicIds": [
         "calculus"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-104",
@@ -1353,7 +1353,7 @@
       "topicIds": [
         "cryptography"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-105",
@@ -1366,7 +1366,7 @@
       "topicIds": [
         "linux"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-106",
@@ -1379,7 +1379,7 @@
       "topicIds": [
         "microprocessor"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-107",
@@ -1392,7 +1392,7 @@
       "topicIds": [
         "semiconductorfab"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-108",
@@ -1405,7 +1405,7 @@
       "topicIds": [
         "cloud"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-109",
@@ -1418,7 +1418,7 @@
       "topicIds": [
         "blockchain"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-110",
@@ -1431,7 +1431,7 @@
       "topicIds": [
         "machinelearning"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-111",
@@ -1444,7 +1444,7 @@
       "topicIds": [
         "neuralnetwork"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-112",
@@ -1457,7 +1457,7 @@
       "topicIds": [
         "relativity"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-113",
@@ -1470,7 +1470,7 @@
       "topicIds": [
         "periodictable"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-114",
@@ -1483,7 +1483,7 @@
       "topicIds": [
         "mri"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-115",
@@ -1496,7 +1496,7 @@
       "topicIds": [
         "exoplanet"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-116",
@@ -1509,7 +1509,7 @@
       "topicIds": [
         "hubbletelescope"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-117",
@@ -1522,7 +1522,7 @@
       "topicIds": [
         "blackhole"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-118",
@@ -1535,7 +1535,7 @@
       "topicIds": [
         "marsrover"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-119",
@@ -1548,7 +1548,7 @@
       "topicIds": [
         "silkprinting"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-120",
@@ -1561,7 +1561,7 @@
       "topicIds": [
         "olympics"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-121",
@@ -1574,7 +1574,7 @@
       "topicIds": [
         "jazz"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-122",
@@ -1587,7 +1587,7 @@
       "topicIds": [
         "mona"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-123",
@@ -1600,7 +1600,7 @@
       "topicIds": [
         "shakespeare"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-124",
@@ -1613,7 +1613,7 @@
       "topicIds": [
         "harrypotter"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-125",
@@ -1626,7 +1626,7 @@
       "topicIds": [
         "philosophy"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-126",
@@ -1639,7 +1639,7 @@
       "topicIds": [
         "printingeducation"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-127",
@@ -1652,7 +1652,7 @@
       "topicIds": [
         "migration"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-128",
@@ -1665,7 +1665,7 @@
       "topicIds": [
         "constitution"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-129",
@@ -1678,7 +1678,7 @@
       "topicIds": [
         "un"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-130",
@@ -1691,7 +1691,7 @@
       "topicIds": [
         "civilrights"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-131",
@@ -1704,7 +1704,7 @@
       "topicIds": [
         "plate"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-132",
@@ -1717,7 +1717,7 @@
       "topicIds": [
         "amazon"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-133",
@@ -1730,7 +1730,7 @@
       "topicIds": [
         "ozone"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-134",
@@ -1743,7 +1743,7 @@
       "topicIds": [
         "biodiversity"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-135",
@@ -1756,7 +1756,7 @@
       "topicIds": [
         "vidyasagar"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-136",
@@ -1769,7 +1769,7 @@
       "topicIds": [
         "nazrul"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-137",
@@ -1782,7 +1782,7 @@
       "topicIds": [
         "mujib"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-138",
@@ -1795,7 +1795,7 @@
       "topicIds": [
         "bengaltiger"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-139",
@@ -1808,7 +1808,7 @@
       "topicIds": [
         "bengaltextile"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-140",
@@ -1821,7 +1821,7 @@
       "topicIds": [
         "languagebangla"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-141",
@@ -1834,7 +1834,7 @@
       "topicIds": [
         "economics"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-142",
@@ -1847,7 +1847,7 @@
       "topicIds": [
         "money"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-143",
@@ -1860,7 +1860,7 @@
       "topicIds": [
         "inflation"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-144",
@@ -1873,7 +1873,7 @@
       "topicIds": [
         "stockmarket"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-145",
@@ -1886,7 +1886,7 @@
       "topicIds": [
         "civilengineering"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-146",
@@ -1899,7 +1899,7 @@
       "topicIds": [
         "robotics"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-147",
@@ -1912,7 +1912,7 @@
       "topicIds": [
         "bridge"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-148",
@@ -1925,7 +1925,7 @@
       "topicIds": [
         "irrigation"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-149",
@@ -1938,7 +1938,7 @@
       "topicIds": [
         "domestication"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-150",
@@ -1951,7 +1951,7 @@
       "topicIds": [
         "fermentation"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-151",
@@ -1964,7 +1964,7 @@
       "topicIds": [
         "croprotation"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-152",
@@ -1977,7 +1977,7 @@
       "topicIds": [
         "telegraph"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-153",
@@ -1990,7 +1990,7 @@
       "topicIds": [
         "television"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-154",
@@ -2003,7 +2003,7 @@
       "topicIds": [
         "broadcasting"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-155",
@@ -2016,7 +2016,7 @@
       "topicIds": [
         "mobilecommunication"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-156",
@@ -2029,7 +2029,7 @@
       "topicIds": [
         "archaeology"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-157",
@@ -2042,7 +2042,7 @@
       "topicIds": [
         "rosettastone"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-158",
@@ -2055,7 +2055,7 @@
       "topicIds": [
         "pompeii"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-159",
@@ -2068,7 +2068,7 @@
       "topicIds": [
         "terracottawarriors"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-160",
@@ -2081,7 +2081,7 @@
       "topicIds": [
         "university"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-161",
@@ -2094,7 +2094,7 @@
       "topicIds": [
         "literacy"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-162",
@@ -2107,7 +2107,7 @@
       "topicIds": [
         "library"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-163",
@@ -2120,7 +2120,7 @@
       "topicIds": [
         "mooc"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-164",
@@ -2133,7 +2133,7 @@
       "topicIds": [
         "psychology"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-165",
@@ -2146,7 +2146,7 @@
       "topicIds": [
         "psychoanalysis"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-166",
@@ -2159,7 +2159,7 @@
       "topicIds": [
         "cognitivepsychology"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-167",
@@ -2172,7 +2172,7 @@
       "topicIds": [
         "behaviorism"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-168",
@@ -2185,7 +2185,7 @@
       "topicIds": [
         "socialpsychology"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-169",
@@ -2198,7 +2198,7 @@
       "topicIds": [
         "architecture"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-170",
@@ -2211,7 +2211,7 @@
       "topicIds": [
         "bauhaus"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-171",
@@ -2224,7 +2224,7 @@
       "topicIds": [
         "gothicarchitecture"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-172",
@@ -2237,7 +2237,7 @@
       "topicIds": [
         "modernism"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-173",
@@ -2250,7 +2250,7 @@
       "topicIds": [
         "sustainablearchitecture"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-174",
@@ -2263,7 +2263,7 @@
       "topicIds": [
         "energy"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-175",
@@ -2276,7 +2276,7 @@
       "topicIds": [
         "solarenergy"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-176",
@@ -2289,7 +2289,7 @@
       "topicIds": [
         "windpower"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-177",
@@ -2302,7 +2302,7 @@
       "topicIds": [
         "nuclearpower"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-178",
@@ -2315,7 +2315,7 @@
       "topicIds": [
         "battery"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-179",
@@ -2328,7 +2328,7 @@
       "topicIds": [
         "linguistics"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-180",
@@ -2341,7 +2341,7 @@
       "topicIds": [
         "phonetics"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-181",
@@ -2354,7 +2354,7 @@
       "topicIds": [
         "writing_systems"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-182",
@@ -2367,7 +2367,7 @@
       "topicIds": [
         "sign_language"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-183",
@@ -2380,7 +2380,7 @@
       "topicIds": [
         "translation"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-184",
@@ -2393,7 +2393,7 @@
       "topicIds": [
         "cinema"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-185",
@@ -2406,7 +2406,7 @@
       "topicIds": [
         "animation"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-186",
@@ -2419,7 +2419,7 @@
       "topicIds": [
         "documentary"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-187",
@@ -2432,7 +2432,7 @@
       "topicIds": [
         "film_editing"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-188",
@@ -2445,7 +2445,7 @@
       "topicIds": [
         "sound_recording"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-189",
@@ -2456,7 +2456,7 @@
         "Historical reference"
       ],
       "topicIds": [],
-      "sourceClass": "reference"
+      "sourceClass": "academic"
     },
     {
       "id": "src-190",
@@ -2467,7 +2467,7 @@
         "Historical reference"
       ],
       "topicIds": [],
-      "sourceClass": "reference"
+      "sourceClass": "institutional"
     },
     {
       "id": "src-191",
@@ -2481,7 +2481,7 @@
       "topicIds": [
         "pala"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-192",
@@ -2495,7 +2495,7 @@
       "topicIds": [
         "somapura"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "institutional"
     },
     {
       "id": "src-193",
@@ -2507,7 +2507,7 @@
         "Biographical reference"
       ],
       "topicIds": [],
-      "sourceClass": "reference"
+      "sourceClass": "institutional"
     },
     {
       "id": "src-194",
@@ -2520,7 +2520,7 @@
       "topicIds": [
         "bengalregion"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "academic"
     },
     {
       "id": "src-195",
@@ -2531,7 +2531,7 @@
         "Historical reference"
       ],
       "topicIds": [],
-      "sourceClass": "reference"
+      "sourceClass": "institutional"
     },
     {
       "id": "src-196",
@@ -2545,7 +2545,7 @@
       "topicIds": [
         "bengalregion"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-197",
@@ -2556,7 +2556,7 @@
         "Historical reference"
       ],
       "topicIds": [],
-      "sourceClass": "reference"
+      "sourceClass": "academic"
     },
     {
       "id": "src-198",
@@ -2567,7 +2567,7 @@
         "Historical reference"
       ],
       "topicIds": [],
-      "sourceClass": "reference"
+      "sourceClass": "institutional"
     },
     {
       "id": "src-199",
@@ -2582,7 +2582,7 @@
         "battleplassey",
         "bengalregion"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "institutional"
     },
     {
       "id": "src-200",
@@ -2596,7 +2596,7 @@
       "topicIds": [
         "battleplassey"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-201",
@@ -2609,7 +2609,7 @@
       "topicIds": [
         "permanentsettlement"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-202",
@@ -2620,7 +2620,7 @@
         "Historical reference"
       ],
       "topicIds": [],
-      "sourceClass": "reference"
+      "sourceClass": "institutional"
     },
     {
       "id": "src-203",
@@ -2634,7 +2634,7 @@
         "partition1905",
         "swadeshi"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-204",
@@ -2647,7 +2647,7 @@
       "topicIds": [
         "partition1905"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-205",
@@ -2658,7 +2658,7 @@
         "Historical reference"
       ],
       "topicIds": [],
-      "sourceClass": "reference"
+      "sourceClass": "academic"
     },
     {
       "id": "src-206",
@@ -2671,7 +2671,7 @@
       "topicIds": [
         "dhakauniversity"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "academic"
     },
     {
       "id": "src-207",
@@ -2682,7 +2682,7 @@
         "Historical reference"
       ],
       "topicIds": [],
-      "sourceClass": "reference"
+      "sourceClass": "academic"
     },
     {
       "id": "src-208",
@@ -2693,7 +2693,7 @@
         "Historical reference"
       ],
       "topicIds": [],
-      "sourceClass": "reference"
+      "sourceClass": "academic"
     },
     {
       "id": "src-209",
@@ -2706,7 +2706,7 @@
       "topicIds": [
         "bengalfamine1943"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-210",
@@ -2717,7 +2717,7 @@
         "Historical reference"
       ],
       "topicIds": [],
-      "sourceClass": "reference"
+      "sourceClass": "institutional"
     },
     {
       "id": "src-211",
@@ -2728,7 +2728,7 @@
         "Historical reference"
       ],
       "topicIds": [],
-      "sourceClass": "reference"
+      "sourceClass": "institutional"
     },
     {
       "id": "src-212",
@@ -2739,7 +2739,7 @@
         "Historical reference"
       ],
       "topicIds": [],
-      "sourceClass": "reference"
+      "sourceClass": "institutional"
     },
     {
       "id": "src-213",
@@ -2753,7 +2753,7 @@
       "topicIds": [
         "language"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-214",
@@ -2764,7 +2764,7 @@
         "Historical reference"
       ],
       "topicIds": [],
-      "sourceClass": "reference"
+      "sourceClass": "institutional"
     },
     {
       "id": "src-215",
@@ -2775,7 +2775,7 @@
         "Historical reference"
       ],
       "topicIds": [],
-      "sourceClass": "reference"
+      "sourceClass": "institutional"
     },
     {
       "id": "src-216",
@@ -2791,7 +2791,7 @@
         "massuprising1969",
         "liberation"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-217",
@@ -2802,7 +2802,7 @@
         "Historical reference"
       ],
       "topicIds": [],
-      "sourceClass": "reference"
+      "sourceClass": "institutional"
     },
     {
       "id": "src-218",
@@ -2815,7 +2815,7 @@
       "topicIds": [
         "liberation"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-219",
@@ -2826,7 +2826,7 @@
         "Historical reference"
       ],
       "topicIds": [],
-      "sourceClass": "reference"
+      "sourceClass": "institutional"
     },
     {
       "id": "src-220",
@@ -2837,7 +2837,7 @@
         "Historical reference"
       ],
       "topicIds": [],
-      "sourceClass": "reference"
+      "sourceClass": "institutional"
     },
     {
       "id": "src-221",
@@ -2848,7 +2848,7 @@
         "Historical reference"
       ],
       "topicIds": [],
-      "sourceClass": "reference"
+      "sourceClass": "institutional"
     },
     {
       "id": "src-222",
@@ -2859,7 +2859,7 @@
         "Historical reference"
       ],
       "topicIds": [],
-      "sourceClass": "reference"
+      "sourceClass": "institutional"
     },
     {
       "id": "src-223",
@@ -2872,7 +2872,7 @@
       "topicIds": [
         "begumrokeya"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-224",
@@ -2885,7 +2885,7 @@
       "topicIds": [
         "rabindranath"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-225",
@@ -2898,7 +2898,7 @@
       "topicIds": [
         "bose"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-226",
@@ -2911,7 +2911,7 @@
       "topicIds": [
         "satyendranathbose"
       ],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-227",
@@ -2922,7 +2922,7 @@
         "Biographical reference"
       ],
       "topicIds": [],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-228",
@@ -2933,7 +2933,7 @@
         "Biographical reference"
       ],
       "topicIds": [],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-229",
@@ -2944,7 +2944,7 @@
         "Biographical reference"
       ],
       "topicIds": [],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-230",
@@ -2955,7 +2955,7 @@
         "Biographical reference"
       ],
       "topicIds": [],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-231",
@@ -2966,7 +2966,7 @@
         "Biographical reference"
       ],
       "topicIds": [],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-232",
@@ -2977,7 +2977,7 @@
         "Biographical reference"
       ],
       "topicIds": [],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-233",
@@ -2988,7 +2988,7 @@
         "Biographical reference"
       ],
       "topicIds": [],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-234",
@@ -2999,7 +2999,7 @@
         "Biographical reference"
       ],
       "topicIds": [],
-      "sourceClass": "reference"
+      "sourceClass": "institutional"
     },
     {
       "id": "src-235",
@@ -3010,7 +3010,7 @@
         "Biographical reference"
       ],
       "topicIds": [],
-      "sourceClass": "reference"
+      "sourceClass": "institutional"
     },
     {
       "id": "src-236",
@@ -3021,7 +3021,7 @@
         "Biographical reference"
       ],
       "topicIds": [],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-237",
@@ -3032,7 +3032,7 @@
         "Biographical reference"
       ],
       "topicIds": [],
-      "sourceClass": "reference"
+      "sourceClass": "institutional"
     },
     {
       "id": "src-238",
@@ -3043,7 +3043,7 @@
         "Biographical reference"
       ],
       "topicIds": [],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-239",
@@ -3054,7 +3054,7 @@
         "Biographical reference"
       ],
       "topicIds": [],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-240",
@@ -3065,7 +3065,7 @@
         "Biographical reference"
       ],
       "topicIds": [],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-241",
@@ -3076,7 +3076,7 @@
         "Biographical reference"
       ],
       "topicIds": [],
-      "sourceClass": "reference"
+      "sourceClass": "institutional"
     },
     {
       "id": "src-242",
@@ -3087,7 +3087,7 @@
         "Biographical reference"
       ],
       "topicIds": [],
-      "sourceClass": "reference"
+      "sourceClass": "institutional"
     },
     {
       "id": "src-243",
@@ -3098,7 +3098,7 @@
         "Biographical reference"
       ],
       "topicIds": [],
-      "sourceClass": "reference"
+      "sourceClass": "institutional"
     },
     {
       "id": "src-244",
@@ -3109,7 +3109,7 @@
         "Biographical reference"
       ],
       "topicIds": [],
-      "sourceClass": "reference"
+      "sourceClass": "institutional"
     },
     {
       "id": "src-245",
@@ -3120,7 +3120,7 @@
         "Biographical reference"
       ],
       "topicIds": [],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-246",
@@ -3131,7 +3131,7 @@
         "Biographical reference"
       ],
       "topicIds": [],
-      "sourceClass": "reference"
+      "sourceClass": "academic"
     },
     {
       "id": "src-247",
@@ -3142,7 +3142,7 @@
         "Biographical reference"
       ],
       "topicIds": [],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-248",
@@ -3153,7 +3153,7 @@
         "Biographical reference"
       ],
       "topicIds": [],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-249",
@@ -3164,7 +3164,7 @@
         "Biographical reference"
       ],
       "topicIds": [],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-250",
@@ -3175,7 +3175,7 @@
         "Biographical reference"
       ],
       "topicIds": [],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-251",
@@ -3186,7 +3186,7 @@
         "Biographical reference"
       ],
       "topicIds": [],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-252",
@@ -3197,7 +3197,7 @@
         "Biographical reference"
       ],
       "topicIds": [],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-253",
@@ -3208,7 +3208,7 @@
         "Biographical reference"
       ],
       "topicIds": [],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-254",
@@ -3219,7 +3219,7 @@
         "Biographical reference"
       ],
       "topicIds": [],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-255",
@@ -3230,7 +3230,7 @@
         "Biographical reference"
       ],
       "topicIds": [],
-      "sourceClass": "reference"
+      "sourceClass": "academic"
     },
     {
       "id": "src-256",
@@ -3241,7 +3241,7 @@
         "Biographical reference"
       ],
       "topicIds": [],
-      "sourceClass": "reference"
+      "sourceClass": "academic"
     },
     {
       "id": "src-257",
@@ -3252,7 +3252,7 @@
         "Biographical reference"
       ],
       "topicIds": [],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-258",
@@ -3263,7 +3263,7 @@
         "Biographical reference"
       ],
       "topicIds": [],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-259",
@@ -3274,7 +3274,7 @@
         "Biographical reference"
       ],
       "topicIds": [],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-260",
@@ -3285,7 +3285,7 @@
         "Biographical reference"
       ],
       "topicIds": [],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-261",
@@ -3296,7 +3296,7 @@
         "Biographical reference"
       ],
       "topicIds": [],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-262",
@@ -3307,7 +3307,7 @@
         "Biographical reference"
       ],
       "topicIds": [],
-      "sourceClass": "reference"
+      "sourceClass": "institutional"
     },
     {
       "id": "src-263",
@@ -3318,7 +3318,7 @@
         "Biographical reference"
       ],
       "topicIds": [],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-264",
@@ -3329,7 +3329,7 @@
         "Biographical reference"
       ],
       "topicIds": [],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-265",
@@ -3340,7 +3340,7 @@
         "Biographical reference"
       ],
       "topicIds": [],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-266",
@@ -3351,7 +3351,7 @@
         "Biographical reference"
       ],
       "topicIds": [],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-267",
@@ -3362,7 +3362,7 @@
         "Biographical reference"
       ],
       "topicIds": [],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-268",
@@ -3373,7 +3373,7 @@
         "Biographical reference"
       ],
       "topicIds": [],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-269",
@@ -3384,7 +3384,7 @@
         "Biographical reference"
       ],
       "topicIds": [],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-270",
@@ -3395,7 +3395,7 @@
         "Biographical reference"
       ],
       "topicIds": [],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-271",
@@ -3406,7 +3406,7 @@
         "Biographical reference"
       ],
       "topicIds": [],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-272",
@@ -3417,7 +3417,7 @@
         "Biographical reference"
       ],
       "topicIds": [],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-273",
@@ -3428,7 +3428,7 @@
         "Biographical reference"
       ],
       "topicIds": [],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-274",
@@ -3439,7 +3439,7 @@
         "Biographical reference"
       ],
       "topicIds": [],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-275",
@@ -3450,7 +3450,7 @@
         "Biographical reference"
       ],
       "topicIds": [],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-276",
@@ -3461,7 +3461,7 @@
         "Biographical reference"
       ],
       "topicIds": [],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-277",
@@ -3472,7 +3472,7 @@
         "Biographical reference"
       ],
       "topicIds": [],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-278",
@@ -3483,7 +3483,7 @@
         "Biographical reference"
       ],
       "topicIds": [],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-279",
@@ -3494,7 +3494,7 @@
         "Biographical reference"
       ],
       "topicIds": [],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-280",
@@ -3505,7 +3505,7 @@
         "Biographical reference"
       ],
       "topicIds": [],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-281",
@@ -3516,7 +3516,7 @@
         "Biographical reference"
       ],
       "topicIds": [],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-282",
@@ -3527,7 +3527,7 @@
         "Biographical reference"
       ],
       "topicIds": [],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-283",
@@ -3538,7 +3538,7 @@
         "Biographical reference"
       ],
       "topicIds": [],
-      "sourceClass": "reference"
+      "sourceClass": "institutional"
     },
     {
       "id": "src-284",
@@ -3549,7 +3549,7 @@
         "Biographical reference"
       ],
       "topicIds": [],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-285",
@@ -3560,7 +3560,7 @@
         "Biographical reference"
       ],
       "topicIds": [],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-286",
@@ -3571,7 +3571,7 @@
         "Biographical reference"
       ],
       "topicIds": [],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-287",
@@ -3582,7 +3582,7 @@
         "Biographical reference"
       ],
       "topicIds": [],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-288",
@@ -3593,7 +3593,7 @@
         "Biographical reference"
       ],
       "topicIds": [],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-289",
@@ -3604,7 +3604,7 @@
         "Biographical reference"
       ],
       "topicIds": [],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-290",
@@ -3615,7 +3615,7 @@
         "Biographical reference"
       ],
       "topicIds": [],
-      "sourceClass": "reference"
+      "sourceClass": "institutional"
     },
     {
       "id": "src-291",
@@ -3626,7 +3626,7 @@
         "Biographical reference"
       ],
       "topicIds": [],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     },
     {
       "id": "src-292",
@@ -3637,7 +3637,7 @@
         "Biographical reference"
       ],
       "topicIds": [],
-      "sourceClass": "reference"
+      "sourceClass": "institutional"
     },
     {
       "id": "src-293",
@@ -3648,7 +3648,7 @@
         "Biographical reference"
       ],
       "topicIds": [],
-      "sourceClass": "reference"
+      "sourceClass": "institutional"
     },
     {
       "id": "src-294",
@@ -3659,7 +3659,7 @@
         "Biographical reference"
       ],
       "topicIds": [],
-      "sourceClass": "reference"
+      "sourceClass": "institutional"
     },
     {
       "id": "src-295",
@@ -3670,7 +3670,7 @@
         "Biographical reference"
       ],
       "topicIds": [],
-      "sourceClass": "reference"
+      "sourceClass": "encyclopedia"
     }
   ]
 }
