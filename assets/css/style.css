@@ -458,3 +458,9 @@ button,a{-webkit-tap-highlight-color:transparent}
 /* Batch 009: provenance and research-status clarity */
 .reader-evidence>.reader-note:first-of-type{margin:10px 0 12px;padding:9px 11px;background:#eeeae0;border-left:2px solid var(--red);font-size:9px}
 .reader-source-link:focus-visible,.reader-claim-citations a:focus-visible{outline:2px solid var(--red);outline-offset:3px}
+
+/* Batch 010: local reading history */
+.recently-viewed-heading{margin:30px 0 12px;padding-top:22px;border-top:1px solid var(--rule)}
+.recently-viewed-heading h3{font:500 25px/1.2 var(--serif);margin:0}
+#detailContent .related-item{cursor:pointer}
+#detailContent .related-item:hover{background:#eeeae0}

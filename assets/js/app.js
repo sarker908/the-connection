@@ -1,6 +1,7 @@
 const $=s=>document.querySelector(s);
 let nodes=[],edges=[],sourcesData={sources:[]},claimsData={claims:[]},selectedCollection="all",collectionQuery="",collectionExpanded=false,historyData={events:[],people:[],eras:[]},activeEra="all";
 let saved=JSON.parse(localStorage.getItem("tc-saved")||"[]");
+let recentlyViewed=(()=>{try{return JSON.parse(localStorage.getItem("tc-recent")||"[]")}catch(error){return []}})();
 const colors={Technology:"#657d86",Science:"#a16b52",History:"#9a7851",Culture:"#75836b",Geography:"#64858a",Humanity:"#9a6d78",Mathematics:"#8575a6",Medicine:"#a66f78",Space:"#617c9c","Arts & Literature":"#a07855","Politics & Society":"#88745f",Environment:"#66836a"};
 const mediaCache=new Map();
 const mediaTargets=new WeakMap();
@@ -66,6 +67,7 @@ function renderCollectionSubjects(list){const filtered=list.filter(n=>(n.title+"
 function relatedTo(id){return edges.filter(e=>e.from===id||e.to===id).map(e=>({edge:e,node:nodes.find(n=>n.id===(e.from===id?e.to:e.from))})).filter(x=>x.node)}
 async function openTopic(id){
  const n=nodes.find(x=>x.id===id);if(!n)return;
+ recentlyViewed=[id,...recentlyViewed.filter(x=>x!==id)].slice(0,12);try{localStorage.setItem("tc-recent",JSON.stringify(recentlyViewed))}catch(error){}
  const readMinutes=Math.max(1,Math.ceil(((n.description||"")+" "+(n.short||"")).trim().split(/\s+/).filter(Boolean).length/200));
  const linked=relatedTo(id),year=n.year||"Ongoing";
  const events=historyData.events.filter(e=>e.topicId===id);
@@ -262,5 +264,15 @@ function openSearch(){$("#searchOverlay").classList.add("open");$("#globalSearch
 function toast(message){const t=$("#toast");t.textContent=message;t.classList.add("show");setTimeout(()=>t.classList.remove("show"),1900)}
 $("#searchOpen").onclick=openSearch;$("#searchClose").onclick=closeSearch;$("#searchOverlay").onclick=e=>{if(e.target===$("#searchOverlay"))closeSearch()};$("#globalSearch").oninput=e=>search(e.target.value);$("#collectionSearch").oninput=e=>{collectionQuery=e.target.value.toLowerCase().trim();renderCollectionSubjects(selectedCollection==="all"?nodes:nodes.filter(n=>n.category===selectedCollection))};document.addEventListener("keydown",e=>{if(e.key==="Escape"){closeSearch();closeDetail()}if((e.ctrlKey||e.metaKey)&&e.key.toLowerCase()==="k"){e.preventDefault();openSearch()}});
 $("#closeDetail").onclick=closeDetail;$("#findPath").onclick=findPath;$("#randomBtn").onclick=()=>openTopic(nodes[Math.floor(Math.random()*nodes.length)].id);$("#closingRandom").onclick=()=>openTopic(nodes[Math.floor(Math.random()*nodes.length)].id);
-$("#savedBtn").onclick=()=>{const list=nodes.filter(n=>saved.includes(n.id));if(!list.length){toast("Save a subject to start your collection.");return}$("#detailContent").innerHTML='<div class="detail-category">YOUR PERSONAL COLLECTION</div><h2>Saved subjects</h2>'+list.map(n=>'<div class="related-item" data-id="'+esc(n.id)+'"><strong>'+esc(n.title)+'</strong><small>'+esc(n.category)+'</small></div>').join("");$("#detailPanel").classList.add("open");document.querySelectorAll(".related-item").forEach(el=>el.onclick=()=>openTopic(el.dataset.id))};
+$("#savedBtn").onclick=()=>{
+ const list=nodes.filter(n=>saved.includes(n.id));
+ const recent=recentlyViewed.map(id=>nodes.find(n=>n.id===id)).filter(Boolean);
+ if(!list.length&&!recent.length){toast("Explore a subject to start your history.");return}
+ $("#detailContent").innerHTML='<div class="detail-category">YOUR PERSONAL COLLECTION</div><h2>Saved subjects</h2>'+
+ (list.length?list.map(n=>'<div class="related-item" data-id="'+esc(n.id)+'"><strong>'+esc(n.title)+'</strong><small>'+esc(n.category)+'</small></div>').join(""):'<p class="reader-note">No saved subjects yet.</p>')+
+ '<div class="recently-viewed-heading"><p class="reader-section-label">YOUR RECENT EXPLORATION</p><h3>Pick up where you left off</h3></div>'+
+ (recent.length?recent.map(n=>'<div class="related-item" data-id="'+esc(n.id)+'"><strong>'+esc(n.title)+'</strong><small>'+esc(n.category)+' · Recently viewed</small></div>').join(""):'<p class="reader-note">Recently viewed subjects will appear here.</p>');
+ $("#detailPanel").classList.add("open");$("#detailPanel").scrollTop=0;
+ document.querySelectorAll("#detailContent .related-item").forEach(el=>el.onclick=()=>openTopic(el.dataset.id));
+}
 loadData().catch(err=>{console.error(err);$("#collectionSubjects").innerHTML='<p class="collection-empty">The collection could not be loaded. Please refresh the page.</p>';toast("Could not load the atlas data.")});
