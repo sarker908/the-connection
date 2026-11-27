@@ -5,9 +5,38 @@ const colors={Technology:"#657d86",Science:"#a16b52",History:"#9a7851",Culture:"
 const mediaCache=new Map();
 const esc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 function pageTitle(n){if(n.wiki){const p=n.wiki.split("/wiki/")[1];if(p)return decodeURIComponent(p.replace(/_/g," "))}return n.title}
-async function getMedia(n){if(mediaCache.has(n.id))return mediaCache.get(n.id);const task=(async()=>{try{const url="https://en.wikipedia.org/api/rest_v1/page/summary/"+encodeURIComponent(pageTitle(n));const res=await fetch(url);if(!res.ok)return null;const data=await res.json();return{image:data.thumbnail?.source||data.originalimage?.source||null,extract:data.extract||null,source:data.content_urls?.desktop?.page||n.wiki||null}}catch(e){return null}})();mediaCache.set(n.id,task);return task}
+async function getMedia(n){
+ const key=n.id||n.title;
+ if(mediaCache.has(key))return mediaCache.get(key);
+ const task=(async()=>{
+  const title=pageTitle(n);
+  try{
+   const summaryUrl="https://en.wikipedia.org/api/rest_v1/page/summary/"+encodeURIComponent(title);
+   const response=await fetch(summaryUrl);
+   if(response.ok){
+    const data=await response.json();
+    const image=data.thumbnail?.source||data.originalimage?.source||null;
+    if(image)return{image,extract:data.extract||null,source:data.content_urls?.desktop?.page||n.wiki||null};
+    if(data.extract)return{image:null,extract:data.extract,source:data.content_urls?.desktop?.page||n.wiki||null};
+   }
+  }catch(error){}
+  try{
+   const searchUrl="https://en.wikipedia.org/w/rest.php/v1/search/page?q="+encodeURIComponent(title)+"&limit=5";
+   const response=await fetch(searchUrl);
+   if(!response.ok)return null;
+   const data=await response.json();
+   const pages=data.pages||[];
+   const normalized=title.toLowerCase().replace(/[_-]/g," ").trim();
+   const best=pages.find(page=>page.title?.toLowerCase()===normalized&&page.thumbnail?.url)||pages.find(page=>page.thumbnail?.url);
+   if(best?.thumbnail?.url)return{image:best.thumbnail.url.startsWith("//")?"https:"+best.thumbnail.url:best.thumbnail.url,extract:null,source:"https://en.wikipedia.org/wiki/"+encodeURIComponent((best.key||best.title).replace(/ /g,"_"))};
+  }catch(error){}
+  return null;
+ })();
+ mediaCache.set(key,task);
+ return task;
+}
 function paintImage(el,url){if(url){el.style.backgroundImage="url('"+url.replace(/'/g,"%27")+"')";el.classList.add("has-image")}}
-async function loadMedia(n,el){const media=await getMedia(n);if(media?.image&&el.isConnected)paintImage(el,media.image);return media}
+async function loadMedia(n,el){if(!el)return null;const media=await getMedia(n);if(media?.image&&el.isConnected)paintImage(el,media.image);return media}
 async function loadData(){const [nr,er,hr]=await Promise.all([fetch("data/nodes.json?v=6").then(r=>{if(!r.ok)throw Error("nodes");return r.json()}),fetch("data/connections.json?v=6").then(r=>{if(!r.ok)throw Error("connections");return r.json()}),fetch("data/history.json?v=1").then(r=>{if(!r.ok)throw Error("history");return r.json()})]);nodes=nr;edges=er;historyData=hr;$("#nodeStat").textContent=nodes.length;$("#edgeStat").textContent=edges.length;$("#domainStat").textContent=new Set(nodes.map(n=>n.category)).size.toString().padStart(2,"0");$("#atlasCount").textContent=nodes.length;renderCollectionBrowser();renderFeatured();renderDailyFeatures();renderOnThisDay();renderJourneys();fillSelects();renderTimeline();updateSavedCount();loadMedia(nodes.find(n=>n.id==="bigbang"),$("#heroImageMain"));loadMedia(nodes.find(n=>n.id==="bengal"),$("#heroImageSmall"))}
 const collectionInfo={"Economics":["How money, markets and choices shape the way societies work.","economics"],"Engineering":["The structures, machines and systems people design to solve problems.","civilengineering"],"Food & Agriculture":["The crops, methods and discoveries behind how the world eats.","agriculture"],"Communication":["The technologies that carry ideas, voices and images across distance.","telegraph"],"Archaeology":["Objects, places and evidence that bring the human past into view.","archaeology"],"Education":["The institutions and ideas that help knowledge travel between generations.","university"],"Technology":["How tools, machines and networks reshape everyday life.","computer"],"Science":["The questions, experiments and discoveries that explain our universe.","einstein"],"History":["The turning points, empires and movements that made the present.","liberation"],"Geography":["Landscapes, places and natural systems that shape human life.","sundarbans"],"Culture":["Art, belief and shared ideas that travel across generations.","renaissance"],"Humanity":["The institutions and ideas through which societies organise themselves.","dhakauniversity"],"Mathematics":["The language of patterns, quantities and logical thinking.","algebra"],"Medicine":["Discoveries that changed how we understand and treat the human body.","penicillin"],"Space":["Our attempts to understand the cosmos and travel beyond Earth.","moon"],"Arts & Literature":["The creators and works that give shape to imagination.","leonardo"],"Politics & Society":["Power, citizenship and the systems that shape public life.","democracy"],"Environment":["The living planet, its changing climate and connected ecosystems.","climate"],"Psychology":["The mind, behaviour and the ways people understand one another.","psychology"],"Architecture":["Buildings, spaces and design movements that shape how we live.","architecture"],"Energy":["The forces and technologies that power societies.","energy"],"Linguistics":["How language works, changes and connects human communities.","linguistics"],"Film & Media":["Moving images, sound and the craft of visual storytelling.","cinema"]};
 function renderCollectionBrowser(){const cats=[...new Set(nodes.map(n=>n.category))].sort((a,b)=>a.localeCompare(b));$("#collectionGrid").innerHTML=cats.map((cat,i)=>{const info=collectionInfo[cat]||["Explore this field of knowledge.",nodes.find(n=>n.category===cat)?.id],count=nodes.filter(n=>n.category===cat).length;return '<button class="collection-tile" data-category="'+esc(cat)+'" aria-pressed="false"><span class="collection-tile-number">'+String(i+1).padStart(2,"0")+'</span><span class="collection-tile-image" id="collectionImage'+i+'"></span><span class="collection-tile-copy"><strong>'+esc(cat)+'</strong><small>'+count+' SUBJECTS</small><span class="collection-tile-description">'+esc(info[0])+'</span><span class="collection-tile-arrow">Explore collection ↗</span></span></button>'}).join("");cats.forEach((cat,i)=>{const id=(collectionInfo[cat]||[])[1],n=nodes.find(x=>x.id===id)||nodes.find(x=>x.category===cat);if(n)loadMedia(n,$("#collectionImage"+i))});$("#collectionGrid").querySelectorAll("[data-category]").forEach(b=>b.onclick=()=>selectCollection(b.dataset.category,true));selectCollection("all")}
@@ -122,8 +151,14 @@ async function renderOnThisDay(){
    const image=page?.thumbnail?.source||"";
    const title=page?.titles?.normalized||page?.title?.replace(/_/g," ")||"Read the event";
    const href=page?.content_urls?.desktop?.page||"https://en.wikipedia.org/wiki/"+encodeURIComponent((page?.title||"").replace(/ /g,"_"));
-   return '<article class="on-this-day-card"><a class="on-this-day-image" href="'+esc(href)+'" target="_blank" rel="noopener noreferrer" aria-label="Read about '+esc(title)+'" '+(image?'style="background-image:url(\''+esc(image)+'\');"':'')+'><span>'+String(event.year)+'</span></a><div class="on-this-day-copy"><small>'+String(i+1).padStart(2,"0")+' / HISTORICAL MOMENT</small><h3>'+esc(event.text)+'</h3><a href="'+esc(href)+'" target="_blank" rel="noopener noreferrer">Explore the story ↗</a></div></article>';
+   return '<article class="on-this-day-card"><a class="on-this-day-image" id="onThisDayImage'+i+'" href="'+esc(href)+'" target="_blank" rel="noopener noreferrer" aria-label="Read about '+esc(title)+'" '+(image?'style="background-image:url(\''+esc(image)+'\');"':'')+'><span>'+String(event.year)+'</span></a><div class="on-this-day-copy"><small>'+String(i+1).padStart(2,"0")+' / HISTORICAL MOMENT</small><h3>'+esc(event.text)+'</h3><a href="'+esc(href)+'" target="_blank" rel="noopener noreferrer">Explore the story ↗</a></div></article>';
   }).join("");
+  chosen.forEach((event,i)=>{
+   const page=(event.pages||[]).find(p=>p.thumbnail||p.title)||(event.pages||[])[0];
+   const href=page?.content_urls?.desktop?.page||"https://en.wikipedia.org/wiki/"+encodeURIComponent((page?.title||"").replace(/ /g,"_"));
+   const image=page?.thumbnail?.source;
+   if(!image)loadMedia({id:"on-this-day-"+month+"-"+day+"-"+i,title:page?.title?.replace(/_/g," ")||event.text,wiki:href},$("#onThisDayImage"+i));
+  });
   status.textContent=events.length+" MOMENTS RECORDED ON THIS DATE · WIKIPEDIA";
  }catch(error){
   host.innerHTML='<p class="on-this-day-empty">The live history feed could not be reached just now. Try again later, or explore the full historical archive below.</p>';
@@ -175,7 +210,8 @@ function renderTimelineItems(){
  const era=$("#historyEraSelect").value,region=$("#historyRegionSelect").value;
  const events=historyData.events.filter(e=>(era==="all"||e.era===era)&&(region==="all"||(e.region||"Global")===region)).slice().sort((a,b)=>a.sort-b.sort);
  $("#historyResultCount").textContent=events.length+" historical entries";
- $("#timelineList").innerHTML=events.map(e=>'<article class="history-event"><div class="history-event-date">'+esc(e.date)+'<small>'+esc(e.region||"Global")+'</small></div><div class="history-event-body"><p class="history-event-era">'+esc((historyData.eras.find(x=>x.id===e.era)||{}).label||"HISTORY")+'</p><h3>'+esc(e.title)+'</h3><p>'+esc(e.summary)+'</p><div class="history-event-links"><a href="'+esc(e.url)+'" target="_blank" rel="noopener noreferrer">'+esc(e.source)+' ↗</a>'+(nodes.some(n=>n.id===e.topicId)?'<button data-topic="'+esc(e.topicId)+'">Explore subject ↗</button>':'')+'</div></div></article>').join("")||'<p class="history-empty">No entries in this selection yet. Try another period or region.</p>';
+ $("#timelineList").innerHTML=events.map((e,i)=>'<article class="history-event"><div class="history-event-visual"><div class="history-event-image" id="historyEventImage'+i+'"></div><div class="history-event-date">'+esc(e.date)+'<small>'+esc(e.region||"Global")+'</small></div></div><div class="history-event-body"><p class="history-event-era">'+esc((historyData.eras.find(x=>x.id===e.era)||{}).label||"HISTORY")+'</p><h3>'+esc(e.title)+'</h3><p>'+esc(e.summary)+'</p><div class="history-event-links"><a href="'+esc(e.url)+'" target="_blank" rel="noopener noreferrer">'+esc(e.source)+' ↗</a>'+(nodes.some(n=>n.id===e.topicId)?'<button data-topic="'+esc(e.topicId)+'">Explore subject ↗</button>':'')+'</div></div></article>').join("")||'<p class="history-empty">No entries in this selection yet. Try another period or region.</p>';
+ events.forEach((e,i)=>loadMedia({id:"history-"+e.sort+"-"+i,title:e.title,wiki:/wikipedia\.org\/wiki\//i.test(e.url)?e.url:null},$("#historyEventImage"+i)));
  $("#timelineList").querySelectorAll("[data-topic]").forEach(btn=>btn.onclick=()=>openTopic(btn.dataset.topic));
 }
 function renderPeople(){
@@ -192,7 +228,7 @@ function renderPeople(){
  const people=historyData.people.filter(p=>selected==="all"||(p.region||"Global")===selected);
  grid.innerHTML=people.map((p,i)=>'<article class="history-person"><div class="history-person-image" id="personImage'+i+'"></div><div class="history-person-index">'+esc(p.region||"Global")+' · '+String(i+1).padStart(2,"0")+' / '+esc(p.life)+'</div><h3>'+esc(p.name)+'</h3><p class="history-person-role">'+esc(p.role)+'</p><p class="history-person-bio">'+esc(p.bio)+'</p><div class="history-person-footer"><a href="'+esc(p.url)+'" target="_blank" rel="noopener noreferrer">'+esc(p.source)+' ↗</a>'+(nodes.some(n=>n.id===p.topicId)?'<button data-topic="'+esc(p.topicId)+'">Related subject</button>':'')+'</div></article>').join("")||'<p class="history-empty">No profiles in this region yet.</p>';
  $("#peopleCount").textContent=people.length+" people";
- people.forEach((p,i)=>loadMedia({id:"person-"+p.name.toLowerCase().replace(/[^a-z0-9]+/g,"-"),title:p.name},$("#personImage"+i)));
+ people.forEach((p,i)=>loadMedia({id:"person-"+p.name.toLowerCase().replace(/[^a-z0-9]+/g,"-"),title:p.name,wiki:/wikipedia\.org\/wiki\//i.test(p.url)?p.url:null},$("#personImage"+i)));
  grid.querySelectorAll("[data-topic]").forEach(btn=>btn.onclick=()=>openTopic(btn.dataset.topic));
 }
 function search(q){const query=q.trim().toLowerCase();const results=nodes.filter(n=>(n.title+" "+n.description+" "+n.category+" "+n.type).toLowerCase().includes(query)).slice(0,15);$("#searchResults").innerHTML=results.length?results.map(n=>'<div class="search-result" data-id="'+esc(n.id)+'"><strong>'+esc(n.title)+'</strong><small>'+esc(n.category)+'</small></div>').join(""):'<p>No matching subject. Try a different word.</p>';document.querySelectorAll(".search-result").forEach(el=>el.onclick=()=>{closeSearch();openTopic(el.dataset.id)})}
