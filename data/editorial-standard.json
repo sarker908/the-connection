@@ -58,7 +58,8 @@
     "Every connection must have a meaningful, readable explanation.",
     "Prefer causal, historical, methodological, conceptual or practical relationships.",
     "Do not add reciprocal duplicates unless direction changes the meaning.",
-    "Avoid connecting topics solely because they share a collection."
+    "Avoid connecting topics solely because they share a collection.",
+    "For important foundational subjects, add cross-disciplinary links where the relationship can be explained accurately."
   ],
   "reviewWorkflow": [
     "Define the scope and key questions for the subject.",
