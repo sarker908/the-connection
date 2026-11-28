@@ -4,11 +4,11 @@
 
 ## Current collection
 
-- **2280 subjects** across **500 collections**
-- **1663 relationships** connecting subjects across disciplines
+- **2324 subjects** across **500 collections**
+- **1729 relationships** connecting subjects across disciplines
 - **132 historical milestones**
 - **81 biographical profiles**
-- **1386 unique source records** in the structured source register
+- **1436 unique source records** in the structured source register
 
 The atlas includes global history, science, culture and technology alongside a deeper collection on Bengal and Bangladesh.
 
@@ -40,13 +40,13 @@ This is a growing, selective collection, not a claim to represent every relation
 
 ## Source register and verification
 
-`data/sources.json` is the central source-link registry. Each record has a stable ID, title, publisher, URL, role and the subject IDs it supports. Repeated URLs are consolidated into one record with merged subject IDs and source roles. The registry contains 1386 unique URL records. Source classes describe the type of source, not a quality score. Some references support timeline or biographical entries rather than a subject page, so their topic ID list is intentionally empty. Source classes describe the type of source, not a quality score. 
+`data/sources.json` is the central source-link registry. Each record has a stable ID, title, publisher, URL, role and the subject IDs it supports. Repeated URLs are consolidated into one record with merged subject IDs and source roles. The registry contains 1436 unique URL records. Source classes describe the type of source, not a quality score. Some references support timeline or biographical entries rather than a subject page, so their topic ID list is intentionally empty. Source classes describe the type of source, not a quality score. 
 
 The registry is a provenance layer, not an automatic credibility score. A link being present does not mean every claim has been independently audited. Wikipedia is labelled as a general reference and discovery starting point. Subject-specific research should progressively add primary documents, peer-reviewed work and specialist institutional publications, especially for technical, disputed or sensitive claims. Historical and biographical links are retained as references to the corresponding archive entries.
 
 ## Research-enriched subjects
 
-Five focused research batches have enriched foundational subjects and selected entries across global history, public health, climate, engineering, philosophy, literature, culture, politics, economics and South Asian history. Batch 004 added 25 subjects and 50 claims; Batch 005 adds a further 25 existing subjects, 50 claim-level records and 21 new subject-specific references. All remain marked `research-enriched` and `editorial-review-pending` until a separate independent editorial review is documented.
+Seven focused research batches have enriched foundational subjects and selected entries across global history, public health, climate, engineering, philosophy, literature, culture, politics, economics and South Asian history. Batch 004 added 25 subjects and 50 claims; Batch 005 adds a further 25 existing subjects, 50 claim-level records and 21 new subject-specific references. All remain marked `research-enriched` and `editorial-review-pending` until a separate independent editorial review is documented.
 
 ## Knowledge quality standard
 
@@ -143,3 +143,16 @@ Reading journey headers now show the number of stops in each path, making the sc
 ## Stage 012: structural data audit
 
 On startup, the application now checks subject-ID uniqueness, connection endpoints and claim references to subjects and source records after merging the research batch. The compact report is available in the browser console as `window.__THE_CONNECTION_AUDIT__`. The audit checks structural integrity only; it does not fact-check historical or scientific claims.
+
+
+## Research batch 007: Southeast Asian networks and Pacific worlds
+
+**Completed:** 28 November 2026  
+**New subjects:** 18  
+**New connections:** 36  
+**New specialist source records:** 17  
+**New claim-level records:** 36
+
+This additive batch expands coverage of Southeast Asian political and maritime history and Pacific settlement and navigation. It adds Srivijaya, Majapahit, the Khmer Empire, Angkorian water management, Champa, Funan, Bagan, Ayutthaya, the Malacca Sultanate, Borobudur, Sukhothai, the Pyu Ancient Cities, Polynesian wayfinding, Lapita, Rapa Nui, Taputapuātea, maritime Southeast Asian trade networks and Māori settlement of Aotearoa. Each new subject is linked through two meaningful relationships and two claim-level research records. The references draw on UNESCO World Heritage documentation, the Metropolitan Museum of Art, the Smithsonian National Museum of Asian Art and Te Ara: The Encyclopedia of New Zealand.
+
+**Editorial status:** research-enriched, not expert-reviewed. Chronologies, political boundaries, migration routes and interpretations of archaeological evidence remain subject to specialist review. In particular, the historical labels Funan and Lapita do not represent simple, uniform states or peoples. Sources provide traceability and further reading, not certification of every statement.

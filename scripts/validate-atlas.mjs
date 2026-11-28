@@ -7,12 +7,12 @@ const connections = readJson("data/connections.json");
 const sourcesData = readJson("data/sources.json");
 const claimsData = readJson("data/claims.json");
 const history = readJson("data/history.json");
-const batch = readJson("data/research-batches/batch-006.json");
+const batches = [readJson("data/research-batches/batch-006.json"), readJson("data/research-batches/batch-007.json")];
 
-const allNodes = [...nodes, ...(batch.nodes || [])];
-const allConnections = [...connections, ...(batch.connections || [])];
-const allSources = [...(sourcesData.sources || []), ...(batch.sources || [])];
-const allClaims = [...(claimsData.claims || []), ...(batch.claims || [])];
+const allNodes = [...nodes, ...batches.flatMap((batch) => batch.nodes || [])];
+const allConnections = [...connections, ...batches.flatMap((batch) => batch.connections || [])];
+const allSources = [...(sourcesData.sources || []), ...batches.flatMap((batch) => batch.sources || [])];
+const allClaims = [...(claimsData.claims || []), ...batches.flatMap((batch) => batch.claims || [])];
 
 const failures = [];
 const duplicates = (items) => items.filter((value, index) => value && items.indexOf(value) !== index);
