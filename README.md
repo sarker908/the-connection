@@ -8,7 +8,7 @@
 - **1729 relationships** connecting subjects across disciplines
 - **132 historical milestones**
 - **81 biographical profiles**
-- **1436 unique source records** in the structured source register
+- **1435 unique source records** in the structured source register
 
 The atlas includes global history, science, culture and technology alongside a deeper collection on Bengal and Bangladesh.
 
@@ -40,7 +40,7 @@ This is a growing, selective collection, not a claim to represent every relation
 
 ## Source register and verification
 
-`data/sources.json` is the central source-link registry. Each record has a stable ID, title, publisher, URL, role and the subject IDs it supports. Repeated URLs are consolidated into one record with merged subject IDs and source roles. The registry contains 1436 unique URL records. Source classes describe the type of source, not a quality score. Some references support timeline or biographical entries rather than a subject page, so their topic ID list is intentionally empty. Source classes describe the type of source, not a quality score. 
+`data/sources.json` is the central source-link registry. Each record has a stable ID, title, publisher, URL, role and the subject IDs it supports. Repeated URLs are consolidated into one record with merged subject IDs and source roles. The registry contains 1435 unique URL records. Source classes describe the type of source, not a quality score. Some references support timeline or biographical entries rather than a subject page, so their topic ID list is intentionally empty. Source classes describe the type of source, not a quality score. 
 
 The registry is a provenance layer, not an automatic credibility score. A link being present does not mean every claim has been independently audited. Wikipedia is labelled as a general reference and discovery starting point. Subject-specific research should progressively add primary documents, peer-reviewed work and specialist institutional publications, especially for technical, disputed or sensitive claims. Historical and biographical links are retained as references to the corresponding archive entries.
 
