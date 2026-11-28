@@ -5,7 +5,7 @@
 ## Current collection
 
 - **2324 subjects** across **500 collections**
-- **1729 relationships** connecting subjects across disciplines
+- **1759 relationships** connecting subjects across disciplines
 - **132 historical milestones**
 - **81 biographical profiles**
 - **1435 unique source records** in the structured source register
@@ -46,7 +46,7 @@ The registry is a provenance layer, not an automatic credibility score. A link b
 
 ## Research-enriched subjects
 
-Seven focused research batches have enriched foundational subjects and selected entries across global history, public health, climate, engineering, philosophy, literature, culture, politics, economics and South Asian history. Batch 004 added 25 subjects and 50 claims; Batch 005 adds a further 25 existing subjects, 50 claim-level records and 21 new subject-specific references. All remain marked `research-enriched` and `editorial-review-pending` until a separate independent editorial review is documented.
+Eight focused research batches have enriched foundational subjects and selected entries across global history, public health, climate, engineering, philosophy, literature, culture, politics, economics and South Asian history. Batch 004 added 25 subjects and 50 claims; Batch 005 adds a further 25 existing subjects, 50 claim-level records and 21 new subject-specific references. All remain marked `research-enriched` and `editorial-review-pending` until a separate independent editorial review is documented.
 
 ## Knowledge quality standard
 
@@ -156,3 +156,8 @@ On startup, the application now checks subject-ID uniqueness, connection endpoin
 This additive batch expands coverage of Southeast Asian political and maritime history and Pacific settlement and navigation. It adds Srivijaya, Majapahit, the Khmer Empire, Angkorian water management, Champa, Funan, Bagan, Ayutthaya, the Malacca Sultanate, Borobudur, Sukhothai, the Pyu Ancient Cities, Polynesian wayfinding, Lapita, Rapa Nui, Taputapuātea, maritime Southeast Asian trade networks and Māori settlement of Aotearoa. Each new subject is linked through two meaningful relationships and two claim-level research records. The references draw on UNESCO World Heritage documentation, the Metropolitan Museum of Art, the Smithsonian National Museum of Asian Art and Te Ara: The Encyclopedia of New Zealand.
 
 **Editorial status:** research-enriched, not expert-reviewed. Chronologies, political boundaries, migration routes and interpretations of archaeological evidence remain subject to specialist review. In particular, the historical labels Funan and Lapita do not represent simple, uniform states or peoples. Sources provide traceability and further reading, not certification of every statement.
+
+
+## Research batch 007: cross-disciplinary foundations
+
+Batch 007 adds 30 meaningful relationships and 22 claim-level source records across 11 existing foundational subjects: the Internet, the Web, Internet protocols, AI, semiconductors, climate, agriculture, evolution, DNA, writing and paper. It strengthens links between computing, communication, natural science, food systems and the history of knowledge without duplicating existing subject entries. Claims remain marked `editorial-review-pending`; references support traceability and further reading, not automatic verification. The batch is loaded additively by the existing application loader.

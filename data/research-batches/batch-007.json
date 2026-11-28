@@ -2,962 +2,715 @@
   "schemaVersion": 1,
   "batch": "batch-007",
   "updated": "2026-11-28",
-  "editorialNote": "Additive research batch on Southeast Asian polities, maritime networks and Pacific settlement and navigation. Entries are research-enriched and remain pending independent editorial review. References provide traceability and further reading; they do not certify every claim.",
-  "nodes": [
-    {
-      "id": "atlas_batch007_srivijaya",
-      "title": "Srivijaya",
-      "category": "History",
-      "type": "Historical subject",
-      "year": "c. 7th–13th centuries",
-      "short": "A maritime Buddhist polity based in Sumatra that linked ports across the Strait of Malacca and wider Asian trade routes.",
-      "description": "Srivijaya was a maritime polity centred around southern Sumatra, with Palembang often identified as an important early centre. Its influence grew through control of strategic sea passages, port networks and relationships with merchants and Buddhist institutions. Its reach and political structure changed over time, and historians reconstruct its history from inscriptions, archaeology and external records.",
-      "wiki": "https://en.wikipedia.org/wiki/Srivijaya",
-      "contentStatus": "research-enriched",
-      "researchBatch": "batch-007",
-      "lastResearchUpdate": "2026-11-28"
-    },
-    {
-      "id": "atlas_batch007_majapahit",
-      "title": "Majapahit Empire",
-      "category": "History",
-      "type": "Historical subject",
-      "year": "1293–c. 16th century",
-      "short": "A Javanese kingdom whose court, commerce and literary culture shaped a major period in Indonesian history.",
-      "description": "Majapahit emerged in eastern Java in the late thirteenth century and became a major political and cultural power in the Indonesian archipelago. Its influence depended on a combination of court authority, alliances, trade and regional relationships; the extent of direct control beyond Java remains debated. The court's literary and artistic legacy is an important source for understanding the period.",
-      "wiki": "https://en.wikipedia.org/wiki/Majapahit",
-      "contentStatus": "research-enriched",
-      "researchBatch": "batch-007",
-      "lastResearchUpdate": "2026-11-28"
-    },
-    {
-      "id": "atlas_batch007_khmer_empire",
-      "title": "Khmer Empire",
-      "category": "History",
-      "type": "Historical subject",
-      "year": "802–1431",
-      "short": "A mainland Southeast Asian empire whose capitals and monuments transformed the landscape around Angkor.",
-      "description": "The Khmer Empire developed around the Tonle Sap and Mekong region, with Angkor serving as a major political and ceremonial centre for much of its history. Its rulers sponsored extensive temple construction, urban works and water-management infrastructure. The empire interacted with neighbouring societies through diplomacy, warfare, religious exchange and commerce; its history cannot be reduced to the monuments alone.",
-      "wiki": "https://en.wikipedia.org/wiki/Khmer_Empire",
-      "contentStatus": "research-enriched",
-      "researchBatch": "batch-007",
-      "lastResearchUpdate": "2026-11-28"
-    },
-    {
-      "id": "atlas_batch007_angkor_water_management",
-      "title": "Angkorian Water Management",
-      "category": "Technology",
-      "type": "Historical subject",
-      "year": "c. 9th–15th centuries",
-      "short": "A landscape-scale system of reservoirs, canals, embankments and waterways that supported the Angkor region.",
-      "description": "The Angkor region contains an extensive network of reservoirs, canals, embankments and other hydraulic features. These works helped manage water in a monsoonal environment and were connected to agriculture, settlement, transport and political authority. Archaeologists continue to debate how the system functioned in different periods, so it should not be described as one unchanged master plan.",
-      "wiki": "https://en.wikipedia.org/wiki/Water_management_in_Angkor",
-      "contentStatus": "research-enriched",
-      "researchBatch": "batch-007",
-      "lastResearchUpdate": "2026-11-28"
-    },
-    {
-      "id": "atlas_batch007_champa",
-      "title": "Champa",
-      "category": "History",
-      "type": "Historical subject",
-      "year": "c. 2nd–19th centuries",
-      "short": "A succession of Cham polities along the coast of central and southern Vietnam, connected to regional maritime trade.",
-      "description": "Champa refers to a changing set of Cham political centres along the coast of present-day central and southern Vietnam. Chinese records mention Cham polities from the early centuries CE, while inscriptions, temples, ceramics and other archaeological evidence illuminate their history. Cham communities participated in maritime exchange across the South China Sea and retain a distinct cultural presence today.",
-      "wiki": "https://en.wikipedia.org/wiki/Champa",
-      "contentStatus": "research-enriched",
-      "researchBatch": "batch-007",
-      "lastResearchUpdate": "2026-11-28"
-    },
-    {
-      "id": "atlas_batch007_funan",
-      "title": "Funan",
-      "category": "History",
-      "type": "Historical subject",
-      "year": "c. 1st–6th centuries CE",
-      "short": "An early Mekong-region polity known through archaeology and accounts preserved in Chinese historical texts.",
-      "description": "Funan is the name used in Chinese sources for an early political and commercial formation in the lower Mekong region. Archaeological evidence, including the port settlement of Óc Eo, points to connections among local communities and traders from South and East Asia. The precise boundaries, political organisation and relationship between Funan and later states remain subjects of scholarly debate.",
-      "wiki": "https://en.wikipedia.org/wiki/Funan",
-      "contentStatus": "research-enriched",
-      "researchBatch": "batch-007",
-      "lastResearchUpdate": "2026-11-28"
-    },
-    {
-      "id": "atlas_batch007_bagan_civilization",
-      "title": "Bagan Civilisation",
-      "category": "History",
-      "type": "Historical subject",
-      "year": "11th–13th centuries",
-      "short": "A major centre of Buddhist art, architecture and political power on the Ayeyarwady River in present-day Myanmar.",
-      "description": "Bagan became the centre of a powerful kingdom in the central plains of present-day Myanmar. Between the eleventh and thirteenth centuries, rulers and donors supported the construction of thousands of Buddhist monuments, creating a distinctive sacred landscape. River transport, agricultural resources, religious patronage and regional networks all contributed to Bagan's importance.",
-      "wiki": "https://en.wikipedia.org/wiki/Pagan_Kingdom",
-      "contentStatus": "research-enriched",
-      "researchBatch": "batch-007",
-      "lastResearchUpdate": "2026-11-28"
-    },
-    {
-      "id": "atlas_batch007_ayutthaya_kingdom",
-      "title": "Ayutthaya Kingdom",
-      "category": "History",
-      "type": "Historical subject",
-      "year": "1351–1767",
-      "short": "A Siamese kingdom whose riverine capital became a major centre of diplomacy and international commerce.",
-      "description": "The Ayutthaya Kingdom was founded in the mid-fourteenth century and developed a capital on an island formed by rivers in central Thailand. Its location supported trade, transport and defence, and the city became a cosmopolitan centre visited by merchants and diplomatic missions. Burmese forces destroyed the capital in 1767, leaving an extensive archaeological landscape.",
-      "wiki": "https://en.wikipedia.org/wiki/Ayutthaya_Kingdom",
-      "contentStatus": "research-enriched",
-      "researchBatch": "batch-007",
-      "lastResearchUpdate": "2026-11-28"
-    },
-    {
-      "id": "atlas_batch007_malacca_sultanate",
-      "title": "Malacca Sultanate",
-      "category": "History",
-      "type": "Historical subject",
-      "year": "c. 1400–1511",
-      "short": "A Malay sultanate whose port became a pivotal meeting place for merchants across the Indian Ocean and East Asia.",
-      "description": "The Malacca Sultanate grew around a strategically placed port on the Strait of Malacca. Its commercial importance rested on maritime routes linking the Indian Ocean and South China Sea, as well as the port's political institutions and trading communities. Portuguese conquest in 1511 changed the region's political order, but Melaka continued to reflect centuries of cultural exchange.",
-      "wiki": "https://en.wikipedia.org/wiki/Malacca_Sultanate",
-      "contentStatus": "research-enriched",
-      "researchBatch": "batch-007",
-      "lastResearchUpdate": "2026-11-28"
-    },
-    {
-      "id": "atlas_batch007_borobudur",
-      "title": "Borobudur Temple",
-      "category": "Culture",
-      "type": "Historical and religious monument",
-      "year": "8th–9th centuries CE",
-      "short": "A monumental Buddhist complex in central Java that combines architecture, sculpture and a carefully designed pilgrimage route.",
-      "description": "Borobudur was built in central Java during the eighth and ninth centuries under the Sailendra dynasty. Its terraces, narrative reliefs, Buddha images and stupas create an architectural route associated with Buddhist ideas and practice. The monument is also evidence of the artistic and political worlds of early medieval Java and of the long history of conservation in Indonesia.",
-      "wiki": "https://en.wikipedia.org/wiki/Borobudur",
-      "contentStatus": "research-enriched",
-      "researchBatch": "batch-007",
-      "lastResearchUpdate": "2026-11-28"
-    },
-    {
-      "id": "atlas_batch007_sukhothai_kingdom",
-      "title": "Sukhothai Kingdom",
-      "category": "History",
-      "type": "Historical subject",
-      "year": "13th–15th centuries",
-      "short": "An early Siamese kingdom associated with distinctive Thai art, inscriptions, Buddhist monuments and water engineering.",
-      "description": "Sukhothai was a political and cultural centre in northern-central Thailand during the thirteenth and fourteenth centuries. Its associated towns shared roads, water infrastructure and commercial links, while inscriptions and monuments document developments in language, religion, law and artistic styles. The kingdom's later national significance should be understood alongside the wider and more complex history of the region.",
-      "wiki": "https://en.wikipedia.org/wiki/Sukhothai_Kingdom",
-      "contentStatus": "research-enriched",
-      "researchBatch": "batch-007",
-      "lastResearchUpdate": "2026-11-28"
-    },
-    {
-      "id": "atlas_batch007_pyu_cities",
-      "title": "Pyu Ancient Cities",
-      "category": "History",
-      "type": "Historical subject",
-      "year": "c. 2nd century BCE–9th century CE",
-      "short": "Early urban centres in the Ayeyarwady basin that developed distinctive Buddhist, agricultural and water-management traditions.",
-      "description": "Halin, Beikthano and Sri Ksetra were major Pyu urban centres in the dry zone of the Ayeyarwady basin. Their archaeological remains include city walls, stupas, production areas, burial sites and irrigation features. The cities participated in long-distance trade and helped shape the spread of Buddhist institutions and urban forms in mainland Southeast Asia.",
-      "wiki": "https://en.wikipedia.org/wiki/Pyu_city-states",
-      "contentStatus": "research-enriched",
-      "researchBatch": "batch-007",
-      "lastResearchUpdate": "2026-11-28"
-    },
-    {
-      "id": "atlas_batch007_polynesian_wayfinding",
-      "title": "Polynesian Wayfinding",
-      "category": "Technology",
-      "type": "Indigenous knowledge system",
-      "year": "Pre-European period–present",
-      "short": "A sophisticated body of ocean-navigation knowledge based on stars, winds, swells, currents, birds and environmental observation.",
-      "description": "Polynesian wayfinding traditions enabled long-distance voyages across a vast ocean without relying on modern magnetic or satellite instruments. Navigators interpreted star paths, ocean swells, wind patterns, clouds, birds and other signs as parts of an integrated knowledge system. These practices vary across communities and are sustained and renewed through contemporary voyaging and cultural education.",
-      "wiki": "https://en.wikipedia.org/wiki/Polynesian_navigation",
-      "contentStatus": "research-enriched",
-      "researchBatch": "batch-007",
-      "lastResearchUpdate": "2026-11-28"
-    },
-    {
-      "id": "atlas_batch007_lapita",
-      "title": "Lapita Cultural Complex",
-      "category": "Archaeology",
-      "type": "Archaeological subject",
-      "year": "c. 1600–500 BCE",
-      "short": "An archaeological tradition recognised through distinctive pottery and settlement evidence across parts of the western and central Pacific.",
-      "description": "Lapita is an archaeological complex identified especially through distinctive dentate-stamped pottery and associated settlement remains. Its communities were involved in the movement of people, plants, animals and technologies across Near and Remote Oceania. The origins and development of Lapita are active research topics, and pottery styles should not be treated as a simple label for one uniform people.",
-      "wiki": "https://en.wikipedia.org/wiki/Lapita_culture",
-      "contentStatus": "research-enriched",
-      "researchBatch": "batch-007",
-      "lastResearchUpdate": "2026-11-28"
-    },
-    {
-      "id": "atlas_batch007_rapa_nui",
-      "title": "Rapa Nui Culture",
-      "category": "Culture",
-      "type": "Cultural subject",
-      "year": "c. 1st millennium CE–present",
-      "short": "The living Polynesian culture of Rapa Nui, known internationally for its monumental moai and distinctive island history.",
-      "description": "Rapa Nui is the homeland of a Polynesian people whose ancestors settled the remote island in the southeastern Pacific. Its archaeological landscape includes moai statues, ahu ceremonial platforms, settlements, agricultural features and rock art. The island's history also includes severe disruption through colonial intrusion, disease and enslavement, while Rapa Nui people continue to maintain and renew their culture.",
-      "wiki": "https://en.wikipedia.org/wiki/Rapa_Nui_people",
-      "contentStatus": "research-enriched",
-      "researchBatch": "batch-007",
-      "lastResearchUpdate": "2026-11-28"
-    },
-    {
-      "id": "atlas_batch007_taputapuatea",
-      "title": "Taputapuātea",
-      "category": "Culture",
-      "type": "Cultural and archaeological site",
-      "year": "14th–18th centuries CE",
-      "short": "A major marae complex on Raiatea that symbolises ancestral connections and the shared heritage of Polynesian communities.",
-      "description": "Taputapuātea, on the island of Raiatea in French Polynesia, is a ceremonial landscape centred on a marae complex. It is associated with political, religious and social relationships among communities across the wider Polynesian world. The site also reflects voyaging knowledge and the movement of people and cultural practices between islands; it remains important to living communities.",
-      "wiki": "https://en.wikipedia.org/wiki/Taputapu%C4%81tea",
-      "contentStatus": "research-enriched",
-      "researchBatch": "batch-007",
-      "lastResearchUpdate": "2026-11-28"
-    },
-    {
-      "id": "atlas_batch007_maritime_sea_trade",
-      "title": "Maritime Southeast Asian Trade Networks",
-      "category": "Geography",
-      "type": "Historical subject",
-      "year": "1st millennium CE–early modern period",
-      "short": "Interconnected sea routes that linked ports in Southeast Asia with South Asia, China, the Middle East and beyond.",
-      "description": "Maritime Southeast Asian trade developed through overlapping routes across the Bay of Bengal, Strait of Malacca and South China Sea. Port communities exchanged goods, technologies, religious ideas and artistic forms, while monsoon winds shaped seasonal travel. These networks were not controlled by one empire; their organisation shifted with ports, political alliances and changing demand.",
-      "wiki": "https://en.wikipedia.org/wiki/Maritime_Silk_Road",
-      "contentStatus": "research-enriched",
-      "researchBatch": "batch-007",
-      "lastResearchUpdate": "2026-11-28"
-    },
-    {
-      "id": "atlas_batch007_maori_settlement",
-      "title": "Māori Settlement of Aotearoa",
-      "category": "History",
-      "type": "Historical subject",
-      "year": "c. 13th century CE",
-      "short": "The settlement of Aotearoa by Polynesian voyagers and the development of distinct Māori communities and traditions.",
-      "description": "The ancestors of Māori reached Aotearoa New Zealand through deliberate ocean voyages from East Polynesia, with current scholarship commonly placing settlement in the late thirteenth century. The exact routes, dates and number of voyages remain debated. Māori oral traditions, archaeology, language and environmental evidence all contribute to understanding settlement and the formation of distinct iwi and hapū.",
-      "wiki": "https://en.wikipedia.org/wiki/M%C4%81ori_people",
-      "contentStatus": "research-enriched",
-      "researchBatch": "batch-007",
-      "lastResearchUpdate": "2026-11-28"
-    }
-  ],
+  "editorialNote": "Additive research batch focused on strengthening cross-disciplinary relationships and claim-level provenance for existing foundational subjects. Claims remain pending independent editorial review. References provide traceability and further reading; they do not certify every claim.",
+  "nodes": [],
   "connections": [
     {
-      "from": "atlas_batch007_srivijaya",
-      "to": "atlas_batch007_maritime_sea_trade",
-      "label": "Srivijaya's power was closely tied to the port networks and sea lanes of maritime Southeast Asia"
+      "from": "internet",
+      "to": "www",
+      "label": "The World Wide Web is one information system built on Internet infrastructure"
     },
     {
-      "from": "atlas_batch007_srivijaya",
-      "to": "silkroad",
-      "label": "Srivijaya formed part of the wider maritime exchange systems often discussed alongside the Silk Roads"
+      "from": "www",
+      "to": "writing",
+      "label": "Both extend the reach and persistence of recorded information through different media"
     },
     {
-      "from": "atlas_batch007_majapahit",
-      "to": "atlas_batch007_maritime_sea_trade",
-      "label": "Majapahit participated in regional maritime exchange through Java and the surrounding archipelago"
+      "from": "writing",
+      "to": "paper",
+      "label": "Paper became a portable and scalable surface for written records"
     },
     {
-      "from": "atlas_batch007_majapahit",
-      "to": "buddhism",
-      "label": "Buddhist and Hindu traditions formed part of the wider religious and artistic world of Majapahit-era Java"
+      "from": "paper",
+      "to": "printing",
+      "label": "Paper supported the spread of movable-type and other printing systems"
     },
     {
-      "from": "atlas_batch007_khmer_empire",
-      "to": "atlas_batch007_angkor_water_management",
-      "label": "Angkor's reservoirs and canals were integral to the empire's urban and agricultural landscape"
+      "from": "printing",
+      "to": "renaissance",
+      "label": "Print helped circulate texts and arguments across early modern Europe"
     },
     {
-      "from": "atlas_batch007_khmer_empire",
-      "to": "buddhism",
-      "label": "Buddhist institutions and monuments became important within the changing religious history of the Khmer world"
+      "from": "internetprotocol",
+      "to": "internet",
+      "label": "IP provides the addressing and packet-forwarding layer used across interconnected networks"
     },
     {
-      "from": "atlas_batch007_angkor_water_management",
-      "to": "monsoon",
-      "label": "Water infrastructure in the Angkor region responded to seasonal rainfall and monsoon hydrology"
+      "from": "internetprotocol",
+      "to": "smartphone",
+      "label": "Mobile devices use Internet Protocol to exchange data across networks"
     },
     {
-      "from": "atlas_batch007_angkor_water_management",
-      "to": "architecture",
-      "label": "Hydraulic works and settlement design formed connected parts of Angkor's built environment"
+      "from": "www",
+      "to": "smartphone",
+      "label": "Smartphone browsers and apps make web resources accessible on mobile networks"
     },
     {
-      "from": "atlas_batch007_champa",
-      "to": "atlas_batch007_maritime_sea_trade",
-      "label": "Cham coastal polities participated in the shipping and commercial networks of the South China Sea"
+      "from": "semiconductor",
+      "to": "computer",
+      "label": "Semiconductor devices form the switching and memory components of modern computers"
     },
     {
-      "from": "atlas_batch007_champa",
-      "to": "atlas_batch007_funan",
-      "label": "Both polities are documented within the early history of coastal and riverine Southeast Asian exchange"
+      "from": "semiconductor",
+      "to": "smartphone",
+      "label": "Integrated circuits enable compact mobile computing"
     },
     {
-      "from": "atlas_batch007_funan",
-      "to": "atlas_batch007_maritime_sea_trade",
-      "label": "Archaeological finds at Mekong-region ports show links to long-distance maritime commerce"
+      "from": "electricity",
+      "to": "semiconductor",
+      "label": "Semiconductor devices control and process electrical signals"
     },
     {
-      "from": "atlas_batch007_funan",
-      "to": "silkroad",
-      "label": "Funan-era exchange connected local communities with wider Asian commercial and cultural networks"
+      "from": "computer",
+      "to": "ai",
+      "label": "Modern AI systems are trained and deployed using computational hardware and software"
     },
     {
-      "from": "atlas_batch007_bagan_civilization",
-      "to": "atlas_batch007_pyu_cities",
-      "label": "Pyu urban and Buddhist traditions formed part of the earlier regional history preceding Bagan"
+      "from": "ai",
+      "to": "internet",
+      "label": "Networked infrastructure supports large-scale data exchange and remote AI services"
     },
     {
-      "from": "atlas_batch007_bagan_civilization",
-      "to": "buddhism",
-      "label": "Bagan's monumental landscape reflects the central role of Buddhist patronage and practice"
+      "from": "climate",
+      "to": "agriculture",
+      "label": "Temperature, rainfall and extreme events influence crop suitability and food production"
     },
     {
-      "from": "atlas_batch007_ayutthaya_kingdom",
-      "to": "atlas_batch007_malacca_sultanate",
-      "label": "Both states were important nodes in the diplomatic and commercial networks of early modern Southeast Asia"
+      "from": "agriculture",
+      "to": "climate",
+      "label": "Agriculture both experiences climate impacts and contributes greenhouse-gas emissions"
     },
     {
-      "from": "atlas_batch007_ayutthaya_kingdom",
-      "to": "atlas_batch007_maritime_sea_trade",
-      "label": "Ayutthaya's river routes connected its capital to maritime commerce and foreign trading communities"
+      "from": "agriculture",
+      "to": "mesopotamia",
+      "label": "Food production and irrigation supported the growth of settlements in ancient Mesopotamia"
     },
     {
-      "from": "atlas_batch007_malacca_sultanate",
-      "to": "atlas_batch007_maritime_sea_trade",
-      "label": "The sultanate's port occupied a strategic chokepoint in regional maritime trade"
+      "from": "agriculture",
+      "to": "indus",
+      "label": "Agricultural systems supported large settlements across the Indus region"
     },
     {
-      "from": "atlas_batch007_malacca_sultanate",
-      "to": "silkroad",
-      "label": "Melaka linked Indian Ocean and East Asian exchange routes often grouped within maritime Silk Roads"
+      "from": "evolution",
+      "to": "dna",
+      "label": "Genetic inheritance provides a molecular mechanism through which evolutionary change occurs"
     },
     {
-      "from": "atlas_batch007_borobudur",
-      "to": "buddhism",
-      "label": "Borobudur is a major monument of Buddhist architecture and pilgrimage in Java"
+      "from": "dna",
+      "to": "vaccines",
+      "label": "Genetic information is central to several vaccine platforms and to pathogen surveillance"
     },
     {
-      "from": "atlas_batch007_borobudur",
-      "to": "atlas_batch007_majapahit",
-      "label": "Both monuments and polities belong to the longer history of Javanese political and artistic traditions"
+      "from": "evolution",
+      "to": "vaccines",
+      "label": "Evolutionary change in pathogens helps explain the emergence of variants and the need for ongoing surveillance"
     },
     {
-      "from": "atlas_batch007_sukhothai_kingdom",
-      "to": "buddhism",
-      "label": "Buddhist monasteries and artistic traditions were central to Sukhothai's cultural landscape"
+      "from": "globalization",
+      "to": "internet",
+      "label": "Digital networks accelerate cross-border communication, services and exchange"
     },
     {
-      "from": "atlas_batch007_sukhothai_kingdom",
-      "to": "architecture",
-      "label": "Sukhothai developed a distinctive architectural and sculptural style documented in its historic towns"
+      "from": "satellite",
+      "to": "internet",
+      "label": "Satellite links can extend Internet connectivity to remote and underserved regions"
     },
     {
-      "from": "atlas_batch007_pyu_cities",
-      "to": "atlas_batch007_bagan_civilization",
-      "label": "Pyu urban centres preceded Bagan and contributed to the longer history of Buddhist urbanism in Myanmar"
-    },
-    {
-      "from": "atlas_batch007_pyu_cities",
-      "to": "atlas_batch007_angkor_water_management",
-      "label": "Both regions provide evidence of sophisticated premodern water management in mainland Southeast Asia"
-    },
-    {
-      "from": "atlas_batch007_polynesian_wayfinding",
-      "to": "oceancurrents",
-      "label": "Navigators interpreted ocean currents alongside winds, stars and other environmental signs"
-    },
-    {
-      "from": "atlas_batch007_polynesian_wayfinding",
+      "from": "satellite",
       "to": "navigation",
-      "label": "Traditional wayfinding and satellite navigation represent different knowledge systems for determining position and direction"
+      "label": "Satellite systems provide signals used by global navigation satellite systems"
     },
     {
-      "from": "atlas_batch007_lapita",
-      "to": "atlas_batch007_polynesian_wayfinding",
-      "label": "Lapita-era movements form part of the longer settlement history that preceded later Polynesian voyaging"
+      "from": "navigation",
+      "to": "smartphone",
+      "label": "Phones combine satellite positioning with maps, sensors and network data"
     },
     {
-      "from": "atlas_batch007_lapita",
-      "to": "migration",
-      "label": "The archaeological distribution of Lapita sites is important evidence in the study of Pacific population movements"
+      "from": "climate",
+      "to": "electricity",
+      "label": "Electricity generation choices strongly influence energy-related greenhouse-gas emissions"
     },
     {
-      "from": "atlas_batch007_rapa_nui",
-      "to": "atlas_batch007_polynesian_wayfinding",
-      "label": "Rapa Nui's settlement history belongs to the wider story of Polynesian ocean voyaging"
+      "from": "electricity",
+      "to": "computer",
+      "label": "Electronic computers depend on controlled electrical power and switching"
     },
     {
-      "from": "atlas_batch007_rapa_nui",
-      "to": "atlas_batch007_taputapuatea",
-      "label": "Both sites illuminate cultural histories and ancestral connections across Polynesia"
+      "from": "writing",
+      "to": "mesopotamia",
+      "label": "Some of the earliest known writing systems developed in ancient Mesopotamian cities"
     },
     {
-      "from": "atlas_batch007_taputapuatea",
-      "to": "atlas_batch007_polynesian_wayfinding",
-      "label": "The site preserves cultural associations with voyaging and navigation across the Polynesian world"
+      "from": "paper",
+      "to": "silkroad",
+      "label": "Papermaking knowledge travelled across Eurasian networks over many centuries"
     },
     {
-      "from": "atlas_batch007_taputapuatea",
-      "to": "atlas_batch007_maori_settlement",
-      "label": "Shared Polynesian heritage connects Raiatea and Aotearoa through migration, language and ancestral traditions"
+      "from": "ai",
+      "to": "semiconductor",
+      "label": "AI computation depends on processors built from semiconductor materials"
     },
     {
-      "from": "atlas_batch007_maritime_sea_trade",
-      "to": "monsoon",
-      "label": "Seasonal monsoon winds shaped the timing of voyages and the circulation of goods across regional seas"
-    },
-    {
-      "from": "atlas_batch007_maritime_sea_trade",
-      "to": "atlas_maritime_history_maritime_trade",
-      "label": "The subject expands the wider study of maritime trade through Southeast Asian ports and routes"
-    },
-    {
-      "from": "atlas_batch007_maori_settlement",
-      "to": "migration",
-      "label": "The settlement of Aotearoa is a major case study in long-distance human migration"
-    },
-    {
-      "from": "atlas_batch007_maori_settlement",
-      "to": "atlas_batch007_polynesian_wayfinding",
-      "label": "Voyaging knowledge made deliberate settlement across the Pacific possible"
+      "from": "climate",
+      "to": "globalization",
+      "label": "Climate risks and responses cross national borders through trade, migration and policy"
     }
   ],
   "sources": [
     {
-      "id": "src-2011",
-      "title": "Lost Kingdoms: Hindu-Buddhist Sculpture of Early Southeast Asia",
-      "publisher": "The Metropolitan Museum of Art",
-      "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Lost_Kingdoms_Hindu_Buddhist_Sculpture_of_Early_Southeast_Asia.pdf",
+      "id": "src-2001",
+      "title": "A Brief History of the Internet",
+      "publisher": "Internet Society",
+      "url": "https://www.internetsociety.org/internet/history-internet/brief-history-internet/",
       "roles": [
-        "Specialist research reference and further reading"
+        "Research reference and further reading"
       ],
       "topicIds": [
-        "atlas_batch007_srivijaya",
-        "atlas_batch007_champa",
-        "atlas_batch007_funan",
-        "atlas_batch007_malacca_sultanate",
-        "atlas_batch007_maritime_sea_trade"
+        "internet"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-2002",
+      "title": "Internet History",
+      "publisher": "Internet Hall of Fame",
+      "url": "https://www.internethalloffame.org/internet-history/",
+      "roles": [
+        "Research reference and further reading"
+      ],
+      "topicIds": [
+        "internet"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-2003",
+      "title": "The Birth of the Web",
+      "publisher": "CERN",
+      "url": "https://home.cern/science/computing/birth-web",
+      "roles": [
+        "Research reference and further reading"
+      ],
+      "topicIds": [
+        "www"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-2004",
+      "title": "The World Wide Web and its History",
+      "publisher": "World Wide Web Consortium",
+      "url": "https://www.w3.org/History.html",
+      "roles": [
+        "Research reference and further reading"
+      ],
+      "topicIds": [
+        "www"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-2005",
+      "title": "RFC 791: Internet Protocol",
+      "publisher": "RFC Editor",
+      "url": "https://www.rfc-editor.org/rfc/rfc791",
+      "roles": [
+        "Technical standard and primary specification"
+      ],
+      "topicIds": [
+        "internetprotocol"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-2006",
+      "title": "RFC 9293: Transmission Control Protocol",
+      "publisher": "RFC Editor",
+      "url": "https://www.rfc-editor.org/rfc/rfc9293",
+      "roles": [
+        "Technical standard and primary specification"
+      ],
+      "topicIds": [
+        "internetprotocol"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-2007",
+      "title": "Artificial Intelligence Risk Management Framework (AI RMF 1.0)",
+      "publisher": "National Institute of Standards and Technology",
+      "url": "https://www.nist.gov/itl/ai-risk-management-framework",
+      "roles": [
+        "Research reference and further reading"
+      ],
+      "topicIds": [
+        "ai"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-2008",
+      "title": "OECD AI Principles",
+      "publisher": "Organisation for Economic Co-operation and Development",
+      "url": "https://oecd.ai/en/ai-principles",
+      "roles": [
+        "Research reference and further reading"
+      ],
+      "topicIds": [
+        "ai"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-2009",
+      "title": "Semiconductor Manufacturing",
+      "publisher": "National Institute of Standards and Technology",
+      "url": "https://www.nist.gov/semiconductors",
+      "roles": [
+        "Research reference and further reading"
+      ],
+      "topicIds": [
+        "semiconductor"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-2010",
+      "title": "The Nobel Prize in Physics 1956: Transistor",
+      "publisher": "Nobel Prize",
+      "url": "https://www.nobelprize.org/prizes/physics/1956/summary/",
+      "roles": [
+        "Historical reference and further reading"
+      ],
+      "topicIds": [
+        "semiconductor"
+      ],
+      "sourceClass": "institutional"
+    },
+    {
+      "id": "src-2011",
+      "title": "Climate Change: Evidence",
+      "publisher": "NASA Science",
+      "url": "https://science.nasa.gov/climate-change/evidence/",
+      "roles": [
+        "Research reference and further reading"
+      ],
+      "topicIds": [
+        "climate"
       ],
       "sourceClass": "institutional"
     },
     {
       "id": "src-2012",
-      "title": "Southeast Asia, 1000–1400 A.D.",
-      "publisher": "The Metropolitan Museum of Art",
-      "url": "https://www.metmuseum.org/toah/ht/07/sse.html",
+      "title": "Climate Change 2023: Synthesis Report",
+      "publisher": "Intergovernmental Panel on Climate Change",
+      "url": "https://www.ipcc.ch/report/ar6/syr/",
       "roles": [
-        "Specialist chronology and further reading"
+        "Assessment report and further reading"
       ],
       "topicIds": [
-        "atlas_batch007_srivijaya",
-        "atlas_batch007_majapahit",
-        "atlas_batch007_ayutthaya_kingdom",
-        "atlas_batch007_sukhothai_kingdom"
+        "climate"
       ],
       "sourceClass": "institutional"
     },
     {
       "id": "src-2013",
-      "title": "Power in Southeast Asia",
-      "publisher": "Smithsonian National Museum of Asian Art",
-      "url": "https://asia.si.edu/whats-on/exhibitions/power-in-southeast-asia/",
+      "title": "The State of Food and Agriculture",
+      "publisher": "Food and Agriculture Organization of the United Nations",
+      "url": "https://www.fao.org/publications/sofa/en/",
       "roles": [
-        "Museum research reference and further reading"
+        "Research reference and further reading"
       ],
       "topicIds": [
-        "atlas_batch007_majapahit",
-        "atlas_batch007_khmer_empire",
-        "atlas_batch007_funan",
-        "atlas_batch007_bagan_civilization",
-        "atlas_batch007_borobudur",
-        "atlas_batch007_maritime_sea_trade"
+        "agriculture"
       ],
       "sourceClass": "institutional"
     },
     {
       "id": "src-2014",
-      "title": "Angkor",
-      "publisher": "UNESCO World Heritage Centre",
-      "url": "https://whc.unesco.org/en/list/668",
+      "title": "The State of the World's Land and Water Resources for Food and Agriculture",
+      "publisher": "Food and Agriculture Organization of the United Nations",
+      "url": "https://www.fao.org/land-water/solaw2021/en/",
       "roles": [
-        "World Heritage documentation and further reading"
+        "Research reference and further reading"
       ],
       "topicIds": [
-        "atlas_batch007_khmer_empire",
-        "atlas_batch007_angkor_water_management"
+        "agriculture"
       ],
       "sourceClass": "institutional"
     },
     {
       "id": "src-2015",
-      "title": "Pyu Ancient Cities",
-      "publisher": "UNESCO World Heritage Centre",
-      "url": "https://whc.unesco.org/en/list/1444",
+      "title": "Evolution Resources",
+      "publisher": "National Academy of Sciences",
+      "url": "https://www.nationalacademies.org/evolution",
       "roles": [
-        "World Heritage documentation and further reading"
+        "Research reference and further reading"
       ],
       "topicIds": [
-        "atlas_batch007_pyu_cities",
-        "atlas_batch007_angkor_water_management"
+        "evolution"
       ],
       "sourceClass": "institutional"
     },
     {
       "id": "src-2016",
-      "title": "Ceramics in Mainland Southeast Asia: Cham Kingdoms",
-      "publisher": "Smithsonian National Museum of Asian Art",
-      "url": "https://publications.asia.si.edu/seaceramics/place/location.php?group=21",
+      "title": "Understanding Evolution",
+      "publisher": "University of California Museum of Paleontology",
+      "url": "https://evolution.berkeley.edu/",
       "roles": [
-        "Museum collection research and further reading"
+        "Academic and educational reference"
       ],
       "topicIds": [
-        "atlas_batch007_champa"
+        "evolution"
       ],
-      "sourceClass": "institutional"
+      "sourceClass": "academic"
     },
     {
       "id": "src-2017",
-      "title": "Bagan",
-      "publisher": "UNESCO World Heritage Centre",
-      "url": "https://whc.unesco.org/en/list/1588/",
+      "title": "Deoxyribonucleic Acid (DNA) Fact Sheet",
+      "publisher": "National Human Genome Research Institute",
+      "url": "https://www.genome.gov/about-genomics/fact-sheets/Deoxyribonucleic-Acid-Fact-Sheet",
       "roles": [
-        "World Heritage documentation and further reading"
+        "Research reference and further reading"
       ],
       "topicIds": [
-        "atlas_batch007_bagan_civilization"
+        "dna"
       ],
       "sourceClass": "institutional"
     },
     {
       "id": "src-2018",
-      "title": "Historic City of Ayutthaya",
-      "publisher": "UNESCO World Heritage Centre",
-      "url": "https://whc.unesco.org/en/list/576",
+      "title": "DNA, Genes and Genomes",
+      "publisher": "European Bioinformatics Institute",
+      "url": "https://www.ebi.ac.uk/training/online/courses/your-genome/",
       "roles": [
-        "World Heritage documentation and further reading"
+        "Academic and educational reference"
       ],
       "topicIds": [
-        "atlas_batch007_ayutthaya_kingdom"
+        "dna"
       ],
-      "sourceClass": "institutional"
+      "sourceClass": "academic"
     },
     {
       "id": "src-2019",
-      "title": "Melaka and George Town, Historic Cities of the Straits of Malacca",
-      "publisher": "UNESCO World Heritage Centre",
-      "url": "https://whc.unesco.org/en/list/1223",
+      "title": "The Origins of Writing",
+      "publisher": "The British Museum",
+      "url": "https://www.britishmuseum.org/blog/origins-writing",
       "roles": [
-        "World Heritage documentation and further reading"
+        "Research reference and further reading"
       ],
       "topicIds": [
-        "atlas_batch007_malacca_sultanate",
-        "atlas_batch007_maritime_sea_trade"
+        "writing"
       ],
       "sourceClass": "institutional"
     },
     {
       "id": "src-2020",
-      "title": "Borobudur Temple Compounds",
-      "publisher": "UNESCO World Heritage Centre",
-      "url": "https://whc.unesco.org/en/list/592",
+      "title": "Cuneiform",
+      "publisher": "The Metropolitan Museum of Art",
+      "url": "https://www.metmuseum.org/essays/cuneiform",
       "roles": [
-        "World Heritage documentation and further reading"
+        "Research reference and further reading"
       ],
       "topicIds": [
-        "atlas_batch007_borobudur"
+        "writing"
       ],
       "sourceClass": "institutional"
     },
     {
       "id": "src-2021",
-      "title": "Historic Town of Sukhothai and Associated Historic Towns",
-      "publisher": "UNESCO World Heritage Centre",
-      "url": "https://whc.unesco.org/en/list/574/",
+      "title": "The Invention of Paper",
+      "publisher": "The Library of Congress",
+      "url": "https://www.loc.gov/exhibits/world/world-record.html",
       "roles": [
-        "World Heritage documentation and further reading"
+        "Research reference and further reading"
       ],
       "topicIds": [
-        "atlas_batch007_sukhothai_kingdom"
+        "paper"
       ],
       "sourceClass": "institutional"
     },
     {
       "id": "src-2022",
-      "title": "Pyu Ancient Cities: Advisory Body Evaluation",
-      "publisher": "UNESCO World Heritage Centre",
-      "url": "https://whc.unesco.org/document/152694",
+      "title": "Paper",
+      "publisher": "The Metropolitan Museum of Art",
+      "url": "https://www.metmuseum.org/toah/hd/papr/hd_papr.htm",
       "roles": [
-        "Archaeological and World Heritage documentation"
+        "Research reference and further reading"
       ],
       "topicIds": [
-        "atlas_batch007_pyu_cities"
-      ],
-      "sourceClass": "institutional"
-    },
-    {
-      "id": "src-2023",
-      "title": "Taputapuātea",
-      "publisher": "UNESCO World Heritage Centre",
-      "url": "https://whc.unesco.org/en/list/1529/",
-      "roles": [
-        "World Heritage documentation and further reading"
-      ],
-      "topicIds": [
-        "atlas_batch007_taputapuatea",
-        "atlas_batch007_polynesian_wayfinding",
-        "atlas_batch007_rapa_nui"
-      ],
-      "sourceClass": "institutional"
-    },
-    {
-      "id": "src-2024",
-      "title": "Rapa Nui National Park",
-      "publisher": "UNESCO World Heritage Centre",
-      "url": "https://whc.unesco.org/en/list/715/",
-      "roles": [
-        "World Heritage documentation and further reading"
-      ],
-      "topicIds": [
-        "atlas_batch007_rapa_nui"
-      ],
-      "sourceClass": "institutional"
-    },
-    {
-      "id": "src-2025",
-      "title": "Māori Arrival and Settlement",
-      "publisher": "Te Ara: The Encyclopedia of New Zealand",
-      "url": "https://teara.govt.nz/en/history/page-1",
-      "roles": [
-        "Government-supported historical reference and further reading"
-      ],
-      "topicIds": [
-        "atlas_batch007_maori_settlement",
-        "atlas_batch007_polynesian_wayfinding",
-        "atlas_batch007_taputapuatea"
-      ],
-      "sourceClass": "institutional"
-    },
-    {
-      "id": "src-2026",
-      "title": "The Direction and Timing of Settlement",
-      "publisher": "Te Ara: The Encyclopedia of New Zealand",
-      "url": "https://teara.govt.nz/en/map/1772/the-direction-and-timing-of-settlement",
-      "roles": [
-        "Government-supported historical reference and further reading"
-      ],
-      "topicIds": [
-        "atlas_batch007_lapita",
-        "atlas_batch007_maori_settlement"
-      ],
-      "sourceClass": "institutional"
-    },
-    {
-      "id": "src-2027",
-      "title": "Cultural Landscapes of the Pacific Islands",
-      "publisher": "UNESCO World Heritage Centre",
-      "url": "https://whc.unesco.org/document/10060",
-      "roles": [
-        "Regional heritage research and further reading"
-      ],
-      "topicIds": [
-        "atlas_batch007_lapita",
-        "atlas_batch007_polynesian_wayfinding"
+        "paper"
       ],
       "sourceClass": "institutional"
     }
   ],
   "claims": [
     {
-      "id": "clm-289",
-      "subjectId": "atlas_batch007_srivijaya",
-      "claim": "Srivijaya's influence depended on maritime routes and port relationships around the Strait of Malacca, rather than on a single continuous land empire.",
+      "id": "clm-1001",
+      "subjectId": "internet",
+      "claim": "The Internet is a network of interconnected networks that use common protocol suites to exchange data; it is not synonymous with the World Wide Web.",
+      "sourceIds": [
+        "src-2001",
+        "src-2002"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28",
+      "researchBatch": "batch-007"
+    },
+    {
+      "id": "clm-1002",
+      "subjectId": "internet",
+      "claim": "The Internet developed through research and operational networks over several decades, with packet switching and the adoption of TCP/IP among its important foundations.",
+      "sourceIds": [
+        "src-2001",
+        "src-2002"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28",
+      "researchBatch": "batch-007"
+    },
+    {
+      "id": "clm-1003",
+      "subjectId": "www",
+      "claim": "Tim Berners-Lee proposed the World Wide Web at CERN in 1989; its early implementation combined hypertext with network protocols and browser-server software.",
+      "sourceIds": [
+        "src-2003",
+        "src-2004"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28",
+      "researchBatch": "batch-007"
+    },
+    {
+      "id": "clm-1004",
+      "subjectId": "www",
+      "claim": "The Web is an application and information system that operates over the Internet, rather than another name for the underlying global network.",
+      "sourceIds": [
+        "src-2003",
+        "src-2004"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28",
+      "researchBatch": "batch-007"
+    },
+    {
+      "id": "clm-1005",
+      "subjectId": "internetprotocol",
+      "claim": "Internet Protocol provides logical addressing and forwarding of datagrams between networks; it does not by itself guarantee reliable delivery.",
+      "sourceIds": [
+        "src-2005",
+        "src-2006"
+      ],
+      "claimType": "technical-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28",
+      "researchBatch": "batch-007"
+    },
+    {
+      "id": "clm-1006",
+      "subjectId": "internetprotocol",
+      "claim": "TCP provides a reliable, ordered byte-stream service, while IP handles packet addressing and routing across interconnected networks.",
+      "sourceIds": [
+        "src-2005",
+        "src-2006"
+      ],
+      "claimType": "technical-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28",
+      "researchBatch": "batch-007"
+    },
+    {
+      "id": "clm-1007",
+      "subjectId": "ai",
+      "claim": "The NIST AI Risk Management Framework organises risk-management guidance around governing, mapping, measuring and managing AI-related risks.",
+      "sourceIds": [
+        "src-2007",
+        "src-2008"
+      ],
+      "claimType": "technical-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28",
+      "researchBatch": "batch-007"
+    },
+    {
+      "id": "clm-1008",
+      "subjectId": "ai",
+      "claim": "Responsible AI principles commonly address human rights, transparency, robustness, accountability and human-centred values, though frameworks differ in scope and legal force.",
+      "sourceIds": [
+        "src-2007",
+        "src-2008"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28",
+      "researchBatch": "batch-007"
+    },
+    {
+      "id": "clm-1009",
+      "subjectId": "semiconductor",
+      "claim": "Semiconductor materials have electrical properties that can be controlled, making them foundational to transistors, integrated circuits and modern electronic systems.",
+      "sourceIds": [
+        "src-2009",
+        "src-2010"
+      ],
+      "claimType": "technical-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28",
+      "researchBatch": "batch-007"
+    },
+    {
+      "id": "clm-1010",
+      "subjectId": "semiconductor",
+      "claim": "The transistor effect was demonstrated in 1947 at Bell Laboratories, helping initiate the development of modern solid-state electronics.",
+      "sourceIds": [
+        "src-2009",
+        "src-2010"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28",
+      "researchBatch": "batch-007"
+    },
+    {
+      "id": "clm-1011",
+      "subjectId": "climate",
+      "claim": "Multiple independent lines of evidence, including instrumental records, ocean heat measurements, ice loss and observed ecological changes, show that Earth's climate is warming.",
       "sourceIds": [
         "src-2011",
         "src-2012"
       ],
-      "claimType": "historical-or-conceptual",
+      "claimType": "scientific-conceptual",
       "reviewStatus": "editorial-review-pending",
       "researchedOn": "2026-11-28",
       "researchBatch": "batch-007"
     },
     {
-      "id": "clm-290",
-      "subjectId": "atlas_batch007_srivijaya",
-      "claim": "Inscriptions and external accounts are central to reconstructing Srivijaya, and the location and reach of its political centres changed over time.",
+      "id": "clm-1012",
+      "subjectId": "climate",
+      "claim": "The IPCC assesses climate science, impacts, adaptation and mitigation by synthesising published research; its assessment reports distinguish evidence strength and uncertainty.",
       "sourceIds": [
         "src-2011",
         "src-2012"
       ],
-      "claimType": "historical-or-conceptual",
+      "claimType": "scientific-conceptual",
       "reviewStatus": "editorial-review-pending",
       "researchedOn": "2026-11-28",
       "researchBatch": "batch-007"
     },
     {
-      "id": "clm-291",
-      "subjectId": "atlas_batch007_majapahit",
-      "claim": "Majapahit became a major political power in Java after its establishment in 1293, with its influence extending through changing alliances and maritime relationships.",
+      "id": "clm-1013",
+      "subjectId": "agriculture",
+      "claim": "Agricultural production depends on interacting factors that include soil condition, water availability, climate, biodiversity, infrastructure and management choices.",
       "sourceIds": [
-        "src-2012",
-        "src-2013"
+        "src-2013",
+        "src-2014"
       ],
-      "claimType": "historical-or-conceptual",
+      "claimType": "scientific-conceptual",
       "reviewStatus": "editorial-review-pending",
       "researchedOn": "2026-11-28",
       "researchBatch": "batch-007"
     },
     {
-      "id": "clm-292",
-      "subjectId": "atlas_batch007_majapahit",
-      "claim": "The extent of Majapahit's authority across the archipelago is debated; claims of uniform territorial control should be treated cautiously.",
+      "id": "clm-1014",
+      "subjectId": "agriculture",
+      "claim": "Land degradation and unsustainable water use can undermine food production, while land and water management can improve resilience when adapted to local conditions.",
       "sourceIds": [
-        "src-2012",
-        "src-2013"
+        "src-2013",
+        "src-2014"
       ],
-      "claimType": "historical-or-conceptual",
+      "claimType": "scientific-conceptual",
       "reviewStatus": "editorial-review-pending",
       "researchedOn": "2026-11-28",
       "researchBatch": "batch-007"
     },
     {
-      "id": "clm-293",
-      "subjectId": "atlas_batch007_khmer_empire",
-      "claim": "Angkor was a major political and ceremonial centre within the long history of the Khmer Empire, with monuments and urban remains documenting several phases of development.",
-      "sourceIds": [
-        "src-2014",
-        "src-2013"
-      ],
-      "claimType": "historical-or-conceptual",
-      "reviewStatus": "editorial-review-pending",
-      "researchedOn": "2026-11-28",
-      "researchBatch": "batch-007"
-    },
-    {
-      "id": "clm-294",
-      "subjectId": "atlas_batch007_khmer_empire",
-      "claim": "Khmer rulers and communities shaped a regional cultural landscape through temple building, water infrastructure and exchanges with neighbouring societies.",
-      "sourceIds": [
-        "src-2014",
-        "src-2013"
-      ],
-      "claimType": "historical-or-conceptual",
-      "reviewStatus": "editorial-review-pending",
-      "researchedOn": "2026-11-28",
-      "researchBatch": "batch-007"
-    },
-    {
-      "id": "clm-295",
-      "subjectId": "atlas_batch007_angkor_water_management",
-      "claim": "Angkor's hydraulic landscape includes reservoirs, canals and embankments that connected water management with settlement and agriculture.",
-      "sourceIds": [
-        "src-2014",
-        "src-2015"
-      ],
-      "claimType": "historical-or-conceptual",
-      "reviewStatus": "editorial-review-pending",
-      "researchedOn": "2026-11-28",
-      "researchBatch": "batch-007"
-    },
-    {
-      "id": "clm-296",
-      "subjectId": "atlas_batch007_angkor_water_management",
-      "claim": "The Angkorian water system changed over time, and current scholarship does not support treating it as one static or perfectly centralised design.",
-      "sourceIds": [
-        "src-2014",
-        "src-2015"
-      ],
-      "claimType": "historical-or-conceptual",
-      "reviewStatus": "editorial-review-pending",
-      "researchedOn": "2026-11-28",
-      "researchBatch": "batch-007"
-    },
-    {
-      "id": "clm-297",
-      "subjectId": "atlas_batch007_champa",
-      "claim": "Cham polities along the central Vietnamese coast participated in maritime trade and maintained artistic and political traditions distinct from neighbouring states.",
-      "sourceIds": [
-        "src-2016",
-        "src-2011"
-      ],
-      "claimType": "historical-or-conceptual",
-      "reviewStatus": "editorial-review-pending",
-      "researchedOn": "2026-11-28",
-      "researchBatch": "batch-007"
-    },
-    {
-      "id": "clm-298",
-      "subjectId": "atlas_batch007_champa",
-      "claim": "The history of Champa is reconstructed from inscriptions, archaeology and external records, and its political geography changed across many centuries.",
-      "sourceIds": [
-        "src-2016",
-        "src-2011"
-      ],
-      "claimType": "historical-or-conceptual",
-      "reviewStatus": "editorial-review-pending",
-      "researchedOn": "2026-11-28",
-      "researchBatch": "batch-007"
-    },
-    {
-      "id": "clm-299",
-      "subjectId": "atlas_batch007_funan",
-      "claim": "Archaeological evidence from sites such as Óc Eo indicates that early Mekong-region communities participated in long-distance exchange linking South and East Asia.",
-      "sourceIds": [
-        "src-2011",
-        "src-2013"
-      ],
-      "claimType": "historical-or-conceptual",
-      "reviewStatus": "editorial-review-pending",
-      "researchedOn": "2026-11-28",
-      "researchBatch": "batch-007"
-    },
-    {
-      "id": "clm-300",
-      "subjectId": "atlas_batch007_funan",
-      "claim": "Funan is a historical label derived largely from external texts, so its territorial extent and political organisation remain uncertain.",
-      "sourceIds": [
-        "src-2011",
-        "src-2013"
-      ],
-      "claimType": "historical-or-conceptual",
-      "reviewStatus": "editorial-review-pending",
-      "researchedOn": "2026-11-28",
-      "researchBatch": "batch-007"
-    },
-    {
-      "id": "clm-301",
-      "subjectId": "atlas_batch007_bagan_civilization",
-      "claim": "Bagan became a major centre of Buddhist art and architecture during the eleventh to thirteenth centuries, leaving a large and varied monument landscape.",
-      "sourceIds": [
-        "src-2017",
-        "src-2013"
-      ],
-      "claimType": "historical-or-conceptual",
-      "reviewStatus": "editorial-review-pending",
-      "researchedOn": "2026-11-28",
-      "researchBatch": "batch-007"
-    },
-    {
-      "id": "clm-302",
-      "subjectId": "atlas_batch007_bagan_civilization",
-      "claim": "River transport, religious patronage and regional exchange were important to Bagan's development as a political and sacred centre.",
-      "sourceIds": [
-        "src-2017",
-        "src-2013"
-      ],
-      "claimType": "historical-or-conceptual",
-      "reviewStatus": "editorial-review-pending",
-      "researchedOn": "2026-11-28",
-      "researchBatch": "batch-007"
-    },
-    {
-      "id": "clm-303",
-      "subjectId": "atlas_batch007_ayutthaya_kingdom",
-      "claim": "Ayutthaya's riverine location connected its capital to maritime commerce and helped shape its role as a diplomatic and trading centre.",
-      "sourceIds": [
-        "src-2018",
-        "src-2012"
-      ],
-      "claimType": "historical-or-conceptual",
-      "reviewStatus": "editorial-review-pending",
-      "researchedOn": "2026-11-28",
-      "researchBatch": "batch-007"
-    },
-    {
-      "id": "clm-304",
-      "subjectId": "atlas_batch007_ayutthaya_kingdom",
-      "claim": "The capital was destroyed in 1767, and its surviving urban layout, temples and waterworks provide evidence for its earlier scale and organisation.",
-      "sourceIds": [
-        "src-2018",
-        "src-2012"
-      ],
-      "claimType": "historical-or-conceptual",
-      "reviewStatus": "editorial-review-pending",
-      "researchedOn": "2026-11-28",
-      "researchBatch": "batch-007"
-    },
-    {
-      "id": "clm-305",
-      "subjectId": "atlas_batch007_malacca_sultanate",
-      "claim": "The Malacca port occupied a strategic position on the sea route between the Indian Ocean and South China Sea, attracting merchants from multiple regions.",
-      "sourceIds": [
-        "src-2019",
-        "src-2011"
-      ],
-      "claimType": "historical-or-conceptual",
-      "reviewStatus": "editorial-review-pending",
-      "researchedOn": "2026-11-28",
-      "researchBatch": "batch-007"
-    },
-    {
-      "id": "clm-306",
-      "subjectId": "atlas_batch007_malacca_sultanate",
-      "claim": "The later history of Melaka reflects successive Malay, Portuguese, Dutch and other influences arising from centuries of trade and cultural exchange.",
-      "sourceIds": [
-        "src-2019",
-        "src-2011"
-      ],
-      "claimType": "historical-or-conceptual",
-      "reviewStatus": "editorial-review-pending",
-      "researchedOn": "2026-11-28",
-      "researchBatch": "batch-007"
-    },
-    {
-      "id": "clm-307",
-      "subjectId": "atlas_batch007_borobudur",
-      "claim": "Borobudur was built in central Java in the eighth and ninth centuries and combines a monumental stupa with terraces, reliefs and sculptural programmes.",
-      "sourceIds": [
-        "src-2020",
-        "src-2013"
-      ],
-      "claimType": "historical-or-conceptual",
-      "reviewStatus": "editorial-review-pending",
-      "researchedOn": "2026-11-28",
-      "researchBatch": "batch-007"
-    },
-    {
-      "id": "clm-308",
-      "subjectId": "atlas_batch007_borobudur",
-      "claim": "Borobudur's architecture provides evidence of Buddhist practice and the artistic and political culture of early medieval Java.",
-      "sourceIds": [
-        "src-2020",
-        "src-2013"
-      ],
-      "claimType": "historical-or-conceptual",
-      "reviewStatus": "editorial-review-pending",
-      "researchedOn": "2026-11-28",
-      "researchBatch": "batch-007"
-    },
-    {
-      "id": "clm-309",
-      "subjectId": "atlas_batch007_sukhothai_kingdom",
-      "claim": "The historic towns associated with Sukhothai shared roads and water infrastructure that linked political, religious and commercial functions.",
-      "sourceIds": [
-        "src-2021",
-        "src-2012"
-      ],
-      "claimType": "historical-or-conceptual",
-      "reviewStatus": "editorial-review-pending",
-      "researchedOn": "2026-11-28",
-      "researchBatch": "batch-007"
-    },
-    {
-      "id": "clm-310",
-      "subjectId": "atlas_batch007_sukhothai_kingdom",
-      "claim": "Sukhothai's monuments and inscriptions document an important period in the development of Siamese art, writing and political institutions.",
-      "sourceIds": [
-        "src-2021",
-        "src-2012"
-      ],
-      "claimType": "historical-or-conceptual",
-      "reviewStatus": "editorial-review-pending",
-      "researchedOn": "2026-11-28",
-      "researchBatch": "batch-007"
-    },
-    {
-      "id": "clm-311",
-      "subjectId": "atlas_batch007_pyu_cities",
-      "claim": "The Pyu cities combined walled urban layouts, Buddhist monuments, production sites and irrigation features in the Ayeyarwady basin.",
+      "id": "clm-1015",
+      "subjectId": "evolution",
+      "claim": "Evolution describes changes in heritable characteristics of populations across generations; natural selection is one mechanism, alongside mutation, gene flow and genetic drift.",
       "sourceIds": [
         "src-2015",
+        "src-2016"
+      ],
+      "claimType": "scientific-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28",
+      "researchBatch": "batch-007"
+    },
+    {
+      "id": "clm-1016",
+      "subjectId": "evolution",
+      "claim": "Evidence for evolution comes from multiple fields, including fossils, comparative anatomy, biogeography, observed evolutionary change and molecular genetics.",
+      "sourceIds": [
+        "src-2015",
+        "src-2016"
+      ],
+      "claimType": "scientific-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28",
+      "researchBatch": "batch-007"
+    },
+    {
+      "id": "clm-1017",
+      "subjectId": "dna",
+      "claim": "DNA stores hereditary information in a sequence of nucleotide bases, with complementary base pairing supporting replication and many forms of molecular information processing.",
+      "sourceIds": [
+        "src-2017",
+        "src-2018"
+      ],
+      "claimType": "scientific-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28",
+      "researchBatch": "batch-007"
+    },
+    {
+      "id": "clm-1018",
+      "subjectId": "dna",
+      "claim": "Genes are regions of DNA that contribute to functional products, but not all DNA is protein-coding and gene regulation is essential to biological function.",
+      "sourceIds": [
+        "src-2017",
+        "src-2018"
+      ],
+      "claimType": "scientific-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28",
+      "researchBatch": "batch-007"
+    },
+    {
+      "id": "clm-1019",
+      "subjectId": "writing",
+      "claim": "Some of the earliest known writing systems emerged in ancient Mesopotamia near the end of the fourth millennium BCE, in contexts that included administration and accounting.",
+      "sourceIds": [
+        "src-2019",
+        "src-2020"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28",
+      "researchBatch": "batch-007"
+    },
+    {
+      "id": "clm-1020",
+      "subjectId": "writing",
+      "claim": "Writing developed in more than one region of the world; the histories of scripts should not be reduced to a single universal invention story.",
+      "sourceIds": [
+        "src-2019",
+        "src-2020"
+      ],
+      "claimType": "historical-or-conceptual",
+      "reviewStatus": "editorial-review-pending",
+      "researchedOn": "2026-11-28",
+      "researchBatch": "batch-007"
+    },
+    {
+      "id": "clm-1021",
+      "subjectId": "paper",
+      "claim": "Paper-making developed in China in the early centuries CE and spread across regions through changing networks of craft knowledge, trade and political contact.",
+      "sourceIds": [
+        "src-2021",
         "src-2022"
       ],
       "claimType": "historical-or-conceptual",
@@ -966,168 +719,12 @@
       "researchBatch": "batch-007"
     },
     {
-      "id": "clm-312",
-      "subjectId": "atlas_batch007_pyu_cities",
-      "claim": "Archaeological evidence from the Pyu cities documents long-distance trade and early Buddhist urban communities in mainland Southeast Asia.",
+      "id": "clm-1022",
+      "subjectId": "paper",
+      "claim": "Paper's comparatively light and adaptable surface helped support the growth of administration, scholarship, book production and later print cultures across many societies.",
       "sourceIds": [
-        "src-2015",
+        "src-2021",
         "src-2022"
-      ],
-      "claimType": "historical-or-conceptual",
-      "reviewStatus": "editorial-review-pending",
-      "researchedOn": "2026-11-28",
-      "researchBatch": "batch-007"
-    },
-    {
-      "id": "clm-313",
-      "subjectId": "atlas_batch007_polynesian_wayfinding",
-      "claim": "Polynesian navigators used integrated observations of stars, winds, swells, currents, clouds and wildlife to travel across the Pacific.",
-      "sourceIds": [
-        "src-2023",
-        "src-2025"
-      ],
-      "claimType": "historical-or-conceptual",
-      "reviewStatus": "editorial-review-pending",
-      "researchedOn": "2026-11-28",
-      "researchBatch": "batch-007"
-    },
-    {
-      "id": "clm-314",
-      "subjectId": "atlas_batch007_polynesian_wayfinding",
-      "claim": "Wayfinding is a living knowledge tradition that is being taught and practised in contemporary voyaging, not merely a technique preserved in the distant past.",
-      "sourceIds": [
-        "src-2023",
-        "src-2025"
-      ],
-      "claimType": "historical-or-conceptual",
-      "reviewStatus": "editorial-review-pending",
-      "researchedOn": "2026-11-28",
-      "researchBatch": "batch-007"
-    },
-    {
-      "id": "clm-315",
-      "subjectId": "atlas_batch007_lapita",
-      "claim": "Lapita is identified archaeologically through distinctive pottery and settlement evidence distributed across parts of the western and central Pacific.",
-      "sourceIds": [
-        "src-2026",
-        "src-2027"
-      ],
-      "claimType": "historical-or-conceptual",
-      "reviewStatus": "editorial-review-pending",
-      "researchedOn": "2026-11-28",
-      "researchBatch": "batch-007"
-    },
-    {
-      "id": "clm-316",
-      "subjectId": "atlas_batch007_lapita",
-      "claim": "The origins and cultural relationships of Lapita communities remain subjects of research, and the archaeological label should not be equated with a single homogeneous ethnic group.",
-      "sourceIds": [
-        "src-2026",
-        "src-2027"
-      ],
-      "claimType": "historical-or-conceptual",
-      "reviewStatus": "editorial-review-pending",
-      "researchedOn": "2026-11-28",
-      "researchBatch": "batch-007"
-    },
-    {
-      "id": "clm-317",
-      "subjectId": "atlas_batch007_rapa_nui",
-      "claim": "Rapa Nui's archaeological landscape includes moai, ahu, settlements and evidence of agricultural and ceremonial activity.",
-      "sourceIds": [
-        "src-2024",
-        "src-2023"
-      ],
-      "claimType": "historical-or-conceptual",
-      "reviewStatus": "editorial-review-pending",
-      "researchedOn": "2026-11-28",
-      "researchBatch": "batch-007"
-    },
-    {
-      "id": "clm-318",
-      "subjectId": "atlas_batch007_rapa_nui",
-      "claim": "The history of Rapa Nui includes the enduring cultural life of its people as well as severe disruption from colonial intrusion, disease and enslavement.",
-      "sourceIds": [
-        "src-2024",
-        "src-2023"
-      ],
-      "claimType": "historical-or-conceptual",
-      "reviewStatus": "editorial-review-pending",
-      "researchedOn": "2026-11-28",
-      "researchBatch": "batch-007"
-    },
-    {
-      "id": "clm-319",
-      "subjectId": "atlas_batch007_taputapuatea",
-      "claim": "Taputapuātea is a marae complex that expresses social, religious and ancestral relationships within the wider Polynesian world.",
-      "sourceIds": [
-        "src-2023",
-        "src-2025"
-      ],
-      "claimType": "historical-or-conceptual",
-      "reviewStatus": "editorial-review-pending",
-      "researchedOn": "2026-11-28",
-      "researchBatch": "batch-007"
-    },
-    {
-      "id": "clm-320",
-      "subjectId": "atlas_batch007_taputapuatea",
-      "claim": "The site's cultural significance includes voyaging knowledge and living connections among communities across the Pacific.",
-      "sourceIds": [
-        "src-2023",
-        "src-2025"
-      ],
-      "claimType": "historical-or-conceptual",
-      "reviewStatus": "editorial-review-pending",
-      "researchedOn": "2026-11-28",
-      "researchBatch": "batch-007"
-    },
-    {
-      "id": "clm-321",
-      "subjectId": "atlas_batch007_maritime_sea_trade",
-      "claim": "Sea routes through the Strait of Malacca and South China Sea linked Southeast Asian ports with wider Indian Ocean and East Asian commercial systems.",
-      "sourceIds": [
-        "src-2011",
-        "src-2019"
-      ],
-      "claimType": "historical-or-conceptual",
-      "reviewStatus": "editorial-review-pending",
-      "researchedOn": "2026-11-28",
-      "researchBatch": "batch-007"
-    },
-    {
-      "id": "clm-322",
-      "subjectId": "atlas_batch007_maritime_sea_trade",
-      "claim": "Monsoon patterns shaped the timing and direction of maritime travel, while ports and political relationships changed the structure of exchange over time.",
-      "sourceIds": [
-        "src-2011",
-        "src-2019"
-      ],
-      "claimType": "historical-or-conceptual",
-      "reviewStatus": "editorial-review-pending",
-      "researchedOn": "2026-11-28",
-      "researchBatch": "batch-007"
-    },
-    {
-      "id": "clm-323",
-      "subjectId": "atlas_batch007_maori_settlement",
-      "claim": "Current historical and archaeological scholarship places the settlement of Aotearoa by Polynesian ancestors in the late thirteenth century, while exact dates and routes remain debated.",
-      "sourceIds": [
-        "src-2025",
-        "src-2026"
-      ],
-      "claimType": "historical-or-conceptual",
-      "reviewStatus": "editorial-review-pending",
-      "researchedOn": "2026-11-28",
-      "researchBatch": "batch-007"
-    },
-    {
-      "id": "clm-324",
-      "subjectId": "atlas_batch007_maori_settlement",
-      "claim": "Māori histories are informed by oral traditions, archaeology, language and environmental evidence, and should not be reduced to a single written account.",
-      "sourceIds": [
-        "src-2025",
-        "src-2026"
       ],
       "claimType": "historical-or-conceptual",
       "reviewStatus": "editorial-review-pending",
