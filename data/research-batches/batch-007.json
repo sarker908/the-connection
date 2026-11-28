@@ -158,7 +158,7 @@
   ],
   "sources": [
     {
-      "id": "src-2001",
+      "id": "src-b007-01",
       "title": "A Brief History of the Internet",
       "publisher": "Internet Society",
       "url": "https://www.internetsociety.org/internet/history-internet/brief-history-internet/",
@@ -171,7 +171,7 @@
       "sourceClass": "institutional"
     },
     {
-      "id": "src-2002",
+      "id": "src-b007-02",
       "title": "Internet History",
       "publisher": "Internet Hall of Fame",
       "url": "https://www.internethalloffame.org/internet-history/",
@@ -184,7 +184,7 @@
       "sourceClass": "institutional"
     },
     {
-      "id": "src-2003",
+      "id": "src-b007-03",
       "title": "The Birth of the Web",
       "publisher": "CERN",
       "url": "https://home.cern/science/computing/birth-web",
@@ -197,7 +197,7 @@
       "sourceClass": "institutional"
     },
     {
-      "id": "src-2004",
+      "id": "src-b007-04",
       "title": "The World Wide Web and its History",
       "publisher": "World Wide Web Consortium",
       "url": "https://www.w3.org/History.html",
@@ -210,7 +210,7 @@
       "sourceClass": "institutional"
     },
     {
-      "id": "src-2005",
+      "id": "src-b007-05",
       "title": "RFC 791: Internet Protocol",
       "publisher": "RFC Editor",
       "url": "https://www.rfc-editor.org/rfc/rfc791",
@@ -223,7 +223,7 @@
       "sourceClass": "institutional"
     },
     {
-      "id": "src-2006",
+      "id": "src-b007-06",
       "title": "RFC 9293: Transmission Control Protocol",
       "publisher": "RFC Editor",
       "url": "https://www.rfc-editor.org/rfc/rfc9293",
@@ -236,7 +236,7 @@
       "sourceClass": "institutional"
     },
     {
-      "id": "src-2007",
+      "id": "src-b007-07",
       "title": "Artificial Intelligence Risk Management Framework (AI RMF 1.0)",
       "publisher": "National Institute of Standards and Technology",
       "url": "https://www.nist.gov/itl/ai-risk-management-framework",
@@ -249,7 +249,7 @@
       "sourceClass": "institutional"
     },
     {
-      "id": "src-2008",
+      "id": "src-b007-08",
       "title": "OECD AI Principles",
       "publisher": "Organisation for Economic Co-operation and Development",
       "url": "https://oecd.ai/en/ai-principles",
@@ -262,7 +262,7 @@
       "sourceClass": "institutional"
     },
     {
-      "id": "src-2009",
+      "id": "src-b007-09",
       "title": "Semiconductor Manufacturing",
       "publisher": "National Institute of Standards and Technology",
       "url": "https://www.nist.gov/semiconductors",
@@ -275,7 +275,7 @@
       "sourceClass": "institutional"
     },
     {
-      "id": "src-2010",
+      "id": "src-b007-10",
       "title": "The Nobel Prize in Physics 1956: Transistor",
       "publisher": "Nobel Prize",
       "url": "https://www.nobelprize.org/prizes/physics/1956/summary/",
@@ -288,7 +288,7 @@
       "sourceClass": "institutional"
     },
     {
-      "id": "src-2011",
+      "id": "src-b007-11",
       "title": "Climate Change: Evidence",
       "publisher": "NASA Science",
       "url": "https://science.nasa.gov/climate-change/evidence/",
@@ -301,7 +301,7 @@
       "sourceClass": "institutional"
     },
     {
-      "id": "src-2012",
+      "id": "src-b007-12",
       "title": "Climate Change 2023: Synthesis Report",
       "publisher": "Intergovernmental Panel on Climate Change",
       "url": "https://www.ipcc.ch/report/ar6/syr/",
@@ -314,7 +314,7 @@
       "sourceClass": "institutional"
     },
     {
-      "id": "src-2013",
+      "id": "src-b007-13",
       "title": "The State of Food and Agriculture",
       "publisher": "Food and Agriculture Organization of the United Nations",
       "url": "https://www.fao.org/publications/sofa/en/",
@@ -327,7 +327,7 @@
       "sourceClass": "institutional"
     },
     {
-      "id": "src-2014",
+      "id": "src-b007-14",
       "title": "The State of the World's Land and Water Resources for Food and Agriculture",
       "publisher": "Food and Agriculture Organization of the United Nations",
       "url": "https://www.fao.org/land-water/solaw2021/en/",
@@ -340,7 +340,7 @@
       "sourceClass": "institutional"
     },
     {
-      "id": "src-2015",
+      "id": "src-b007-15",
       "title": "Evolution Resources",
       "publisher": "National Academy of Sciences",
       "url": "https://www.nationalacademies.org/evolution",
@@ -353,7 +353,7 @@
       "sourceClass": "institutional"
     },
     {
-      "id": "src-2016",
+      "id": "src-b007-16",
       "title": "Understanding Evolution",
       "publisher": "University of California Museum of Paleontology",
       "url": "https://evolution.berkeley.edu/",
@@ -366,7 +366,7 @@
       "sourceClass": "academic"
     },
     {
-      "id": "src-2017",
+      "id": "src-b007-17",
       "title": "Deoxyribonucleic Acid (DNA) Fact Sheet",
       "publisher": "National Human Genome Research Institute",
       "url": "https://www.genome.gov/about-genomics/fact-sheets/Deoxyribonucleic-Acid-Fact-Sheet",
@@ -379,7 +379,7 @@
       "sourceClass": "institutional"
     },
     {
-      "id": "src-2018",
+      "id": "src-b007-18",
       "title": "DNA, Genes and Genomes",
       "publisher": "European Bioinformatics Institute",
       "url": "https://www.ebi.ac.uk/training/online/courses/your-genome/",
@@ -392,7 +392,7 @@
       "sourceClass": "academic"
     },
     {
-      "id": "src-2019",
+      "id": "src-b007-19",
       "title": "The Origins of Writing",
       "publisher": "The British Museum",
       "url": "https://www.britishmuseum.org/blog/origins-writing",
@@ -405,7 +405,7 @@
       "sourceClass": "institutional"
     },
     {
-      "id": "src-2020",
+      "id": "src-b007-20",
       "title": "Cuneiform",
       "publisher": "The Metropolitan Museum of Art",
       "url": "https://www.metmuseum.org/essays/cuneiform",
@@ -418,7 +418,7 @@
       "sourceClass": "institutional"
     },
     {
-      "id": "src-2021",
+      "id": "src-b007-21",
       "title": "The Invention of Paper",
       "publisher": "The Library of Congress",
       "url": "https://www.loc.gov/exhibits/world/world-record.html",
@@ -431,7 +431,7 @@
       "sourceClass": "institutional"
     },
     {
-      "id": "src-2022",
+      "id": "src-b007-22",
       "title": "Paper",
       "publisher": "The Metropolitan Museum of Art",
       "url": "https://www.metmuseum.org/toah/hd/papr/hd_papr.htm",
@@ -450,8 +450,8 @@
       "subjectId": "internet",
       "claim": "The Internet is a network of interconnected networks that use common protocol suites to exchange data; it is not synonymous with the World Wide Web.",
       "sourceIds": [
-        "src-2001",
-        "src-2002"
+        "src-b007-01",
+        "src-b007-02"
       ],
       "claimType": "historical-or-conceptual",
       "reviewStatus": "editorial-review-pending",
@@ -463,8 +463,8 @@
       "subjectId": "internet",
       "claim": "The Internet developed through research and operational networks over several decades, with packet switching and the adoption of TCP/IP among its important foundations.",
       "sourceIds": [
-        "src-2001",
-        "src-2002"
+        "src-b007-01",
+        "src-b007-02"
       ],
       "claimType": "historical-or-conceptual",
       "reviewStatus": "editorial-review-pending",
@@ -476,8 +476,8 @@
       "subjectId": "www",
       "claim": "Tim Berners-Lee proposed the World Wide Web at CERN in 1989; its early implementation combined hypertext with network protocols and browser-server software.",
       "sourceIds": [
-        "src-2003",
-        "src-2004"
+        "src-b007-03",
+        "src-b007-04"
       ],
       "claimType": "historical-or-conceptual",
       "reviewStatus": "editorial-review-pending",
@@ -489,8 +489,8 @@
       "subjectId": "www",
       "claim": "The Web is an application and information system that operates over the Internet, rather than another name for the underlying global network.",
       "sourceIds": [
-        "src-2003",
-        "src-2004"
+        "src-b007-03",
+        "src-b007-04"
       ],
       "claimType": "historical-or-conceptual",
       "reviewStatus": "editorial-review-pending",
@@ -502,8 +502,8 @@
       "subjectId": "internetprotocol",
       "claim": "Internet Protocol provides logical addressing and forwarding of datagrams between networks; it does not by itself guarantee reliable delivery.",
       "sourceIds": [
-        "src-2005",
-        "src-2006"
+        "src-b007-05",
+        "src-b007-06"
       ],
       "claimType": "technical-conceptual",
       "reviewStatus": "editorial-review-pending",
@@ -515,8 +515,8 @@
       "subjectId": "internetprotocol",
       "claim": "TCP provides a reliable, ordered byte-stream service, while IP handles packet addressing and routing across interconnected networks.",
       "sourceIds": [
-        "src-2005",
-        "src-2006"
+        "src-b007-05",
+        "src-b007-06"
       ],
       "claimType": "technical-conceptual",
       "reviewStatus": "editorial-review-pending",
@@ -528,8 +528,8 @@
       "subjectId": "ai",
       "claim": "The NIST AI Risk Management Framework organises risk-management guidance around governing, mapping, measuring and managing AI-related risks.",
       "sourceIds": [
-        "src-2007",
-        "src-2008"
+        "src-b007-07",
+        "src-b007-08"
       ],
       "claimType": "technical-conceptual",
       "reviewStatus": "editorial-review-pending",
@@ -541,8 +541,8 @@
       "subjectId": "ai",
       "claim": "Responsible AI principles commonly address human rights, transparency, robustness, accountability and human-centred values, though frameworks differ in scope and legal force.",
       "sourceIds": [
-        "src-2007",
-        "src-2008"
+        "src-b007-07",
+        "src-b007-08"
       ],
       "claimType": "historical-or-conceptual",
       "reviewStatus": "editorial-review-pending",
@@ -554,8 +554,8 @@
       "subjectId": "semiconductor",
       "claim": "Semiconductor materials have electrical properties that can be controlled, making them foundational to transistors, integrated circuits and modern electronic systems.",
       "sourceIds": [
-        "src-2009",
-        "src-2010"
+        "src-b007-09",
+        "src-b007-10"
       ],
       "claimType": "technical-conceptual",
       "reviewStatus": "editorial-review-pending",
@@ -567,8 +567,8 @@
       "subjectId": "semiconductor",
       "claim": "The transistor effect was demonstrated in 1947 at Bell Laboratories, helping initiate the development of modern solid-state electronics.",
       "sourceIds": [
-        "src-2009",
-        "src-2010"
+        "src-b007-09",
+        "src-b007-10"
       ],
       "claimType": "historical-or-conceptual",
       "reviewStatus": "editorial-review-pending",
@@ -580,8 +580,8 @@
       "subjectId": "climate",
       "claim": "Multiple independent lines of evidence, including instrumental records, ocean heat measurements, ice loss and observed ecological changes, show that Earth's climate is warming.",
       "sourceIds": [
-        "src-2011",
-        "src-2012"
+        "src-b007-11",
+        "src-b007-12"
       ],
       "claimType": "scientific-conceptual",
       "reviewStatus": "editorial-review-pending",
@@ -593,8 +593,8 @@
       "subjectId": "climate",
       "claim": "The IPCC assesses climate science, impacts, adaptation and mitigation by synthesising published research; its assessment reports distinguish evidence strength and uncertainty.",
       "sourceIds": [
-        "src-2011",
-        "src-2012"
+        "src-b007-11",
+        "src-b007-12"
       ],
       "claimType": "scientific-conceptual",
       "reviewStatus": "editorial-review-pending",
@@ -606,8 +606,8 @@
       "subjectId": "agriculture",
       "claim": "Agricultural production depends on interacting factors that include soil condition, water availability, climate, biodiversity, infrastructure and management choices.",
       "sourceIds": [
-        "src-2013",
-        "src-2014"
+        "src-b007-13",
+        "src-b007-14"
       ],
       "claimType": "scientific-conceptual",
       "reviewStatus": "editorial-review-pending",
@@ -619,8 +619,8 @@
       "subjectId": "agriculture",
       "claim": "Land degradation and unsustainable water use can undermine food production, while land and water management can improve resilience when adapted to local conditions.",
       "sourceIds": [
-        "src-2013",
-        "src-2014"
+        "src-b007-13",
+        "src-b007-14"
       ],
       "claimType": "scientific-conceptual",
       "reviewStatus": "editorial-review-pending",
@@ -632,8 +632,8 @@
       "subjectId": "evolution",
       "claim": "Evolution describes changes in heritable characteristics of populations across generations; natural selection is one mechanism, alongside mutation, gene flow and genetic drift.",
       "sourceIds": [
-        "src-2015",
-        "src-2016"
+        "src-b007-15",
+        "src-b007-16"
       ],
       "claimType": "scientific-conceptual",
       "reviewStatus": "editorial-review-pending",
@@ -645,8 +645,8 @@
       "subjectId": "evolution",
       "claim": "Evidence for evolution comes from multiple fields, including fossils, comparative anatomy, biogeography, observed evolutionary change and molecular genetics.",
       "sourceIds": [
-        "src-2015",
-        "src-2016"
+        "src-b007-15",
+        "src-b007-16"
       ],
       "claimType": "scientific-conceptual",
       "reviewStatus": "editorial-review-pending",
@@ -658,8 +658,8 @@
       "subjectId": "dna",
       "claim": "DNA stores hereditary information in a sequence of nucleotide bases, with complementary base pairing supporting replication and many forms of molecular information processing.",
       "sourceIds": [
-        "src-2017",
-        "src-2018"
+        "src-b007-17",
+        "src-b007-18"
       ],
       "claimType": "scientific-conceptual",
       "reviewStatus": "editorial-review-pending",
@@ -671,8 +671,8 @@
       "subjectId": "dna",
       "claim": "Genes are regions of DNA that contribute to functional products, but not all DNA is protein-coding and gene regulation is essential to biological function.",
       "sourceIds": [
-        "src-2017",
-        "src-2018"
+        "src-b007-17",
+        "src-b007-18"
       ],
       "claimType": "scientific-conceptual",
       "reviewStatus": "editorial-review-pending",
@@ -684,8 +684,8 @@
       "subjectId": "writing",
       "claim": "Some of the earliest known writing systems emerged in ancient Mesopotamia near the end of the fourth millennium BCE, in contexts that included administration and accounting.",
       "sourceIds": [
-        "src-2019",
-        "src-2020"
+        "src-b007-19",
+        "src-b007-20"
       ],
       "claimType": "historical-or-conceptual",
       "reviewStatus": "editorial-review-pending",
@@ -697,8 +697,8 @@
       "subjectId": "writing",
       "claim": "Writing developed in more than one region of the world; the histories of scripts should not be reduced to a single universal invention story.",
       "sourceIds": [
-        "src-2019",
-        "src-2020"
+        "src-b007-19",
+        "src-b007-20"
       ],
       "claimType": "historical-or-conceptual",
       "reviewStatus": "editorial-review-pending",
@@ -710,8 +710,8 @@
       "subjectId": "paper",
       "claim": "Paper-making developed in China in the early centuries CE and spread across regions through changing networks of craft knowledge, trade and political contact.",
       "sourceIds": [
-        "src-2021",
-        "src-2022"
+        "src-b007-21",
+        "src-b007-22"
       ],
       "claimType": "historical-or-conceptual",
       "reviewStatus": "editorial-review-pending",
@@ -723,8 +723,8 @@
       "subjectId": "paper",
       "claim": "Paper's comparatively light and adaptable surface helped support the growth of administration, scholarship, book production and later print cultures across many societies.",
       "sourceIds": [
-        "src-2021",
-        "src-2022"
+        "src-b007-21",
+        "src-b007-22"
       ],
       "claimType": "historical-or-conceptual",
       "reviewStatus": "editorial-review-pending",

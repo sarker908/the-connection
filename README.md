@@ -4,8 +4,8 @@
 
 ## Current collection
 
-- **2324 subjects** across **500 collections**
-- **1759 relationships** connecting subjects across disciplines
+- **2306 subjects** across **500 collections**
+- **1723 relationships** connecting subjects across disciplines
 - **132 historical milestones**
 - **81 biographical profiles**
 - **1435 unique source records** in the structured source register

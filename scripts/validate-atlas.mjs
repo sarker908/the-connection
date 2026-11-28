@@ -38,7 +38,7 @@ const badSources = allSources.filter((source) => !source.id || !source.title || 
 if (badSources.length) failures.push(`Incomplete or invalid source records: ${badSources.length}`);
 
 const sourceUrls = allSources.map((source) => source.url).filter(Boolean);
-if (duplicates(sourceUrls).length) failures.push(`Duplicate source URLs: ${duplicates(sourceUrls).length}`);
+if (duplicates(sourceUrls).length) { const repeated = [...new Set(duplicates(sourceUrls))]; failures.push(`Duplicate source URLs: ${repeated.length}; records: ${JSON.stringify(allSources.filter((source) => repeated.includes(source.url)).map(({id,title,url}) => ({id,title,url})))}`); }
 
 const badHistory = (history.events || []).filter((event) => !event.title || !event.date || typeof event.sort !== "number" || (event.url && !/^https?:\/\//i.test(event.url)));
 if (badHistory.length) failures.push(`Incomplete or invalid historical events: ${badHistory.length}`);
