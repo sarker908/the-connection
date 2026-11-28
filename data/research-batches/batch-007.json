@@ -159,9 +159,9 @@
   "sources": [
     {
       "id": "src-b007-01",
-      "title": "A Brief History of the Internet",
-      "publisher": "Internet Society",
-      "url": "https://www.internetsociety.org/internet/history-internet/brief-history-internet/",
+      "title": "RFC 1000: Request for Comments Reference Guide",
+      "publisher": "RFC Editor",
+      "url": "https://www.rfc-editor.org/rfc/rfc1000",
       "roles": [
         "Research reference and further reading"
       ],
@@ -237,9 +237,9 @@
     },
     {
       "id": "src-b007-07",
-      "title": "Artificial Intelligence Risk Management Framework (AI RMF 1.0)",
+      "title": "AI RMF Playbook",
       "publisher": "National Institute of Standards and Technology",
-      "url": "https://www.nist.gov/itl/ai-risk-management-framework",
+      "url": "https://airc.nist.gov/AI_RMF_Knowledge_Base/Playbook",
       "roles": [
         "Research reference and further reading"
       ],
@@ -289,9 +289,9 @@
     },
     {
       "id": "src-b007-11",
-      "title": "Climate Change: Evidence",
-      "publisher": "NASA Science",
-      "url": "https://science.nasa.gov/climate-change/evidence/",
+      "title": "Climate Change: Global Temperature",
+      "publisher": "NOAA Climate.gov",
+      "url": "https://www.climate.gov/news-features/understanding-climate/climate-change-global-temperature",
       "roles": [
         "Research reference and further reading"
       ],
@@ -367,9 +367,9 @@
     },
     {
       "id": "src-b007-17",
-      "title": "Deoxyribonucleic Acid (DNA) Fact Sheet",
+      "title": "Deoxyribonucleic Acid (DNA)",
       "publisher": "National Human Genome Research Institute",
-      "url": "https://www.genome.gov/about-genomics/fact-sheets/Deoxyribonucleic-Acid-Fact-Sheet",
+      "url": "https://www.genome.gov/genetics-glossary/Deoxyribonucleic-Acid",
       "roles": [
         "Research reference and further reading"
       ],
